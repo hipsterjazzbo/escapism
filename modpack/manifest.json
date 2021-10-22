@@ -419,6 +419,14 @@
       }
     },
     {
+      "projectID": 316582,
+      "fileID": 3447907,
+      "required": true,
+      "__meta": {
+        "name": "Corpse"
+      }
+    },
+    {
       "projectID": 324717,
       "fileID": 3467445,
       "required": true,
