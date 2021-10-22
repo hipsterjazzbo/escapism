@@ -1,0 +1,5 @@
+
+[client]
+	#If true, displays mod tooltips with perks. True by default.
+	showTooltips = true
+
