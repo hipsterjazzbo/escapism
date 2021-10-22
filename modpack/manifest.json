@@ -111,7 +111,7 @@
     },
     {
       "projectID": 238086,
-      "fileID": 3481251,
+      "fileID": 3498936,
       "required": true,
       "__meta": {
         "name": "KubeJS (Forge)",
@@ -840,6 +840,14 @@
       }
     },
     {
+      "projectID": 428877,
+      "fileID": 3467948,
+      "required": true,
+      "__meta": {
+        "name": "BetterEnd (Forge)"
+      }
+    },
+    {
       "projectID": 429235,
       "fileID": 3485636,
       "required": true,
@@ -1374,14 +1382,6 @@
         "dependencies": [
           421850
         ]
-      }
-    },
-    {
-      "projectID": 537247,
-      "fileID": 3498575,
-      "required": true,
-      "__meta": {
-        "name": "BetterEnd Reforked"
       }
     },
     {
