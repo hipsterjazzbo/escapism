@@ -51,6 +51,14 @@
       }
     },
     {
+      "projectID": 222789,
+      "fileID": 3039955,
+      "required": true,
+      "__meta": {
+        "name": "Sound Filters"
+      }
+    },
+    {
       "projectID": 223852,
       "fileID": 3402515,
       "required": true,
@@ -127,6 +135,14 @@
       "required": true,
       "__meta": {
         "name": "Just Enough Items (JEI)"
+      }
+    },
+    {
+      "projectID": 238891,
+      "fileID": 3288746,
+      "required": true,
+      "__meta": {
+        "name": "Dynamic Surroundings"
       }
     },
     {
@@ -424,6 +440,14 @@
       "required": true,
       "__meta": {
         "name": "Curios API (Forge)"
+      }
+    },
+    {
+      "projectID": 312039,
+      "fileID": 3445621,
+      "required": true,
+      "__meta": {
+        "name": "Puddles"
       }
     },
     {
@@ -909,17 +933,6 @@
       "required": true,
       "__meta": {
         "name": "Charm Reforged"
-      }
-    },
-    {
-      "projectID": 431587,
-      "fileID": 3214653,
-      "required": true,
-      "__meta": {
-        "name": "Charmonium Reforged",
-        "dependencies": [
-          430988
-        ]
       }
     },
     {
