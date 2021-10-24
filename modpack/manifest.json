@@ -131,7 +131,7 @@
     },
     {
       "projectID": 238222,
-      "fileID": 3488178,
+      "fileID": 3502687,
       "required": true,
       "__meta": {
         "name": "Just Enough Items (JEI)"
@@ -139,7 +139,7 @@
     },
     {
       "projectID": 238891,
-      "fileID": 3288746,
+      "fileID": 3502320,
       "required": true,
       "__meta": {
         "name": "Dynamic Surroundings"
@@ -247,7 +247,7 @@
     },
     {
       "projectID": 250398,
-      "fileID": 3480210,
+      "fileID": 3501319,
       "required": true,
       "__meta": {
         "name": "Controlling"
@@ -468,7 +468,7 @@
     },
     {
       "projectID": 328085,
-      "fileID": 3419412,
+      "fileID": 3499718,
       "required": true,
       "__meta": {
         "name": "Create",
@@ -677,7 +677,7 @@
     },
     {
       "projectID": 388172,
-      "fileID": 3495875,
+      "fileID": 3502622,
       "required": true,
       "__meta": {
         "name": "GeckoLib"
@@ -863,7 +863,7 @@
     },
     {
       "projectID": 419699,
-      "fileID": 3462013,
+      "fileID": 3500014,
       "required": true,
       "__meta": {
         "name": "Architectury API (Forge)"
@@ -961,7 +961,7 @@
     },
     {
       "projectID": 439890,
-      "fileID": 3476770,
+      "fileID": 3501455,
       "required": true,
       "__meta": {
         "name": "Create Crafts & Additions",
@@ -1013,7 +1013,7 @@
     },
     {
       "projectID": 445274,
-      "fileID": 3470411,
+      "fileID": 3502102,
       "required": true,
       "__meta": {
         "name": "Relics",
@@ -1173,7 +1173,7 @@
     },
     {
       "projectID": 475145,
-      "fileID": 3292474,
+      "fileID": 3502028,
       "required": true,
       "__meta": {
         "name": "TiCBC - Tinkers Better Compat",
@@ -1467,7 +1467,7 @@
     },
     {
       "projectID": 537821,
-      "fileID": 3498473,
+      "fileID": 3502383,
       "required": true,
       "__meta": {
         "name": "FTB Power Pots (Forge)"
