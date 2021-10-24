@@ -1277,6 +1277,14 @@
       }
     },
     {
+      "projectID": 500434,
+      "fileID": 3426154,
+      "required": true,
+      "__meta": {
+        "name": "Wandering Bag"
+      }
+    },
+    {
       "projectID": 504908,
       "fileID": 3398020,
       "required": true,
