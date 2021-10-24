@@ -340,6 +340,14 @@
       }
     },
     {
+      "projectID": 277616,
+      "fileID": 3420107,
+      "required": true,
+      "__meta": {
+        "name": "Spice of Life: Carrot Edition"
+      }
+    },
+    {
       "projectID": 280294,
       "fileID": 3419933,
       "required": true,
@@ -619,6 +627,15 @@
       }
     },
     {
+      "projectID": 382216,
+      "fileID": 3457851,
+      "required": true,
+      "__meta": {
+        "name": "Abnormals Core",
+        "explicit": false
+      }
+    },
+    {
       "projectID": 387040,
       "fileID": 3430026,
       "required": true,
@@ -686,6 +703,14 @@
       "required": true,
       "__meta": {
         "name": "Save Your Pets"
+      }
+    },
+    {
+      "projectID": 398521,
+      "fileID": 3491509,
+      "required": true,
+      "__meta": {
+        "name": "Farmer's Delight"
       }
     },
     {
@@ -1012,6 +1037,17 @@
       }
     },
     {
+      "projectID": 455519,
+      "fileID": 3439904,
+      "required": true,
+      "__meta": {
+        "name": "Farmer's Delight Compats",
+        "dependencies": [
+          398521
+        ]
+      }
+    },
+    {
       "projectID": 457570,
       "fileID": 3434071,
       "required": true,
@@ -1153,6 +1189,18 @@
       }
     },
     {
+      "projectID": 485539,
+      "fileID": 3397040,
+      "required": true,
+      "__meta": {
+        "name": "Copper Pot! (A Farmer's Delight Add-on)",
+        "dependencies": [
+          398521,
+          382216
+        ]
+      }
+    },
+    {
       "projectID": 486392,
       "fileID": 3459739,
       "required": true,
@@ -1193,6 +1241,18 @@
       "required": true,
       "__meta": {
         "name": "Farsight"
+      }
+    },
+    {
+      "projectID": 496394,
+      "fileID": 3443481,
+      "required": true,
+      "__meta": {
+        "name": "Nether's Delight",
+        "dependencies": [
+          398521,
+          382216
+        ]
       }
     },
     {
