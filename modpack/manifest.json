@@ -731,7 +731,7 @@
     },
     {
       "projectID": 398521,
-      "fileID": 3491509,
+      "fileID": 3503844,
       "required": true,
       "__meta": {
         "name": "Farmer's Delight"
@@ -1173,7 +1173,7 @@
     },
     {
       "projectID": 475145,
-      "fileID": 3502028,
+      "fileID": 3503967,
       "required": true,
       "__meta": {
         "name": "TiCBC - Tinkers Better Compat",
@@ -1297,7 +1297,7 @@
     },
     {
       "projectID": 509285,
-      "fileID": 3479537,
+      "fileID": 3503936,
       "required": true,
       "__meta": {
         "name": "Create: Deco",
@@ -1335,7 +1335,7 @@
     },
     {
       "projectID": 511733,
-      "fileID": 3481565,
+      "fileID": 3504082,
       "required": true,
       "__meta": {
         "name": "Clickable advancements"
