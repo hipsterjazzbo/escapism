@@ -11,7 +11,7 @@
   "manifestType": "minecraftModpack",
   "overrides": "overrides",
   "manifestVersion": 1,
-  "version": "0.0.8",
+  "version": "0.0.11",
   "author": "",
   "name": "Escapism",
   "files": [
@@ -37,9 +37,7 @@
       "required": true,
       "__meta": {
         "name": "Tinkers Construct",
-        "dependencies": [
-          74924
-        ]
+        "dependencies": [74924]
       }
     },
     {
@@ -96,9 +94,7 @@
       "required": true,
       "__meta": {
         "name": "Chisel",
-        "dependencies": [
-          267602
-        ]
+        "dependencies": [267602]
       }
     },
     {
@@ -123,10 +119,7 @@
       "required": true,
       "__meta": {
         "name": "KubeJS (Forge)",
-        "dependencies": [
-          416294,
-          419699
-        ]
+        "dependencies": [416294, 419699]
       }
     },
     {
@@ -151,9 +144,7 @@
       "required": true,
       "__meta": {
         "name": "Just Enough Resources (JER)",
-        "dependencies": [
-          238222
-        ]
+        "dependencies": [238222]
       }
     },
     {
@@ -178,9 +169,7 @@
       "required": true,
       "__meta": {
         "name": "Quark",
-        "dependencies": [
-          250363
-        ]
+        "dependencies": [250363]
       }
     },
     {
@@ -197,9 +186,7 @@
       "required": true,
       "__meta": {
         "name": "Advanced Hook Launchers",
-        "dependencies": [
-          244844
-        ]
+        "dependencies": [244844]
       }
     },
     {
@@ -208,9 +195,7 @@
       "required": true,
       "__meta": {
         "name": "Ender Storage 1.8.+",
-        "dependencies": [
-          242818
-        ]
+        "dependencies": [242818]
       }
     },
     {
@@ -259,9 +244,7 @@
       "required": true,
       "__meta": {
         "name": "Akashic Tome",
-        "dependencies": [
-          250363
-        ]
+        "dependencies": [250363]
       }
     },
     {
@@ -326,9 +309,7 @@
       "required": true,
       "__meta": {
         "name": "Toast Control",
-        "dependencies": [
-          283644
-        ]
+        "dependencies": [283644]
       }
     },
     {
@@ -401,10 +382,7 @@
       "required": true,
       "__meta": {
         "name": "Quark Oddities",
-        "dependencies": [
-          250363,
-          243121
-        ]
+        "dependencies": [250363, 243121]
       }
     },
     {
@@ -429,9 +407,7 @@
       "required": true,
       "__meta": {
         "name": "Bountiful (Forge)",
-        "dependencies": [
-          351264
-        ]
+        "dependencies": [351264]
       }
     },
     {
@@ -472,9 +448,7 @@
       "required": true,
       "__meta": {
         "name": "Create",
-        "dependencies": [
-          486392
-        ]
+        "dependencies": [486392]
       }
     },
     {
@@ -491,10 +465,7 @@
       "required": true,
       "__meta": {
         "name": "Enigmatic Legacy",
-        "dependencies": [
-          306770,
-          309927
-        ]
+        "dependencies": [306770, 309927]
       }
     },
     {
@@ -519,9 +490,7 @@
       "required": true,
       "__meta": {
         "name": "Healing Campfire (Forge)",
-        "dependencies": [
-          342584
-        ]
+        "dependencies": [342584]
       }
     },
     {
@@ -530,9 +499,7 @@
       "required": true,
       "__meta": {
         "name": "Valhelsia Structures",
-        "dependencies": [
-          416935
-        ]
+        "dependencies": [416935]
       }
     },
     {
@@ -557,9 +524,7 @@
       "required": true,
       "__meta": {
         "name": "Botany Pots",
-        "dependencies": [
-          228525
-        ]
+        "dependencies": [228525]
       }
     },
     {
@@ -648,9 +613,7 @@
       "required": true,
       "__meta": {
         "name": "Materialis",
-        "dependencies": [
-          74072
-        ]
+        "dependencies": [74072]
       }
     },
     {
@@ -708,9 +671,7 @@
       "required": true,
       "__meta": {
         "name": "YUNG's Better Mineshafts (Forge)",
-        "dependencies": [
-          421850
-        ]
+        "dependencies": [421850]
       }
     },
     {
@@ -719,9 +680,7 @@
       "required": true,
       "__meta": {
         "name": "Starter Kit (Forge)",
-        "dependencies": [
-          342584
-        ]
+        "dependencies": [342584]
       }
     },
     {
@@ -762,9 +721,7 @@
       "required": true,
       "__meta": {
         "name": "FTB Library (Forge)",
-        "dependencies": [
-          419699
-        ]
+        "dependencies": [419699]
       }
     },
     {
@@ -789,9 +746,7 @@
       "required": true,
       "__meta": {
         "name": "Botany Trees",
-        "dependencies": [
-          353928
-        ]
+        "dependencies": [353928]
       }
     },
     {
@@ -800,9 +755,7 @@
       "required": true,
       "__meta": {
         "name": "Supplementaries",
-        "dependencies": [
-          499980
-        ]
+        "dependencies": [499980]
       }
     },
     {
@@ -859,9 +812,7 @@
       "required": true,
       "__meta": {
         "name": "Caves & Cliffs Backport",
-        "dependencies": [
-          441706
-        ]
+        "dependencies": [441706]
       }
     },
     {
@@ -886,9 +837,7 @@
       "required": true,
       "__meta": {
         "name": "Alex's Mobs",
-        "dependencies": [
-          331936
-        ]
+        "dependencies": [331936]
       }
     },
     {
@@ -913,10 +862,7 @@
       "required": true,
       "__meta": {
         "name": "KubeJS Create",
-        "dependencies": [
-          238086,
-          328085
-        ]
+        "dependencies": [238086, 328085]
       }
     },
     {
@@ -925,9 +871,7 @@
       "required": true,
       "__meta": {
         "name": "Eidolon",
-        "dependencies": [
-          309927
-        ]
+        "dependencies": [309927]
       }
     },
     {
@@ -968,10 +912,7 @@
       "required": true,
       "__meta": {
         "name": "Create Crafts & Additions",
-        "dependencies": [
-          328085,
-          486392
-        ]
+        "dependencies": [328085, 486392]
       }
     },
     {
@@ -996,9 +937,7 @@
       "required": true,
       "__meta": {
         "name": "More Create Stuffs",
-        "dependencies": [
-          328085
-        ]
+        "dependencies": [328085]
       }
     },
     {
@@ -1007,11 +946,7 @@
       "required": true,
       "__meta": {
         "name": "Curios Quark Oddities Backpack",
-        "dependencies": [
-          301051,
-          243121,
-          309927
-        ]
+        "dependencies": [301051, 243121, 309927]
       }
     },
     {
@@ -1020,9 +955,7 @@
       "required": true,
       "__meta": {
         "name": "Relics",
-        "dependencies": [
-          309927
-        ]
+        "dependencies": [309927]
       }
     },
     {
@@ -1039,9 +972,7 @@
       "required": true,
       "__meta": {
         "name": "Untitled Duck Mod (Forge)",
-        "dependencies": [
-          388172
-        ]
+        "dependencies": [388172]
       }
     },
     {
@@ -1058,9 +989,7 @@
       "required": true,
       "__meta": {
         "name": "Farmer's Delight Compats",
-        "dependencies": [
-          398521
-        ]
+        "dependencies": [398521]
       }
     },
     {
@@ -1085,10 +1014,7 @@
       "required": true,
       "__meta": {
         "name": "Mini Utilities",
-        "dependencies": [
-          471136,
-          309927
-        ]
+        "dependencies": [471136, 309927]
       }
     },
     {
@@ -1113,9 +1039,7 @@
       "required": true,
       "__meta": {
         "name": "YUNG's Better Strongholds (Forge)",
-        "dependencies": [
-          421850
-        ]
+        "dependencies": [421850]
       }
     },
     {
@@ -1124,9 +1048,7 @@
       "required": true,
       "__meta": {
         "name": "Create Stuff Additions",
-        "dependencies": [
-          328085
-        ]
+        "dependencies": [328085]
       }
     },
     {
@@ -1167,11 +1089,7 @@
       "required": true,
       "__meta": {
         "name": "Origins (Forge)",
-        "dependencies": [
-          308989,
-          348521,
-          419699
-        ]
+        "dependencies": [308989, 348521, 419699]
       }
     },
     {
@@ -1188,9 +1106,7 @@
       "required": true,
       "__meta": {
         "name": "YUNG's Extras (Forge)",
-        "dependencies": [
-          421850
-        ]
+        "dependencies": [421850]
       }
     },
     {
@@ -1199,10 +1115,7 @@
       "required": true,
       "__meta": {
         "name": "Copper Pot! (A Farmer's Delight Add-on)",
-        "dependencies": [
-          398521,
-          382216
-        ]
+        "dependencies": [398521, 382216]
       }
     },
     {
@@ -1227,9 +1140,7 @@
       "required": true,
       "__meta": {
         "name": "Create Chunkloading",
-        "dependencies": [
-          328085
-        ]
+        "dependencies": [328085]
       }
     },
     {
@@ -1254,10 +1165,7 @@
       "required": true,
       "__meta": {
         "name": "Nether's Delight",
-        "dependencies": [
-          398521,
-          382216
-        ]
+        "dependencies": [398521, 382216]
       }
     },
     {
@@ -1282,9 +1190,7 @@
       "required": true,
       "__meta": {
         "name": "Traveler's Titles (Forge)",
-        "dependencies": [
-          421850
-        ]
+        "dependencies": [421850]
       }
     },
     {
@@ -1293,9 +1199,7 @@
       "required": true,
       "__meta": {
         "name": "Create: Deco",
-        "dependencies": [
-          328085
-        ]
+        "dependencies": [328085]
       }
     },
     {
@@ -1304,9 +1208,7 @@
       "required": true,
       "__meta": {
         "name": "YUNG's Better Dungeons (Forge)",
-        "dependencies": [
-          421850
-        ]
+        "dependencies": [421850]
       }
     },
     {
@@ -1355,9 +1257,7 @@
       "required": true,
       "__meta": {
         "name": "Tinker's Planner",
-        "dependencies": [
-          74072
-        ]
+        "dependencies": [74072]
       }
     },
     {
@@ -1382,10 +1282,7 @@
       "required": true,
       "__meta": {
         "name": "Cinderscapes Reforged",
-        "dependencies": [
-          525254,
-          522833
-        ]
+        "dependencies": [525254, 522833]
       }
     },
     {
@@ -1394,10 +1291,7 @@
       "required": true,
       "__meta": {
         "name": "Terrestria Reforged",
-        "dependencies": [
-          525254,
-          522833
-        ]
+        "dependencies": [525254, 522833]
       }
     },
     {
@@ -1422,9 +1316,7 @@
       "required": true,
       "__meta": {
         "name": "Create Confectionery",
-        "dependencies": [
-          328085
-        ]
+        "dependencies": [328085]
       }
     },
     {
@@ -1433,9 +1325,7 @@
       "required": true,
       "__meta": {
         "name": "Just Enough Effect Descriptions (JEED)",
-        "dependencies": [
-          238222
-        ]
+        "dependencies": [238222]
       }
     },
     {
@@ -1452,9 +1342,7 @@
       "required": true,
       "__meta": {
         "name": "YUNG's Bridges (Forge)",
-        "dependencies": [
-          421850
-        ]
+        "dependencies": [421850]
       }
     },
     {
