@@ -51,7 +51,7 @@
 	#Approx Ores per Chunk
 	veinCountCopper = 20
 	#Generate Cobalt
-	generateCobalt = false
+	generateCobalt = true
 	#Approx Ores per Chunk
 	veinCountCobalt = 8
 

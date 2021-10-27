@@ -2,18 +2,6 @@
 //#region ITEM TAGS
 onEvent("item.tags", (e) => {
   //#region constants
-  let alltheores = [
-    "aluminum",
-    "copper",
-    "lead",
-    "nickel",
-    "osmium",
-    "platinum",
-    "silver",
-    "tin",
-    "uranium",
-    "zinc",
-  ];
   let allthemodiumores = ["allthemodium", "vibranium", "unobtainium"];
   //#endregion
   //#region additions
@@ -227,19 +215,5 @@ onEvent("block.tags", (e) => {
   //#region removals
   e.removeAll("minecraft:enderman_holdable");
   //#endregion
-});
-//#endregion
-
-//#region FLUID TAGS
-onEvent("fluid.tags", (e) => {
-  let alltheores = ["copper", "lead", "platinum", "silver", "zinc"];
-
-  alltheores.forEach((material) => {
-    e.add(`forge:molten_${material}`, [
-      `alltheores:molten_${material}`,
-      `#tconstruct:molten_${material}`,
-    ]);
-    e.add(`tconstruct:metal_like`, `alltheores:molten_${material}`);
-  });
 });
 //#endregion

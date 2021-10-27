@@ -21,6 +21,7 @@ onEvent("jei.hide.items", (e) => {
     /supplementaries:bamboo_spikes_tipped/,
     "quark:ancient_tome",
     "tconstruct:copper_ingot",
+    "tconstruct:copper_ore",
     "tconstruct:molten_aluminum_bucket",
     "tconstruct:molten_copper_bucket",
     "tconstruct:molten_lead_bucket",
@@ -46,23 +47,14 @@ onEvent("jei.hide.items", (e) => {
     /tconstruct:part_builder/,
     /tconstruct:tinkers_anvil/,
     /tconstruct:scorched_anvil/,
-    "eidolon:lead_ore",
-    "eidolon:lead_ingot",
-    "eidolon:lead_block",
-    "eidolon:lead_nugget",
     /resourcefulbees:.*spawn_egg/,
-    "create:honey_bucket",
-    "createaddition:diamond_grit",
     /cavesandcliffs:raw_.*/,
   ]);
 
   //#region hideMetal
   hideMetal("create", "copper", ["ingot", "ore", "nugget", "block"]);
-  hideMetal("cavesandcliffs", "copper", ["ingot", "ore", "nugget", "block"]);
-  hideMetal("create", "zinc", ["ingot", "ore", "nugget", "block"]);
   //#endregion
 
   //#region hideStuff
-  hideStuff("create", "sheet", ["iron", "golden", "copper"]);
   //#endregion
 });

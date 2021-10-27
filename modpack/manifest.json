@@ -580,7 +580,7 @@
     },
     {
       "projectID": 357540,
-      "fileID": 3432418,
+      "fileID": 3505181,
       "required": true,
       "__meta": {
         "name": "Inventory HUD+"
@@ -640,6 +640,17 @@
       "required": true,
       "__meta": {
         "name": "Tool Stats"
+      }
+    },
+    {
+      "projectID": 377652,
+      "fileID": 3439969,
+      "required": true,
+      "__meta": {
+        "name": "Materialis",
+        "dependencies": [
+          74072
+        ]
       }
     },
     {
@@ -757,14 +768,6 @@
       }
     },
     {
-      "projectID": 405593,
-      "fileID": 3405905,
-      "required": true,
-      "__meta": {
-        "name": "ATO - All the Ores"
-      }
-    },
-    {
       "projectID": 407206,
       "fileID": 3092437,
       "required": true,
@@ -793,7 +796,7 @@
     },
     {
       "projectID": 412082,
-      "fileID": 3493463,
+      "fileID": 3505596,
       "required": true,
       "__meta": {
         "name": "Supplementaries",
@@ -1168,17 +1171,6 @@
           308989,
           348521,
           419699
-        ]
-      }
-    },
-    {
-      "projectID": 475145,
-      "fileID": 3503967,
-      "required": true,
-      "__meta": {
-        "name": "TiCBC - Tinkers Better Compat",
-        "dependencies": [
-          74072
         ]
       }
     },
