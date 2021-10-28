@@ -11,7 +11,7 @@
   "manifestType": "minecraftModpack",
   "overrides": "overrides",
   "manifestVersion": 1,
-  "version": "0.0.11",
+  "version": "0.0.12",
   "author": "",
   "name": "Escapism",
   "files": [
@@ -280,6 +280,14 @@
       }
     },
     {
+      "projectID": 261251,
+      "fileID": 3430455,
+      "required": true,
+      "__meta": {
+        "name": "Bad Wither No Cookie - Reloaded"
+      }
+    },
+    {
       "projectID": 267602,
       "fileID": 3137659,
       "required": true,
@@ -544,11 +552,29 @@
       }
     },
     {
+      "projectID": 357178,
+      "fileID": 3437402,
+      "required": true,
+      "__meta": {
+        "name": "MixinBootstrap",
+        "explicit": false
+      }
+    },
+    {
       "projectID": 357540,
       "fileID": 3505181,
       "required": true,
       "__meta": {
         "name": "Inventory HUD+"
+      }
+    },
+    {
+      "projectID": 358973,
+      "fileID": 3125001,
+      "required": true,
+      "__meta": {
+        "name": "Water Erosion",
+        "dependencies": [357178]
       }
     },
     {
@@ -716,6 +742,15 @@
       }
     },
     {
+      "projectID": 402924,
+      "fileID": 3274740,
+      "required": true,
+      "__meta": {
+        "name": "Chunk Loaders",
+        "dependencies": [438332]
+      }
+    },
+    {
       "projectID": 404465,
       "fileID": 3476854,
       "required": true,
@@ -730,6 +765,14 @@
       "required": true,
       "__meta": {
         "name": "Chat Heads"
+      }
+    },
+    {
+      "projectID": 407276,
+      "fileID": 3212501,
+      "required": true,
+      "__meta": {
+        "name": "Colds: Piggy Bank (FORGE)"
       }
     },
     {
@@ -904,6 +947,15 @@
       "required": true,
       "__meta": {
         "name": "Shift n Scroll on Mac (Forge Only)"
+      }
+    },
+    {
+      "projectID": 438332,
+      "fileID": 3413938,
+      "required": true,
+      "__meta": {
+        "name": "SuperMartijn642's Config Lib",
+        "explicit": false
       }
     },
     {
@@ -1334,6 +1386,15 @@
       "required": true,
       "__meta": {
         "name": "Tomes"
+      }
+    },
+    {
+      "projectID": 534610,
+      "fileID": 3507271,
+      "required": true,
+      "__meta": {
+        "name": "Create: Steam Powered",
+        "dependencies": [328085, 486392]
       }
     },
     {
