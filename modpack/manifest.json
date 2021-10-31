@@ -894,7 +894,7 @@
     },
     {
       "projectID": 416935,
-      "fileID": 3490931,
+      "fileID": 3508441,
       "required": true,
       "__meta": {
         "name": "Valhelsia Core"
@@ -1040,7 +1040,7 @@
     },
     {
       "projectID": 443900,
-      "fileID": 3491694,
+      "fileID": 3508084,
       "required": true,
       "__meta": {
         "name": "Pipez"
@@ -1072,7 +1072,7 @@
     },
     {
       "projectID": 445274,
-      "fileID": 3502102,
+      "fileID": 3507284,
       "required": true,
       "__meta": {
         "name": "Relics",
@@ -1399,7 +1399,7 @@
     },
     {
       "projectID": 519759,
-      "fileID": 3483032,
+      "fileID": 3508631,
       "required": true,
       "__meta": {
         "name": "Map Atlases [Forge]"
@@ -1458,7 +1458,7 @@
     },
     {
       "projectID": 526921,
-      "fileID": 3476091,
+      "fileID": 3509013,
       "required": true,
       "__meta": {
         "name": "BetterNether Reforged"
@@ -1504,7 +1504,7 @@
     },
     {
       "projectID": 534610,
-      "fileID": 3507271,
+      "fileID": 3509820,
       "required": true,
       "__meta": {
         "name": "Create: Steam Powered",
@@ -1527,7 +1527,7 @@
     },
     {
       "projectID": 537821,
-      "fileID": 3502383,
+      "fileID": 3507547,
       "required": true,
       "__meta": {
         "name": "FTB Power Pots (Forge)"
