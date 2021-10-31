@@ -631,6 +631,14 @@
       }
     },
     {
+      "projectID": 362528,
+      "fileID": 3166283,
+      "required": true,
+      "__meta": {
+        "name": "Decorative Blocks"
+      }
+    },
+    {
       "projectID": 363703,
       "fileID": 3343460,
       "required": true,
@@ -1082,6 +1090,17 @@
       }
     },
     {
+      "projectID": 447816,
+      "fileID": 3222746,
+      "required": true,
+      "__meta": {
+        "name": "Farmer's Delight Integration",
+        "dependencies": [
+          398521
+        ]
+      }
+    },
+    {
       "projectID": 450659,
       "fileID": 3462166,
       "required": true,
@@ -1117,6 +1136,14 @@
         "dependencies": [
           398521
         ]
+      }
+    },
+    {
+      "projectID": 456956,
+      "fileID": 3424808,
+      "required": true,
+      "__meta": {
+        "name": "Chipped"
       }
     },
     {
