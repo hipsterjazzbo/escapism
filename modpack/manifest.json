@@ -11,7 +11,7 @@
   "manifestType": "minecraftModpack",
   "overrides": "overrides",
   "manifestVersion": 1,
-  "version": "0.0.13",
+  "version": "0.0.14",
   "author": "",
   "name": "Escapism",
   "files": [
@@ -119,7 +119,7 @@
     },
     {
       "projectID": 238086,
-      "fileID": 3498936,
+      "fileID": 3516226,
       "required": true,
       "__meta": {
         "name": "KubeJS (Forge)",
@@ -131,7 +131,7 @@
     },
     {
       "projectID": 238222,
-      "fileID": 3502687,
+      "fileID": 3514175,
       "required": true,
       "__meta": {
         "name": "Just Enough Items (JEI)"
@@ -193,7 +193,7 @@
     },
     {
       "projectID": 244849,
-      "fileID": 3427053,
+      "fileID": 3514013,
       "required": true,
       "__meta": {
         "name": "Advanced Hook Launchers",
@@ -215,7 +215,7 @@
     },
     {
       "projectID": 245755,
-      "fileID": 3440017,
+      "fileID": 3515707,
       "required": true,
       "__meta": {
         "name": "Waystones"
@@ -231,7 +231,7 @@
     },
     {
       "projectID": 248787,
-      "fileID": 3395800,
+      "fileID": 3512372,
       "required": true,
       "__meta": {
         "name": "AppleSkin"
@@ -373,7 +373,7 @@
     },
     {
       "projectID": 280294,
-      "fileID": 3419933,
+      "fileID": 3510435,
       "required": true,
       "__meta": {
         "name": "FPS Reducer"
@@ -580,7 +580,7 @@
     },
     {
       "projectID": 354143,
-      "fileID": 3401152,
+      "fileID": 3517705,
       "required": true,
       "__meta": {
         "name": "Performant"
@@ -648,7 +648,7 @@
     },
     {
       "projectID": 364466,
-      "fileID": 3498557,
+      "fileID": 3513169,
       "required": true,
       "__meta": {
         "name": "Allthemodium"
@@ -660,14 +660,6 @@
       "required": true,
       "__meta": {
         "name": "Dynamic View"
-      }
-    },
-    {
-      "projectID": 373014,
-      "fileID": 3433766,
-      "required": true,
-      "__meta": {
-        "name": "Default World Type [Forge]"
       }
     },
     {
@@ -691,7 +683,7 @@
     },
     {
       "projectID": 381597,
-      "fileID": 3412118,
+      "fileID": 3517032,
       "required": true,
       "__meta": {
         "name": "Regrowth"
@@ -708,7 +700,7 @@
     },
     {
       "projectID": 387040,
-      "fileID": 3430026,
+      "fileID": 3511089,
       "required": true,
       "__meta": {
         "name": "Enchanted Weapons"
@@ -724,7 +716,7 @@
     },
     {
       "projectID": 388172,
-      "fileID": 3502622,
+      "fileID": 3515813,
       "required": true,
       "__meta": {
         "name": "GeckoLib"
@@ -732,7 +724,7 @@
     },
     {
       "projectID": 388800,
-      "fileID": 3353732,
+      "fileID": 3517818,
       "required": true,
       "__meta": {
         "name": "Polymorph (Forge)"
@@ -805,7 +797,7 @@
     },
     {
       "projectID": 404465,
-      "fileID": 3476854,
+      "fileID": 3514173,
       "required": true,
       "__meta": {
         "name": "FTB Library (Forge)",
@@ -851,7 +843,7 @@
     },
     {
       "projectID": 412082,
-      "fileID": 3505596,
+      "fileID": 3515584,
       "required": true,
       "__meta": {
         "name": "Supplementaries",
@@ -870,7 +862,7 @@
     },
     {
       "projectID": 414163,
-      "fileID": 3101087,
+      "fileID": 3516415,
       "required": true,
       "__meta": {
         "name": "Shulker Enchantments (Forge)"
@@ -886,7 +878,7 @@
     },
     {
       "projectID": 416294,
-      "fileID": 3493061,
+      "fileID": 3516138,
       "required": true,
       "__meta": {
         "name": "Rhino"
@@ -910,7 +902,7 @@
     },
     {
       "projectID": 417430,
-      "fileID": 3441420,
+      "fileID": 3512327,
       "required": true,
       "__meta": {
         "name": "Caves & Cliffs Backport",
@@ -1040,7 +1032,7 @@
     },
     {
       "projectID": 441706,
-      "fileID": 3489595,
+      "fileID": 3512246,
       "required": true,
       "__meta": {
         "name": "CaveBiomeAPI [Forge]"
@@ -1214,7 +1206,7 @@
     },
     {
       "projectID": 468836,
-      "fileID": 3268920,
+      "fileID": 3517228,
       "required": true,
       "__meta": {
         "name": "Created Storage Network"
@@ -1345,7 +1337,7 @@
     },
     {
       "projectID": 499980,
-      "fileID": 3488929,
+      "fileID": 3517008,
       "required": true,
       "__meta": {
         "name": "Selene Lib"
@@ -1394,7 +1386,7 @@
     },
     {
       "projectID": 510849,
-      "fileID": 3481318,
+      "fileID": 3511804,
       "required": true,
       "__meta": {
         "name": "xali's Potions"
@@ -1485,7 +1477,7 @@
     },
     {
       "projectID": 526921,
-      "fileID": 3509013,
+      "fileID": 3513533,
       "required": true,
       "__meta": {
         "name": "BetterNether Reforged"
@@ -1493,7 +1485,7 @@
     },
     {
       "projectID": 531320,
-      "fileID": 3476693,
+      "fileID": 3514329,
       "required": true,
       "__meta": {
         "name": "Awesome Dungeon - Forge"
@@ -1531,7 +1523,7 @@
     },
     {
       "projectID": 534610,
-      "fileID": 3509820,
+      "fileID": 3517895,
       "required": true,
       "__meta": {
         "name": "Create: Steam Powered",
