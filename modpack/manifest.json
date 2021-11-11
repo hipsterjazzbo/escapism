@@ -33,7 +33,7 @@
     },
     {
       "projectID": 74072,
-      "fileID": 3482903,
+      "fileID": 3519262,
       "required": true,
       "__meta": {
         "name": "Tinkers Construct",
@@ -131,7 +131,7 @@
     },
     {
       "projectID": 238222,
-      "fileID": 3514175,
+      "fileID": 3519343,
       "required": true,
       "__meta": {
         "name": "Just Enough Items (JEI)"
@@ -495,7 +495,7 @@
     },
     {
       "projectID": 336184,
-      "fileID": 3461965,
+      "fileID": 3521370,
       "required": true,
       "__meta": {
         "name": "Enigmatic Legacy",
@@ -515,7 +515,7 @@
     },
     {
       "projectID": 342584,
-      "fileID": 3454173,
+      "fileID": 3521685,
       "required": true,
       "__meta": {
         "name": "Collective (Forge)"
@@ -545,7 +545,7 @@
     },
     {
       "projectID": 348521,
-      "fileID": 3311352,
+      "fileID": 3521275,
       "required": true,
       "__meta": {
         "name": "Cloth Config API (Forge)"
@@ -704,7 +704,7 @@
     },
     {
       "projectID": 377652,
-      "fileID": 3439969,
+      "fileID": 3520710,
       "required": true,
       "__meta": {
         "name": "Materialis",
@@ -764,7 +764,7 @@
     },
     {
       "projectID": 388800,
-      "fileID": 3517818,
+      "fileID": 3521236,
       "required": true,
       "__meta": {
         "name": "Polymorph (Forge)"
@@ -845,7 +845,7 @@
     },
     {
       "projectID": 404465,
-      "fileID": 3514173,
+      "fileID": 3519546,
       "required": true,
       "__meta": {
         "name": "FTB Library (Forge)",
@@ -950,7 +950,7 @@
     },
     {
       "projectID": 417430,
-      "fileID": 3512327,
+      "fileID": 3520553,
       "required": true,
       "__meta": {
         "name": "Caves & Cliffs Backport",
@@ -1035,7 +1035,7 @@
     },
     {
       "projectID": 431611,
-      "fileID": 3360840,
+      "fileID": 3520215,
       "required": true,
       "__meta": {
         "name": "Vein Mining (Forge)"
@@ -1088,7 +1088,7 @@
     },
     {
       "projectID": 441706,
-      "fileID": 3512246,
+      "fileID": 3519248,
       "required": true,
       "__meta": {
         "name": "CaveBiomeAPI [Forge]"
@@ -1169,7 +1169,7 @@
     },
     {
       "projectID": 453763,
-      "fileID": 3341666,
+      "fileID": 3520088,
       "required": true,
       "__meta": {
         "name": "Fresh Animations"
@@ -1482,7 +1482,7 @@
     },
     {
       "projectID": 513425,
-      "fileID": 3478690,
+      "fileID": 3519227,
       "required": true,
       "__meta": {
         "name": "xali's Enhanced Vanilla"
@@ -1576,7 +1576,7 @@
     },
     {
       "projectID": 532286,
-      "fileID": 3498507,
+      "fileID": 3521011,
       "required": true,
       "__meta": {
         "name": "Just Enough Effect Descriptions (JEED)",
