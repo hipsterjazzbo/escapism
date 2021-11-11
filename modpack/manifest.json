@@ -11,7 +11,7 @@
   "manifestType": "minecraftModpack",
   "overrides": "overrides",
   "manifestVersion": 1,
-  "version": "0.0.15",
+  "version": "0.0.16",
   "author": "",
   "name": "Escapism",
   "files": [
@@ -1602,18 +1602,6 @@
         "dependencies": [
           328085,
           486392
-        ]
-      }
-    },
-    {
-      "projectID": 535960,
-      "fileID": 3492009,
-      "required": true,
-      "__meta": {
-        "name": "Macaw's Bridges - Oh The Biomes You'll Go",
-        "dependencies": [
-          247560,
-          351725
         ]
       }
     },
