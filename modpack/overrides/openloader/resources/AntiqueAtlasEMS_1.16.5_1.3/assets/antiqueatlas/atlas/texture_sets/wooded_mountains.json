@@ -1,0 +1,14 @@
+{
+  "version": 1,
+  "data": {
+    "textures": {
+      "antiqueatlas:wooded_mountains": 1,
+      "antiqueatlas:wooded_mountains2": 1
+    },
+    "stitch": {
+      "antiqueatlas:mountains": "both",
+      "antiqueatlas:mountains_snow_caps": "both",
+      "antiqueatlas:mountains_naked": "both"
+    }
+  }
+}

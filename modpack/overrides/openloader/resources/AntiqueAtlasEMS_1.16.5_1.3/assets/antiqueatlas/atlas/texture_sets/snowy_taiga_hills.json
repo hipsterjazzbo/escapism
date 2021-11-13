@@ -1,0 +1,10 @@
+{
+  "version": 1,
+  "data": {
+    "textures": {
+      "antiqueatlas:snowy_taiga_hills": 1,
+      "antiqueatlas:snowy_taiga_hills2": 1,
+      "antiqueatlas:snowy_taiga_hills3": 1
+    }
+  }
+}

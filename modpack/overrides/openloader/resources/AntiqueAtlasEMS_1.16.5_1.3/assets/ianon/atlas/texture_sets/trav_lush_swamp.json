@@ -1,0 +1,12 @@
+{
+  "version": 1,
+  "data": {
+    "textures": {
+	  "ianon:trav_lush_swamp": 1,
+	  "ianon:trav_lush_swamp2": 1,
+	  "ianon:trav_lush_swamp3": 2,
+	  "ianon:trav_lush_swamp4": 2,
+	  "ianon:trav_lush_swamp5": 2
+    }
+  }
+}

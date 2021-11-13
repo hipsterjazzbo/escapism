@@ -1,0 +1,10 @@
+{
+  "version": 1,
+  "data": {
+    "textures": {
+      "ianon:trav_wooded_plateau": 1,
+	  "ianon:trav_wooded_plateau2": 1,
+	  "ianon:trav_wooded_plateau3": 1
+    }
+  }
+}

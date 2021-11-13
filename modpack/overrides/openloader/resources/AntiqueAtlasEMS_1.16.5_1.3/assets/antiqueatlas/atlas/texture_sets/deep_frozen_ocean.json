@@ -1,0 +1,9 @@
+{
+  "version": 1,
+  "data": {
+    "textures": {
+      "antiqueatlas:deep_frozen_ocean": 1,
+      "antiqueatlas:deep_frozen_ocean2": 6
+    }
+  }
+}

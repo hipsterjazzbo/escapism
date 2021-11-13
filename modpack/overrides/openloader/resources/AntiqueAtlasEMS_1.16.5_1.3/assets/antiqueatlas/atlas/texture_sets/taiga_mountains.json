@@ -1,0 +1,10 @@
+{
+  "version": 1,
+  "data": {
+    "textures": {
+      "antiqueatlas:taiga_mountains": 1,
+      "antiqueatlas:taiga_mountains2": 1,
+      "antiqueatlas:taiga_mountains3": 1
+    }
+  }
+}

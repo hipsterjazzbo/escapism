@@ -1,0 +1,10 @@
+{
+  "version": 1,
+  "data": {
+    "textures": {
+      "antiqueatlas:soul_sand_valley": 1,
+      "antiqueatlas:soul_sand_valley2": 1,
+      "antiqueatlas:soul_sand_valley3": 1
+    }
+  }
+}

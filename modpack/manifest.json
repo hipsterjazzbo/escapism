@@ -11,7 +11,7 @@
   "manifestType": "minecraftModpack",
   "overrides": "overrides",
   "manifestVersion": 1,
-  "version": "0.1.0",
+  "version": "0.1.1",
   "author": "",
   "name": "Escapism",
   "files": [
@@ -1171,6 +1171,18 @@
       }
     },
     {
+      "projectID": 438668,
+      "fileID": 3398198,
+      "required": true,
+      "__meta": {
+        "name": "Antique Waystones",
+        "dependencies": [
+          227795,
+          245755
+        ]
+      }
+    },
+    {
       "projectID": 439890,
       "fileID": 3501455,
       "required": true,
@@ -1641,18 +1653,6 @@
       }
     },
     {
-      "projectID": 525277,
-      "fileID": 3479466,
-      "required": true,
-      "__meta": {
-        "name": "Terrestria Reforged",
-        "dependencies": [
-          525254,
-          522833
-        ]
-      }
-    },
-    {
       "projectID": 526921,
       "fileID": 3513533,
       "required": true,
@@ -1692,10 +1692,11 @@
     },
     {
       "projectID": 532724,
-      "fileID": 3521225,
+      "fileID": 3511244,
       "required": true,
       "__meta": {
-        "name": "Magnesium"
+        "name": "Magnesium",
+        "pinned": true
       }
     },
     {

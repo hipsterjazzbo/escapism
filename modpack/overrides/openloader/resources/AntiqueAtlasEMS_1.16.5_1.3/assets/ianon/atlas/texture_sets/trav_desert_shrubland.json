@@ -1,0 +1,13 @@
+{
+  "version": 1,
+  "data": {
+    "textures": {
+      "antiqueatlas:sand": 6,
+	  "ianon:trav_desert_shrubland": 1
+    },
+    "stitch": {
+      "antiqueatlas:mesa": "both",
+      "antiqueatlas:bryce": "both"
+    }
+  }
+}

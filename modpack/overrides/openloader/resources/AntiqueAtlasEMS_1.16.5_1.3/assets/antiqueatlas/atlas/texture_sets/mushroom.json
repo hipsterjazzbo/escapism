@@ -1,0 +1,10 @@
+{
+  "version": 1,
+  "data": {
+    "textures": {
+      "antiqueatlas:mushroom": 1,
+      "antiqueatlas:mushroom2": 1,
+	  "antiqueatlas:mushroom3": 1
+    }
+  }
+}
