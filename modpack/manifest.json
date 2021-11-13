@@ -1728,6 +1728,14 @@
       "__meta": {
         "name": "FTB Power Pots (Forge)"
       }
+    },
+    {
+      "projectID": 545467,
+      "fileID": 3519871,
+      "required": true,
+      "__meta": {
+        "name": "Sky Villages [Forge]"
+      }
     }
   ]
 }
