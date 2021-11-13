@@ -127,7 +127,7 @@
     },
     {
       "projectID": 238086,
-      "fileID": 3516226,
+      "fileID": 3522312,
       "required": true,
       "__meta": {
         "name": "KubeJS (Forge)",
@@ -455,7 +455,7 @@
     },
     {
       "projectID": 308989,
-      "fileID": 3403876,
+      "fileID": 3522094,
       "required": true,
       "__meta": {
         "name": "Caelus API (Forge)"
@@ -634,7 +634,7 @@
     },
     {
       "projectID": 354143,
-      "fileID": 3517705,
+      "fileID": 3522180,
       "required": true,
       "__meta": {
         "name": "Performant"
@@ -841,7 +841,7 @@
     },
     {
       "projectID": 388172,
-      "fileID": 3515813,
+      "fileID": 3523124,
       "required": true,
       "__meta": {
         "name": "GeckoLib"
@@ -968,7 +968,7 @@
     },
     {
       "projectID": 407206,
-      "fileID": 3092437,
+      "fileID": 3523331,
       "required": true,
       "__meta": {
         "name": "Chat Heads"
@@ -1003,7 +1003,7 @@
     },
     {
       "projectID": 412082,
-      "fileID": 3515584,
+      "fileID": 3522518,
       "required": true,
       "__meta": {
         "name": "Supplementaries",
@@ -1062,7 +1062,7 @@
     },
     {
       "projectID": 417430,
-      "fileID": 3520553,
+      "fileID": 3523829,
       "required": true,
       "__meta": {
         "name": "Caves & Cliffs Backport",
@@ -1139,7 +1139,7 @@
     },
     {
       "projectID": 431611,
-      "fileID": 3520215,
+      "fileID": 3523226,
       "required": true,
       "__meta": {
         "name": "Vein Mining (Forge)"
@@ -1330,7 +1330,7 @@
     },
     {
       "projectID": 457570,
-      "fileID": 3434071,
+      "fileID": 3523091,
       "required": true,
       "__meta": {
         "name": "Configured"
@@ -1502,7 +1502,7 @@
     },
     {
       "projectID": 495336,
-      "fileID": 3480973,
+      "fileID": 3522572,
       "required": true,
       "__meta": {
         "name": "Advanced Netherite"
@@ -1603,7 +1603,7 @@
     },
     {
       "projectID": 519973,
-      "fileID": 3456696,
+      "fileID": 3523698,
       "required": true,
       "__meta": {
         "name": "Tinker's Planner",
@@ -1688,6 +1688,22 @@
         "dependencies": [
           238222
         ]
+      }
+    },
+    {
+      "projectID": 532724,
+      "fileID": 3521225,
+      "required": true,
+      "__meta": {
+        "name": "Magnesium"
+      }
+    },
+    {
+      "projectID": 533801,
+      "fileID": 3496027,
+      "required": true,
+      "__meta": {
+        "name": "Sulfuric"
       }
     },
     {
