@@ -67,6 +67,14 @@
       }
     },
     {
+      "projectID": 227795,
+      "fileID": 3398190,
+      "required": true,
+      "__meta": {
+        "name": "Antique Atlas"
+      }
+    },
+    {
       "projectID": 228525,
       "fileID": 3474499,
       "required": true,
@@ -173,6 +181,14 @@
       }
     },
     {
+      "projectID": 242830,
+      "fileID": 3521872,
+      "required": true,
+      "__meta": {
+        "name": "Exotic Birds"
+      }
+    },
+    {
       "projectID": 243121,
       "fileID": 3490981,
       "required": true,
@@ -222,14 +238,6 @@
       }
     },
     {
-      "projectID": 247560,
-      "fileID": 3485079,
-      "required": true,
-      "__meta": {
-        "name": "Oh The Biomes You'll Go"
-      }
-    },
-    {
       "projectID": 248787,
       "fileID": 3512372,
       "required": true,
@@ -251,6 +259,17 @@
       "required": true,
       "__meta": {
         "name": "Controlling"
+      }
+    },
+    {
+      "projectID": 250419,
+      "fileID": 3488440,
+      "required": true,
+      "__meta": {
+        "name": "Enchantment Descriptions",
+        "dependencies": [
+          228525
+        ]
       }
     },
     {
@@ -404,6 +423,17 @@
       }
     },
     {
+      "projectID": 291509,
+      "fileID": 3154938,
+      "required": true,
+      "__meta": {
+        "name": "The Endergetic Expansion",
+        "dependencies": [
+          382216
+        ]
+      }
+    },
+    {
       "projectID": 301051,
       "fileID": 3088871,
       "required": true,
@@ -472,6 +502,14 @@
       "required": true,
       "__meta": {
         "name": "Jade 🔍"
+      }
+    },
+    {
+      "projectID": 324973,
+      "fileID": 3518498,
+      "required": true,
+      "__meta": {
+        "name": "Dungeon Crawl"
       }
     },
     {
@@ -603,6 +641,14 @@
       }
     },
     {
+      "projectID": 354339,
+      "fileID": 3199872,
+      "required": true,
+      "__meta": {
+        "name": "Open Loader"
+      }
+    },
+    {
       "projectID": 357178,
       "fileID": 3437402,
       "required": true,
@@ -655,6 +701,17 @@
       }
     },
     {
+      "projectID": 362393,
+      "fileID": 3249309,
+      "required": true,
+      "__meta": {
+        "name": "Atmospheric",
+        "dependencies": [
+          382216
+        ]
+      }
+    },
+    {
       "projectID": 362528,
       "fileID": 3166283,
       "required": true,
@@ -687,11 +744,30 @@
       }
     },
     {
+      "projectID": 365045,
+      "fileID": 3295700,
+      "required": true,
+      "__meta": {
+        "name": "Autumnity",
+        "dependencies": [
+          382216
+        ]
+      }
+    },
+    {
       "projectID": 366140,
       "fileID": 3358883,
       "required": true,
       "__meta": {
         "name": "Dynamic View"
+      }
+    },
+    {
+      "projectID": 368293,
+      "fileID": 3516571,
+      "required": true,
+      "__meta": {
+        "name": "Repurposed Structures (Forge)"
       }
     },
     {
@@ -719,6 +795,15 @@
       "required": true,
       "__meta": {
         "name": "Macaw's Doors"
+      }
+    },
+    {
+      "projectID": 378802,
+      "fileID": 3498310,
+      "required": true,
+      "__meta": {
+        "name": "Structure Gel API",
+        "explicit": false
       }
     },
     {
@@ -771,6 +856,17 @@
       }
     },
     {
+      "projectID": 388992,
+      "fileID": 3416597,
+      "required": true,
+      "__meta": {
+        "name": "Environmental",
+        "dependencies": [
+          382216
+        ]
+      }
+    },
+    {
       "projectID": 389665,
       "fileID": 3344719,
       "required": true,
@@ -798,6 +894,14 @@
       "required": true,
       "__meta": {
         "name": "CleanCut"
+      }
+    },
+    {
+      "projectID": 395078,
+      "fileID": 3487698,
+      "required": true,
+      "__meta": {
+        "name": "Infernal Expansion"
       }
     },
     {
@@ -841,6 +945,14 @@
         "dependencies": [
           438332
         ]
+      }
+    },
+    {
+      "projectID": 403303,
+      "fileID": 3302804,
+      "required": true,
+      "__meta": {
+        "name": "Potion Descriptions (Forge)"
       }
     },
     {
@@ -987,14 +1099,6 @@
       }
     },
     {
-      "projectID": 428877,
-      "fileID": 3467948,
-      "required": true,
-      "__meta": {
-        "name": "BetterEnd (Forge)"
-      }
-    },
-    {
       "projectID": 429235,
       "fileID": 3485636,
       "required": true,
@@ -1042,14 +1146,6 @@
       }
     },
     {
-      "projectID": 432421,
-      "fileID": 3311565,
-      "required": true,
-      "__meta": {
-        "name": "JustTimm's Vanilla Additions Dark GUI Add-On"
-      }
-    },
-    {
       "projectID": 435051,
       "fileID": 3164842,
       "required": true,
@@ -1084,6 +1180,14 @@
           328085,
           486392
         ]
+      }
+    },
+    {
+      "projectID": 441114,
+      "fileID": 3467385,
+      "required": true,
+      "__meta": {
+        "name": "Neko's Enchanted Books"
       }
     },
     {
@@ -1164,6 +1268,28 @@
         "name": "Untitled Duck Mod (Forge)",
         "dependencies": [
           388172
+        ]
+      }
+    },
+    {
+      "projectID": 452344,
+      "fileID": 3342861,
+      "required": true,
+      "__meta": {
+        "name": "Bayou Blues (Forge)",
+        "dependencies": [
+          382216
+        ]
+      }
+    },
+    {
+      "projectID": 452345,
+      "fileID": 3250108,
+      "required": true,
+      "__meta": {
+        "name": "Abundance",
+        "dependencies": [
+          382216
         ]
       }
     },
@@ -1314,14 +1440,6 @@
       }
     },
     {
-      "projectID": 478165,
-      "fileID": 3447346,
-      "required": true,
-      "__meta": {
-        "name": "xali's Enchanted Books"
-      }
-    },
-    {
       "projectID": 480006,
       "fileID": 3303283,
       "required": true,
@@ -1329,6 +1447,17 @@
         "name": "YUNG's Extras (Forge)",
         "dependencies": [
           421850
+        ]
+      }
+    },
+    {
+      "projectID": 480715,
+      "fileID": 3505356,
+      "required": true,
+      "__meta": {
+        "name": "Dungeons Enhanced",
+        "dependencies": [
+          378802
         ]
       }
     },
@@ -1457,14 +1586,6 @@
       }
     },
     {
-      "projectID": 510849,
-      "fileID": 3511804,
-      "required": true,
-      "__meta": {
-        "name": "xali's Potions"
-      }
-    },
-    {
       "projectID": 511172,
       "fileID": 3488913,
       "required": true,
@@ -1478,22 +1599,6 @@
       "required": true,
       "__meta": {
         "name": "Clickable advancements"
-      }
-    },
-    {
-      "projectID": 513425,
-      "fileID": 3519227,
-      "required": true,
-      "__meta": {
-        "name": "xali's Enhanced Vanilla"
-      }
-    },
-    {
-      "projectID": 519759,
-      "fileID": 3508631,
-      "required": true,
-      "__meta": {
-        "name": "Map Atlases [Forge]"
       }
     },
     {
