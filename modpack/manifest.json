@@ -11,7 +11,7 @@
   "manifestType": "minecraftModpack",
   "overrides": "overrides",
   "manifestVersion": 1,
-  "version": "0.1.1",
+  "version": "0.1.3",
   "author": "",
   "name": "Escapism",
   "files": [
@@ -127,7 +127,7 @@
     },
     {
       "projectID": 238086,
-      "fileID": 3522312,
+      "fileID": 3524504,
       "required": true,
       "__meta": {
         "name": "KubeJS (Forge)",
@@ -345,6 +345,14 @@
       "required": true,
       "__meta": {
         "name": "Simple Storage Network"
+      }
+    },
+    {
+      "projectID": 270457,
+      "fileID": 3509641,
+      "required": true,
+      "__meta": {
+        "name": "Improved Backpacks"
       }
     },
     {
@@ -649,31 +657,11 @@
       }
     },
     {
-      "projectID": 357178,
-      "fileID": 3437402,
-      "required": true,
-      "__meta": {
-        "name": "MixinBootstrap",
-        "explicit": false
-      }
-    },
-    {
       "projectID": 357540,
       "fileID": 3505181,
       "required": true,
       "__meta": {
         "name": "Inventory HUD+"
-      }
-    },
-    {
-      "projectID": 358973,
-      "fileID": 3125001,
-      "required": true,
-      "__meta": {
-        "name": "Water Erosion",
-        "dependencies": [
-          357178
-        ]
       }
     },
     {
@@ -841,7 +829,7 @@
     },
     {
       "projectID": 388172,
-      "fileID": 3523124,
+      "fileID": 3524931,
       "required": true,
       "__meta": {
         "name": "GeckoLib"
@@ -849,7 +837,7 @@
     },
     {
       "projectID": 388800,
-      "fileID": 3521236,
+      "fileID": 3524275,
       "required": true,
       "__meta": {
         "name": "Polymorph (Forge)"
@@ -1350,7 +1338,7 @@
     },
     {
       "projectID": 459701,
-      "fileID": 3399554,
+      "fileID": 3524254,
       "required": true,
       "__meta": {
         "name": "Catalogue"
@@ -1428,14 +1416,6 @@
       "required": true,
       "__meta": {
         "name": "Lemon Lib"
-      }
-    },
-    {
-      "projectID": 474188,
-      "fileID": 3345127,
-      "required": true,
-      "__meta": {
-        "name": "Omnis Backpacks"
       }
     },
     {
@@ -1692,11 +1672,10 @@
     },
     {
       "projectID": 532724,
-      "fileID": 3511244,
+      "fileID": 3521225,
       "required": true,
       "__meta": {
-        "name": "Magnesium",
-        "pinned": true
+        "name": "Magnesium"
       }
     },
     {
