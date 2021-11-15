@@ -11,7 +11,7 @@
   "manifestType": "minecraftModpack",
   "overrides": "overrides",
   "manifestVersion": 1,
-  "version": "0.1.4",
+  "version": "0.1.5",
   "author": "",
   "name": "Escapism",
   "files": [
@@ -127,7 +127,7 @@
     },
     {
       "projectID": 238086,
-      "fileID": 3524504,
+      "fileID": 3526311,
       "required": true,
       "__meta": {
         "name": "KubeJS (Forge)",
@@ -139,7 +139,7 @@
     },
     {
       "projectID": 238222,
-      "fileID": 3519343,
+      "fileID": 3526055,
       "required": true,
       "__meta": {
         "name": "Just Enough Items (JEI)"
@@ -201,7 +201,7 @@
     },
     {
       "projectID": 244844,
-      "fileID": 3460179,
+      "fileID": 3525327,
       "required": true,
       "__meta": {
         "name": "ForgeEndertech"
@@ -796,7 +796,7 @@
     },
     {
       "projectID": 381597,
-      "fileID": 3517032,
+      "fileID": 3525354,
       "required": true,
       "__meta": {
         "name": "Regrowth"
@@ -848,7 +848,7 @@
     },
     {
       "projectID": 388800,
-      "fileID": 3524275,
+      "fileID": 3526289,
       "required": true,
       "__meta": {
         "name": "Polymorph (Forge)"
@@ -905,7 +905,7 @@
     },
     {
       "projectID": 395078,
-      "fileID": 3487698,
+      "fileID": 3526021,
       "required": true,
       "__meta": {
         "name": "Infernal Expansion"
@@ -1045,7 +1045,7 @@
     },
     {
       "projectID": 416294,
-      "fileID": 3516138,
+      "fileID": 3525704,
       "required": true,
       "__meta": {
         "name": "Rhino"
@@ -1153,11 +1153,27 @@
       }
     },
     {
+      "projectID": 431628,
+      "fileID": 3393319,
+      "required": true,
+      "__meta": {
+        "name": "Chat Sound"
+      }
+    },
+    {
       "projectID": 435051,
       "fileID": 3164842,
       "required": true,
       "__meta": {
         "name": "Shift n Scroll on Mac (Forge Only)"
+      }
+    },
+    {
+      "projectID": 438074,
+      "fileID": 3446595,
+      "required": true,
+      "__meta": {
+        "name": "Biome Id Fixer (Forge)"
       }
     },
     {
@@ -1219,7 +1235,7 @@
     },
     {
       "projectID": 443900,
-      "fileID": 3508084,
+      "fileID": 3525428,
       "required": true,
       "__meta": {
         "name": "Pipez"
@@ -1683,7 +1699,7 @@
     },
     {
       "projectID": 532724,
-      "fileID": 3521225,
+      "fileID": 3526076,
       "required": true,
       "__meta": {
         "name": "Magnesium"
