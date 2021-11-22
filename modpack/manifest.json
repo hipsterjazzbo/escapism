@@ -1266,6 +1266,18 @@
       }
     },
     {
+      "projectID": 442719,
+      "fileID": 3442748,
+      "required": true,
+      "__meta": {
+        "name": "Abnormals Delight",
+        "dependencies": [
+          382216,
+          398521
+        ]
+      }
+    },
+    {
       "projectID": 443900,
       "fileID": 3525428,
       "required": true,
@@ -1588,6 +1600,18 @@
       }
     },
     {
+      "projectID": 498222,
+      "fileID": 3411810,
+      "required": true,
+      "__meta": {
+        "name": "The Irregular Chef! (A Farmer's Delight Add-on)",
+        "dependencies": [
+          382216,
+          398521
+        ]
+      }
+    },
+    {
       "projectID": 499980,
       "fileID": 3517008,
       "required": true,
@@ -1609,6 +1633,17 @@
       "required": true,
       "__meta": {
         "name": "Macaw's Lights and Lamps"
+      }
+    },
+    {
+      "projectID": 504395,
+      "fileID": 3395248,
+      "required": true,
+      "__meta": {
+        "name": "Immersive Cooking",
+        "dependencies": [
+          398521
+        ]
       }
     },
     {
