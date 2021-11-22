@@ -11,7 +11,7 @@
   "manifestType": "minecraftModpack",
   "overrides": "overrides",
   "manifestVersion": 1,
-  "version": "0.1.5",
+  "version": "0.1.7",
   "author": "",
   "name": "Escapism",
   "files": [
@@ -1766,10 +1766,11 @@
     },
     {
       "projectID": 532724,
-      "fileID": 3528352,
+      "fileID": 3526076,
       "required": true,
       "__meta": {
-        "name": "Magnesium"
+        "name": "Magnesium",
+        "pinned": true
       }
     },
     {
