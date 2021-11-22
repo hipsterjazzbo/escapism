@@ -33,7 +33,7 @@
     },
     {
       "projectID": 74072,
-      "fileID": 3519262,
+      "fileID": 3526444,
       "required": true,
       "__meta": {
         "name": "Tinkers Construct",
@@ -127,7 +127,7 @@
     },
     {
       "projectID": 238086,
-      "fileID": 3526311,
+      "fileID": 3531091,
       "required": true,
       "__meta": {
         "name": "KubeJS (Forge)",
@@ -139,7 +139,7 @@
     },
     {
       "projectID": 238222,
-      "fileID": 3526055,
+      "fileID": 3530253,
       "required": true,
       "__meta": {
         "name": "Just Enough Items (JEI)"
@@ -174,7 +174,7 @@
     },
     {
       "projectID": 242818,
-      "fileID": 3456069,
+      "fileID": 3528603,
       "required": true,
       "__meta": {
         "name": "CodeChicken Lib 1.8.+"
@@ -201,7 +201,7 @@
     },
     {
       "projectID": 244844,
-      "fileID": 3525327,
+      "fileID": 3529333,
       "required": true,
       "__meta": {
         "name": "ForgeEndertech"
@@ -255,7 +255,7 @@
     },
     {
       "projectID": 250398,
-      "fileID": 3501319,
+      "fileID": 3531453,
       "required": true,
       "__meta": {
         "name": "Controlling"
@@ -514,7 +514,7 @@
     },
     {
       "projectID": 324973,
-      "fileID": 3518498,
+      "fileID": 3533116,
       "required": true,
       "__meta": {
         "name": "Dungeon Crawl"
@@ -561,7 +561,7 @@
     },
     {
       "projectID": 342584,
-      "fileID": 3521685,
+      "fileID": 3533132,
       "required": true,
       "__meta": {
         "name": "Collective (Forge)"
@@ -608,7 +608,7 @@
     },
     {
       "projectID": 351264,
-      "fileID": 3452303,
+      "fileID": 3527736,
       "required": true,
       "__meta": {
         "name": "Kotlin for Forge"
@@ -632,7 +632,7 @@
     },
     {
       "projectID": 353928,
-      "fileID": 3493241,
+      "fileID": 3530311,
       "required": true,
       "__meta": {
         "name": "Botany Pots",
@@ -734,7 +734,7 @@
     },
     {
       "projectID": 364466,
-      "fileID": 3513169,
+      "fileID": 3529763,
       "required": true,
       "__meta": {
         "name": "Allthemodium"
@@ -761,7 +761,7 @@
     },
     {
       "projectID": 368293,
-      "fileID": 3516571,
+      "fileID": 3527137,
       "required": true,
       "__meta": {
         "name": "Repurposed Structures (Forge)"
@@ -861,7 +861,7 @@
     },
     {
       "projectID": 388172,
-      "fileID": 3524931,
+      "fileID": 3529830,
       "required": true,
       "__meta": {
         "name": "GeckoLib"
@@ -869,7 +869,7 @@
     },
     {
       "projectID": 388800,
-      "fileID": 3526289,
+      "fileID": 3528368,
       "required": true,
       "__meta": {
         "name": "Polymorph (Forge)"
@@ -996,7 +996,7 @@
     },
     {
       "projectID": 404465,
-      "fileID": 3519546,
+      "fileID": 3529998,
       "required": true,
       "__meta": {
         "name": "FTB Library (Forge)",
@@ -1042,7 +1042,7 @@
     },
     {
       "projectID": 412082,
-      "fileID": 3522518,
+      "fileID": 3527323,
       "required": true,
       "__meta": {
         "name": "Supplementaries",
@@ -1061,7 +1061,7 @@
     },
     {
       "projectID": 414163,
-      "fileID": 3516415,
+      "fileID": 3526499,
       "required": true,
       "__meta": {
         "name": "Shulker Enchantments (Forge)"
@@ -1397,7 +1397,7 @@
     },
     {
       "projectID": 457570,
-      "fileID": 3523091,
+      "fileID": 3532365,
       "required": true,
       "__meta": {
         "name": "Configured"
@@ -1405,7 +1405,7 @@
     },
     {
       "projectID": 459701,
-      "fileID": 3524254,
+      "fileID": 3529457,
       "required": true,
       "__meta": {
         "name": "Catalogue"
@@ -1731,7 +1731,7 @@
     },
     {
       "projectID": 532724,
-      "fileID": 3526076,
+      "fileID": 3528352,
       "required": true,
       "__meta": {
         "name": "Magnesium"
@@ -1747,7 +1747,7 @@
     },
     {
       "projectID": 534416,
-      "fileID": 3491697,
+      "fileID": 3529395,
       "required": true,
       "__meta": {
         "name": "Tomes"
@@ -1755,7 +1755,7 @@
     },
     {
       "projectID": 534610,
-      "fileID": 3517895,
+      "fileID": 3532286,
       "required": true,
       "__meta": {
         "name": "Create: Steam Powered",
