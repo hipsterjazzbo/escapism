@@ -590,6 +590,15 @@
       }
     },
     {
+      "projectID": 347954,
+      "fileID": 3232534,
+      "required": true,
+      "__meta": {
+        "name": "Lollipop",
+        "explicit": false
+      }
+    },
+    {
       "projectID": 348521,
       "fileID": 3521275,
       "required": true,
@@ -823,6 +832,18 @@
       }
     },
     {
+      "projectID": 386134,
+      "fileID": 3520756,
+      "required": true,
+      "__meta": {
+        "name": "FTB Ultimine (Forge)",
+        "dependencies": [
+          419699,
+          404465
+        ]
+      }
+    },
+    {
       "projectID": 387040,
       "fileID": 3511089,
       "required": true,
@@ -960,6 +981,17 @@
       "required": true,
       "__meta": {
         "name": "Potion Descriptions (Forge)"
+      }
+    },
+    {
+      "projectID": 404038,
+      "fileID": 3242497,
+      "required": true,
+      "__meta": {
+        "name": "Lost Trinkets",
+        "dependencies": [
+          347954
+        ]
       }
     },
     {
