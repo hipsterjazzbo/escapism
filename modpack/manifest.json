@@ -3,7 +3,7 @@
     "version": "1.16.5",
     "modLoaders": [
       {
-        "id": "forge-36.2.8",
+        "id": "forge-36.2.20",
         "primary": true
       }
     ]
@@ -11,7 +11,7 @@
   "manifestType": "minecraftModpack",
   "overrides": "overrides",
   "manifestVersion": 1,
-  "version": "0.1.7",
+  "version": "0.1.8",
   "author": "",
   "name": "Escapism",
   "files": [
@@ -33,7 +33,7 @@
     },
     {
       "projectID": 74072,
-      "fileID": 3526444,
+      "fileID": 3564691,
       "required": true,
       "__meta": {
         "name": "Tinkers Construct",
@@ -44,7 +44,7 @@
     },
     {
       "projectID": 74924,
-      "fileID": 3482897,
+      "fileID": 3551291,
       "required": true,
       "__meta": {
         "name": "Mantle"
@@ -111,7 +111,7 @@
     },
     {
       "projectID": 237307,
-      "fileID": 3398000,
+      "fileID": 3540310,
       "required": true,
       "__meta": {
         "name": "Cosmetic Armor Reworked"
@@ -127,7 +127,7 @@
     },
     {
       "projectID": 238086,
-      "fileID": 3531091,
+      "fileID": 3552913,
       "required": true,
       "__meta": {
         "name": "KubeJS (Forge)",
@@ -139,7 +139,7 @@
     },
     {
       "projectID": 238222,
-      "fileID": 3530253,
+      "fileID": 3564654,
       "required": true,
       "__meta": {
         "name": "Just Enough Items (JEI)"
@@ -155,7 +155,7 @@
     },
     {
       "projectID": 240630,
-      "fileID": 3435305,
+      "fileID": 3545538,
       "required": true,
       "__meta": {
         "name": "Just Enough Resources (JER)",
@@ -174,7 +174,7 @@
     },
     {
       "projectID": 242818,
-      "fileID": 3528603,
+      "fileID": 3553742,
       "required": true,
       "__meta": {
         "name": "CodeChicken Lib 1.8.+"
@@ -190,7 +190,7 @@
     },
     {
       "projectID": 243121,
-      "fileID": 3490981,
+      "fileID": 3538744,
       "required": true,
       "__meta": {
         "name": "Quark",
@@ -263,7 +263,7 @@
     },
     {
       "projectID": 250419,
-      "fileID": 3488440,
+      "fileID": 3566132,
       "required": true,
       "__meta": {
         "name": "Enchantment Descriptions",
@@ -357,7 +357,7 @@
     },
     {
       "projectID": 271740,
-      "fileID": 3172881,
+      "fileID": 3556882,
       "required": true,
       "__meta": {
         "name": "Toast Control",
@@ -408,7 +408,7 @@
     },
     {
       "projectID": 283644,
-      "fileID": 3437009,
+      "fileID": 3536806,
       "required": true,
       "__meta": {
         "name": "Placebo"
@@ -482,7 +482,7 @@
     },
     {
       "projectID": 309927,
-      "fileID": 3456953,
+      "fileID": 3567310,
       "required": true,
       "__meta": {
         "name": "Curios API (Forge)"
@@ -522,7 +522,7 @@
     },
     {
       "projectID": 328085,
-      "fileID": 3499718,
+      "fileID": 3536025,
       "required": true,
       "__meta": {
         "name": "Create",
@@ -561,7 +561,7 @@
     },
     {
       "projectID": 342584,
-      "fileID": 3533132,
+      "fileID": 3541144,
       "required": true,
       "__meta": {
         "name": "Collective (Forge)"
@@ -600,7 +600,7 @@
     },
     {
       "projectID": 348521,
-      "fileID": 3521275,
+      "fileID": 3559634,
       "required": true,
       "__meta": {
         "name": "Cloth Config API (Forge)"
@@ -616,7 +616,7 @@
     },
     {
       "projectID": 351725,
-      "fileID": 3516271,
+      "fileID": 3565142,
       "required": true,
       "__meta": {
         "name": "Macaw's Bridges"
@@ -632,7 +632,7 @@
     },
     {
       "projectID": 353928,
-      "fileID": 3530311,
+      "fileID": 3535246,
       "required": true,
       "__meta": {
         "name": "Botany Pots",
@@ -651,7 +651,7 @@
     },
     {
       "projectID": 354143,
-      "fileID": 3522180,
+      "fileID": 3557292,
       "required": true,
       "__meta": {
         "name": "Performant"
@@ -691,7 +691,7 @@
     },
     {
       "projectID": 361276,
-      "fileID": 3479880,
+      "fileID": 3562133,
       "required": true,
       "__meta": {
         "name": "Lootr"
@@ -699,7 +699,7 @@
     },
     {
       "projectID": 362393,
-      "fileID": 3249309,
+      "fileID": 3553332,
       "required": true,
       "__meta": {
         "name": "Atmospheric",
@@ -718,7 +718,7 @@
     },
     {
       "projectID": 363569,
-      "fileID": 3443597,
+      "fileID": 3565137,
       "required": true,
       "__meta": {
         "name": "Macaw's Windows"
@@ -742,7 +742,7 @@
     },
     {
       "projectID": 365045,
-      "fileID": 3295700,
+      "fileID": 3553317,
       "required": true,
       "__meta": {
         "name": "Autumnity",
@@ -761,7 +761,7 @@
     },
     {
       "projectID": 368293,
-      "fileID": 3527137,
+      "fileID": 3561379,
       "required": true,
       "__meta": {
         "name": "Repurposed Structures (Forge)"
@@ -777,7 +777,7 @@
     },
     {
       "projectID": 377652,
-      "fileID": 3520710,
+      "fileID": 3537801,
       "required": true,
       "__meta": {
         "name": "Materialis",
@@ -788,7 +788,7 @@
     },
     {
       "projectID": 378646,
-      "fileID": 3340793,
+      "fileID": 3565136,
       "required": true,
       "__meta": {
         "name": "Macaw's Doors"
@@ -845,7 +845,7 @@
     },
     {
       "projectID": 387040,
-      "fileID": 3511089,
+      "fileID": 3555268,
       "required": true,
       "__meta": {
         "name": "Enchanted Weapons"
@@ -861,7 +861,7 @@
     },
     {
       "projectID": 388172,
-      "fileID": 3529830,
+      "fileID": 3548338,
       "required": true,
       "__meta": {
         "name": "GeckoLib"
@@ -869,7 +869,7 @@
     },
     {
       "projectID": 388800,
-      "fileID": 3528368,
+      "fileID": 3568463,
       "required": true,
       "__meta": {
         "name": "Polymorph (Forge)"
@@ -877,7 +877,7 @@
     },
     {
       "projectID": 388992,
-      "fileID": 3416597,
+      "fileID": 3561534,
       "required": true,
       "__meta": {
         "name": "Environmental",
@@ -907,7 +907,7 @@
     },
     {
       "projectID": 390717,
-      "fileID": 3379763,
+      "fileID": 3539859,
       "required": true,
       "__meta": {
         "name": "Starter Kit (Forge)",
@@ -934,7 +934,7 @@
     },
     {
       "projectID": 396019,
-      "fileID": 3160833,
+      "fileID": 3536462,
       "required": true,
       "__meta": {
         "name": "Save Your Pets"
@@ -942,7 +942,7 @@
     },
     {
       "projectID": 398521,
-      "fileID": 3503844,
+      "fileID": 3559260,
       "required": true,
       "__meta": {
         "name": "Farmer's Delight"
@@ -950,7 +950,7 @@
     },
     {
       "projectID": 400933,
-      "fileID": 3488763,
+      "fileID": 3565140,
       "required": true,
       "__meta": {
         "name": "Macaw's Trapdoors"
@@ -996,7 +996,7 @@
     },
     {
       "projectID": 404465,
-      "fileID": 3529998,
+      "fileID": 3553840,
       "required": true,
       "__meta": {
         "name": "FTB Library (Forge)",
@@ -1042,7 +1042,7 @@
     },
     {
       "projectID": 412082,
-      "fileID": 3527323,
+      "fileID": 3544548,
       "required": true,
       "__meta": {
         "name": "Supplementaries",
@@ -1053,7 +1053,7 @@
     },
     {
       "projectID": 413810,
-      "fileID": 3453739,
+      "fileID": 3555121,
       "required": true,
       "__meta": {
         "name": "Enchanted Tools"
@@ -1061,7 +1061,7 @@
     },
     {
       "projectID": 414163,
-      "fileID": 3526499,
+      "fileID": 3536783,
       "required": true,
       "__meta": {
         "name": "Shulker Enchantments (Forge)"
@@ -1112,7 +1112,7 @@
     },
     {
       "projectID": 419699,
-      "fileID": 3500014,
+      "fileID": 3563802,
       "required": true,
       "__meta": {
         "name": "Architectury API (Forge)"
@@ -1178,7 +1178,7 @@
     },
     {
       "projectID": 431611,
-      "fileID": 3523226,
+      "fileID": 3569276,
       "required": true,
       "__meta": {
         "name": "Vein Mining (Forge)"
@@ -1239,7 +1239,7 @@
     },
     {
       "projectID": 439890,
-      "fileID": 3501455,
+      "fileID": 3567777,
       "required": true,
       "__meta": {
         "name": "Create Crafts & Additions",
@@ -1251,7 +1251,7 @@
     },
     {
       "projectID": 441114,
-      "fileID": 3467385,
+      "fileID": 3534197,
       "required": true,
       "__meta": {
         "name": "Neko's Enchanted Books"
@@ -1267,7 +1267,7 @@
     },
     {
       "projectID": 442719,
-      "fileID": 3442748,
+      "fileID": 3549585,
       "required": true,
       "__meta": {
         "name": "Abnormals Delight",
@@ -1279,7 +1279,7 @@
     },
     {
       "projectID": 443900,
-      "fileID": 3525428,
+      "fileID": 3546398,
       "required": true,
       "__meta": {
         "name": "Pipez"
@@ -1382,7 +1382,7 @@
     },
     {
       "projectID": 453925,
-      "fileID": 3472412,
+      "fileID": 3565138,
       "required": true,
       "__meta": {
         "name": "Macaw's Fences and Walls"
@@ -1409,7 +1409,7 @@
     },
     {
       "projectID": 457570,
-      "fileID": 3532365,
+      "fileID": 3546348,
       "required": true,
       "__meta": {
         "name": "Configured"
@@ -1546,7 +1546,7 @@
     },
     {
       "projectID": 486392,
-      "fileID": 3459739,
+      "fileID": 3535459,
       "required": true,
       "__meta": {
         "name": "Flywheel"
@@ -1629,7 +1629,7 @@
     },
     {
       "projectID": 502372,
-      "fileID": 3387338,
+      "fileID": 3565139,
       "required": true,
       "__meta": {
         "name": "Macaw's Lights and Lamps"
@@ -1736,7 +1736,7 @@
     },
     {
       "projectID": 531320,
-      "fileID": 3514329,
+      "fileID": 3558505,
       "required": true,
       "__meta": {
         "name": "Awesome Dungeon - Forge"
@@ -1755,7 +1755,7 @@
     },
     {
       "projectID": 532286,
-      "fileID": 3521011,
+      "fileID": 3541185,
       "required": true,
       "__meta": {
         "name": "Just Enough Effect Descriptions (JEED)",
@@ -1791,7 +1791,7 @@
     },
     {
       "projectID": 534610,
-      "fileID": 3532286,
+      "fileID": 3566200,
       "required": true,
       "__meta": {
         "name": "Create: Steam Powered",
