@@ -1,0 +1,13 @@
+name = "Shulker Enchantments (Forge)"
+filename = "shulker_enchantments-2.1.1.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3536/783/shulker_enchantments-2.1.1.jar"
+hash-format = "murmur2"
+hash = "3328656023"
+
+[update]
+[update.curseforge]
+file-id = 3536783
+project-id = 414163

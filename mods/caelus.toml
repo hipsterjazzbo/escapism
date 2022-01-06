@@ -1,0 +1,13 @@
+name = "Caelus API (Forge)"
+filename = "caelus-forge-1.18-3.0.0.1.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3551/173/caelus-forge-1.18-3.0.0.1.jar"
+hash-format = "murmur2"
+hash = "689287142"
+
+[update]
+[update.curseforge]
+file-id = 3551173
+project-id = 308989

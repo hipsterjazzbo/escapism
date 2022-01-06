@@ -1,0 +1,13 @@
+name = "Selene Lib"
+filename = "selene-1.18-1.11.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3553/28/selene-1.18-1.11.jar"
+hash-format = "murmur2"
+hash = "3695545873"
+
+[update]
+[update.curseforge]
+file-id = 3553028
+project-id = 499980

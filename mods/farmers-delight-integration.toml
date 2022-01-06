@@ -1,0 +1,13 @@
+name = "Farmer's Delight Integration"
+filename = "farmersdelightintegration-1.16.5-1.0.3.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3222/746/farmersdelightintegration-1.16.5-1.0.3.jar"
+hash-format = "murmur2"
+hash = "3288116155"
+
+[update]
+[update.curseforge]
+file-id = 3222746
+project-id = 447816

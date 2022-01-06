@@ -1,0 +1,4752 @@
+hash-format = "sha256"
+
+[[files]]
+file = "config/AdvancedCompass/mobs/alexsmobs/alligator_snapping_turtle.png"
+hash = "e57a13e0dec1fd9960ebeda186d39133a3b55c6f0957cd6f067fcce54acb36c8"
+
+[[files]]
+file = "config/AdvancedCompass/mobs/alexsmobs/bald_eagle.png"
+hash = "9db0ef69868b3fa758e2948838b525b6982f092b1dfba5d100d23075b852059e"
+
+[[files]]
+file = "config/AdvancedCompass/mobs/alexsmobs/blobfish.png"
+hash = "6e240ccd3f4886b2a02acfcece48e5c454fd31926e98fdd083ef44e5359ed460"
+
+[[files]]
+file = "config/AdvancedCompass/mobs/alexsmobs/cachalot_whale.png"
+hash = "d50e308b492fc489fdaa4b79dee26f11f128a7acc75e1f3c0b4686fd4292723d"
+
+[[files]]
+file = "config/AdvancedCompass/mobs/alexsmobs/capuchin_monkey.png"
+hash = "ea1798698cb4de0e361470ced41bb00e424a1db3541598e67318118fb2e3ab77"
+
+[[files]]
+file = "config/AdvancedCompass/mobs/alexsmobs/centipede_body.png"
+hash = "14debe7aefa7e9e2d135b3bf31f63d6a170a254902483ea515fa53db553c616c"
+
+[[files]]
+file = "config/AdvancedCompass/mobs/alexsmobs/centipede_head.png"
+hash = "65b80d5b7336332a1f2fe248ad1c262a2da2117cdb163bb6536c1a1702d58f60"
+
+[[files]]
+file = "config/AdvancedCompass/mobs/alexsmobs/centipede_tail.png"
+hash = "f900304fc70dfa30e048fc32175a51a65d1dea6a5755d8027a92379c91d5ee90"
+
+[[files]]
+file = "config/AdvancedCompass/mobs/alexsmobs/cockroach.png"
+hash = "791bac2456ef2bc9acf122a6e941311f1622f8eb67457a954774e86c615169fe"
+
+[[files]]
+file = "config/AdvancedCompass/mobs/alexsmobs/crocodile.png"
+hash = "3bd278b24b4b96dec146e961eb8bd9174067c3102107adf737505676325d585a"
+
+[[files]]
+file = "config/AdvancedCompass/mobs/alexsmobs/crow.png"
+hash = "3d8f99dc41efc3c28a4d322645a77ba728b0f7f2b6d011a3764b6b5a00c3be86"
+
+[[files]]
+file = "config/AdvancedCompass/mobs/alexsmobs/elephant.png"
+hash = "46ec5d4a983f5aa1994008896e372b2c91b371b36e05492b10f2f8191bc42f4e"
+
+[[files]]
+file = "config/AdvancedCompass/mobs/alexsmobs/emu.png"
+hash = "29b3f24c3c34100e632d9037a66342d8c4d82e2904ff32475695583b28ff0e5f"
+
+[[files]]
+file = "config/AdvancedCompass/mobs/alexsmobs/fly.png"
+hash = "5388545505aca48419803d3000ab9355e2f81816ffbcc70edf6b854bf799ef60"
+
+[[files]]
+file = "config/AdvancedCompass/mobs/alexsmobs/frilled_shark.png"
+hash = "b29dbe958b9b1fd89f2b32f352365ff3233000acfe7a3fd6fa7fa2b9d005bc79"
+
+[[files]]
+file = "config/AdvancedCompass/mobs/alexsmobs/gazelle.png"
+hash = "e2b107a474f0716a600d4766e050c005df6599b38f5af506dc3a4fd1b3f5c08c"
+
+[[files]]
+file = "config/AdvancedCompass/mobs/alexsmobs/gorilla.png"
+hash = "05dd48c7395fce54b11d43345be7502ebef64d0d6440aff041067797a1d93f16"
+
+[[files]]
+file = "config/AdvancedCompass/mobs/alexsmobs/grizzly_bear.png"
+hash = "652f2e9fe69b7a18eb116c5ab5dc1a9070158f19ff79d0cf0635650b15c17081"
+
+[[files]]
+file = "config/AdvancedCompass/mobs/alexsmobs/hummingbird.png"
+hash = "61f823f5dd52707649d2798d23d3ceadaf1df8c85381f405d8a4f36df0d71203"
+
+[[files]]
+file = "config/AdvancedCompass/mobs/alexsmobs/kangaroo.png"
+hash = "dc073b5c687e6dd9ee0134cc5f8352ccb272871f650e3886529d6ac94a56eeac"
+
+[[files]]
+file = "config/AdvancedCompass/mobs/alexsmobs/leafcutter_ant.png"
+hash = "e82e524b16dc9bd556015d3168029a5c2aba25e3ae17c37e27e06d2424b5ed2b"
+
+[[files]]
+file = "config/AdvancedCompass/mobs/alexsmobs/lobster.png"
+hash = "ac41ca2e236221b37da2a32f6daced750794f8f2e56fe34017d31460b872e010"
+
+[[files]]
+file = "config/AdvancedCompass/mobs/alexsmobs/mobs.json"
+hash = "e48f0c5a299de7da364d6f833129391ee4469c85fa1ce81f1d1b23e4142a5d62"
+
+[[files]]
+file = "config/AdvancedCompass/mobs/alexsmobs/orca.png"
+hash = "0ef63f9ab8f2ef547365a231938abeed77c9369fa5616c1c71f338871a52a14a"
+
+[[files]]
+file = "config/AdvancedCompass/mobs/alexsmobs/platypus.png"
+hash = "c8fdc3be83ef2aaf22a84308aea5d26090cbb55b6ac0b3d19593f4512faf9759"
+
+[[files]]
+file = "config/AdvancedCompass/mobs/alexsmobs/raccoon.png"
+hash = "491e97f465d4034deb3c2bdf40962e588e362cbb7a671cb3582085cc82599fe9"
+
+[[files]]
+file = "config/AdvancedCompass/mobs/alexsmobs/rattlesnake.png"
+hash = "6a306070164cbf7b74e1d7559fea0d68e501c31a52fb012f1789e156b68664c4"
+
+[[files]]
+file = "config/AdvancedCompass/mobs/alexsmobs/roadrunner.png"
+hash = "462c8dfbbd223c66b080371e36278a5bbbbe56665b9bad53bc7993ffa22a59d9"
+
+[[files]]
+file = "config/AdvancedCompass/mobs/alexsmobs/seagull.png"
+hash = "c6a7f284e783cc88600c3e349c31c08d0ffce0dde4dd377a1b0275dd0b3d5f8c"
+
+[[files]]
+file = "config/AdvancedCompass/mobs/alexsmobs/seal.png"
+hash = "67baaa319ffe3ea6e6ecb0bcd6a72f8eec36ae795b2052be4e370fb1fd020422"
+
+[[files]]
+file = "config/AdvancedCompass/mobs/alexsmobs/tarantula_hawk.png"
+hash = "ce6d037e4a25057e51fcf03c3d8f442193a07642046b4fa3e6f255795e0b38fc"
+
+[[files]]
+file = "config/AdvancedCompass/mobs/alexsmobs/tasmanian_devil.png"
+hash = "6b24bbfdd85c2220116f68360b441892da90022edb7964b3493b50b3c44b9572"
+
+[[files]]
+file = "config/AdvancedCompass/mobs/aquaculture/atlantic_halibut.png"
+hash = "9fa8910e1330cb7f1f32729b30dd910e5641ae749e6deccc455b40d4be953c56"
+
+[[files]]
+file = "config/AdvancedCompass/mobs/aquaculture/atlantic_herring.png"
+hash = "040cfec24ee2d2b6e71e0c4f0f4259d99516c3bab519ce0fe3104a49f52cb51a"
+
+[[files]]
+file = "config/AdvancedCompass/mobs/aquaculture/blackfish.png"
+hash = "b96e320da1c2c182ae7daddf7ccc43d2dccf8c2170d5251f045a6cb3bfc1c992"
+
+[[files]]
+file = "config/AdvancedCompass/mobs/aquaculture/bluegill.png"
+hash = "fb66c938c6820987f37ec5f3ab85e79a301a5382058e05415fd51db275154d26"
+
+[[files]]
+file = "config/AdvancedCompass/mobs/aquaculture/brown_trout.png"
+hash = "32b94cdfb1dd8034bb222760ac87d90b77d358840a558ed1262033b0ae5a23b3"
+
+[[files]]
+file = "config/AdvancedCompass/mobs/aquaculture/carp.png"
+hash = "3f5469a5f027659e56fa28dec4d0d49bec286c4137def852f4043cab08dbe59c"
+
+[[files]]
+file = "config/AdvancedCompass/mobs/aquaculture/catfish.png"
+hash = "09e1e26bc6ccb79690e2db7a8aec233f7a70d14431b9e5f69252077485a082e1"
+
+[[files]]
+file = "config/AdvancedCompass/mobs/aquaculture/gar.png"
+hash = "06830fb1ececcdd923caa8871102722ca26f264f7696c56eba55b692138a33c2"
+
+[[files]]
+file = "config/AdvancedCompass/mobs/aquaculture/jellyfish.png"
+hash = "33cfb5b98b66f0a634cfebb4f784f34b95719f7fa02997743ade47e611d07b64"
+
+[[files]]
+file = "config/AdvancedCompass/mobs/aquaculture/minnow.png"
+hash = "2dc2f42804e787efd1075ede485e519033a6baa0b2898306db00f70b55ae5887"
+
+[[files]]
+file = "config/AdvancedCompass/mobs/aquaculture/mobs.json"
+hash = "912b6b47ebe54f3bb28f525f528b9bd4a4b001252606fbd44d3cb34257abd980"
+
+[[files]]
+file = "config/AdvancedCompass/mobs/aquaculture/muskellunge.png"
+hash = "c0c10fc7c2db865b0f46d5c73629ddf3c57acf36503ee274fcf899a41a7f07da"
+
+[[files]]
+file = "config/AdvancedCompass/mobs/aquaculture/pacific_halibut.png"
+hash = "599f5428e24719052a2d1efcf02e2638be51c1fbfaf8b846b6dee9b14b1c19da"
+
+[[files]]
+file = "config/AdvancedCompass/mobs/aquaculture/perch.png"
+hash = "5af947e5db8ca20d6631924d6cf3ecb6ae04f077673241d5f826b6e690252b3b"
+
+[[files]]
+file = "config/AdvancedCompass/mobs/aquaculture/pink_salmon.png"
+hash = "8156208f1394bf1b55df84d4874afe4b1f36bdac8121501cc57d8f7a6e074170"
+
+[[files]]
+file = "config/AdvancedCompass/mobs/aquaculture/pollock.png"
+hash = "96ec691b259e52a8e65e1d5b1a3cd7c69e9d983cf7131535933e5243d7b529bb"
+
+[[files]]
+file = "config/AdvancedCompass/mobs/aquaculture/rainbow_trout.png"
+hash = "0a5376d4d805a11894adca11717a52a088e4d3287beab4313029d6dab45fa84e"
+
+[[files]]
+file = "config/AdvancedCompass/mobs/aquaculture/red_grouper.png"
+hash = "5b0ab09c09a1739dfccde8482266d487601ab0a525a2ce76c26b43e7a112ec37"
+
+[[files]]
+file = "config/AdvancedCompass/mobs/aquaculture/smallmouth_bass.png"
+hash = "b050301cae2d992df288db7622defa150d04b9ddbe9f9d1c39a358f6bebb3d2e"
+
+[[files]]
+file = "config/AdvancedCompass/mobs/aquaculture/tuna.png"
+hash = "f369aafaf9203d76a8e10ee12fa504093899b052a4d139e84819bc0de91a6314"
+
+[[files]]
+file = "config/AdvancedCompass/mobs/cavesandcliffs/axolotl.png"
+hash = "8a52e8156eb30e8668b9a48a9cc0e6bf3ef12c172299bd2e38d5f84e0ff8e7e5"
+
+[[files]]
+file = "config/AdvancedCompass/mobs/cavesandcliffs/glow_squid.png"
+hash = "51736ebf906c7fa6aa55b8e2a9c1c5d68da42c2c9a5778897a7bae2306c38600"
+
+[[files]]
+file = "config/AdvancedCompass/mobs/cavesandcliffs/goat.png"
+hash = "b10a4d07b9de9dd282e105cebadc105f1f5fc9570063bc1dd2c6c1b49be610e2"
+
+[[files]]
+file = "config/AdvancedCompass/mobs/cavesandcliffs/mobs.json"
+hash = "410c1d2d256a3677f7d61faa5d54cbd9ca1fe83c5ff5039ee21339c1bcd82bb7"
+
+[[files]]
+file = "config/AdvancedCompass/mobs/druidcraft/beetle.png"
+hash = "3a8a103c500baa2580d0bb1923f704067b142c4e058cec28923bd7a1cd239928"
+
+[[files]]
+file = "config/AdvancedCompass/mobs/druidcraft/lunar_moth.png"
+hash = "a2d994f7bad32bf6946a811d2d375846545cd3825d0e4fcb8bdbbcaa16b37b12"
+
+[[files]]
+file = "config/AdvancedCompass/mobs/druidcraft/mobs.json"
+hash = "b6b150e6e370d44f80513c145728723782480ff38dc7225c820d5ab2477b8ccd"
+
+[[files]]
+file = "config/AdvancedCompass/mobs/eidolon/mobs.json"
+hash = "95ca16f4bb0ac3b05c4917d810c8ad2c9f73153c64f2eb6711f0e55bf5736836"
+
+[[files]]
+file = "config/AdvancedCompass/mobs/eidolon/wraith.png"
+hash = "56e41c075f5a4e47f0b1cf5d8457cba930badc090ea40b5b47ad2207beef27f5"
+
+[[files]]
+file = "config/AdvancedCompass/mobs/eidolon/zombie_brute.png"
+hash = "bf97f60ff0ee5063a5566f866e0a1323f4640c31ea714e3a8dabb9cea597c784"
+
+[[files]]
+file = "config/AdvancedCompass/mobs/goblintraders/goblin_trader.png"
+hash = "ff0648361988708d8e233c08c4ae0f0c6b5e0c240231c53418d4f1432383b3a7"
+
+[[files]]
+file = "config/AdvancedCompass/mobs/goblintraders/mobs.json"
+hash = "74e18e59f78f333117b4051d9e8ddee9ca54c54248b75edb4fb37e133d2ce225"
+
+[[files]]
+file = "config/AdvancedCompass/mobs/guardvillagers/guard.png"
+hash = "c85b4c65e5c7a5a2ddc4b6a7489fcdd42b595d8b3f07825df637a341c35d6670"
+
+[[files]]
+file = "config/AdvancedCompass/mobs/guardvillagers/mobs.json"
+hash = "e3d30aa521a191e517757a0157a89835299784a16407179db7d61ae2b0932c50"
+
+[[files]]
+file = "config/AdvancedCompass/mobs/mobs.json"
+hash = "a4212e15e96bdf855b6cb9a67ce642b4ad4fdaeaca5ebabf7b911bdcb40daa85"
+
+[[files]]
+file = "config/AdvancedCompass/mobs/quark/forgotten.png"
+hash = "14e43393f1015f5efbaf598a4ca3b57a4748a71e0d6a70cf1d5713504b78d746"
+
+[[files]]
+file = "config/AdvancedCompass/mobs/quark/frog.png"
+hash = "6f8e479644360cbf4df0ba5993a1d2abcc1b4a5af950b650b98c2ef201b6c376"
+
+[[files]]
+file = "config/AdvancedCompass/mobs/quark/mobs.json"
+hash = "bdb241ac30e3d30b84ab34c63fbd68a16ff04828cd934b12711b4f192f244c99"
+
+[[files]]
+file = "config/AdvancedCompass/mobs/quark/stoneling.png"
+hash = "8c8de64ae552483932dfbda8804393b8896f83e43d27f7b959b0322a359db1ea"
+
+[[files]]
+file = "config/AdvancedCompass/mobs/quark/toretoise.png"
+hash = "4a33f934953f4616ff32a4632020207bc5f242e125b506b3da441958f75bf185"
+
+[[files]]
+file = "config/AdvancedCompass/mobs/quark/wrapped.png"
+hash = "33a1aa607557c54964b299799e2ca1b27f09b0bded22d1d5717292168b738eda"
+
+[[files]]
+file = "config/AdvancedCompass/mobs/supplementaries/firefly.png"
+hash = "dcd3103aa1589724f305dfd36a00b6db8c8815832f2bf17a6c4a131e9b1c32d8"
+
+[[files]]
+file = "config/AdvancedCompass/mobs/supplementaries/mobs.json"
+hash = "453ec51f94c962569f1b9a13cc91404d25a823f2b397805260d8104c16f3d430"
+
+[[files]]
+file = "config/AdvancedCompass/mobs/tconstruct/earth_slime.png"
+hash = "c8884d33f51c248e193a4b8e656f1c517a06a9f3bc9fb87cadf3dd500ec316e7"
+
+[[files]]
+file = "config/AdvancedCompass/mobs/tconstruct/mobs.json"
+hash = "e7815efff80e216e039e136f12488be64a1c25091d6310ff1b7a791150c57a81"
+
+[[files]]
+file = "config/AdvancedCompass/mobs/tconstruct/sky_slime.png"
+hash = "d43b89f2d2f09bb1d0a912df417cd2d13006f76916f0ebac7fb9e12e7b0615f6"
+
+[[files]]
+file = "config/AdvancedCompass/mobs/untitledduckmod/duck.png"
+hash = "710c6a4d3103afdd9c1c8132a38fec307472bd7b755c8d48c5305e6d75bb1ca3"
+
+[[files]]
+file = "config/AdvancedCompass/mobs/untitledduckmod/goose.png"
+hash = "b3fffa67b5a85fc0fffb7e730dc710929374fe097c8d8feccbfb37fef8832bd7"
+
+[[files]]
+file = "config/AdvancedCompass/mobs/untitledduckmod/mobs.json"
+hash = "1d619c0f0f16eea27a41b720e2caf4c9deabc16a3d5402eb95b945e60ba40660"
+
+[[files]]
+file = "config/AdvancedCompass/mobs/wyrmroost/butterfly_leviathan.png"
+hash = "278d6def2ff7c8e4f3dc3eb6fdec23bb2e6f6dde9d23c0395767517ba66ebeaa"
+
+[[files]]
+file = "config/AdvancedCompass/mobs/wyrmroost/dragon_fruit_drake.png"
+hash = "a053888721346f97e5fbe929a00e5888fa1565bf8f7501a75f943050ff8f0af4"
+
+[[files]]
+file = "config/AdvancedCompass/mobs/wyrmroost/mobs.json"
+hash = "35cb12e3850baf3a759735c7df3aa6cbdaf0f5db62a93e6da02e2d5d4e38eb4e"
+
+[[files]]
+file = "config/AdvancedCompass/mobs/wyrmroost/overworld_drake.png"
+hash = "f2ef0772221c039b00345770d5e4d5196b7b5c31da258e569b8db89c52070c80"
+
+[[files]]
+file = "config/AdvancedCompass/mobs/wyrmroost/roost_stalker.png"
+hash = "6bf706d25b72d10efd5a710dc2e87a3f90e2254c5ba2f3e4349af8693e340883"
+
+[[files]]
+file = "config/AdvancedCompass/waypoints/192.168.86.46/waypoints.json"
+hash = "894c51c221d58ded9b21ad68166bc8400f9f9ef026903cb8a915423f7d75944e"
+
+[[files]]
+file = "config/EnderStorage.cfg"
+hash = "50f8a5bee199a9f544ad1c87441e424ad768195b3fa95eb1d8372de18c7da346"
+
+[[files]]
+file = "config/InventoryHUD/curios.json"
+hash = "a14da619a968f4f842157c26c8049809c15d8fd031d7f3975a86eb206328cbdc"
+
+[[files]]
+file = "config/MouseTweaks.cfg"
+hash = "11ba09a6771da982f9bdc906cb50b803804ab4d627566c85fc5ce9a7c4a72d68"
+
+[[files]]
+file = "config/YungsExtras-forge-1_16.toml"
+hash = "827edfe44693850b530090ee86837f1cc86943b6d6b4d0179029418fe2891cab"
+
+[[files]]
+file = "config/YungsExtras/README.txt"
+hash = "930ad054548d66deee0836d5160cc3ee14e16150aa83efc7a046d54c9a32af16"
+
+[[files]]
+file = "config/YungsExtras/forge-1_16/README.txt"
+hash = "d9fd8d2fa8dca42d4ffc3573159e3d0fa2618ceb6474d38831a55786c43e1c5d"
+
+[[files]]
+file = "config/YungsExtras/forge-1_16/wishing_wells.json"
+hash = "432dc410e185c3e80adbdae9feedd908f651e326685ca93cf3500679b7aa997f"
+
+[[files]]
+file = "config/adhooks-client.toml"
+hash = "01ba4719c80b6fe911b091a7c05124b64eeece964e09c058ef8f9805daca546b"
+
+[[files]]
+file = "config/adhooks-common.toml"
+hash = "01ba4719c80b6fe911b091a7c05124b64eeece964e09c058ef8f9805daca546b"
+
+[[files]]
+file = "config/adhooks/hooks/prototype.cfg"
+hash = "3d6f469ce6fe4787dd5bd22f54f1b0e1b1bd9a95d61a1b1abdb36ada35b6e386"
+
+[[files]]
+file = "config/adhooks/hooks/pudge.cfg"
+hash = "f70b4c7cc530d2d0b403cb4467774235d9c96fce98d184b0a1b677c0db7ad5a3"
+
+[[files]]
+file = "config/adhooks/hooks/spear.cfg"
+hash = "8e6ad1c0d04e850886dffb148e07646c73c38f8accf24f6028c2a9b7e202541c"
+
+[[files]]
+file = "config/adhooks/hooks/web.cfg"
+hash = "b8fa5bf6dcbfe036008a8ae0330759ba8441dc13ac21b4293a4f731e9e1a9962"
+
+[[files]]
+file = "config/adhooks/launchers/prototype.cfg"
+hash = "3453fb15e882e4e57b9929824e983924fe44f75a24c7f832e0c7f66c15c945b2"
+
+[[files]]
+file = "config/adhooks/launchers/pudge.cfg"
+hash = "ae194243db311992b2901dbac1cd87191e7917bb0ddab15ba52b289b6bd5f684"
+
+[[files]]
+file = "config/adhooks/launchers/spear.cfg"
+hash = "a8634a781e7a3d53b6d43868d1f8178f19ee801fafe930d5a724036434fcd8e3"
+
+[[files]]
+file = "config/adhooks/launchers/web.cfg"
+hash = "4feec15bb7738c79b2c7c091bbb99c42ac433cad6531e97f4390737ff5465bc0"
+
+[[files]]
+file = "config/advancedcompass-client.toml"
+hash = "98ee3b883bbc2d5e7b149b47aa1c440edcddf538c0395e61ac1e775deb650027"
+
+[[files]]
+file = "config/advancednetherite-client.toml"
+hash = "8f842e833c2978c00f73d5cab89278c54e1a35cfc65d4d3e761610c10145461e"
+
+[[files]]
+file = "config/advancednetherite-common.toml"
+hash = "937c5321fc09c8a099b44764efe708280c01f04db04f750c17bb48331e7b2ef8"
+
+[[files]]
+file = "config/akashictome-common.toml"
+hash = "44c64ef778c580ee01853801525575e4c0f85f718af2afdd116bc50877838e0f"
+
+[[files]]
+file = "config/alexsmobs.toml"
+hash = "cdd220ab3dfd09f82a9a0af8cfea215c571798cf7755c5084d01d92043bce80d"
+
+[[files]]
+file = "config/alexsmobs/alligator_snapping_turtle_spawns 3.json"
+hash = "c8953bee18d46925703bc87f5e5867a4f5ecf62d6a8aa7e98688cb6ce7d33d8b"
+
+[[files]]
+file = "config/alexsmobs/alligator_snapping_turtle_spawns.json"
+hash = "c8953bee18d46925703bc87f5e5867a4f5ecf62d6a8aa7e98688cb6ce7d33d8b"
+
+[[files]]
+file = "config/alexsmobs/bald_eagle_spawns 3.json"
+hash = "3aa5827caab5ddadc3d30ffa510c69c999f5f6a978f5c09c5d34d593546d98a0"
+
+[[files]]
+file = "config/alexsmobs/bald_eagle_spawns.json"
+hash = "3aa5827caab5ddadc3d30ffa510c69c999f5f6a978f5c09c5d34d593546d98a0"
+
+[[files]]
+file = "config/alexsmobs/blobfish_spawns.json"
+hash = "6ef9c08e437f647c633cbf41568c5528288f61ccff6d36f43e938afd3245d878"
+
+[[files]]
+file = "config/alexsmobs/bone_serpent_spawns.json"
+hash = "6fad999625fa90795bb634427ca57c9ee30a8a728afb06aa0bca13d450cad0b7"
+
+[[files]]
+file = "config/alexsmobs/cachalot_whale_beached_spawns.json"
+hash = "b122e57f74ba2245e121712701c06f7b3f9c9763b95144f51862fcdd0b340514"
+
+[[files]]
+file = "config/alexsmobs/cachalot_whale_spawns 3.json"
+hash = "64bc4405c9cf74cc6d54bf0a9c6fcdacbfffcbcb059cbee55bbcd1811e97f2d6"
+
+[[files]]
+file = "config/alexsmobs/cachalot_whale_spawns.json"
+hash = "64bc4405c9cf74cc6d54bf0a9c6fcdacbfffcbcb059cbee55bbcd1811e97f2d6"
+
+[[files]]
+file = "config/alexsmobs/capuchin_monkey_spawns.json"
+hash = "c23386e8908aef2a03a7db5e0663eccd81c9633504a497ea2558a9720dc4d2e2"
+
+[[files]]
+file = "config/alexsmobs/cave_centipede_spawns 3.json"
+hash = "28d4d99f7f053dd6a9861cf8d29c7b6f4fde2975c258967655a640cd1c54c0cd"
+
+[[files]]
+file = "config/alexsmobs/cave_centipede_spawns.json"
+hash = "28d4d99f7f053dd6a9861cf8d29c7b6f4fde2975c258967655a640cd1c54c0cd"
+
+[[files]]
+file = "config/alexsmobs/cockroach_spawns.json"
+hash = "28d4d99f7f053dd6a9861cf8d29c7b6f4fde2975c258967655a640cd1c54c0cd"
+
+[[files]]
+file = "config/alexsmobs/crimson_mosquito_spawns.json"
+hash = "c9dd855143d58491e21ca0f89ad16abef27337c8a110d46f144e2fd3c3b63d67"
+
+[[files]]
+file = "config/alexsmobs/crocodile_spawns 3.json"
+hash = "bdfc63c6793908b475c8a056f519922d0b54526dda01a5d0a07cb24987fab4ba"
+
+[[files]]
+file = "config/alexsmobs/crocodile_spawns.json"
+hash = "bdfc63c6793908b475c8a056f519922d0b54526dda01a5d0a07cb24987fab4ba"
+
+[[files]]
+file = "config/alexsmobs/crow_spawns 3.json"
+hash = "9dfea64c487595e81b66450bd9f824cf4ebf96b4d965db826b23cb4e3e774db9"
+
+[[files]]
+file = "config/alexsmobs/crow_spawns.json"
+hash = "9dfea64c487595e81b66450bd9f824cf4ebf96b4d965db826b23cb4e3e774db9"
+
+[[files]]
+file = "config/alexsmobs/dropbear_spawns.json"
+hash = "ddfc26544311c74ae6bb8d491d31c8ef4b4377b4148ca23ed48ba7544d8a6229"
+
+[[files]]
+file = "config/alexsmobs/elephant_spawns 3.json"
+hash = "a432826878ff8b234b7c2cec283f719fb68e66e1d46ace0acd0b3d445608ac65"
+
+[[files]]
+file = "config/alexsmobs/elephant_spawns.json"
+hash = "a432826878ff8b234b7c2cec283f719fb68e66e1d46ace0acd0b3d445608ac65"
+
+[[files]]
+file = "config/alexsmobs/emu_spawns.json"
+hash = "9496743c71c6cdb2d25ff84f317f504c8e922b8bf6c5c47fd0d87bf2d7bad557"
+
+[[files]]
+file = "config/alexsmobs/endergrade_spawns.json"
+hash = "84a948f4e9db78a433f0967192d8b8b4a13c1b23f514647dd2cce5331f7a8075"
+
+[[files]]
+file = "config/alexsmobs/enderiophage_spawns.json"
+hash = "2da9004de231ddefa054af1437c618dae7db7d955efd050027b57fbb327f4ac5"
+
+[[files]]
+file = "config/alexsmobs/fly_spawns.json"
+hash = "742f3076d5698f9fa5f20d956ef050ca5ee773078bef05ab5d4a51776fa9e0e2"
+
+[[files]]
+file = "config/alexsmobs/frilled_shark_spawns.json"
+hash = "6ef9c08e437f647c633cbf41568c5528288f61ccff6d36f43e938afd3245d878"
+
+[[files]]
+file = "config/alexsmobs/gazelle_spawns.json"
+hash = "a432826878ff8b234b7c2cec283f719fb68e66e1d46ace0acd0b3d445608ac65"
+
+[[files]]
+file = "config/alexsmobs/gorilla_spawns 3.json"
+hash = "c23386e8908aef2a03a7db5e0663eccd81c9633504a497ea2558a9720dc4d2e2"
+
+[[files]]
+file = "config/alexsmobs/gorilla_spawns.json"
+hash = "c23386e8908aef2a03a7db5e0663eccd81c9633504a497ea2558a9720dc4d2e2"
+
+[[files]]
+file = "config/alexsmobs/grizzly_bear_spawns 3.json"
+hash = "d377829922ac293195df4858d28e6494188703dc3b702a6bf4ae82da583e35da"
+
+[[files]]
+file = "config/alexsmobs/grizzly_bear_spawns.json"
+hash = "d377829922ac293195df4858d28e6494188703dc3b702a6bf4ae82da583e35da"
+
+[[files]]
+file = "config/alexsmobs/guster_spawns.json"
+hash = "831153c3b17de103610f3a181671eb14bd3c5c3b1e2d4bfc372096ee4a980757"
+
+[[files]]
+file = "config/alexsmobs/hammerhead_shark_spawns 3.json"
+hash = "23dbc68c7e6b3862e99631cc033ef4c12526974ad85f8d55743cb7a845df423a"
+
+[[files]]
+file = "config/alexsmobs/hammerhead_shark_spawns.json"
+hash = "23dbc68c7e6b3862e99631cc033ef4c12526974ad85f8d55743cb7a845df423a"
+
+[[files]]
+file = "config/alexsmobs/hummingbird_spawns 3.json"
+hash = "5ed537846e21e2e47bf3866de3d5b21cf165a058f7b3fea7eb92c797e6372103"
+
+[[files]]
+file = "config/alexsmobs/hummingbird_spawns.json"
+hash = "5ed537846e21e2e47bf3866de3d5b21cf165a058f7b3fea7eb92c797e6372103"
+
+[[files]]
+file = "config/alexsmobs/kangaroo_spawns 3.json"
+hash = "9496743c71c6cdb2d25ff84f317f504c8e922b8bf6c5c47fd0d87bf2d7bad557"
+
+[[files]]
+file = "config/alexsmobs/kangaroo_spawns.json"
+hash = "9496743c71c6cdb2d25ff84f317f504c8e922b8bf6c5c47fd0d87bf2d7bad557"
+
+[[files]]
+file = "config/alexsmobs/komodo_dragon_spawns.json"
+hash = "385333b4e2c274bd430cb8ddcb77a262411725869f17c64f5ba5f0466e80ff3e"
+
+[[files]]
+file = "config/alexsmobs/leafcutter_anthill_spawns.json"
+hash = "c23386e8908aef2a03a7db5e0663eccd81c9633504a497ea2558a9720dc4d2e2"
+
+[[files]]
+file = "config/alexsmobs/lobster_spawns 3.json"
+hash = "b122e57f74ba2245e121712701c06f7b3f9c9763b95144f51862fcdd0b340514"
+
+[[files]]
+file = "config/alexsmobs/lobster_spawns.json"
+hash = "b122e57f74ba2245e121712701c06f7b3f9c9763b95144f51862fcdd0b340514"
+
+[[files]]
+file = "config/alexsmobs/mantis_shrimp_spawns.json"
+hash = "23dbc68c7e6b3862e99631cc033ef4c12526974ad85f8d55743cb7a845df423a"
+
+[[files]]
+file = "config/alexsmobs/mimic_octopus_spawns.json"
+hash = "9900e066e510b9ed7572e20c313c7881d48266c827e709a79946f9f85c0d7b34"
+
+[[files]]
+file = "config/alexsmobs/mimicube_spawns.json"
+hash = "84a948f4e9db78a433f0967192d8b8b4a13c1b23f514647dd2cce5331f7a8075"
+
+[[files]]
+file = "config/alexsmobs/moose_spawns 3.json"
+hash = "916f504354da635265415a46a277420ec448a95f39fa1a3e37dede5b3b67ae8b"
+
+[[files]]
+file = "config/alexsmobs/moose_spawns.json"
+hash = "916f504354da635265415a46a277420ec448a95f39fa1a3e37dede5b3b67ae8b"
+
+[[files]]
+file = "config/alexsmobs/mungus_spawns 3.json"
+hash = "d40eec08e2419c044ec67c1a456b92f65bd5430124bb14c4f4dabebbc6862ee0"
+
+[[files]]
+file = "config/alexsmobs/mungus_spawns.json"
+hash = "d40eec08e2419c044ec67c1a456b92f65bd5430124bb14c4f4dabebbc6862ee0"
+
+[[files]]
+file = "config/alexsmobs/orca_spawns.json"
+hash = "4095b4129bf2f1dc3dc307092fade7905a95f07dff6d3fd5dee1879378c96eca"
+
+[[files]]
+file = "config/alexsmobs/platypus_spawns.json"
+hash = "40d8bbdd4dfa6091779e5e2cff88c886094301ecfe3c051b255db489e1a204f6"
+
+[[files]]
+file = "config/alexsmobs/raccoon_spawns.json"
+hash = "9dfea64c487595e81b66450bd9f824cf4ebf96b4d965db826b23cb4e3e774db9"
+
+[[files]]
+file = "config/alexsmobs/rattlesnake_spawns.json"
+hash = "f1431d6255a8d59e7691e7eaba78966e4faa4509c5703921857cf3ae000ca5bb"
+
+[[files]]
+file = "config/alexsmobs/roadrunner_spawns.json"
+hash = "f1431d6255a8d59e7691e7eaba78966e4faa4509c5703921857cf3ae000ca5bb"
+
+[[files]]
+file = "config/alexsmobs/seagull_spawns.json"
+hash = "b122e57f74ba2245e121712701c06f7b3f9c9763b95144f51862fcdd0b340514"
+
+[[files]]
+file = "config/alexsmobs/seal_spawns.json"
+hash = "9443de3ee573c4644b7ff40489a6bd5c51ce905754e5f82a425529f2cfa67d96"
+
+[[files]]
+file = "config/alexsmobs/shoebill_spawns 3.json"
+hash = "c8953bee18d46925703bc87f5e5867a4f5ecf62d6a8aa7e98688cb6ce7d33d8b"
+
+[[files]]
+file = "config/alexsmobs/shoebill_spawns.json"
+hash = "c8953bee18d46925703bc87f5e5867a4f5ecf62d6a8aa7e98688cb6ce7d33d8b"
+
+[[files]]
+file = "config/alexsmobs/snow_leopard_spawns.json"
+hash = "cac00b264cd38878ca005b619aeb372b62924437858f9fcf0d7db48ea29e6db6"
+
+[[files]]
+file = "config/alexsmobs/soul_vulture_spawns.json"
+hash = "a640308c54d921a400c1129e6c0da14792acd55c593f6c15bcd491b74e6f46c0"
+
+[[files]]
+file = "config/alexsmobs/spectre_spawns.json"
+hash = "84a948f4e9db78a433f0967192d8b8b4a13c1b23f514647dd2cce5331f7a8075"
+
+[[files]]
+file = "config/alexsmobs/straddler_spawns.json"
+hash = "d856260050bbe198a968ae7023105310a03e9c9419f01524d66bca538b3b6aa4"
+
+[[files]]
+file = "config/alexsmobs/stradpole_spawns 3.json"
+hash = "d856260050bbe198a968ae7023105310a03e9c9419f01524d66bca538b3b6aa4"
+
+[[files]]
+file = "config/alexsmobs/stradpole_spawns.json"
+hash = "d856260050bbe198a968ae7023105310a03e9c9419f01524d66bca538b3b6aa4"
+
+[[files]]
+file = "config/alexsmobs/sunbird_spawns.json"
+hash = "5c7082c4252b76e824aba41fbe9c288937b9257463552f6f3b9b46ab4cbc0f67"
+
+[[files]]
+file = "config/alexsmobs/tarantula_hawk_spawns.json"
+hash = "4865168c1f84366984071fd3142c5ab62150c9ab7775c69f6ed326b0c375c4ed"
+
+[[files]]
+file = "config/alexsmobs/tasmanian_devil_spawns.json"
+hash = "625b8bbee8555ab18a6683e5d286558d0687cdce774adb1c46bea7ec4f908e6c"
+
+[[files]]
+file = "config/alexsmobs/tiger_spawns 3.json"
+hash = "bc9eb04a33be23d020414d3af21ec774fcd5f923b6711873ab06278268136789"
+
+[[files]]
+file = "config/alexsmobs/tiger_spawns.json"
+hash = "bc9eb04a33be23d020414d3af21ec774fcd5f923b6711873ab06278268136789"
+
+[[files]]
+file = "config/alexsmobs/void_worm_spawns.json"
+hash = "6712a2d6165ed52b7d251a8fc4cbfb6c1f834210a8bda82b55440402fd2d3273"
+
+[[files]]
+file = "config/alexsmobs/warped_mosco_spawns 3.json"
+hash = "6712a2d6165ed52b7d251a8fc4cbfb6c1f834210a8bda82b55440402fd2d3273"
+
+[[files]]
+file = "config/alexsmobs/warped_mosco_spawns.json"
+hash = "6712a2d6165ed52b7d251a8fc4cbfb6c1f834210a8bda82b55440402fd2d3273"
+
+[[files]]
+file = "config/alexsmobs/warped_toad_spawns.json"
+hash = "ef1c7706f776f9119c317c7de47cf425484d52e4aa235fd10347b83855ec3e36"
+
+[[files]]
+file = "config/appleskin-client.toml"
+hash = "4f8278b45def834a2a6c03b9b2c29d821808bdb36e6be39abb4be38e81f863ae"
+
+[[files]]
+file = "config/aquaculture-common.toml"
+hash = "5117e87a5d1984b0cf4ddc2efbcf139579b2fd26874ba11c6d3fb186cc19467e"
+
+[[files]]
+file = "config/betteradvancements-client.toml"
+hash = "e4ef31b41c4bda81ff1a072d9ba3ac9e0c674063d91b72e5779f5369a6d58a4c"
+
+[[files]]
+file = "config/betterdungeons-forge-1_16.toml"
+hash = "d20dcb7e9112926cc918d3143e170a0dc5cdb09e044fea22c3d13a546dcf8b18"
+
+[[files]]
+file = "config/betterf3.toml"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
+file = "config/bettermineshafts-forge-1_16.toml"
+hash = "e31832e7b79c39c86b24085a087f5a6e79c6f32f782dbb4fd542470273105259"
+
+[[files]]
+file = "config/bettermineshafts/1_16/README.txt"
+hash = "b2222a54a5fcaeba7597d0d88f49d184e33cb4532b60e393b9a6d832a02e62c9"
+
+[[files]]
+file = "config/bettermineshafts/1_16/biomeTags.txt"
+hash = "d1e6c75dd7378bd478d4e119a0d1fa408084ce86f19a5f560a4f70f7b3577b7f"
+
+[[files]]
+file = "config/bettermineshafts/1_16/variants.json"
+hash = "4d4ef65296286efb13a5bedf2845314ac64f1ea2b8d02cfe014588d76914d6b7"
+
+[[files]]
+file = "config/bettermineshafts/README.txt"
+hash = "5e4216e07280b8881466f5b1010f8006ff9477054b366a1f4c0b24cba0b8d030"
+
+[[files]]
+file = "config/betterstrongholds-forge-1_16.toml"
+hash = "b6f12c5a0c42d24d81111ce2eb80bbb58414b4d7259c58a0df68f7e4babe6e75"
+
+[[files]]
+file = "config/betterstrongholds/README.txt"
+hash = "13c5f6bd52bf778533a100453d8b295802f923109e0a2951446a00674113700b"
+
+[[files]]
+file = "config/betterstrongholds/forge-1_16/README.txt"
+hash = "5aad271e60a03218eb5207dd78df8d1d36c676f212bf823701e33646010d2f19"
+
+[[files]]
+file = "config/betterstrongholds/forge-1_16/armorstands.json"
+hash = "1c6580ae4b02184e73fe73679c7815420f12017f141e5de3cfe8d5ff257fbc33"
+
+[[files]]
+file = "config/betterstrongholds/forge-1_16/itemframes.json"
+hash = "00d0ee1c885109657aea5b0b0a86cc66763aa5e24f5e6731c98cbc6557f0ca23"
+
+[[files]]
+file = "config/betterstrongholds/forge-1_16/ores.json"
+hash = "f41594a1a369fbfe8837e7c74b0c39602ccd3319d21444fad591a3c87e44aa4a"
+
+[[files]]
+file = "config/betterstrongholds/forge-1_16/rareblocks.json"
+hash = "5c5a6e7ff7b71daecefaaec96e78c323102771201090be3ebd34156ef99ab80d"
+
+[[files]]
+file = "config/botanypots-client.toml"
+hash = "e0b307f74e891ee98f13d41bd47ebc418c6c8f355e04d36788cc4a253ae96be0"
+
+[[files]]
+file = "config/camera-client.toml"
+hash = "6bdf32652cd6f47fe0394415f020d270a39e509e5383e47db6b9c1fbe5abebfe"
+
+[[files]]
+file = "config/carryon-client.toml"
+hash = "29404dd87867d12c1e60bf3295f5f6fd4229d056ac321733fba1113020ad21e8"
+
+[[files]]
+file = "config/cavebiomeapi-common.toml"
+hash = "9955ad7cbf0655c4576e90257f25bf629d05d4a79c602a9c01ed774072347c84"
+
+[[files]]
+file = "config/cavesandcliffs-common.toml"
+hash = "16daeecdc2e54c55e2475c53a65676894c221322fd6c082766f8afb8fb66acde"
+
+[[files]]
+file = "config/ccl.cfg"
+hash = "e92f3d8576a2a5c5d76c9cdbf5fc25d11aa10049fc9f67f81983cf42184a5a42"
+
+[[files]]
+file = "config/charm-common.toml"
+hash = "2dc19c650f9dfbdddcda0a8c531f8ff940e98095dc5403b77f95855f8e78dae0"
+
+[[files]]
+file = "config/cinderscapes-common.toml"
+hash = "ed0732720283437fb5b4be7c007f71616a2072c9261338fde6e777565a113969"
+
+[[files]]
+file = "config/citadel-common.toml"
+hash = "502f72085a269be20dbcf98ec8327bccce945ad978e6502aab97efcfc261d515"
+
+[[files]]
+file = "config/clickadv-common.toml"
+hash = "624b6530baf23c6d638e63576d3ddda00453de104a27f27fe537fbf947e405b9"
+
+[[files]]
+file = "config/clienttweaks-client.toml"
+hash = "38614528e3cabff84642be49923e01159db3221de1dd2cefabca4ab920077f20"
+
+[[files]]
+file = "config/collective-common.toml"
+hash = "a7c4820b8350f680c42e52bff283b04f4933b8deca0137f0085ef4a2adb2b975"
+
+[[files]]
+file = "config/cosmeticarmorreworked-client.toml"
+hash = "000b9988ecbe8b294dc3577d1867b09954e237775b3a252af45df0b4cb2c591c"
+
+[[files]]
+file = "config/cosmeticarmorreworked-common.toml"
+hash = "bbcc81de697b22295d1fb327a0fd0b1deebe86a33daba4713c341e15ecf89316"
+
+[[files]]
+file = "config/create-client.toml"
+hash = "a9ae1b341ac976feea8a2488cfac8d1521e62d0e44f13178b3a634a7f7a3306f"
+
+[[files]]
+file = "config/create-common.toml"
+hash = "990b04a163c519cded399be5b5a1a24a96a99016152a34e75c1e2290623780d3"
+
+[[files]]
+file = "config/createaddition-common.toml"
+hash = "f0ba7545b7c368c05fb8b208f39cab72cff09647c2417a2cc11ab460b99e03ae"
+
+[[files]]
+file = "config/createchunkloading-common.toml"
+hash = "a75150eb49ee99433302e607649891278396324d7551fc91aa7a6e90f36c5cbf"
+
+[[files]]
+file = "config/createdeco-client.toml"
+hash = "01ba4719c80b6fe911b091a7c05124b64eeece964e09c058ef8f9805daca546b"
+
+[[files]]
+file = "config/createdeco-common.toml"
+hash = "8218d6c053f4ac108a171caf4ba7d1b4d2462b53a596328b250363c332bad32c"
+
+[[files]]
+file = "config/curios-client.toml"
+hash = "1ac04b541d19cc58791e5ceea4a46b7e1d75a2b4b2d5e359b9fcab606e5ef750"
+
+[[files]]
+file = "config/defaultworldtype/client-config.toml"
+hash = "f5d73fcde6e4a3119b06508707d503945185b868f5ad25021d17a17871a9bf9f"
+
+[[files]]
+file = "config/defaultworldtype/world-types.txt"
+hash = "0bef48aba8369e33df66ca410088bdf482dfbe18252a2defef31b4172c0b57cb"
+
+[[files]]
+file = "config/dsurround/dsurround-client.toml"
+hash = "8f9f88f4bb9744233cee6fb00614a9e8db74b2fa25e9336d0ae348d6900fd4b0"
+
+[[files]]
+file = "config/dsurround/environs-client.toml"
+hash = "424ff7b37da7af241a96b3affa79e281ec4841a994ae3f7c9e91ce5ba5f21234"
+
+[[files]]
+file = "config/dsurround/mobeffects-client.toml"
+hash = "f90b383687c30844f51ec994c366de0b0e3cccfe8ff4f947d05529e95b3201f7"
+
+[[files]]
+file = "config/dsurround/sndctrl-client.toml"
+hash = "4f42a3a4fdf490f0edc8fd00c0f01c7483bea450c4bdee25464eeca553e1ef53"
+
+[[files]]
+file = "config/dynview-common.toml"
+hash = "fd42cb5fcec8f3fa8327abfa515d0213a5eb329cd75dc725d6797b279d9cd973"
+
+[[files]]
+file = "config/eidolon-client.toml"
+hash = "d3054c8b221c271f37f94f444675898a3eb75e825306b4402a5c5414bdd8bf1c"
+
+[[files]]
+file = "config/eidolon-common.toml"
+hash = "25fe18fb8de9dd83462d7e26a309767c627a2cf4b74aacdd55dd15353b0aa244"
+
+[[files]]
+file = "config/enchdesc-client.toml"
+hash = "7003663b72511c7985447560250b795521792e3ab9964788d6b23b50d182f018"
+
+[[files]]
+file = "config/enigmaticlegacy-client.omniconf"
+hash = "f8934472fa64c32a4612ac46bce9dee4c357af4c769844b55a57674cb3533f5c"
+
+[[files]]
+file = "config/enigmaticlegacy-common.omniconf"
+hash = "2ec7176cd27b21d64f931f15b393fa07499edc6cd00dfe785591fb52a11c78ce"
+
+[[files]]
+file = "config/explorerscompass-client.toml"
+hash = "8bcb1e2cf784ee67e9ea3ebf376d7406361e8f97a0abf7d458cd82ddcad2eb7b"
+
+[[files]]
+file = "config/explorerscompass-common.toml"
+hash = "8c6e6ec46c90a88cecb665008ed3a94e216aab27843e28210ff23b27d88cdaa9"
+
+[[files]]
+file = "config/farmersdelight-client.toml"
+hash = "e37ea6a7a84da2bfd1a7a29131795eb7fac23d8e0ff0d4bfd49f094d577b6516"
+
+[[files]]
+file = "config/farmersdelight-common.toml"
+hash = "82dc45ead5845e9d6543157cd272f9c84af76f6430be8d7a640dcde0d95268cc"
+
+[[files]]
+file = "config/ferritecore-mixin.toml"
+hash = "8fa737c13c0b60beba975cb3cd2d8098a13e2e870c19c9eb00e2c63ce22f9226"
+
+[[files]]
+file = "config/flywheel-client.toml"
+hash = "c3ff2780e4563a6f9d26427b6b0840aa7e09e2cd512cabc9f77ef0766c499fa2"
+
+[[files]]
+file = "config/fml.toml"
+hash = "2d17d5c8d36af6bf752373770e035dd9aaec9c4d8d3e55f9cf27df40e758e69a"
+
+[[files]]
+file = "config/forge-client.toml"
+hash = "111c632da9dd8ac4db647b78f4a968ffd44afb039e6031804b8d8e612b6468c4"
+
+[[files]]
+file = "config/forge-common.toml"
+hash = "55c992b7e9fe0c07ae54f36f31104a85ebda7571a01f623ff20df4acfdcc9b0c"
+
+[[files]]
+file = "config/forgeendertech-client.toml"
+hash = "01ba4719c80b6fe911b091a7c05124b64eeece964e09c058ef8f9805daca546b"
+
+[[files]]
+file = "config/forgeendertech-common.toml"
+hash = "c64659c0d13cabf25bf16c30a1e91e5c9a0d25189d14bf96c52430efe2abe647"
+
+[[files]]
+file = "config/forgeendertech/Biomes/betterendforge$amber_land.cfg"
+hash = "f7c5de589cb6df9f6a79ea79377863c0ce79f1e22b0bc7675b1bdd0a8fa110a3"
+
+[[files]]
+file = "config/forgeendertech/Biomes/minecraft$plains.cfg"
+hash = "b800c2b5b033a73672590e97848e6c714be080468e2749b727f612fc6995a313"
+
+[[files]]
+file = "config/forgeendertech/Wind 3.cfg"
+hash = "489f928538aedfe92ebac0966d12bd0b0806ec4d3ee00e8da2d205b5ba53024d"
+
+[[files]]
+file = "config/forgeendertech/Wind.cfg"
+hash = "489f928538aedfe92ebac0966d12bd0b0806ec4d3ee00e8da2d205b5ba53024d"
+
+[[files]]
+file = "config/fpsreducer/fpsreducer-client 3.toml"
+hash = "ba2af4174e3544ecd6f45b42553b583777645a773315c2ecfa2dc1f40a7102a8"
+
+[[files]]
+file = "config/fpsreducer/fpsreducer-client.toml"
+hash = "ba2af4174e3544ecd6f45b42553b583777645a773315c2ecfa2dc1f40a7102a8"
+
+[[files]]
+file = "config/ftb-power-pots-common.toml"
+hash = "001ae0ed653d6711c1d977bf1356a390022198258d36cce31e657a1fa9be1189"
+
+[[files]]
+file = "config/goblintraders-common.toml"
+hash = "0e7beec6db975cd5428a64b054420d9eae0b459f28762ee16b288a087fc3d10b"
+
+[[files]]
+file = "config/guardvillagers-client.toml"
+hash = "3c371923f2b6a24791995797d390904ef8975b9caf2c981339b8971361d07b0d"
+
+[[files]]
+file = "config/guardvillagers-common.toml"
+hash = "f5d0fbcbf769645dcc889eeecb4b6d17bef5d5d32a70fcc0b1a65438e25c2801"
+
+[[files]]
+file = "config/healingcampfire-common.toml"
+hash = "e15bf1087f90a368393a1915c62a809e657cd4d2cff33619ffc451a2d37895c2"
+
+[[files]]
+file = "config/hourglass-client.toml"
+hash = "1d00dc6e695663622b7b669f5d86322d57f8e66b8821b47ecb0156c0118faab1"
+
+[[files]]
+file = "config/inventory_pets_illuminati_blacklist.json"
+hash = "cd1d4ee0081e5c124a95976e5260af16b4cf28ccdc7f302159f477f9e9419fb8"
+
+[[files]]
+file = "config/inventoryhud-client.toml"
+hash = "ebe878c8cdf5e71871e1c8e9206892da1f5ef40642e0d075b4dc744c5f04b5b2"
+
+[[files]]
+file = "config/inventorypets-common.toml"
+hash = "9c17d925e525aa0938a3f694658368cbdd836f3f9cea9f2a5dc042a5d1add81d"
+
+[[files]]
+file = "config/jade-common.toml"
+hash = "d1dece3ce096d09b1d5853ff93f2ef7dd06c412970cb23a0a63fa5346f14e3ce"
+
+[[files]]
+file = "config/jeed-client.toml"
+hash = "b513b679c34a5c6391c522495a02ff499eb7f29e38e2997d006545b9edab593d"
+
+[[files]]
+file = "config/jei-client.toml"
+hash = "567559fed4eeb2232bebbc5d7266ae3a094620e6e6500f794a25ab032dddc8b3"
+
+[[files]]
+file = "config/jei/ingredient-list-mod-sort-order 3.ini"
+hash = "ac6876391cae0114157d952bd01e8d4f5807e570d012b075f04be6ff85016227"
+
+[[files]]
+file = "config/jei/ingredient-list-mod-sort-order.ini"
+hash = "096b79a1de5284044ed473b0d3ae6c3387d8666d751b664a751a7eb11b52a9ed"
+
+[[files]]
+file = "config/jei/ingredient-list-type-sort-order.ini"
+hash = "0313e5d72d642f78afddd02f03ef44304bb26ed166db854ed71d53d4777a6449"
+
+[[files]]
+file = "config/jei/recipe-category-sort-order.ini"
+hash = "fe3858cfcc3644dd521484aa4c34236f638a49f051b5643c4fecf1a1457dbcb8"
+
+[[files]]
+file = "config/jeresources-common.toml"
+hash = "13a4d5e1d1ac4207cbebef810696525975ec4f0c2470f6b858cbd9f62a6cd3ec"
+
+[[files]]
+file = "config/jeresources.toml"
+hash = "13a4d5e1d1ac4207cbebef810696525975ec4f0c2470f6b858cbd9f62a6cd3ec"
+
+[[files]]
+file = "config/konkrete/locals/de_de.local"
+hash = "79a34cfd15c2d9c06498dc221be79279507d9b57666cd44f8d2c2cf95d3582ef"
+
+[[files]]
+file = "config/konkrete/locals/en_us.local"
+hash = "fdf1864fd049b3f1b9af1f8db6c5125a627be7d06a451c778da3329843d3c39a"
+
+[[files]]
+file = "config/konkrete/locals/pl_pl.local"
+hash = "d38a7776e362e4de6082078d803c1c9358d9d40526edfe4bdfd29c552aef76d8"
+
+[[files]]
+file = "config/konkrete/locals/pt_br.local"
+hash = "dca55a2792451b31424cd5c24037141ec57cdca51955d062dd908fa9ca6a3e9c"
+
+[[files]]
+file = "config/lootr-common.toml"
+hash = "1c6ce2ca5ca029f4df61f3bc043be65d5f9e0797ccac288c11274b508803e7d7"
+
+[[files]]
+file = "config/mantle-client.toml"
+hash = "bcdc80d141bdc59a355106e0c5d474019742d2bf8c853c87aa9c7d7b31172cb4"
+
+[[files]]
+file = "config/miniutilities-client.toml"
+hash = "01ba4719c80b6fe911b091a7c05124b64eeece964e09c058ef8f9805daca546b"
+
+[[files]]
+file = "config/miniutilities-common.toml"
+hash = "d45f7481eed0baeca96021204ad29c17e0f8bff90c560bfd556c4e7531e8b00b"
+
+[[files]]
+file = "config/miniutilitiescomplex/quantumquarryores 3.json"
+hash = "7381c69b397629bc9da0d9c0fd35861077d2dd17cf79c60bcfa0bbb966e9c5df"
+
+[[files]]
+file = "config/miniutilitiescomplex/quantumquarryores.json"
+hash = "7381c69b397629bc9da0d9c0fd35861077d2dd17cf79c60bcfa0bbb966e9c5df"
+
+[[files]]
+file = "config/naturescompass-client.toml"
+hash = "12e21e8f6b4f99c727bf907935dbc7140cfd8e332f494e067f1c5fb7077b98d2"
+
+[[files]]
+file = "config/naturescompass-common.toml"
+hash = "19e32515b4d9338aaa605bcd30dda6634d0a999f82ed0689749d95cb40397f5a"
+
+[[files]]
+file = "config/origins.toml"
+hash = "446840dedd131aed8a45983de31d5d0df8de73bbc737ab999f2fc84c92c02afa"
+
+[[files]]
+file = "config/origins_server.toml"
+hash = "772f4282003326bbe033b2dd914f23beb329dc578b113d67d1d07ca2e797d86f"
+
+[[files]]
+file = "config/patchouli-client.toml"
+hash = "7efa7a0d56b8c0bbcc720a09d34260fa85af7ccb7114ed597f178607568d9df9"
+
+[[files]]
+file = "config/performant-common.toml"
+hash = "7a58f35ef297a4a7731894f9b430281b2d6c41d68c5aaf435681914065f98917"
+
+[[files]]
+file = "config/pipez-client.toml"
+hash = "01ba4719c80b6fe911b091a7c05124b64eeece964e09c058ef8f9805daca546b"
+
+[[files]]
+file = "config/puddles-common.toml"
+hash = "8eed4402d81ae4a0a05ff6442e4daa6f234ef6bfb715e9c228aa961af5523c9c"
+
+[[files]]
+file = "config/quark-common.toml"
+hash = "a85af62b0b3ddfbd653a3839704e644b782dceb9c9c72b383dc970b4abde9307"
+
+[[files]]
+file = "config/randompatches.toml"
+hash = "fcb7bc9635352ad966fcda0d733445e7363ffa2629bd4e71d58cc2f6589a8717"
+
+[[files]]
+file = "config/regrowth-common.toml"
+hash = "9f5248ecae6e3f0f9260412c6fa26431a5b8b0df4308c820ed78b8fbaeee8559"
+
+[[files]]
+file = "config/relics-common.toml"
+hash = "78bd89b5626591768ed5c14d32c8b03afb767ac7aec3ab240bc5be71578633b4"
+
+[[files]]
+file = "config/relics/items/relics/amphibian_boot.json"
+hash = "945ae9a591a740792d922b4bec234375476bd3ea5a06d5b1cd94a627e84614fd"
+
+[[files]]
+file = "config/relics/items/relics/arrow_quiver.json"
+hash = "721c447175d26bbb22bda3cd50e09b7b1f2e87e9a5a7c67758022a782aaad4af"
+
+[[files]]
+file = "config/relics/items/relics/bastion_ring.json"
+hash = "7f45bd908ecf140d10656ffcf74450eb96add7727c260fbc110b7d71beda089f"
+
+[[files]]
+file = "config/relics/items/relics/blazing_flask.json"
+hash = "6257f666d1596e368b47c0661e893c0a60101d2f3e6de5c37afb399aa3509493"
+
+[[files]]
+file = "config/relics/items/relics/camouflage_ring.json"
+hash = "36b93f21e5a3dbe7816f1a80d303e2eb66229a9e7edf5895f58469dc1999ee1d"
+
+[[files]]
+file = "config/relics/items/relics/chorus_inhibitor.json"
+hash = "7edda931e115778853ccfab9547857a55db264f536eeff970a10483bc27c6b9b"
+
+[[files]]
+file = "config/relics/items/relics/delay_ring.json"
+hash = "c8212b5edfdfdeee9d1d23c731ab50a6424673f4494b85a60fe18ded6e9b2b54"
+
+[[files]]
+file = "config/relics/items/relics/drowned_belt.json"
+hash = "10456db6261cd3baa5a9e84bedba8ed04cff241bb6fbdd27195ee75a48f185ef"
+
+[[files]]
+file = "config/relics/items/relics/elytra_booster.json"
+hash = "46dc05baee9e7edda7a4463ca7591c672c519e17bf71716127ea7168613649bb"
+
+[[files]]
+file = "config/relics/items/relics/enders_hand.json"
+hash = "6e54828302390e99a2da4ef842f17715b7410449bb91f63d7f620c296cfcd0a6"
+
+[[files]]
+file = "config/relics/items/relics/fragrant_flower.json"
+hash = "7aaaeef510e8d90665ea82e0bb6fce1124fd018c4b2f837a6ea521483aefdce8"
+
+[[files]]
+file = "config/relics/items/relics/holy_locket.json"
+hash = "1f334e8b0bb47b6ae4c87aaa8052d57deaa7b75ce913d8adb687c6158a23d80a"
+
+[[files]]
+file = "config/relics/items/relics/hunter_belt.json"
+hash = "d4c7e48f461854eeb98b53715dae438dc5e7243e26b5de46c2efdd2fe66cbaa5"
+
+[[files]]
+file = "config/relics/items/relics/ice_breaker.json"
+hash = "9c73f0fcbf9a7d3a24f05651f44a3d01615603cf9d5b52ba9c405c6293515a6b"
+
+[[files]]
+file = "config/relics/items/relics/ice_skates.json"
+hash = "ad52aff9097f535f849211b9ddfe26a53ffe7b7e6b03adfad35e062311ce5653"
+
+[[files]]
+file = "config/relics/items/relics/infinity_ham.json"
+hash = "9d8db4d01e9600757cbdca5c2905e294672928225eec2a9fe04e0769cdd37d44"
+
+[[files]]
+file = "config/relics/items/relics/jellyfish_necklace.json"
+hash = "39d9f875608b67d4e9eaccc46a7b335a242faad004003f475965c7c32c8814f9"
+
+[[files]]
+file = "config/relics/items/relics/lucky_horseshoe.json"
+hash = "d7829e56831a1f79890346100c4cb7f0775bc3393bfe6366c8e5ac36efd9af2d"
+
+[[files]]
+file = "config/relics/items/relics/magic_mirror.json"
+hash = "49a068126a9de536d00e655956c0f0e975494dad96e822494ad8296806ae37bd"
+
+[[files]]
+file = "config/relics/items/relics/magma_walker.json"
+hash = "483ef6c5b4cf0742438c21d790b4f0eea0a1fdb11a88b3232a6439a1e8ca224a"
+
+[[files]]
+file = "config/relics/items/relics/midnight_robe.json"
+hash = "c473c3dc691129160099654c811827b25db9ea76f95a4d3bf94b6e4aa25b662a"
+
+[[files]]
+file = "config/relics/items/relics/old_boot.json"
+hash = "e354dcddc1e456d4be880af6b14ce30bca25f22c6cab0434401be50810b9c065"
+
+[[files]]
+file = "config/relics/items/relics/out_runner.json"
+hash = "b8c5ee6b117d8e9bd77f8f38a0a28ed11cb48210043f921cbe33ec9475ec6245"
+
+[[files]]
+file = "config/relics/items/relics/rage_glove.json"
+hash = "2c2e5e9b30df1021298938b0c76fd3e904df9b3fc0eef5268842571850e35ba6"
+
+[[files]]
+file = "config/relics/items/relics/reflection_necklace.json"
+hash = "9653087dfc30420db14584d3dd89eed86684eab8afd81de9299ca589c636a0ae"
+
+[[files]]
+file = "config/relics/items/relics/scarab_talisman.json"
+hash = "09ae9a9d090c27e4cec0b5d35c3a61cb4caa3ec3706cf6f16e3e4e86bffd8cc9"
+
+[[files]]
+file = "config/relics/items/relics/shadow_glaive.json"
+hash = "8ff3cef0dccd09704a4b5402c9a0dcf035c1bf172789c9b811fbefd889745357"
+
+[[files]]
+file = "config/relics/items/relics/slime_heart.json"
+hash = "0755ca6e235b410de0b521029f49c498e6bb420a32b990d5e8c09d0312993b2e"
+
+[[files]]
+file = "config/relics/items/relics/soul_devourer.json"
+hash = "7b4dc9334024c7a6687b60c5fe84facad10eadb00778ef14076e835234e715ad"
+
+[[files]]
+file = "config/relics/items/relics/space_dissector.json"
+hash = "20ed8a9771e8b1bb9b9a777db1ac3fd5b971f9d1f2c54d10761b02bb79ac1f25"
+
+[[files]]
+file = "config/relics/items/relics/spatial_sign.json"
+hash = "843ab42a0313c934f8d2f755588e196fa7c2c7070be94114736d0141dc40a310"
+
+[[files]]
+file = "config/relics/items/relics/spider_necklace.json"
+hash = "7d577651c080ff480ee1add04b8d8984a28e3805ee5f70aa263d2fe493ee2602"
+
+[[files]]
+file = "config/relics/items/relics/spore_sack.json"
+hash = "5b4954aa47c4537e386a8197633762f2f0520ee5f4699a41e5712cbe29614848"
+
+[[files]]
+file = "config/relics/items/relics/stellar_catalyst.json"
+hash = "7a3eb96fa0c1a843405afdd882c5175e0a29478ea90cec5f7d10f6e16f8f8dc5"
+
+[[files]]
+file = "config/relics/items/runes/rune_of_air.json"
+hash = "e8406fb826b60414a0c88348a06e0ef2a0455c4fe26b3d4bca4a6c01095524bb"
+
+[[files]]
+file = "config/relics/items/runes/rune_of_cold.json"
+hash = "661c2a74a4034b6f2407912b88f56f44cac950edd6dcbf818717b4976dffa04f"
+
+[[files]]
+file = "config/relics/items/runes/rune_of_earth.json"
+hash = "1cec9e11f40bb5500e742d5b9c57ac6c4402177278234a3c55feb1e55ef58b4c"
+
+[[files]]
+file = "config/relics/items/runes/rune_of_explosion.json"
+hash = "a4b448734dfa55859d671d87e50b67cba41f7a945727fd8ffc12d9008f622e19"
+
+[[files]]
+file = "config/relics/items/runes/rune_of_fire.json"
+hash = "04d35dcd7ed0950b8ebb634e8ac7c398cb888a583de30310c28094ae380f15f7"
+
+[[files]]
+file = "config/relics/items/runes/rune_of_lightning.json"
+hash = "888373ccafce2f72173056b6603ad004d8bf65895c694d3b28dc2ca35abb0c0d"
+
+[[files]]
+file = "config/relics/items/runes/rune_of_love.json"
+hash = "8b3fb79e6d0e900f2f43d7d7552a155b20dec893f9be607ba7be6efb04acd011"
+
+[[files]]
+file = "config/relics/items/runes/rune_of_luck.json"
+hash = "b201fe945da75a3382a4ae4dd60f4563f2f036646e633a85bb5c49229271ce85"
+
+[[files]]
+file = "config/relics/items/runes/rune_of_moon.json"
+hash = "490b3b49d48f6b7f6708ff1c682a6cc89e6c7d360331616e10e813573317d2d5"
+
+[[files]]
+file = "config/relics/items/runes/rune_of_redstone.json"
+hash = "c01387d78d02b6f2fdad26c9389afddc586b33d219a57a7a8c3193924a4a7b33"
+
+[[files]]
+file = "config/relics/items/runes/rune_of_sun.json"
+hash = "b4cc6a075fd0d0d3c186442d2bba3214d143fbae4acfbb8244604ea4dfa73a6f"
+
+[[files]]
+file = "config/relics/items/runes/rune_of_water.json"
+hash = "5b54e0e3f974c815627dd59533fded9a7c8bede74c17c79a3e073b471f54ba50"
+
+[[files]]
+file = "config/sidebar_buttons.json"
+hash = "c2adfd6453038abd3081177d5aabc2909d2b9e8dac42560168de166302ba7a39"
+
+[[files]]
+file = "config/smallships-common.toml"
+hash = "864725112ea8bce25a3e1513ee56f2033794e0c02f013f9f95f86c1d65598f34"
+
+[[files]]
+file = "config/snowundertrees-common.toml"
+hash = "5d836255680be269f480f476524902f9b1eea972eb27514d26b501dca2a8ad33"
+
+[[files]]
+file = "config/solcarrot-client.toml"
+hash = "90b11bf7fe7bbf30c05728f2d4bdc51d49138c30359feb6261c6e7f5f04245ee"
+
+[[files]]
+file = "config/soundfilters-client.toml"
+hash = "fde1998be76b8690754fb244bf76bf6c7f30b430409bb0a7a586a850cc74bf4a"
+
+[[files]]
+file = "config/spiders-2.0.toml"
+hash = "d802de39aad74fb7d43eb533ae82d605776a3f0934d9c516f04e2c7a9ef0c0f7"
+
+[[files]]
+file = "config/starterkit/starterkit.txt"
+hash = "06f7a4da566021842dba7215cac094909154596d5e5d0bb0c65c1d5049503d50"
+
+[[files]]
+file = "config/storagedrawers-client.toml"
+hash = "3222421979d704e0e4a195fb95b7553b9387f89ccfe573ee4becc2129264ce77"
+
+[[files]]
+file = "config/storagedrawers-common.toml"
+hash = "c27d9883c2081d1cf4d9b354f3ac24afec5de62717c610033adf644e39e0caf8"
+
+[[files]]
+file = "config/storagenetwork.toml"
+hash = "67851fe688d3fa03d8f0bbd48abfd1deb54c8d0b75a012456ac4b3560c917ae8"
+
+[[files]]
+file = "config/supplementaries-client.toml"
+hash = "17ddf326529b460e2fb41e540e15126c7018454800c5c4819305fc59a8d13e02"
+
+[[files]]
+file = "config/supplementaries-common.toml"
+hash = "ee8ac8cbf46d9d9841620765255f6b9c3dad411b876735ed92c8593abc736287"
+
+[[files]]
+file = "config/supplementaries-registry.toml"
+hash = "2bb5523bb8d0a2459e9b90e266c42ec5910e909d8d656c68b391b0b6f1c2f73d"
+
+[[files]]
+file = "config/syp-common.toml"
+hash = "dea396569ef4eb317630d13178be8e911da7964429c3ac75035dd706cc62c5a4"
+
+[[files]]
+file = "config/tconplanner-client.toml"
+hash = "332e173d35130cde499a8d108aeb52a2ca21773f85e1ada18d12218a91153c1b"
+
+[[files]]
+file = "config/tconstruct-client.toml"
+hash = "c45255888632f63119a31a847ed0f996b6e1e44543281cf9e67c3d311009288d"
+
+[[files]]
+file = "config/tconstruct-common.toml"
+hash = "d9605e1855cb968cc56e214e38870b57757b441c910404b71def6c8609db9450"
+
+[[files]]
+file = "config/terrestria/biomes.json"
+hash = "fd8d1c9348f443667a9112e3d3f30a78a0cd472bf8424b5842b1abe12d2eae49"
+
+[[files]]
+file = "config/terrestria/client 3.json"
+hash = "b27c3c93c0daa36f2e8de359c5118fc1e85f5fc379557d124b5237019ab32beb"
+
+[[files]]
+file = "config/terrestria/client.json"
+hash = "b27c3c93c0daa36f2e8de359c5118fc1e85f5fc379557d124b5237019ab32beb"
+
+[[files]]
+file = "config/terrestria/general 3.json"
+hash = "37b871cd3a0e56564ee751be6e3b6e1c6b49b0a34b4fe75448f572ce25d24236"
+
+[[files]]
+file = "config/terrestria/general.json"
+hash = "37b871cd3a0e56564ee751be6e3b6e1c6b49b0a34b4fe75448f572ce25d24236"
+
+[[files]]
+file = "config/toastcontrol-common.toml"
+hash = "377e52a33efadc26344e9782c78bcd1add03570961ff0ea8c0082e1bd46f1b69"
+
+[[files]]
+file = "config/tomes-common.toml"
+hash = "c988c179f5ac237c9026182104a8453cf9f26fa4aa749b68aee4e9925e830811"
+
+[[files]]
+file = "config/toolstats-client.toml"
+hash = "b995918990264c9e2d5a4e11858071f8a39c751e51f0ed55d430a8fc1573b562"
+
+[[files]]
+file = "config/torchmaster.toml"
+hash = "ef2b046cca7e31b4d7fb6a4f3ca5e3a418d52896d96a319645371fdcc5a6bbe6"
+
+[[files]]
+file = "config/travelerstitles-forge-1_16.toml"
+hash = "2ad9501ac150d224b0f0b4fe463de24397dccd12b2cfaad67b7041a9417c868c"
+
+[[files]]
+file = "config/traverse-common.toml"
+hash = "75f998428052c32bfbcf8d6af1e76d8936cbd598fc4c1923c54fb38f38d91f58"
+
+[[files]]
+file = "config/valhelsia_core-client.toml"
+hash = "933cf6a5d69f023d06c5d5bb3e911db1fe40d6410706a487d975a15e4fe8f7c6"
+
+[[files]]
+file = "config/valhelsia_structures-client.toml"
+hash = "01ba4719c80b6fe911b091a7c05124b64eeece964e09c058ef8f9805daca546b"
+
+[[files]]
+file = "config/valhelsia_structures-common.toml"
+hash = "d167a3f4360e497ae2abd332ec519dc12380ee5c3c3715593b1087f09c82b8d8"
+
+[[files]]
+file = "config/veinmining-client.toml"
+hash = "042a6429fafb1391eda3f506be0e0279e1a31c57a7b33b087b75509cb76fef6e"
+
+[[files]]
+file = "config/voicechat-client.toml"
+hash = "2c970fc720b28d2cf5d9869a5e4a5f4a4d764d828c69928d5f9b530139dd87cf"
+
+[[files]]
+file = "config/waila/waila.json"
+hash = "c074e8354ac105c7bf4913206adbe348f804b177ee40697daa82c88d7fbd6a62"
+
+[[files]]
+file = "config/waila/waila_plugins.json"
+hash = "a7e9a43f1ab5963bf3f13b6edefaa570c3633669f68601c27deb47283e4d4923"
+
+[[files]]
+file = "config/waystones-client.toml"
+hash = "56ad3348eeb4b30d2f8e647f59db45267b473d8fac0045e54ce9d82c2a6883e0"
+
+[[files]]
+file = "config/waystones-common.toml"
+hash = "e6b0c820d504c8f7a501e7d4c7564dd4b0f0882b05e1b771fba54f75d06818d2"
+
+[[files]]
+file = "config/waystones-server.toml"
+hash = "e32979915c094ee20929a0602b17dc8cb29302a2e94a5cd21df0df4828fdf44f"
+
+[[files]]
+file = "config/wyrmroost-client.toml"
+hash = "3767c5e6894d21493009dfacb38806a3250db970c26765c715ef0138d059d723"
+
+[[files]]
+file = "config/wyrmroost-common.toml"
+hash = "af4b12c0b33fc5975d192c541b86ed5e8e2b221634e65bc05fa944df3e80c02b"
+
+[[files]]
+file = "config/yungsbridges-forge-1_16.toml"
+hash = "690409b3e7f766bef1e7c39500bb342fcd71ba2f82a430e16a4864313baa3600"
+
+[[files]]
+file = "defaultconfigs/botanypotstiers-server.toml"
+hash = "404079339e5facf292b66b21f649c067b2079d794cab964bd785aef3ceb4b760"
+
+[[files]]
+file = "defaultconfigs/bountiful-server.toml"
+hash = "1d266faf38bc7711cb47828fd8aa7915c9394bcc09be6e34c4cad2188dd6e1dd"
+
+[[files]]
+file = "defaultconfigs/camera-server.toml"
+hash = "c37bc9f2d574e893892c9f9aadc27f20c5876b5f99f6bbe5c574b87276771cd5"
+
+[[files]]
+file = "defaultconfigs/carryon-server.toml"
+hash = "0b3516ab6f5089ca0914736c387db8b3ccac2a3e999714c2d8a6d801a3c2291c"
+
+[[files]]
+file = "defaultconfigs/chocolate-server.toml"
+hash = "87df2a79653d179ea0aff57c9904ef29bd73ff1ee7dff3d05bd53487800fa25e"
+
+[[files]]
+file = "defaultconfigs/comforts-server.toml"
+hash = "50e4849742dc657dcecb623e55f0835b9d944566dd8193df04995fd48f11f978"
+
+[[files]]
+file = "defaultconfigs/corpse-server.toml"
+hash = "7fd1025fe4f2c5f05cdd8ac2cccbfaaea336a855e0ab97fb923c627d4a1a4a0a"
+
+[[files]]
+file = "defaultconfigs/create-server.toml"
+hash = "6bd7808a18f31fae4640e51bc1621dc2cad452f228e6e08b1fd88defe2f17685"
+
+[[files]]
+file = "defaultconfigs/curios-server.toml"
+hash = "f2bcbdfba60500f00e33d8b345c97a4fba8eb0c607ffe7238312bf161157c6cc"
+
+[[files]]
+file = "defaultconfigs/fastleafdecay-server.toml"
+hash = "2de6fa9f8da179c1d1af2d09fbbaddf75ffd7e89bc93e8c62d6b629212df9a44"
+
+[[files]]
+file = "defaultconfigs/forge-server.toml"
+hash = "a927719fa3ec535f1539720c09c1f87fd0b0a847e62df6f906f52643c1e44209"
+
+[[files]]
+file = "defaultconfigs/hourglass-server.toml"
+hash = "0fc4c370b88fcbd9ffdcd7c9264ee1f0a8bad41ca33e960465844e098d0871f4"
+
+[[files]]
+file = "defaultconfigs/jei-server.toml"
+hash = "6ecd614e209640db093512337a46cc1df2d6be5b1585d024b62742e76585ea5c"
+
+[[files]]
+file = "defaultconfigs/mantle-server.toml"
+hash = "18a6825105e40af0cc92825041945fc23f91339bfa28620406a1448c284b9aa4"
+
+[[files]]
+file = "defaultconfigs/pipez-server.toml"
+hash = "b393f771fde81ed6ba382484ee1260813a6e8bed996c2d230eb8359e59f7a076"
+
+[[files]]
+file = "defaultconfigs/solcarrot-server.toml"
+hash = "ab55ec5a332a1b42e9518d02764663cefb438519e3bbbcdd8d2ad7c257a4a4b9"
+
+[[files]]
+file = "defaultconfigs/veinmining-server.toml"
+hash = "0a0ec4fac7bc023c60d62366279412f2c19e0ac5be558d14dc0afd0c0e0f26b1"
+
+[[files]]
+file = "defaultconfigs/voicechat-server.toml"
+hash = "285d7377242f38724bbe6a8cb2621ff47a1bd6125568fb1847af4ede446a620a"
+
+[[files]]
+file = "defaultconfigs/waystones-server.toml"
+hash = "e32979915c094ee20929a0602b17dc8cb29302a2e94a5cd21df0df4828fdf44f"
+
+[[files]]
+file = "defaultconfigs/world_pre_generator-server.toml"
+hash = "c0fc32764acb5d9da4dce2775f8a7238f7c94e52bef399e6e050d4e537bd6f1b"
+
+[[files]]
+file = "kubejs/README.txt"
+hash = "35e3c6ff70236e1bb6bf1f12fdbabc9a3e9941cb4e3c3567b5c697d34b210b36"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/block/example_block.png"
+hash = "783d78bd1ee61d3b32273670dff9d82c34cd74c5ae899a10f104f473828d5bbc"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/item/example_item.png"
+hash = "45a5f56eba6066ad05c70988a32b72c50cfeb6e35857739bd582007011ea002b"
+
+[[files]]
+file = "kubejs/client_scripts/jei_additions.js"
+hash = "6c9c06ed65b1a222d4e3d135b8ea1d7c805255adac7a2bfb4269d1df75a99bf1"
+
+[[files]]
+file = "kubejs/client_scripts/jei_removals.js"
+hash = "bf38c7acbd5d410f984f39903ef8bb97430602eccb98d3e90a73eec940068b5b"
+
+[[files]]
+file = "kubejs/config/client.properties"
+hash = "6fb9fb555cc40b6b896bcd0004598482284389b16f3cad1e0b7cff0f512ad1bb"
+
+[[files]]
+file = "kubejs/config/common.properties"
+hash = "5e0ea18abea9a1501d2508e9b487bc364205684cd5a584cf9259edb167815862"
+
+[[files]]
+file = "kubejs/data/tconstruct/materials/definition/copper.json"
+hash = "6aff4900a6633ed4fcb2be4d2fc5e8c029b2eaa85ecf7365e9e34c38ec6f31df"
+
+[[files]]
+file = "kubejs/data/tconstruct/materials/definition/lead.json"
+hash = "f1396ebc561b095d6135d3d586ba42b1f77ef1d18e3e08843848573ec33958d1"
+
+[[files]]
+file = "kubejs/data/tconstruct/materials/definition/silver.json"
+hash = "65013fe289705308cbbdded15c6c3d77cf4c6f7aefffa2d0a8430792779914ff"
+
+[[files]]
+file = "kubejs/exported/tags/blocks.txt"
+hash = "de34565e9d432e0082d8c0a0c7aa5823de52c2ccfb530dda86e50703558e1db3"
+
+[[files]]
+file = "kubejs/exported/tags/enchantments.txt"
+hash = "f5c3d9f5d7e929a0cdf8f63c5577bef94d9d4397200ed844692271831aa11aa9"
+
+[[files]]
+file = "kubejs/exported/tags/entity_types.txt"
+hash = "f6f3ba378252aed762260a56d84218c22aeb90fff40dfa60308ce13af36ed61a"
+
+[[files]]
+file = "kubejs/exported/tags/fluids.txt"
+hash = "11e31a251663a50942214c65f9e2a781abc5ca02a5967d0856ed7463770e01c1"
+
+[[files]]
+file = "kubejs/exported/tags/functions.txt"
+hash = "b3a6983dda21f212542445c6556f5679a767f9b50fc4ebf083161cccae70dbcf"
+
+[[files]]
+file = "kubejs/exported/tags/items.txt"
+hash = "be3b562440cb28114d0c12718c53ea7bbe3536d0490ac4da2781414b8bbebcd7"
+
+[[files]]
+file = "kubejs/exported/tags/potions.txt"
+hash = "f5c3d9f5d7e929a0cdf8f63c5577bef94d9d4397200ed844692271831aa11aa9"
+
+[[files]]
+file = "kubejs/exported/tags/tile_entity_types.txt"
+hash = "7c5bca7d0fdcb6609f794f6ca8b2e8f4f2dd4de2ce21daf9d8c1f45bdc27465e"
+
+[[files]]
+file = "kubejs/server_scripts/constants.js"
+hash = "b3a0aa8c0ea312a5ea5139f90e7da40e4f1ef6b8ae64b48ca2776e71090f6b89"
+
+[[files]]
+file = "kubejs/server_scripts/mod_specific/_minecraft/minecraft.js"
+hash = "ad55aa028491d8bd0e5880061df114d1391241afbac4602d3f8ea7f983b29ca0"
+
+[[files]]
+file = "kubejs/server_scripts/mod_specific/create/create.js"
+hash = "5b05310ea6566c617cddafa79133be1f9803afca50be3eb59dbad432e76c8dd4"
+
+[[files]]
+file = "kubejs/server_scripts/mod_specific/eidolon/eidolon.js"
+hash = "7e169fef301033a4fb3e89fc3975762aef550cf10368ca281f430ae084e258ed"
+
+[[files]]
+file = "kubejs/server_scripts/mod_specific/quark/quark.js"
+hash = "2998601db90f71d786ac16cdbb2f9b5dc68d0a9ed9b5ea85e08e640ad7d631ea"
+
+[[files]]
+file = "kubejs/server_scripts/mod_specific/storage_drawers/storage_drawers.js"
+hash = "d6d1596918f4e6b50a5b756ba1918099804502a83e4c29dace2f209de7f39c9c"
+
+[[files]]
+file = "kubejs/server_scripts/tags.js"
+hash = "e07513c5514cea05b2459be60ed862085fff73e095115ede1cf8ce9665e0526a"
+
+[[files]]
+file = "kubejs/startup_scripts/modification.js"
+hash = "19eebd894e5e3a585d84ca3a67690e22ef34b0a5061c4b92e17531129fb3e95a"
+
+[[files]]
+file = "mods/abnormals-delight.toml"
+hash = "59182af02c1fa267de2fc7e62a3dbede4696d3ee0b7cb61acce41443803069ad"
+metafile = true
+
+[[files]]
+file = "mods/abundance.toml"
+hash = "1a4d13656091dba5f358cab0da00342183db309676edce5350f72d965f24ca05"
+metafile = true
+
+[[files]]
+file = "mods/advanced-compass.toml"
+hash = "aa13e717cc49f606ec335f498f77515223ab8b92ea590b003719373b8ea629f5"
+metafile = true
+
+[[files]]
+file = "mods/advanced-hook-launchers.toml"
+hash = "54674b3501ce925298457adfeebdbf99d38629eb0d5c9bd34e4061b16e1af715"
+metafile = true
+
+[[files]]
+file = "mods/advanced-netherite.toml"
+hash = "4323feeee7d248de431cde6c526e35de302d091b574f773d81ca63640f937ff9"
+metafile = true
+
+[[files]]
+file = "mods/akashic-tome.toml"
+hash = "225df8940055e0e30543fb6eca469a6d0f4e9c12f10dc6eebdc1bd709b789504"
+metafile = true
+
+[[files]]
+file = "mods/alexs-mobs.toml"
+hash = "fa39f46621d517036d8cf68040523befc5cc74ee7821d25a18ca6ab8b01e825e"
+metafile = true
+
+[[files]]
+file = "mods/allthemodium.toml"
+hash = "ea641a948bff3b970bedeb37637c0fc6244111950025ff776f55711bc33f9bbf"
+metafile = true
+
+[[files]]
+file = "mods/antique-atlas.toml"
+hash = "369b4bf185fdb737c0f43689a5453a48892d5e3a8ec7b82364dfe20fb4462666"
+metafile = true
+
+[[files]]
+file = "mods/antique-waystones.toml"
+hash = "278e5481655847b6a1ba9afed40ca3d3b56cecc96f1368a7d9ef1a7aeaa92e14"
+metafile = true
+
+[[files]]
+file = "mods/appleskin.toml"
+hash = "0f467e1ac20e05c6a22891f1c95a672b57ece5a2a821f8cd18f21b7b3095fa1a"
+metafile = true
+
+[[files]]
+file = "mods/aquaculture.toml"
+hash = "791dd5405c644b2e7a2a7cd4844b0d9d25d1c77c2266d18dc9dca8006b19cfd9"
+metafile = true
+
+[[files]]
+file = "mods/architectury-forge.toml"
+hash = "2323179613039c831f3768e25333cf5b57839eb9fba23c9fd174cebf372dd973"
+metafile = true
+
+[[files]]
+file = "mods/atmospheric.toml"
+hash = "73ecb113b2d585094982acdd9535b1538dbf356fb41a0e1417c9ae0ce0e0061a"
+metafile = true
+
+[[files]]
+file = "mods/autoreglib.toml"
+hash = "8004ed31e93fb94875533da2f8e6d546907bcbe78e179b0f9542508f70f8f333"
+metafile = true
+
+[[files]]
+file = "mods/autumnity.toml"
+hash = "d1e1e7a8c353bff304873266e7576ab3189402f9cf54ac525910a518723d19db"
+metafile = true
+
+[[files]]
+file = "mods/awesome-dungeon-forge.toml"
+hash = "eee307669a87a6b6479730fb5447f88f5baabd35e9609380eced3b1397ac26e7"
+metafile = true
+
+[[files]]
+file = "mods/bad-wither-no-cookie-reloaded.toml"
+hash = "db8f43a8863d9ccfdba5614950fef5a0f87d3630d6389cc36ce746da8ad9b107"
+metafile = true
+
+[[files]]
+file = "mods/bayou-blues.toml"
+hash = "8c2958e5e3909a60d81046f69eabfc0b4bf7e47edc0d694219ed75763b8a51b4"
+metafile = true
+
+[[files]]
+file = "mods/better-advancements.toml"
+hash = "81036d8ff901dc1eb06b8371a2eb1aa87df12f9f968399cd83befabd1769d5ce"
+metafile = true
+
+[[files]]
+file = "mods/betterf3.toml"
+hash = "0b4d7f815d630f0078d2a952e536273f8170aa3b79ed1914ab55dce1c5cd89b6"
+metafile = true
+
+[[files]]
+file = "mods/biome-id-fixer.toml"
+hash = "1976f532c795052cb1725b79325c1ff2bbf5aa278cbfdc0e2e287f1385535252"
+metafile = true
+
+[[files]]
+file = "mods/blueprint.toml"
+hash = "c084200c134c68b104bad42f95d968bf7e0fcb8ddaa988b19019de563846ffe6"
+metafile = true
+
+[[files]]
+file = "mods/bookshelf.toml"
+hash = "c0dd39e605365513bf69a3b5855351b87447833cdc9a1263749ad304c86b2cd1"
+metafile = true
+
+[[files]]
+file = "mods/botany-pots.toml"
+hash = "ea3fdc0996ffad15f99dd60088bc6142e3cf051cacd5596553b7dc78fee7fe7d"
+metafile = true
+
+[[files]]
+file = "mods/botany-trees.toml"
+hash = "d5f8c5f7da7d5a929d7322e209b0570b749c8d5e809e21165c4639fa6251641e"
+metafile = true
+
+[[files]]
+file = "mods/bountiful.toml"
+hash = "8eb94a5841ea77115355c94ee617a7f1a3456f851204f5090265922db0ebc0d3"
+metafile = true
+
+[[files]]
+file = "mods/brb.toml"
+hash = "f563c4b5dc9d5d8d8d62c1e7d08c6d6e2da0ac522b7a2b4a193e5c919b1412aa"
+metafile = true
+
+[[files]]
+file = "mods/caelus.toml"
+hash = "0fc0e41bdb3623d8e5903b9a812c4b9730720948c3f6402886725d94267757c1"
+metafile = true
+
+[[files]]
+file = "mods/camera-mod.toml"
+hash = "d57dfcaff0310efc6ea743abb44cc4327dab7df0cb933ad3ea94790748e802a3"
+metafile = true
+
+[[files]]
+file = "mods/carry-on.toml"
+hash = "fee9258f76bd995573da2b3cd6db4ffa5494a66d07686a59cf9220a4588f7abd"
+metafile = true
+
+[[files]]
+file = "mods/catalogue.toml"
+hash = "80538a19e29a5c5ff2320966339259ab4003e1e857e2b200856ff107d7ab179b"
+metafile = true
+
+[[files]]
+file = "mods/cavebiomeapi.toml"
+hash = "3693695890c499e893eca6eb021f4b344a943e13a3c0b8b116bb198766d640a7"
+metafile = true
+
+[[files]]
+file = "mods/charm-reforged.toml"
+hash = "fd08a7310ca5c02cdd1d114f851169323a254ff25cb32f72502027f74061b836"
+metafile = true
+
+[[files]]
+file = "mods/chat-heads.toml"
+hash = "6a4800f5271880a61509e1540e4fe00d3266f0a886accc700803e847e04ca607"
+metafile = true
+
+[[files]]
+file = "mods/chatsound.toml"
+hash = "1926d946580dfbeb833eb69790112013468fc2f9a79e9f02c3e6a9f82bc7f063"
+metafile = true
+
+[[files]]
+file = "mods/chipped.toml"
+hash = "785addafe013c0b4ae5da14d4e6e35b2c48c9803513e56409a1265b44c4afd38"
+metafile = true
+
+[[files]]
+file = "mods/chisel.toml"
+hash = "3fbb4284e0fa040a88ff0f7a7e9db69a6bb52f8a07e5c267593b7c25c607c677"
+metafile = true
+
+[[files]]
+file = "mods/chocolate-fix.toml"
+hash = "a3b298faa8a4819c601925dc230bd2529beed44403edc693bc25ab962041fc6a"
+metafile = true
+
+[[files]]
+file = "mods/chunk-loaders.toml"
+hash = "2708545a8f42b7b474a5c1bab3cd35ce8a8a68527fba4592ab4920bf86b94403"
+metafile = true
+
+[[files]]
+file = "mods/cinderscapes-reforged.toml"
+hash = "5d630b3565383d9d8a54e17b7f440502abd9cd16d3715a728414f4de4df8aca9"
+metafile = true
+
+[[files]]
+file = "mods/citadel.toml"
+hash = "e7a53757a7c960cd9558c32c863b94f264c5c7e1038c63a4f0090bc0a62483a2"
+metafile = true
+
+[[files]]
+file = "mods/cleancut.toml"
+hash = "6ccfcb0c29742c8537a6d63cfb825f7cf38d9af3539ba8c32ce2a4fbc14e4e09"
+metafile = true
+
+[[files]]
+file = "mods/clickable-advancements.toml"
+hash = "df911b98d5890cda443d2b3de2ba758c24ce28ee84b2d0f46b85aabad5c16475"
+metafile = true
+
+[[files]]
+file = "mods/client-tweaks.toml"
+hash = "63ddf2ab518cd271c45dc50d7ae6a21e2818374b77f6adda6a356469477fd3ba"
+metafile = true
+
+[[files]]
+file = "mods/cloth-config-forge.toml"
+hash = "d9709db6e0980b80a47f97eeeb1a2dc9cc8b3054b8481f70bd551600a33789d5"
+metafile = true
+
+[[files]]
+file = "mods/clumps.toml"
+hash = "db217fa8a13f4a36d6f933a9e9e1690af2812b3fefa2cd88a27db0525ae48bcf"
+metafile = true
+
+[[files]]
+file = "mods/codechicken-lib-1-8.toml"
+hash = "eeb657cff3691c5d0741e288c0fb24fc2c00bed522ff1f70307ce27c7e560611"
+metafile = true
+
+[[files]]
+file = "mods/collective.toml"
+hash = "43ce85aa837c25e94a035995447c997e164fe9fcce014d9c21152561139130b7"
+metafile = true
+
+[[files]]
+file = "mods/comforts.toml"
+hash = "31b67387c57801f339c6c3920d51c90c53e02bc849407e1c8f0de7f21fe8459e"
+metafile = true
+
+[[files]]
+file = "mods/configured.toml"
+hash = "4f51533164820143a716426e392addf319b3deed63a794bf102b8a43caa7b624"
+metafile = true
+
+[[files]]
+file = "mods/controlling.toml"
+hash = "1a1a9589532b3ac7516fa8eeeaa1822fb444342d42d412ebaac8788c142db960"
+metafile = true
+
+[[files]]
+file = "mods/copper-pot.toml"
+hash = "f78f309986faf30fb532e3572a0011b7ec2c7dee61c889fcf23952ad1af84f60"
+metafile = true
+
+[[files]]
+file = "mods/corpse.toml"
+hash = "b3092e50f630e8d4fbda5a1478b980e333ccb9d084ebc72cc694c8db83d6a1ab"
+metafile = true
+
+[[files]]
+file = "mods/cosmetic-armor-reworked.toml"
+hash = "0694ecfff2d4d9b4dc7b5614cccd3c1f01f2de94ee6eddbc871187be994fa8df"
+metafile = true
+
+[[files]]
+file = "mods/create-chunkloading.toml"
+hash = "3fac58f23765b7b5f91ebce95335911c5926ed82f73b25104210d3857d66c4a9"
+metafile = true
+
+[[files]]
+file = "mods/create-confectionery.toml"
+hash = "cf67a781ac0748d00ec6f548dbe3764a5ade33a57f7ba3ffa233ecf3cb7d5755"
+metafile = true
+
+[[files]]
+file = "mods/create-deco.toml"
+hash = "0f69444a3118e990ca6d86ecf78f5b97d6a77742d15f785c1e7509ae0c26ed63"
+metafile = true
+
+[[files]]
+file = "mods/create-stuff-additions.toml"
+hash = "1a53dbd1193b48e2e43936111ce7eba000d0498c44f821ca56b5784993631067"
+metafile = true
+
+[[files]]
+file = "mods/create.toml"
+hash = "d307254b084c28d8e6ce45aa03f492309aa9dbfa381aa5acd568482a3743adb4"
+metafile = true
+
+[[files]]
+file = "mods/createaddition.toml"
+hash = "bb982ac24cbca6546c49c3526cb89631ca2096c8eb51cf4eed66d817f9264842"
+metafile = true
+
+[[files]]
+file = "mods/created-storage-network.toml"
+hash = "b2648c63f4e7b3fbfd1f556db1dfe8008580c30ec19d6473c6aa90360c8e83e8"
+metafile = true
+
+[[files]]
+file = "mods/ctm.toml"
+hash = "fd55bfef2fc9b955188e86cd8e45862c53528fd0f097c85abdd6a3b7e3eca012"
+metafile = true
+
+[[files]]
+file = "mods/curios-quark-oddities-backpack.toml"
+hash = "5f3e345e2eec423a987da258ecffaa396d5df49ecbfd07bd2c405f77d6def19f"
+metafile = true
+
+[[files]]
+file = "mods/curios.toml"
+hash = "ded540e67e78f41f037770574330bf6da6896f918465720a488833ebbd1ee2fc"
+metafile = true
+
+[[files]]
+file = "mods/decorative-blocks.toml"
+hash = "d2ffcb1af543708cbb135022efea1dcaa751924f751d81409da9698dd436f720"
+metafile = true
+
+[[files]]
+file = "mods/dungeon-crawl.toml"
+hash = "19fd19e30e8c5e4fd9cfb110dd71689456599787cf8800d0beee9e85c7956f2e"
+metafile = true
+
+[[files]]
+file = "mods/dungeonsenhanced.toml"
+hash = "8e9472e8ef794026055619f7596dc4e8f202995fce3982254b105ed43ebfb5c4"
+metafile = true
+
+[[files]]
+file = "mods/dynamic-surroundings.toml"
+hash = "ff26634217b81de995738c22db2ce191d3f19dc67880aeb879130f6f6d6a5fe1"
+metafile = true
+
+[[files]]
+file = "mods/dynamic-view.toml"
+hash = "3f4b1f9c21af58d2fff77d26cd888bd5a0d9f74a26919266abc5d020ddcccb6f"
+metafile = true
+
+[[files]]
+file = "mods/eidolon.toml"
+hash = "f6c9520a0de1cdcc64d377f075e0698c61376c317f7122f8b522b180318130ef"
+metafile = true
+
+[[files]]
+file = "mods/enchanted-tools.toml"
+hash = "19746d4e4b5ef3bb67d661b7faf3fd335b3f3041186f310a53340521b57da8be"
+metafile = true
+
+[[files]]
+file = "mods/enchanted-weapons.toml"
+hash = "06006648ad0901393d9b1c4ecd9bc1b9c0d18e2d8e3463603903fafd212ff7ed"
+metafile = true
+
+[[files]]
+file = "mods/enchantment-descriptions.toml"
+hash = "9f9ab1342e216d6bc65a5b7a8b81e6aaf0af4ff8de54458b6e406359b6205e26"
+metafile = true
+
+[[files]]
+file = "mods/ender-storage-1-8.toml"
+hash = "80650bf7cd944ec5aec843308be2886468ea565edb596c9938ab8ee6df26d6ab"
+metafile = true
+
+[[files]]
+file = "mods/endergetic.toml"
+hash = "4452dc1fb7b39e5ebe24a5b03cafe22a9a5df5fd8145fbe4eea878ac956a3240"
+metafile = true
+
+[[files]]
+file = "mods/enhanced-mushrooms.toml"
+hash = "5487906b22b15e963731c002a7cdd82454799b57c541d5dc134145ed29e43d84"
+metafile = true
+
+[[files]]
+file = "mods/enigmatic-legacy.toml"
+hash = "45318e5625b0073855edb8ec5c5cb8efd92bf8e52ce9666c935ee61c06a408f3"
+metafile = true
+
+[[files]]
+file = "mods/environmental.toml"
+hash = "b7d374b5394264cabb885ea5361333a8519a8c3198ca2276b576be7219b726a7"
+metafile = true
+
+[[files]]
+file = "mods/exotic-birds.toml"
+hash = "acbed0faa949c98a9ea8f8af264aac9e1d17bce83d08122a1e3f91a4f71c3db7"
+metafile = true
+
+[[files]]
+file = "mods/explorers-compass.toml"
+hash = "f35452458e465938a32f4fc1a1da237a818ac680cf2d56b45b0ec912fff813fc"
+metafile = true
+
+[[files]]
+file = "mods/fabrics-biome-api-reforged.toml"
+hash = "716133cc93dc642167999997cb801e4269812b628f530951fdfac6a0df6fae7a"
+metafile = true
+
+[[files]]
+file = "mods/farmers-delight-compats.toml"
+hash = "990d94802acf7b18c74e31d3c4a2e4009621dedeadf4bf551fd9888f646836db"
+metafile = true
+
+[[files]]
+file = "mods/farmers-delight-integration.toml"
+hash = "b7742b6861b82c03584936702241998f1b89fccdfa7610f97f9594b6173ca3fa"
+metafile = true
+
+[[files]]
+file = "mods/farmers-delight.toml"
+hash = "71853a420d222e38d6299e1a9ed25fad6a229303b1f3d9331c6bd50887f6ba46"
+metafile = true
+
+[[files]]
+file = "mods/farsight.toml"
+hash = "297c97016972884c9e40ce45e6ec4f58a0eaeafb8320eb7debe01569c1685583"
+metafile = true
+
+[[files]]
+file = "mods/fast-leaf-decay.toml"
+hash = "354299063fb05d2211d081d274442a9d471587ee5187804efbe42f4089cbdd11"
+metafile = true
+
+[[files]]
+file = "mods/ferritecore.toml"
+hash = "33f6071eae801063af71606867c00988cdffcc0f1a3366d0a5ce61c1c7b981ba"
+metafile = true
+
+[[files]]
+file = "mods/flywheel.toml"
+hash = "7441186ae43de40923d4368cf7a9c79042a91b433be8f79b8b0dfa9ffcbd2fb5"
+metafile = true
+
+[[files]]
+file = "mods/forgeendertech.toml"
+hash = "d0c3955542c67a62760d6cc31c278cc921b0292c91c4d07479d8371365e546d2"
+metafile = true
+
+[[files]]
+file = "mods/fps-reducer.toml"
+hash = "df8392468be575d2a2439cb356d27971ea5cacdf4ae2634a294ce9c137e32280"
+metafile = true
+
+[[files]]
+file = "mods/fresh-animations.toml"
+hash = "c102e3777ce37228a4324d3ef6928ec1571f439687c3a8b0333f9338a89768a4"
+metafile = true
+
+[[files]]
+file = "mods/ftb-library-forge.toml"
+hash = "2fc5fffd093b419ebab1dd5e65e1ce097ed5246c62a0faf254370dc1e831a3ee"
+metafile = true
+
+[[files]]
+file = "mods/ftb-power-pots.toml"
+hash = "d5a86b42ff1c1c97931ce7650c3862a6e48314752540972f6ff914abbcd2b206"
+metafile = true
+
+[[files]]
+file = "mods/ftb-ultimine-forge.toml"
+hash = "decf19358f33b45f3da295a0c43fa04aece63f728c69f2f1e4af56d0b407b822"
+metafile = true
+
+[[files]]
+file = "mods/geckolib.toml"
+hash = "9ca0b4d0ac5d51ba4fce7f1d19065f96718e1332c51b6278a9100b5f36dd24ef"
+metafile = true
+
+[[files]]
+file = "mods/goblin-traders.toml"
+hash = "9dfa5474a82bf7826f2501b35eb09b40578a58b75a401c11f6e02909d0c98ef0"
+metafile = true
+
+[[files]]
+file = "mods/guard-villagers.toml"
+hash = "9f93390ff80f013853d202b817a65f5e70080c32fde9f59b72a6bea3ac48507a"
+metafile = true
+
+[[files]]
+file = "mods/healing-campfire.toml"
+hash = "5bf4bf85e0d4e21df02febebf8899aba683f2768a1c02f0073c13d0b17181d56"
+metafile = true
+
+[[files]]
+file = "mods/hourglass.toml"
+hash = "eff59ac977b93a9232d3aae9216277b2424b94860b7f075aca9fb052662b534d"
+metafile = true
+
+[[files]]
+file = "mods/immersive-cooking.toml"
+hash = "6702a863a8b56231fac9552a26141eac4eaa3e6be372231f8ef680591ba70708"
+metafile = true
+
+[[files]]
+file = "mods/improvedbackpacks.toml"
+hash = "06ac38a113f2d2021698c5f396d88c7260722a34746d89b9be77c953ce193cc8"
+metafile = true
+
+[[files]]
+file = "mods/infernal-expansion.toml"
+hash = "a2ffb1ab729824b8d1f6dcb3270cf00aa3aeb3a67e547ce90421d71732a85398"
+metafile = true
+
+[[files]]
+file = "mods/inventory-hud-forge.toml"
+hash = "f263c12cb257ca67af2f065809e902fd2a1ea44b66e07f9a5e70c788105cf897"
+metafile = true
+
+[[files]]
+file = "mods/inventory-pets.toml"
+hash = "964e1d4f65968d69e931e54d7761ef6fb92c4450477eaebd4716e13ae20d4c12"
+metafile = true
+
+[[files]]
+file = "mods/jade.toml"
+hash = "4a355552be73bc2c4995764e66d15ca0ca072e0675abb5b2255c6511bfbea734"
+metafile = true
+
+[[files]]
+file = "mods/jei.toml"
+hash = "8f9ebf5c0adbe23db462cb02903c49603aba9d4b8908882ac4d7113aa03af3c7"
+metafile = true
+
+[[files]]
+file = "mods/jungle-villages.toml"
+hash = "551fc6c96ae053bed546d198dd14dc8587a64d7d04dff63b855f2251daa8182d"
+metafile = true
+
+[[files]]
+file = "mods/just-enough-effect-descriptions-jeed.toml"
+hash = "29b5e72cafc37b0128d4249957a947ee26ab63fac505be46fbd1f46777b4556d"
+metafile = true
+
+[[files]]
+file = "mods/just-enough-resources-jer.toml"
+hash = "b812ab70e0b254726031f870d8b6d0583fcd9dd196b289d47593e67311093ccf"
+metafile = true
+
+[[files]]
+file = "mods/kotlin-for-forge.toml"
+hash = "b87fb9df4b8786c934ecfb3a8ff654fdf11143e46dafe8f86fb21b5e3afe60c0"
+metafile = true
+
+[[files]]
+file = "mods/kubejs-create.toml"
+hash = "64fba32fdfb8281c241b79da1677a419afa843d641d7d19571d8ad3cefdd9d6f"
+metafile = true
+
+[[files]]
+file = "mods/kubejs-forge.toml"
+hash = "1fc358239bfa61164cf164934975a660d55fcdb9048da671a0687c42a7b91298"
+metafile = true
+
+[[files]]
+file = "mods/lazy-dfu-forge.toml"
+hash = "dc36ea25b81b715de5d48e508619d6c1132f6cd03d6e137e20fae978c09e0aa7"
+metafile = true
+
+[[files]]
+file = "mods/lemon-lib.toml"
+hash = "c2bb16b92b53a211af805d5b6ad9c96f45399ad6da21be047e00708c75639526"
+metafile = true
+
+[[files]]
+file = "mods/lollipop.toml"
+hash = "a7926e4a3bde201113e5a03022e5136d1d4e864b29010a53466b087a272e8da6"
+metafile = true
+
+[[files]]
+file = "mods/lootr.toml"
+hash = "0e9df5d81c24e8a9a48e88a8cb237db864c5401a0f1f72fc184b230ed1ebb732"
+metafile = true
+
+[[files]]
+file = "mods/lost-trinkets.toml"
+hash = "f69e7fe8cab05eb588fa0d53ed08a975f5d88e566c63eeaa1d2a8ba540bdf857"
+metafile = true
+
+[[files]]
+file = "mods/macaws-bridges.toml"
+hash = "598f91c49d7125a1dd133bbb997d9787ab487581ce7c4364be352ecc80498140"
+metafile = true
+
+[[files]]
+file = "mods/macaws-doors.toml"
+hash = "1905b91d0c7436b25b39ca3e65978c3d9d554e82d64625c2eae65c548cbdb40a"
+metafile = true
+
+[[files]]
+file = "mods/macaws-fences-and-walls.toml"
+hash = "4128e3cf1d9b0f9e41334fed8ca39511eb8bb0d2c5a14a7514fe2efecc71984b"
+metafile = true
+
+[[files]]
+file = "mods/macaws-furniture.toml"
+hash = "40f471ea932d374e6b51385de754de543e21ce52217a58dce46e42f1ca87e9d2"
+metafile = true
+
+[[files]]
+file = "mods/macaws-lights-and-lamps.toml"
+hash = "7ff5e0c48a46eccb649792481998c741b8b986ed6b1a81c738a9bb719c075447"
+metafile = true
+
+[[files]]
+file = "mods/macaws-paintings.toml"
+hash = "f8afde069073a4981e42b5703518ef5193ab39f87093113a45b809c630cd31d4"
+metafile = true
+
+[[files]]
+file = "mods/macaws-roofs.toml"
+hash = "8b51c0b98ff4942776226ad163f93150daaa4f51569ae2d018510a3c31db0de9"
+metafile = true
+
+[[files]]
+file = "mods/macaws-trapdoors.toml"
+hash = "9980f67a59ed4eb47f851d48988cd9ccc13af696f33c8aa1d77af2354740afcc"
+metafile = true
+
+[[files]]
+file = "mods/macaws-windows.toml"
+hash = "7048d57caa9911b7293ca2c1fd295db07a2eed51378faf78e68b49c9a1ea1694"
+metafile = true
+
+[[files]]
+file = "mods/mantle.toml"
+hash = "9b023a70d51d9a68f1b526f5bf9507dbee0b95199a109fb7e94c653a6fa8f028"
+metafile = true
+
+[[files]]
+file = "mods/materialis.toml"
+hash = "8c851dd5810a937c93644cc26e7a857c0fd4abae5c4f8fb525e4a0caab84d71a"
+metafile = true
+
+[[files]]
+file = "mods/miniutilities.toml"
+hash = "f06208c5079949d7031f6164661c5e5edee1f6685cc9ed5a7dc04d3d56b0a092"
+metafile = true
+
+[[files]]
+file = "mods/more-create-stuffs.toml"
+hash = "ff545eeb1e3e13f23e663ea4907c11f74aebea33d8defe45e5b2679dfb169c96"
+metafile = true
+
+[[files]]
+file = "mods/mouse-tweaks.toml"
+hash = "5a3d708bcbc76a60f79548a795b73d73c698c39249eba521aacebc9b3b49dcd2"
+metafile = true
+
+[[files]]
+file = "mods/mushrooms-plus.toml"
+hash = "0c81437c4f463030a3d01573d481703a5f52e61834f8ceebe587977eb9e48879"
+metafile = true
+
+[[files]]
+file = "mods/natures-compass.toml"
+hash = "eb78192f943f49909a69a442b2414fbc67c3566b90df4440ed182aa42746a024"
+metafile = true
+
+[[files]]
+file = "mods/nekos-enchanted-books.toml"
+hash = "e701de301df434a50aa20dcd37c5cc2628adf8797d82fe9ac46c7fb855453ed0"
+metafile = true
+
+[[files]]
+file = "mods/netherportalfix.toml"
+hash = "6969158039fd084e620bbe9d806afa5dc9b65485b43f9d17ce1074ffe15272c9"
+metafile = true
+
+[[files]]
+file = "mods/nethers-delight.toml"
+hash = "91256c5155e34b46f9745f240c61aeef68a1eb092831e2d375b003975f42ecf0"
+metafile = true
+
+[[files]]
+file = "mods/no-default-auto-jump.toml"
+hash = "b1da6f23871406f6ca293b81e2364123a5312e655ca54777e8ca9ac6d6d09027"
+metafile = true
+
+[[files]]
+file = "mods/open-loader.toml"
+hash = "75e38449bb59b33141d2ca56b2f201d49f19fa78bed784bf8f97027c92fd814d"
+metafile = true
+
+[[files]]
+file = "mods/origins-forge.toml"
+hash = "6483607ff69f35887db455f694c4a2d459264829d96131267572388674d9dcf4"
+metafile = true
+
+[[files]]
+file = "mods/patchouli.toml"
+hash = "69805447657da38833e5a5da14f26e7b643a206a7e6ad6293e54ce0cc21cff05"
+metafile = true
+
+[[files]]
+file = "mods/performant.toml"
+hash = "5a816f6638ef9a6d013b1756e4eda2208fa337bc4238bdc095ab25bb14ade201"
+metafile = true
+
+[[files]]
+file = "mods/phosphor-reforged.toml"
+hash = "bd3b5346a759a86de6538259734f50a4bea4a3e8ea8aa6fdb7b9693dbb0fdc0f"
+metafile = true
+
+[[files]]
+file = "mods/piggy-bank.toml"
+hash = "255f2555c81f8cc5678da1b5279c385f9b828f65c5ffded20cf5480c06081c79"
+metafile = true
+
+[[files]]
+file = "mods/pipez.toml"
+hash = "0e42ed2ee9da3f6c4963a0f378d79ae17fd1212e503cdbd17ea9c4b030eb06c1"
+metafile = true
+
+[[files]]
+file = "mods/placebo.toml"
+hash = "19b5e9f652a539d638ab695149ddb83c50ca055e9b6a10173c8351932b147901"
+metafile = true
+
+[[files]]
+file = "mods/polymorph.toml"
+hash = "e02a32295b447da6efdbbac918bad983ecaa8e2b88bcab9b67873b51319a2e28"
+metafile = true
+
+[[files]]
+file = "mods/potion-descriptions.toml"
+hash = "e627d966fdec50701569477a13f6b49a2970d898016e40dfe05210d0aa422478"
+metafile = true
+
+[[files]]
+file = "mods/puddles.toml"
+hash = "2a1564a6520987b5d46a8e6cd971920791ce67bcefdc23acca9bc0a1eb630bb3"
+metafile = true
+
+[[files]]
+file = "mods/quark-oddities.toml"
+hash = "879f2c7a24533bda826417041b5ed72a4a2efbc1916d04c1000f699557bd0633"
+metafile = true
+
+[[files]]
+file = "mods/quark.toml"
+hash = "815db4f590a854e80a91ccb4a79800669f12fb86c397174490df5bfc48df2141"
+metafile = true
+
+[[files]]
+file = "mods/randompatches-forge.toml"
+hash = "e0ef646616594c72d923b2f21f3f5a6fec7bf04b5764f624d30fe59bb5b48c6c"
+metafile = true
+
+[[files]]
+file = "mods/reauth.toml"
+hash = "9d0a725d5a4e2d31739b5e6b573be35532422a12765f6e5f9486fd92a5b63a5a"
+metafile = true
+
+[[files]]
+file = "mods/regrowth.toml"
+hash = "64ab5d9875e8bee395e0f73837b68fee57850fc12592cd5b34a5bab9388bace4"
+metafile = true
+
+[[files]]
+file = "mods/relics-mod.toml"
+hash = "c6655fe87f2a19206755a3421ff4ffbd3543e2b6217d49b9e896a914524bbc67"
+metafile = true
+
+[[files]]
+file = "mods/repurposed-structures.toml"
+hash = "78a36c209f11534b68bdcaefa5c18951d1da40add66c6596762c51fffafd69af"
+metafile = true
+
+[[files]]
+file = "mods/rhino.toml"
+hash = "0ad09a6f1c8f9f49f9def68b5a9159c91132fb8b5d7333c909ee0f86cca67388"
+metafile = true
+
+[[files]]
+file = "mods/save-your-pets.toml"
+hash = "523a11708d520fba64fbee4daf92630304a00c77fc2d55ced96385abed985e93"
+metafile = true
+
+[[files]]
+file = "mods/selene.toml"
+hash = "2d7fece8d32cd9db9c7c1cdae7c22897e35389fcb96d2409b702b0d34b9ad51d"
+metafile = true
+
+[[files]]
+file = "mods/shift-n-scroll-on-mac.toml"
+hash = "8b1ad30bb9bf869122aed52eeaac86d92fa8abe095c066b5a8b4db2bea3da7a8"
+metafile = true
+
+[[files]]
+file = "mods/shulker-enchantments.toml"
+hash = "f4787d0bf51b49d5a9390bf2e35fe9fc1abf22bf11c4b3efdf64bab5d3744d43"
+metafile = true
+
+[[files]]
+file = "mods/simple-storage-network.toml"
+hash = "296edf46b2c23e844894eb4bec637409dc389e85055c0fe67072a8b6cb3db9c4"
+metafile = true
+
+[[files]]
+file = "mods/simple-voice-chat.toml"
+hash = "9bc18d7015807370d36c4845c4ebe854e016d6a345b68d699c9c299aae868d28"
+metafile = true
+
+[[files]]
+file = "mods/sky-villages-forge.toml"
+hash = "21724cf03017fd36b5c804829c1c4e6b82a9c1a10ba99683d7d6d71b81260569"
+metafile = true
+
+[[files]]
+file = "mods/small-ships.toml"
+hash = "5a445c3f0c0bad75158760a255fa9400bcbf116d8cc3cc71222fb263a09f43c5"
+metafile = true
+
+[[files]]
+file = "mods/snow-under-trees.toml"
+hash = "2427925315bd16705276a1f0540820973da80c48c02f2820f8b47fe922d6f0d6"
+metafile = true
+
+[[files]]
+file = "mods/sodium-reforged.toml"
+hash = "1de386aa56c6b9bc914603d1ada85c625e545478d7156c14b1ab491164379ff2"
+metafile = true
+
+[[files]]
+file = "mods/sound-filters.toml"
+hash = "a52ee767106b8347b0a24174286d1f6df15de4bcf3f9f49460b10bc8b12a60d3"
+metafile = true
+
+[[files]]
+file = "mods/spice-of-life-carrot-edition.toml"
+hash = "8f527dab862efac0668f46877feceec0badb2257e93a65c63458d533e0844bad"
+metafile = true
+
+[[files]]
+file = "mods/spiders-2-0.toml"
+hash = "6b3c2bdfc3b90ce57e1dbec821125d786367b939e4b097dbbf13a2e5318b4bb4"
+metafile = true
+
+[[files]]
+file = "mods/starter-kit.toml"
+hash = "8d4cb6a2436d9c8014ca963dcec440c19fd0a3247e9d4e7211d6a776e24e9e3b"
+metafile = true
+
+[[files]]
+file = "mods/steam-powered-create.toml"
+hash = "3cb2cd31d076b7df2c0711dccc86f1d62e645decfa4d892c3a3f5035de663fb5"
+metafile = true
+
+[[files]]
+file = "mods/storage-drawers.toml"
+hash = "ae7d7cd9a246463b8168ffbc03850c99583aa274f3668ba3712575b60fe431fb"
+metafile = true
+
+[[files]]
+file = "mods/structure-gel-api.toml"
+hash = "d2bc6913bb43d9547ffd7fc7b87230f1abd5ca39b51ecd2e6334a0c4a8781e83"
+metafile = true
+
+[[files]]
+file = "mods/supermartijn642s-config-lib.toml"
+hash = "67e5ed339c9a26317ae1810bd374b0c3fc9fcf984c23cabe8979d277de6b1524"
+metafile = true
+
+[[files]]
+file = "mods/supplementaries.toml"
+hash = "d53983ab87fa07d5022d25156eeaf8a4f4e4abcb4145fa65335c559f571062ed"
+metafile = true
+
+[[files]]
+file = "mods/terraformed-api-reforged.toml"
+hash = "fe0a37a8cb75ae1822684fac8d724815ad2f921aeefa917a04890c9751e664ab"
+metafile = true
+
+[[files]]
+file = "mods/the-irregular-chef.toml"
+hash = "3723d393163c424e4f6b5fb71b4a45eedcb05b589cfb82059e8b5b504ae5c118"
+metafile = true
+
+[[files]]
+file = "mods/tinkers-construct.toml"
+hash = "4e79c0390b9aa057607a10cfa397bd13c023c4bb4c0373f9e26e146e80b83efa"
+metafile = true
+
+[[files]]
+file = "mods/tinkers-planner.toml"
+hash = "7a0164c327f5a889752ea202f30b789c73a2d08537cc1cbc23d4e26e901cda79"
+metafile = true
+
+[[files]]
+file = "mods/toast-control.toml"
+hash = "46279aff2fa2e58356e1ef2e908ab43f2ded8326702637a5a71bf343657f6320"
+metafile = true
+
+[[files]]
+file = "mods/tomes.toml"
+hash = "322fe80ed87a33b12d29b1d36f85c5239557d5911029411e13ab51cc0a3e57f5"
+metafile = true
+
+[[files]]
+file = "mods/tool-stats.toml"
+hash = "63ca50e0e0d6e2e5474b81fc589e83c5e57e8230bab21460b0b9e28cec27f7bb"
+metafile = true
+
+[[files]]
+file = "mods/torchmaster.toml"
+hash = "3869ec7055a7eca60384f8fdfd4bf5672cdb36a23661bc31e39bb741ed72d02a"
+metafile = true
+
+[[files]]
+file = "mods/travelers-titles.toml"
+hash = "dab7fa0341c55cea7cbf98436b995cba49bfb1e2bff64cef163c72249c9e4ed2"
+metafile = true
+
+[[files]]
+file = "mods/traverse-reforged.toml"
+hash = "c2eaa45ce59802a806117fdf5e2e93604525dcad1e6afe1171c4422f0c3502db"
+metafile = true
+
+[[files]]
+file = "mods/untitled-duck-mod-forge.toml"
+hash = "69fd62956325c4411fc460ee214f078b363236c3838d909b6dc6ffda236e4b4b"
+metafile = true
+
+[[files]]
+file = "mods/valhelsia-core.toml"
+hash = "a3e395355442d1378466ad3fc45b6a221bf365fb78f30a6f9153335f94de3f91"
+metafile = true
+
+[[files]]
+file = "mods/valhelsia-structures.toml"
+hash = "fb6d90e208a5d3fc467cafc1fc54c19fdc69484187ba95a3ed56b31168ef2aae"
+metafile = true
+
+[[files]]
+file = "mods/vein-mining.toml"
+hash = "177d71c33eb8598899423a8a1b1ec4314db92a47cde5e82961605087d40e3681"
+metafile = true
+
+[[files]]
+file = "mods/wandering-bag.toml"
+hash = "efa902cc8021ab5dc0ee604050f508eb54f0513552dc380591a8908d1c10b823"
+metafile = true
+
+[[files]]
+file = "mods/waystones.toml"
+hash = "5fc19891d3f68de009f71427f3d60dcac74e99ad0d8b953cdf8f6100175a8545"
+metafile = true
+
+[[files]]
+file = "mods/world-pre-generator.toml"
+hash = "bba692976308a1c2ba49d49d7a171a82950d926daa99841c7de9186191f3fd4a"
+metafile = true
+
+[[files]]
+file = "mods/yungs-api.toml"
+hash = "f2ba19497b6fc95363ec3a69cf5ea3d3397788679cf50d7f991a0f092e1d9ade"
+metafile = true
+
+[[files]]
+file = "mods/yungs-better-dungeons.toml"
+hash = "816059b1cc418344fbfbe0b826ad72f6e965a861fbb1c5c4503bb7b6dea2d4b7"
+metafile = true
+
+[[files]]
+file = "mods/yungs-better-mineshafts-forge.toml"
+hash = "7ceb888f8de7e735571200e033567dbca017c2f098ece1b07fc81c2b6d2c2ee8"
+metafile = true
+
+[[files]]
+file = "mods/yungs-better-strongholds.toml"
+hash = "60b5070f88c9524a8d9e07e47f0467fd1e89c3040523e29062683b8f0e62aa73"
+metafile = true
+
+[[files]]
+file = "mods/yungs-bridges.toml"
+hash = "115a295f107a0d5ef462fb2d46f6dbaafc86e38e212ad63d9191ae9fc521482f"
+metafile = true
+
+[[files]]
+file = "mods/yungs-extras.toml"
+hash = "309f569f098949995ff6abff22a5a5d3d7aa12f079713326cbaee95eaca1a64a"
+metafile = true
+
+[[files]]
+file = "openloader/data/goblin_trader_overrides/data/goblin_trader/trades/goblin_trader/common.json"
+hash = "835c05f6686387011f43fc298ec0bac33db573cd06b40136379a711c05429632"
+
+[[files]]
+file = "openloader/data/goblin_trader_overrides/pack.mcmeta"
+hash = "40aacfc5ef9a753cdd38ec308ce29a850a1205b94fe31fe403d126a3f0bc20b7"
+
+[[files]]
+file = "openloader/data/goblin_trader_overrides/pack.png"
+hash = "2b329ae08ec947e9deead9b04987720dbaf30a418b0ee31531a65339e5e3863c"
+
+[[files]]
+file = "openloader/resources/AntiqueAtlasEMS_1.16.5_1.3/assets/abundance/atlas/tiles/lavender_fields.json"
+hash = "5a5b0b113109775a7345b4529873222bcfce27a1bf17e6b459bc3abf19024864"
+
+[[files]]
+file = "openloader/resources/AntiqueAtlasEMS_1.16.5_1.3/assets/abundance/atlas/tiles/lavender_forest.json"
+hash = "110e4b48c7b8b76aebbb4b95a8fc94c935ea5a14151adcf38e2c646622284fef"
+
+[[files]]
+file = "openloader/resources/AntiqueAtlasEMS_1.16.5_1.3/assets/abundance/atlas/tiles/nemophila_fields.json"
+hash = "365499bebdee2e2a801ce481bbc7b2f4b73cd00a8b9b581abdd1535dcbfeb760"
+
+[[files]]
+file = "openloader/resources/AntiqueAtlasEMS_1.16.5_1.3/assets/antiqueatlas/atlas/texture_sets/crimson_forest.json"
+hash = "22f736dfb5918f75f31e5a5108ea731030def8fdea68bdde9ab282dd231d6dd0"
+
+[[files]]
+file = "openloader/resources/AntiqueAtlasEMS_1.16.5_1.3/assets/antiqueatlas/atlas/texture_sets/dark_forest.json"
+hash = "c16b9d37c3cf3a3e09404f807d87efd424eb5e2e966c63c6b478d3415d4c5788"
+
+[[files]]
+file = "openloader/resources/AntiqueAtlasEMS_1.16.5_1.3/assets/antiqueatlas/atlas/texture_sets/dark_forest_hills.json"
+hash = "28853fa0373b3708212dcb5cfe266d3961c60e3ea2cce70ca5323c17b3d1080f"
+
+[[files]]
+file = "openloader/resources/AntiqueAtlasEMS_1.16.5_1.3/assets/antiqueatlas/atlas/texture_sets/deep_frozen_ocean.json"
+hash = "bda97d67f4522118ce9bced54db90d9c82935755eb574fa67834a8bdf5e4f67f"
+
+[[files]]
+file = "openloader/resources/AntiqueAtlasEMS_1.16.5_1.3/assets/antiqueatlas/atlas/texture_sets/desert_hills.json"
+hash = "ec958f488cbcc7a24de0cb57aed3632818604484163259a7a3bb345b93588545"
+
+[[files]]
+file = "openloader/resources/AntiqueAtlasEMS_1.16.5_1.3/assets/antiqueatlas/atlas/texture_sets/eroded_badlands.json"
+hash = "de8387f882782f0c2b69c54d4d11594e5598eab2d1a49fbbf737b281f83990c6"
+
+[[files]]
+file = "openloader/resources/AntiqueAtlasEMS_1.16.5_1.3/assets/antiqueatlas/atlas/texture_sets/frozen_ocean.json"
+hash = "c482418eac91e57baaf0bb171c18ddee1675d3621be4383bd8e5a22698184175"
+
+[[files]]
+file = "openloader/resources/AntiqueAtlasEMS_1.16.5_1.3/assets/antiqueatlas/atlas/texture_sets/gravelly_mountains.json"
+hash = "0bcde6b2c60d5fb9f5c13ab02011e2f76204f10e38aca47b7263271cb89945f7"
+
+[[files]]
+file = "openloader/resources/AntiqueAtlasEMS_1.16.5_1.3/assets/antiqueatlas/atlas/texture_sets/jungle_bamboo.json"
+hash = "f8fc0f7e44d7cd262f6a5b3efc29893cbaf1ddc8c3a77fd9e56ba9d818e1344f"
+
+[[files]]
+file = "openloader/resources/AntiqueAtlasEMS_1.16.5_1.3/assets/antiqueatlas/atlas/texture_sets/jungle_bamboo_hills.json"
+hash = "24d2b72637aedee6bf01d962d412fa9fc414ed03f781fefd16e5ce0b02f4804b"
+
+[[files]]
+file = "openloader/resources/AntiqueAtlasEMS_1.16.5_1.3/assets/antiqueatlas/atlas/texture_sets/mega_spruce.json"
+hash = "66e97e2480079b47c41b4298cfc7e4044630e149ccb8e2cd5100f3a0ad67c05b"
+
+[[files]]
+file = "openloader/resources/AntiqueAtlasEMS_1.16.5_1.3/assets/antiqueatlas/atlas/texture_sets/mega_spruce_hills.json"
+hash = "8ff9cfc01c0675c122cd16f48d22e9af40cea2ec79162840a039eb1bb56566f5"
+
+[[files]]
+file = "openloader/resources/AntiqueAtlasEMS_1.16.5_1.3/assets/antiqueatlas/atlas/texture_sets/mega_taiga.json"
+hash = "38c4a11ba61feef4f8c14e7d417970cf4b83ec6fd32b21b168644651b5979f36"
+
+[[files]]
+file = "openloader/resources/AntiqueAtlasEMS_1.16.5_1.3/assets/antiqueatlas/atlas/texture_sets/mega_taiga_hills.json"
+hash = "35af1f3e6e8d9a70b533fdcd4f39603b6043ade21eb45ecbdb7e9ee739ed2751"
+
+[[files]]
+file = "openloader/resources/AntiqueAtlasEMS_1.16.5_1.3/assets/antiqueatlas/atlas/texture_sets/mesa.json"
+hash = "532091754ffdfbaa5d52b978ba778ff30e858d1d39e41fbacf4e7db30b409b80"
+
+[[files]]
+file = "openloader/resources/AntiqueAtlasEMS_1.16.5_1.3/assets/antiqueatlas/atlas/texture_sets/modified_wooded_badlands_plateau.json"
+hash = "8003354eebc27ba9968123d5dbc020a0f96f59316ff6522da02374cd3eb81e6c"
+
+[[files]]
+file = "openloader/resources/AntiqueAtlasEMS_1.16.5_1.3/assets/antiqueatlas/atlas/texture_sets/mushroom.json"
+hash = "9e9b1e0e9bbe38ea6b15474578535a3abbf2b1b4fd3eb1fb981a0af4dc7258d3"
+
+[[files]]
+file = "openloader/resources/AntiqueAtlasEMS_1.16.5_1.3/assets/antiqueatlas/atlas/texture_sets/plateau_mesa.json"
+hash = "36c6fd4f65693208189bd634ff12d1e4975a9b60fa324c311cf1157b43bb5071"
+
+[[files]]
+file = "openloader/resources/AntiqueAtlasEMS_1.16.5_1.3/assets/antiqueatlas/atlas/texture_sets/savanna_plateau.json"
+hash = "1fcfc18bca70ef28e6805f3c4ea4a63e82f2a76ec52549596a596dd0e6bdaff9"
+
+[[files]]
+file = "openloader/resources/AntiqueAtlasEMS_1.16.5_1.3/assets/antiqueatlas/atlas/texture_sets/snow_pines.json"
+hash = "874f932be7f8e659784e1aeae310780ac9a46af93a1a26d9373570bc3c768299"
+
+[[files]]
+file = "openloader/resources/AntiqueAtlasEMS_1.16.5_1.3/assets/antiqueatlas/atlas/texture_sets/snow_pines_hills.json"
+hash = "68b79065c5f9f2fc220217ec497c0f258dbf179d2c8918022cc796157925087e"
+
+[[files]]
+file = "openloader/resources/AntiqueAtlasEMS_1.16.5_1.3/assets/antiqueatlas/atlas/texture_sets/snowy_taiga_hills.json"
+hash = "8e88edd1016c1a3677956f4efe59b29ae20356e3d2dae776f64409f62c066873"
+
+[[files]]
+file = "openloader/resources/AntiqueAtlasEMS_1.16.5_1.3/assets/antiqueatlas/atlas/texture_sets/snowy_tundra.json"
+hash = "a762fa7ab333786c14c6f5ac3f186841dae37a6a92e2c879d5419d0557e8e2e9"
+
+[[files]]
+file = "openloader/resources/AntiqueAtlasEMS_1.16.5_1.3/assets/antiqueatlas/atlas/texture_sets/soul_sand_valley.json"
+hash = "c249c7b191d7c40be63708f36b9ee7741105c3f684f1dcc133ebfabe1e57f78d"
+
+[[files]]
+file = "openloader/resources/AntiqueAtlasEMS_1.16.5_1.3/assets/antiqueatlas/atlas/texture_sets/sunflowers.json"
+hash = "9075a94b390e3ede3d4f5ffc7e60213a7242625f260f6a97c761d5a3b10da62f"
+
+[[files]]
+file = "openloader/resources/AntiqueAtlasEMS_1.16.5_1.3/assets/antiqueatlas/atlas/texture_sets/swamp.json"
+hash = "ce21485882582244fa64b3d2035f4c2d618f426bdc6e8ce5ae86897ec6d7dad3"
+
+[[files]]
+file = "openloader/resources/AntiqueAtlasEMS_1.16.5_1.3/assets/antiqueatlas/atlas/texture_sets/taiga_mountains.json"
+hash = "3112d10e9949b65f327fa31caffe03215dbf4f115aabc993741e6a643207bcb5"
+
+[[files]]
+file = "openloader/resources/AntiqueAtlasEMS_1.16.5_1.3/assets/antiqueatlas/atlas/texture_sets/warped_forest.json"
+hash = "0a27448734f4e5275cd5dfdc8128517dd530c4f74e0899511bced76c7643de74"
+
+[[files]]
+file = "openloader/resources/AntiqueAtlasEMS_1.16.5_1.3/assets/antiqueatlas/atlas/texture_sets/wooded_mountains.json"
+hash = "9bc2fec127bae8577371894d42a3cdc5d372627024da4e1778d71744338742e4"
+
+[[files]]
+file = "openloader/resources/AntiqueAtlasEMS_1.16.5_1.3/assets/antiqueatlas/textures/gui/tiles/basalt_columns1.png"
+hash = "00058e269ef0242793aa5b6b5f2f74dc62db3b6cc54866475489ccf684952054"
+
+[[files]]
+file = "openloader/resources/AntiqueAtlasEMS_1.16.5_1.3/assets/antiqueatlas/textures/gui/tiles/basalt_columns2.png"
+hash = "2a6e1c945f9ffc8d729b4becace534c3facdd22c9ab296610a7d215671868f4d"
+
+[[files]]
+file = "openloader/resources/AntiqueAtlasEMS_1.16.5_1.3/assets/antiqueatlas/textures/gui/tiles/basalt_columns3.png"
+hash = "e30f081e971b39bbf86f8029ab7b58d9c3e17f50881c072094a284e2650a0880"
+
+[[files]]
+file = "openloader/resources/AntiqueAtlasEMS_1.16.5_1.3/assets/antiqueatlas/textures/gui/tiles/basalt_columns_lava1.png"
+hash = "bd134250b9319d763280b8c234ba93ee5a5cc1bfc3f2c92e5c4b1f76cdc0d214"
+
+[[files]]
+file = "openloader/resources/AntiqueAtlasEMS_1.16.5_1.3/assets/antiqueatlas/textures/gui/tiles/birch.png"
+hash = "cd26010768a0f4ca66fbd8bfb3859f44482fcc56a98c6715e8dcfeec642adb68"
+
+[[files]]
+file = "openloader/resources/AntiqueAtlasEMS_1.16.5_1.3/assets/antiqueatlas/textures/gui/tiles/birch2.png"
+hash = "63001a2e2110037ae9417d817a0cc2a78c110abe46315598befaca6ef5f7568d"
+
+[[files]]
+file = "openloader/resources/AntiqueAtlasEMS_1.16.5_1.3/assets/antiqueatlas/textures/gui/tiles/birch_hills.png"
+hash = "a6e8186be2b52d6e6fc01909f78d7117a7e84192d67cb5a3218e09f89f0abdee"
+
+[[files]]
+file = "openloader/resources/AntiqueAtlasEMS_1.16.5_1.3/assets/antiqueatlas/textures/gui/tiles/birch_hills2.png"
+hash = "d40456d362fe95be6519336cff759034c404f8a7aa597764722a5dc4f4effefd"
+
+[[files]]
+file = "openloader/resources/AntiqueAtlasEMS_1.16.5_1.3/assets/antiqueatlas/textures/gui/tiles/bryce.png"
+hash = "f6c0eb457597040b008d639f27b2a70f84a458ccbfed59ad6f63236163711e26"
+
+[[files]]
+file = "openloader/resources/AntiqueAtlasEMS_1.16.5_1.3/assets/antiqueatlas/textures/gui/tiles/bryce2.png"
+hash = "4c7e48148a653f17165e93cc142c5080b8bdcecaafec97895a08bf00d9c5a6ee"
+
+[[files]]
+file = "openloader/resources/AntiqueAtlasEMS_1.16.5_1.3/assets/antiqueatlas/textures/gui/tiles/bryce3.png"
+hash = "c4236d5557b577869de7976e4b37e12b69d07a2a4190404831e6469f2e8e6269"
+
+[[files]]
+file = "openloader/resources/AntiqueAtlasEMS_1.16.5_1.3/assets/antiqueatlas/textures/gui/tiles/bryce4.png"
+hash = "937069470a3d7c8fe24060dbfd80d6f5d195e03fda312210999160f3533547aa"
+
+[[files]]
+file = "openloader/resources/AntiqueAtlasEMS_1.16.5_1.3/assets/antiqueatlas/textures/gui/tiles/bushes_cliffs.png"
+hash = "2a7f541e4865d701778d68232a6ef8c5c3b6131b33d2697096b0f0a377079c8c"
+
+[[files]]
+file = "openloader/resources/AntiqueAtlasEMS_1.16.5_1.3/assets/antiqueatlas/textures/gui/tiles/butchers_shop.png"
+hash = "63239e07afce5575fdebfbe34c33f1b5009be4dab87bbabe65e79806dd38239d"
+
+[[files]]
+file = "openloader/resources/AntiqueAtlasEMS_1.16.5_1.3/assets/antiqueatlas/textures/gui/tiles/cacti.png"
+hash = "ede7204845f8f6ba59519239327b780e9d341e2827e54c7dcaf2dcd990585c8a"
+
+[[files]]
+file = "openloader/resources/AntiqueAtlasEMS_1.16.5_1.3/assets/antiqueatlas/textures/gui/tiles/cave_walls.png"
+hash = "e16a2bb16ddfc1f4ac1c13c1a8997342448a4d79f95a8b8738deae1f16ba19f5"
+
+[[files]]
+file = "openloader/resources/AntiqueAtlasEMS_1.16.5_1.3/assets/antiqueatlas/textures/gui/tiles/church.png"
+hash = "a2156f2204cdacc925a338fa134143e9398100dcf762f32b158902001f698baf"
+
+[[files]]
+file = "openloader/resources/AntiqueAtlasEMS_1.16.5_1.3/assets/antiqueatlas/textures/gui/tiles/cliffs.png"
+hash = "7693148d349f78469a1c53fcbfcf34c7d0d7a38b2ee237eee2a9b008032b1a0d"
+
+[[files]]
+file = "openloader/resources/AntiqueAtlasEMS_1.16.5_1.3/assets/antiqueatlas/textures/gui/tiles/cliffs_clouds.png"
+hash = "8e7d6fabbd333383397854bcc363d820ba5fd75f5edc8a6ace8aee3e8a054a51"
+
+[[files]]
+file = "openloader/resources/AntiqueAtlasEMS_1.16.5_1.3/assets/antiqueatlas/textures/gui/tiles/crimson_forest.png"
+hash = "e607158a670cb29a5abc18c2c9a80d399598b20df73852496c1f181604e72603"
+
+[[files]]
+file = "openloader/resources/AntiqueAtlasEMS_1.16.5_1.3/assets/antiqueatlas/textures/gui/tiles/crimson_forest2.png"
+hash = "5de1e83973dce7fa8cc7e251828dc4fc0b3f2f9cdc3b61f0083d3a8e5421ae83"
+
+[[files]]
+file = "openloader/resources/AntiqueAtlasEMS_1.16.5_1.3/assets/antiqueatlas/textures/gui/tiles/crimson_forest3.png"
+hash = "8c9377e4ca901e5832c06078afb31c1eae2ab439e99ec46b219b0742a1a63a70"
+
+[[files]]
+file = "openloader/resources/AntiqueAtlasEMS_1.16.5_1.3/assets/antiqueatlas/textures/gui/tiles/dark_forest_hills.png"
+hash = "4db0060d4ca61af9fff57b48897a4172c4152bc50733f7aa322bc41d6de1f8d5"
+
+[[files]]
+file = "openloader/resources/AntiqueAtlasEMS_1.16.5_1.3/assets/antiqueatlas/textures/gui/tiles/dark_forest_hills2.png"
+hash = "b939f9cab9909c70ffeb8ee929c80549f2dbea07d5207e6a3920d8b4d85fa928"
+
+[[files]]
+file = "openloader/resources/AntiqueAtlasEMS_1.16.5_1.3/assets/antiqueatlas/textures/gui/tiles/dark_forest_hills3.png"
+hash = "d02589dfecce3da599f300e5bf3b6dd97f530a0f191132d4024902ea14c0f781"
+
+[[files]]
+file = "openloader/resources/AntiqueAtlasEMS_1.16.5_1.3/assets/antiqueatlas/textures/gui/tiles/deep_frozen_ocean.png"
+hash = "0bd6846d1b03a5f8eaac52961c2e6f2d848c510af0b66e29240eb580d548a635"
+
+[[files]]
+file = "openloader/resources/AntiqueAtlasEMS_1.16.5_1.3/assets/antiqueatlas/textures/gui/tiles/deep_frozen_ocean2.png"
+hash = "febf9ab8b08e5bc7dca2040f7843916e183449ea8f93a6cc37e8f0102cf9524e"
+
+[[files]]
+file = "openloader/resources/AntiqueAtlasEMS_1.16.5_1.3/assets/antiqueatlas/textures/gui/tiles/dense_birch.png"
+hash = "4b3ce398bc6d2081854559d9f70b272ff6c39c463060d6d5e49d2369f5e4aeff"
+
+[[files]]
+file = "openloader/resources/AntiqueAtlasEMS_1.16.5_1.3/assets/antiqueatlas/textures/gui/tiles/dense_forest.png"
+hash = "ba964abbc0917e76b9f2239df462743226011d0161e6cff39363437806edef60"
+
+[[files]]
+file = "openloader/resources/AntiqueAtlasEMS_1.16.5_1.3/assets/antiqueatlas/textures/gui/tiles/dense_forest2.png"
+hash = "227889d5b587b5382bb1292afa4878afa24d791297dc98a51c0c9ae320ce01b5"
+
+[[files]]
+file = "openloader/resources/AntiqueAtlasEMS_1.16.5_1.3/assets/antiqueatlas/textures/gui/tiles/dense_forest2UNUSED.png"
+hash = "49043173f8cd1f2c83f3779fdfca3d8f52fd665ce5cc3832f2794eb7e3d01c33"
+
+[[files]]
+file = "openloader/resources/AntiqueAtlasEMS_1.16.5_1.3/assets/antiqueatlas/textures/gui/tiles/dense_forest3.png"
+hash = "7c105c3c587f1a59ed2c0d036f289c8ff388209ee23a71aea744c55d010c2834"
+
+[[files]]
+file = "openloader/resources/AntiqueAtlasEMS_1.16.5_1.3/assets/antiqueatlas/textures/gui/tiles/dense_forest_hills2UNUSED.png"
+hash = "83482f813bedc88174b3ef366de6be2b207a8826614987488e5da39f059b34c7"
+
+[[files]]
+file = "openloader/resources/AntiqueAtlasEMS_1.16.5_1.3/assets/antiqueatlas/textures/gui/tiles/desert_hills.png"
+hash = "fa9a07a220431a669e0a1686c195f72eb35b3762054cd0bc0583d7e7bf3ae4df"
+
+[[files]]
+file = "openloader/resources/AntiqueAtlasEMS_1.16.5_1.3/assets/antiqueatlas/textures/gui/tiles/end_island.png"
+hash = "d4bba94b9868a6de21e8568c34697e1a5e694d545b952864b1cb034790fbd126"
+
+[[files]]
+file = "openloader/resources/AntiqueAtlasEMS_1.16.5_1.3/assets/antiqueatlas/textures/gui/tiles/end_island2.png"
+hash = "e4371934ea8909b0d2c12484f311cea5163c9f947b7aa5e9751a2af78e0f613d"
+
+[[files]]
+file = "openloader/resources/AntiqueAtlasEMS_1.16.5_1.3/assets/antiqueatlas/textures/gui/tiles/end_island_plants.png"
+hash = "3dc2337100bc08abda7519102fec4f5b8f497dfc2626c11af8ebceb85a305af9"
+
+[[files]]
+file = "openloader/resources/AntiqueAtlasEMS_1.16.5_1.3/assets/antiqueatlas/textures/gui/tiles/end_island_plants2.png"
+hash = "382406a6a4d1da1026d8e235e7ddd64eed26927106ffe4797e8deec49559a4f6"
+
+[[files]]
+file = "openloader/resources/AntiqueAtlasEMS_1.16.5_1.3/assets/antiqueatlas/textures/gui/tiles/end_void.png"
+hash = "3472c80fa2eb4f6af476f2a754cc0c2155c76581af18eda3a6f6f4a608ef33b8"
+
+[[files]]
+file = "openloader/resources/AntiqueAtlasEMS_1.16.5_1.3/assets/antiqueatlas/textures/gui/tiles/farmland_l.png"
+hash = "5d9316c91a15611e38cb59d7dd9e9ca487dad1b1be0c1570dfa858244ee3862a"
+
+[[files]]
+file = "openloader/resources/AntiqueAtlasEMS_1.16.5_1.3/assets/antiqueatlas/textures/gui/tiles/farmland_s.png"
+hash = "286427f1a8f6b68fe51463c3b391687c3e712141b03f469580345373358bf7b4"
+
+[[files]]
+file = "openloader/resources/AntiqueAtlasEMS_1.16.5_1.3/assets/antiqueatlas/textures/gui/tiles/fence.png"
+hash = "2ae8cce02de031b42d0b6d6e3a5591110d54b17123d86bdcc23c09f89e2302b9"
+
+[[files]]
+file = "openloader/resources/AntiqueAtlasEMS_1.16.5_1.3/assets/antiqueatlas/textures/gui/tiles/forest.png"
+hash = "d5442222befb36efaf118ef1e1d83f0e3ac4bc9f8bc198bf50e914d765206fb7"
+
+[[files]]
+file = "openloader/resources/AntiqueAtlasEMS_1.16.5_1.3/assets/antiqueatlas/textures/gui/tiles/forest2.png"
+hash = "8524d4f3e2c793c4a0d65a1ff5942a6d8e9297034aa108b04c0e9ac8cfa305b5"
+
+[[files]]
+file = "openloader/resources/AntiqueAtlasEMS_1.16.5_1.3/assets/antiqueatlas/textures/gui/tiles/forest3.png"
+hash = "4ba0074e9de151868e57f781942cbde7d5be1b6c207a6325b87ed07e17b23dd1"
+
+[[files]]
+file = "openloader/resources/AntiqueAtlasEMS_1.16.5_1.3/assets/antiqueatlas/textures/gui/tiles/forest_flowers.png"
+hash = "75c3d27dd189b26f70e7eff408604d78c4f8fb759da5afe5ea829972df86fcfa"
+
+[[files]]
+file = "openloader/resources/AntiqueAtlasEMS_1.16.5_1.3/assets/antiqueatlas/textures/gui/tiles/forest_flowers2.png"
+hash = "23d03279dff7dadb4c6b220f4803d8b54eb6fba99237bada68238aef66dd4994"
+
+[[files]]
+file = "openloader/resources/AntiqueAtlasEMS_1.16.5_1.3/assets/antiqueatlas/textures/gui/tiles/forest_flowers3.png"
+hash = "0225a694ecb93b429d642740b703dffd36ea3a0e16111604feaf21c37f0e68e6"
+
+[[files]]
+file = "openloader/resources/AntiqueAtlasEMS_1.16.5_1.3/assets/antiqueatlas/textures/gui/tiles/forest_hills.png"
+hash = "4b91a37414af50c0f35818ab948741ee3853dc27e259d17f63c152d3c3901a2d"
+
+[[files]]
+file = "openloader/resources/AntiqueAtlasEMS_1.16.5_1.3/assets/antiqueatlas/textures/gui/tiles/forest_hills2.png"
+hash = "1896ea44998b9299357cabc32c0bd0ccd18b2ce000105bf0b208c9f48dd8903e"
+
+[[files]]
+file = "openloader/resources/AntiqueAtlasEMS_1.16.5_1.3/assets/antiqueatlas/textures/gui/tiles/forest_hills3.png"
+hash = "c61bdfa489d8c19bcc47bb2adea637ca222badd01cd5fd6b0adee79e500d147e"
+
+[[files]]
+file = "openloader/resources/AntiqueAtlasEMS_1.16.5_1.3/assets/antiqueatlas/textures/gui/tiles/forest_sparse.png"
+hash = "7dd4a2155f028c0612ea1e425e465f7a686a731685288ff583bdde9f9b8e8226"
+
+[[files]]
+file = "openloader/resources/AntiqueAtlasEMS_1.16.5_1.3/assets/antiqueatlas/textures/gui/tiles/forest_sparse2.png"
+hash = "7fb35df6dd939301b28f205e7e2c95fe40dfd55fecae9dac6f0c51a074c99351"
+
+[[files]]
+file = "openloader/resources/AntiqueAtlasEMS_1.16.5_1.3/assets/antiqueatlas/textures/gui/tiles/forest_sparse3.png"
+hash = "922b13855006512e7520b82bdd03768fdca4c28da42c14cf0d5ee3647cc62fa4"
+
+[[files]]
+file = "openloader/resources/AntiqueAtlasEMS_1.16.5_1.3/assets/antiqueatlas/textures/gui/tiles/forest_sparse_hills.png"
+hash = "3b56436e16016479efd311b6e285b6118c95f8b8247a4e08223c7625356b6ff2"
+
+[[files]]
+file = "openloader/resources/AntiqueAtlasEMS_1.16.5_1.3/assets/antiqueatlas/textures/gui/tiles/forest_sparse_hills2.png"
+hash = "0b9903de2edf90bb8d8ac802e7a44f10c030a1b7db43f88b507ddfac4c56eafd"
+
+[[files]]
+file = "openloader/resources/AntiqueAtlasEMS_1.16.5_1.3/assets/antiqueatlas/textures/gui/tiles/forest_sparse_hills3.png"
+hash = "cc0c037f2d9a58552329fed05cb83fd1b7a5743d0ec2116a1c1b6f2e32b40b55"
+
+[[files]]
+file = "openloader/resources/AntiqueAtlasEMS_1.16.5_1.3/assets/antiqueatlas/textures/gui/tiles/grass.png"
+hash = "ca48faf05db89aac5d62483100ec259d43150f3345fe621c87f13d186e39af6d"
+
+[[files]]
+file = "openloader/resources/AntiqueAtlasEMS_1.16.5_1.3/assets/antiqueatlas/textures/gui/tiles/grass2.png"
+hash = "45b5bcb2ef008dfc00e74aa99eca54fdea7efdd726c51be98698809e9fd39707"
+
+[[files]]
+file = "openloader/resources/AntiqueAtlasEMS_1.16.5_1.3/assets/antiqueatlas/textures/gui/tiles/grass3.png"
+hash = "442b5e38abd8f84cb4496e33e37f258d445b28db3bd71cac8c577853b36c565c"
+
+[[files]]
+file = "openloader/resources/AntiqueAtlasEMS_1.16.5_1.3/assets/antiqueatlas/textures/gui/tiles/grass4.png"
+hash = "2c57c7e0543afaf1ac9856df13928e706435319af6c8923cbde263d8fbe3957e"
+
+[[files]]
+file = "openloader/resources/AntiqueAtlasEMS_1.16.5_1.3/assets/antiqueatlas/textures/gui/tiles/hills.png"
+hash = "9c56666d305c6aedde29bbc66b15defa9908a00ed006918cd42c050e9fdb7ace"
+
+[[files]]
+file = "openloader/resources/AntiqueAtlasEMS_1.16.5_1.3/assets/antiqueatlas/textures/gui/tiles/hills_bushes.png"
+hash = "79892c41bed9a135ce0d6c83b4d813efd3673b9a81aca8b37f29da85b98dccbd"
+
+[[files]]
+file = "openloader/resources/AntiqueAtlasEMS_1.16.5_1.3/assets/antiqueatlas/textures/gui/tiles/hills_cacti.png"
+hash = "9ce58817a51e9593f7dfef2fcf3e5050b81c6736dfb09bca4324052ea87431cf"
+
+[[files]]
+file = "openloader/resources/AntiqueAtlasEMS_1.16.5_1.3/assets/antiqueatlas/textures/gui/tiles/hills_grass.png"
+hash = "27984c65352f01cc08f81c1ac35d3330868e7fb83709314b400a56922995e5ad"
+
+[[files]]
+file = "openloader/resources/AntiqueAtlasEMS_1.16.5_1.3/assets/antiqueatlas/textures/gui/tiles/house.png"
+hash = "8b9ebd894f9a6c286c440180e66955ce6d92bddd627e62e9b93340ef06c02049"
+
+[[files]]
+file = "openloader/resources/AntiqueAtlasEMS_1.16.5_1.3/assets/antiqueatlas/textures/gui/tiles/house_small.png"
+hash = "cfb4f7d9ff723881e242a1f8960e66b4fde13e43680ac574e101fcb348a7b5f2"
+
+[[files]]
+file = "openloader/resources/AntiqueAtlasEMS_1.16.5_1.3/assets/antiqueatlas/textures/gui/tiles/hut.png"
+hash = "fa3cb4b2eadee674d931d13c533c24f21642d3e3ceecb7daa4fed0cc946cd2a3"
+
+[[files]]
+file = "openloader/resources/AntiqueAtlasEMS_1.16.5_1.3/assets/antiqueatlas/textures/gui/tiles/ice_border.png"
+hash = "a56596e0f980772a2bf4a7d4871a32a97b5610cc2b25a5bf2345e4cbe81de227"
+
+[[files]]
+file = "openloader/resources/AntiqueAtlasEMS_1.16.5_1.3/assets/antiqueatlas/textures/gui/tiles/ice_noborder.png"
+hash = "74f0b4e22a270f37f9a3d9cd4f8d456e2a59aa677377264b8e2e4441c5ab9414"
+
+[[files]]
+file = "openloader/resources/AntiqueAtlasEMS_1.16.5_1.3/assets/antiqueatlas/textures/gui/tiles/ice_noborder2.png"
+hash = "d247b88d95f74f4db4253d4348a3ea2bf48632c4181e23c7afb2faca0b00677b"
+
+[[files]]
+file = "openloader/resources/AntiqueAtlasEMS_1.16.5_1.3/assets/antiqueatlas/textures/gui/tiles/ice_spikes.png"
+hash = "5e6af01912c784020b69fc021c3a100b3139f002279eb38884ab716b7365e584"
+
+[[files]]
+file = "openloader/resources/AntiqueAtlasEMS_1.16.5_1.3/assets/antiqueatlas/textures/gui/tiles/ice_spikes2.png"
+hash = "3ed7ab98d3c274989b5d50e7803d3c44cd236e98c9d5f476189ecbd2b5a7954c"
+
+[[files]]
+file = "openloader/resources/AntiqueAtlasEMS_1.16.5_1.3/assets/antiqueatlas/textures/gui/tiles/jungle.png"
+hash = "cd7f885a39ce5d76272fbb232311245c135fc1d4cd95b11b000c1d8023f4a5bc"
+
+[[files]]
+file = "openloader/resources/AntiqueAtlasEMS_1.16.5_1.3/assets/antiqueatlas/textures/gui/tiles/jungle2.png"
+hash = "1b7744d43ade5d3027c6775e5c8c8a709daf60ad49312004e9b0b7368c4d1664"
+
+[[files]]
+file = "openloader/resources/AntiqueAtlasEMS_1.16.5_1.3/assets/antiqueatlas/textures/gui/tiles/jungle3.png"
+hash = "7e2594c2d3052c1b2d6acf9342ca7bc1665279b73310f4667dca23f16f613a48"
+
+[[files]]
+file = "openloader/resources/AntiqueAtlasEMS_1.16.5_1.3/assets/antiqueatlas/textures/gui/tiles/jungle4.png"
+hash = "c58d36381ccbfde678b853c842f7c6121ac5f8b3f066d5dbcb3f0f706d0fe246"
+
+[[files]]
+file = "openloader/resources/AntiqueAtlasEMS_1.16.5_1.3/assets/antiqueatlas/textures/gui/tiles/jungle_bamboo_hills.png"
+hash = "d9ff6014c8210b4b05ee7897d696f284e538cb1f5bfe728cfe7613e08b77941e"
+
+[[files]]
+file = "openloader/resources/AntiqueAtlasEMS_1.16.5_1.3/assets/antiqueatlas/textures/gui/tiles/jungle_bamboo_hills2.png"
+hash = "eb30e83280e1171f656e7be3ad029c15bbabc30ebbd5741695fc56a7a0f61e13"
+
+[[files]]
+file = "openloader/resources/AntiqueAtlasEMS_1.16.5_1.3/assets/antiqueatlas/textures/gui/tiles/jungle_bamboo_hills3.png"
+hash = "6f78fecc8231d74cc4ac8386ea0ad9f507c834f3864c37decff8d86665e938c9"
+
+[[files]]
+file = "openloader/resources/AntiqueAtlasEMS_1.16.5_1.3/assets/antiqueatlas/textures/gui/tiles/jungle_cliffs.png"
+hash = "e5271da89199915c25b2d59cfa7928314ddf18c6ffc7a753077728d28500cdac"
+
+[[files]]
+file = "openloader/resources/AntiqueAtlasEMS_1.16.5_1.3/assets/antiqueatlas/textures/gui/tiles/jungle_cliffs2.png"
+hash = "65f0e65aa1fd0256c0fbf4c4336227756aacaa495f1e001b5f276ef72bd13005"
+
+[[files]]
+file = "openloader/resources/AntiqueAtlasEMS_1.16.5_1.3/assets/antiqueatlas/textures/gui/tiles/jungle_edge.png"
+hash = "83de9606a7939b6391f03a4391bca8f8a40323fce11e3944397d55eee40be6ad"
+
+[[files]]
+file = "openloader/resources/AntiqueAtlasEMS_1.16.5_1.3/assets/antiqueatlas/textures/gui/tiles/jungle_edge2.png"
+hash = "31580d7d8584147c90102bd0cf19ec864d0acb29571811edac75731c536b550b"
+
+[[files]]
+file = "openloader/resources/AntiqueAtlasEMS_1.16.5_1.3/assets/antiqueatlas/textures/gui/tiles/jungle_edge3.png"
+hash = "cbffcaea524511d67872a8c63588005fc0636619420656d3ff9816b22657e341"
+
+[[files]]
+file = "openloader/resources/AntiqueAtlasEMS_1.16.5_1.3/assets/antiqueatlas/textures/gui/tiles/jungle_edge_hills.png"
+hash = "1f26fdbcb7e3227f8983c19f37b65cc10ff9e172ce31a8338272fe3053e7d1a5"
+
+[[files]]
+file = "openloader/resources/AntiqueAtlasEMS_1.16.5_1.3/assets/antiqueatlas/textures/gui/tiles/jungle_edge_hills2.png"
+hash = "55411bbae930f6dc19c96bee37a00d9903c5a101d018a70e14d3e0eaba90e1f6"
+
+[[files]]
+file = "openloader/resources/AntiqueAtlasEMS_1.16.5_1.3/assets/antiqueatlas/textures/gui/tiles/jungle_edge_hills3.png"
+hash = "37006decf664a255c8dc81b7771a9c1d19455140ff786bf594114549386c7336"
+
+[[files]]
+file = "openloader/resources/AntiqueAtlasEMS_1.16.5_1.3/assets/antiqueatlas/textures/gui/tiles/jungle_hills.png"
+hash = "e5c5ca301e3a4c0c1b65469c01f3418d8b9235e15153701c2a741eedd4f4ceda"
+
+[[files]]
+file = "openloader/resources/AntiqueAtlasEMS_1.16.5_1.3/assets/antiqueatlas/textures/gui/tiles/jungle_hills2.png"
+hash = "f4bd126cecae47c3434b95fa8c624db7cddcdeebf0f848c9fd3552fcacbfa6e0"
+
+[[files]]
+file = "openloader/resources/AntiqueAtlasEMS_1.16.5_1.3/assets/antiqueatlas/textures/gui/tiles/l_house.png"
+hash = "ccf584ff549c29021583c848fdac54d143e656c34440b836e30f38ecbc241de4"
+
+[[files]]
+file = "openloader/resources/AntiqueAtlasEMS_1.16.5_1.3/assets/antiqueatlas/textures/gui/tiles/lava.png"
+hash = "a8ca998c4a2475f87a19bae8e71c41e6ce0f935eae0a6e485a93fcafde74da2e"
+
+[[files]]
+file = "openloader/resources/AntiqueAtlasEMS_1.16.5_1.3/assets/antiqueatlas/textures/gui/tiles/lava2.png"
+hash = "305697c78b8d6022e3cd8978e679e16a8055df8c84cb644ed02bd77707c7fdeb"
+
+[[files]]
+file = "openloader/resources/AntiqueAtlasEMS_1.16.5_1.3/assets/antiqueatlas/textures/gui/tiles/lava_shore.png"
+hash = "23c027ec00564fb359e379971a17fe0f9b5b3ee64e8ed936949d709f5e2a660f"
+
+[[files]]
+file = "openloader/resources/AntiqueAtlasEMS_1.16.5_1.3/assets/antiqueatlas/textures/gui/tiles/lava_shore2.png"
+hash = "91ea4696601d5defabdb1f573e79ff92061334846b35d48045f059e67887c478"
+
+[[files]]
+file = "openloader/resources/AntiqueAtlasEMS_1.16.5_1.3/assets/antiqueatlas/textures/gui/tiles/library.png"
+hash = "62997175847fa82c48c32b274835b9bd2be138d7afd90fa567c423438822ea4f"
+
+[[files]]
+file = "openloader/resources/AntiqueAtlasEMS_1.16.5_1.3/assets/antiqueatlas/textures/gui/tiles/mega_spruce.png"
+hash = "a319ec7a3afed323fc9c836ca0380d7e57698307e800f32a26fb2fc39a7436cf"
+
+[[files]]
+file = "openloader/resources/AntiqueAtlasEMS_1.16.5_1.3/assets/antiqueatlas/textures/gui/tiles/mega_spruce2.png"
+hash = "6311da1ddd67f49d8810dd45d551abc5947b4b6fe5894ddd894bf4754f622221"
+
+[[files]]
+file = "openloader/resources/AntiqueAtlasEMS_1.16.5_1.3/assets/antiqueatlas/textures/gui/tiles/mega_spruce_hills.png"
+hash = "a319ec7a3afed323fc9c836ca0380d7e57698307e800f32a26fb2fc39a7436cf"
+
+[[files]]
+file = "openloader/resources/AntiqueAtlasEMS_1.16.5_1.3/assets/antiqueatlas/textures/gui/tiles/mega_spruce_hills2.png"
+hash = "6311da1ddd67f49d8810dd45d551abc5947b4b6fe5894ddd894bf4754f622221"
+
+[[files]]
+file = "openloader/resources/AntiqueAtlasEMS_1.16.5_1.3/assets/antiqueatlas/textures/gui/tiles/mega_spruce_hills2E.png"
+hash = "68f5a13a11570332eb8ad736f4d10ab9bfcfa218e3a33192eebfb4aa7bab0c3c"
+
+[[files]]
+file = "openloader/resources/AntiqueAtlasEMS_1.16.5_1.3/assets/antiqueatlas/textures/gui/tiles/mega_spruce_hillsE.png"
+hash = "2b26eafb34441828d7fab0fd490b2f265596a5d5d661df16c92a92e2d3966137"
+
+[[files]]
+file = "openloader/resources/AntiqueAtlasEMS_1.16.5_1.3/assets/antiqueatlas/textures/gui/tiles/mega_taiga.png"
+hash = "d0ffa31e6fee8807a86edf9a17b891c6b4cc735e984af95684349f5f2dda1ef7"
+
+[[files]]
+file = "openloader/resources/AntiqueAtlasEMS_1.16.5_1.3/assets/antiqueatlas/textures/gui/tiles/mega_taiga2.png"
+hash = "651ef77612291c426d6075164d3c78d2cb1e613b1766b60f5836cfa3f675065b"
+
+[[files]]
+file = "openloader/resources/AntiqueAtlasEMS_1.16.5_1.3/assets/antiqueatlas/textures/gui/tiles/mega_taiga_hills.png"
+hash = "855e1b17060b7e03659448876b053fd8e99cb79b88eabc24c7b37b387d45443b"
+
+[[files]]
+file = "openloader/resources/AntiqueAtlasEMS_1.16.5_1.3/assets/antiqueatlas/textures/gui/tiles/mega_taiga_hills2.png"
+hash = "43b7dc75be763150497afbe5ee5ba7a603a6c4a3da51fb70c953da393a217d40"
+
+[[files]]
+file = "openloader/resources/AntiqueAtlasEMS_1.16.5_1.3/assets/antiqueatlas/textures/gui/tiles/mega_taiga_hills2E.png"
+hash = "301f80e35bfdb74ae371dcd8d35aeaa9103234631f0c070379b4a41937de1037"
+
+[[files]]
+file = "openloader/resources/AntiqueAtlasEMS_1.16.5_1.3/assets/antiqueatlas/textures/gui/tiles/mega_taiga_hillsE.png"
+hash = "d0ff5598587a0a7d94a3ce16601c5776025c5b55f60166cd7587b00bd47a525d"
+
+[[files]]
+file = "openloader/resources/AntiqueAtlasEMS_1.16.5_1.3/assets/antiqueatlas/textures/gui/tiles/mesa.png"
+hash = "c79f9888d18e4f3bb81717e8c67103b71fac987800859b77c571c6ce7fd15f2c"
+
+[[files]]
+file = "openloader/resources/AntiqueAtlasEMS_1.16.5_1.3/assets/antiqueatlas/textures/gui/tiles/mesa2.png"
+hash = "c55f12f4c94c916caa3f0ba661323a04df01c31b4ac8f4019afb74e29ca2db58"
+
+[[files]]
+file = "openloader/resources/AntiqueAtlasEMS_1.16.5_1.3/assets/antiqueatlas/textures/gui/tiles/mesa3.png"
+hash = "3cac0b7ae1b087688883284c8e76a981b5249141273f2e4bde1ae92aa631df98"
+
+[[files]]
+file = "openloader/resources/AntiqueAtlasEMS_1.16.5_1.3/assets/antiqueatlas/textures/gui/tiles/mesa4.png"
+hash = "fbc0ece4954fbadeb42447205f4394095f3d68b4f86821868842cf18e6112ec6"
+
+[[files]]
+file = "openloader/resources/AntiqueAtlasEMS_1.16.5_1.3/assets/antiqueatlas/textures/gui/tiles/mountains.png"
+hash = "1fc8f1d32c60e704a4c381691b1e28a291158b35f82f4dc0da44bf79fa8f0b6f"
+
+[[files]]
+file = "openloader/resources/AntiqueAtlasEMS_1.16.5_1.3/assets/antiqueatlas/textures/gui/tiles/mountains2.png"
+hash = "f38244b9627f61b37814c305f43307f92fb6b4774db6162f9843034c121fe1c5"
+
+[[files]]
+file = "openloader/resources/AntiqueAtlasEMS_1.16.5_1.3/assets/antiqueatlas/textures/gui/tiles/mountains3.png"
+hash = "17075625fc6ddebe579f74f72730cf24b7774c9c2a7dbcc2a956bf88b161de53"
+
+[[files]]
+file = "openloader/resources/AntiqueAtlasEMS_1.16.5_1.3/assets/antiqueatlas/textures/gui/tiles/mountains4.png"
+hash = "6c3a2d95a33d0430f8258fa44c3409608d488832f70b69815203d505ce1aded4"
+
+[[files]]
+file = "openloader/resources/AntiqueAtlasEMS_1.16.5_1.3/assets/antiqueatlas/textures/gui/tiles/mountains5.png"
+hash = "67fd3dd4b9ba492f6c0be8590739932e0d91fadd803c3276069fda86740f96b9"
+
+[[files]]
+file = "openloader/resources/AntiqueAtlasEMS_1.16.5_1.3/assets/antiqueatlas/textures/gui/tiles/mushroom.png"
+hash = "d948216b7de086f0eb647d815a727f441f34394bc1f61933590faf0833837625"
+
+[[files]]
+file = "openloader/resources/AntiqueAtlasEMS_1.16.5_1.3/assets/antiqueatlas/textures/gui/tiles/mushroom2.png"
+hash = "027bcd4fa143a115cc3a2c00f4603f7b88dd5c3450fa8bcc7dadd269f5b0208b"
+
+[[files]]
+file = "openloader/resources/AntiqueAtlasEMS_1.16.5_1.3/assets/antiqueatlas/textures/gui/tiles/mushroom3.png"
+hash = "03da9febaa395e8c6c77ff7f7c4d6b16fff914611788d1ae2ae0f9901cf96299"
+
+[[files]]
+file = "openloader/resources/AntiqueAtlasEMS_1.16.5_1.3/assets/antiqueatlas/textures/gui/tiles/nether_bridge.png"
+hash = "2aca187b82d559fea5fd044c4c1bcb34f10421a697493275657c9882d776be93"
+
+[[files]]
+file = "openloader/resources/AntiqueAtlasEMS_1.16.5_1.3/assets/antiqueatlas/textures/gui/tiles/nether_bridge_end_x.png"
+hash = "9d83039921c50177da307233ebf5a701e76ec8c2481944292bd6d4c643f3fd04"
+
+[[files]]
+file = "openloader/resources/AntiqueAtlasEMS_1.16.5_1.3/assets/antiqueatlas/textures/gui/tiles/nether_bridge_end_z.png"
+hash = "5676b267a0ca2723d1843c7b5b5ab1017442166e06038efe5bb23f907363bc87"
+
+[[files]]
+file = "openloader/resources/AntiqueAtlasEMS_1.16.5_1.3/assets/antiqueatlas/textures/gui/tiles/nether_bridge_gate.png"
+hash = "740e8b3de93e6f4103ccc58dcb8869030cca661d8892fb12795902474534c5ff"
+
+[[files]]
+file = "openloader/resources/AntiqueAtlasEMS_1.16.5_1.3/assets/antiqueatlas/textures/gui/tiles/nether_bridge_x.png"
+hash = "3d4cd77e5d4df671cff4fa594f6d8c712d19fa88dd2dc7d2220efdd549ac5b35"
+
+[[files]]
+file = "openloader/resources/AntiqueAtlasEMS_1.16.5_1.3/assets/antiqueatlas/textures/gui/tiles/nether_bridge_z.png"
+hash = "257c4a1bdbef2611d244c8f58201db7acb81f00f84e3df4d62faedc06e648f2b"
+
+[[files]]
+file = "openloader/resources/AntiqueAtlasEMS_1.16.5_1.3/assets/antiqueatlas/textures/gui/tiles/nether_fort_stairs.png"
+hash = "b978ac8e573d8353d6ff239a93caae212437fe2c9af9337342adfae7487a4f54"
+
+[[files]]
+file = "openloader/resources/AntiqueAtlasEMS_1.16.5_1.3/assets/antiqueatlas/textures/gui/tiles/nether_hall.png"
+hash = "a043367be14bb501023e77511ab5eae3c3b284194e518e728c19e23eb1b68ba2"
+
+[[files]]
+file = "openloader/resources/AntiqueAtlasEMS_1.16.5_1.3/assets/antiqueatlas/textures/gui/tiles/nether_throne.png"
+hash = "110a63303959dd57a653c36666ea477f1eb3f85d86e68a9b963e75ecf5788265"
+
+[[files]]
+file = "openloader/resources/AntiqueAtlasEMS_1.16.5_1.3/assets/antiqueatlas/textures/gui/tiles/nether_tower.png"
+hash = "ef59ebdf2f275c7e0c5845e190ee46b1efa08111c63bc093bebf2863ad9cb4b2"
+
+[[files]]
+file = "openloader/resources/AntiqueAtlasEMS_1.16.5_1.3/assets/antiqueatlas/textures/gui/tiles/nether_wall.png"
+hash = "ac0389cbef35655dac16520fd7afc565b823362ab3b47ebf32e69b8ebc2d7d99"
+
+[[files]]
+file = "openloader/resources/AntiqueAtlasEMS_1.16.5_1.3/assets/antiqueatlas/textures/gui/tiles/pines.png"
+hash = "81214920e0836b645ff6f9eaaa4b99c20d23fcbd0c0831c63561d5cf7d9bf5b7"
+
+[[files]]
+file = "openloader/resources/AntiqueAtlasEMS_1.16.5_1.3/assets/antiqueatlas/textures/gui/tiles/pines2.png"
+hash = "7293b436e7af95bca236e51039b5830aa13b1e86fa35a741e586ce64585e6a39"
+
+[[files]]
+file = "openloader/resources/AntiqueAtlasEMS_1.16.5_1.3/assets/antiqueatlas/textures/gui/tiles/pines3.png"
+hash = "1d5c02795d816d1705bc2764ab7427f8797220a61e54aba1afe14186e17870cb"
+
+[[files]]
+file = "openloader/resources/AntiqueAtlasEMS_1.16.5_1.3/assets/antiqueatlas/textures/gui/tiles/pines_hills.png"
+hash = "c326e2fbc4bdb9bf5cba14c62aaae41a1293ad4be123d1ab9df9341c23c78cdd"
+
+[[files]]
+file = "openloader/resources/AntiqueAtlasEMS_1.16.5_1.3/assets/antiqueatlas/textures/gui/tiles/pines_hills2.png"
+hash = "6a1a5214b9d36b455aec1371f22a5f0e1b735e90306485da3e99a4523793733c"
+
+[[files]]
+file = "openloader/resources/AntiqueAtlasEMS_1.16.5_1.3/assets/antiqueatlas/textures/gui/tiles/pines_hills3.png"
+hash = "e50ffb659ba5012b7c55a5a7e0f9628463108e78e09802f0ed3f39f374c9a7bf"
+
+[[files]]
+file = "openloader/resources/AntiqueAtlasEMS_1.16.5_1.3/assets/antiqueatlas/textures/gui/tiles/plateau_grass.png"
+hash = "69580cdbdf9f4c0c433c08351b59c7ca32e2f32f131bb81b384ef34bf31f3b28"
+
+[[files]]
+file = "openloader/resources/AntiqueAtlasEMS_1.16.5_1.3/assets/antiqueatlas/textures/gui/tiles/plateau_grass2.png"
+hash = "bf16fd3e2ad49307dfc0d7d9b356ebb7644b59240845827e41cb1d26f3659907"
+
+[[files]]
+file = "openloader/resources/AntiqueAtlasEMS_1.16.5_1.3/assets/antiqueatlas/textures/gui/tiles/plateau_grass3.png"
+hash = "97ed61be29915cd6d373f9e39471b8610e2e744c5892a7fb6883481895b29616"
+
+[[files]]
+file = "openloader/resources/AntiqueAtlasEMS_1.16.5_1.3/assets/antiqueatlas/textures/gui/tiles/plateau_mesa.png"
+hash = "10d585c5b804388d881be38095cf8d8a52553ee9cefb09b3d02cf2bd5ad0dee6"
+
+[[files]]
+file = "openloader/resources/AntiqueAtlasEMS_1.16.5_1.3/assets/antiqueatlas/textures/gui/tiles/plateau_mesa2.png"
+hash = "3ca004bae986d04290bd174f1d7e9109fea6465adac72cd9601a611b993df558"
+
+[[files]]
+file = "openloader/resources/AntiqueAtlasEMS_1.16.5_1.3/assets/antiqueatlas/textures/gui/tiles/plateau_mesa_low.png"
+hash = "13680ee317068ff80bea33502a519200714b33d20d843e5c78e8e417f07552f8"
+
+[[files]]
+file = "openloader/resources/AntiqueAtlasEMS_1.16.5_1.3/assets/antiqueatlas/textures/gui/tiles/plateau_mesa_low2.png"
+hash = "a47ab3658b231e5acf967c3411072ba083900f5c5c8ffc500b9b4dc540dccd09"
+
+[[files]]
+file = "openloader/resources/AntiqueAtlasEMS_1.16.5_1.3/assets/antiqueatlas/textures/gui/tiles/plateau_savanna.png"
+hash = "26fff98c49719eafa6ff0ccfd7d5c5bee960c7330dd483de57424e0accb4125e"
+
+[[files]]
+file = "openloader/resources/AntiqueAtlasEMS_1.16.5_1.3/assets/antiqueatlas/textures/gui/tiles/plateau_savanna2.png"
+hash = "481f8b3296255a97f118ae7401e687d63946879ba0e47999d8e0b28cf1463d7a"
+
+[[files]]
+file = "openloader/resources/AntiqueAtlasEMS_1.16.5_1.3/assets/antiqueatlas/textures/gui/tiles/plateau_savanna3.png"
+hash = "89ef2f36123bc4e42d8295e47e758fe04919af7bf31f9c7a2c596724ce7b130f"
+
+[[files]]
+file = "openloader/resources/AntiqueAtlasEMS_1.16.5_1.3/assets/antiqueatlas/textures/gui/tiles/plateau_savanna4.png"
+hash = "af783f5d62452161128247be7e402feed6c99ea69a02cfb13edd77afda4b565d"
+
+[[files]]
+file = "openloader/resources/AntiqueAtlasEMS_1.16.5_1.3/assets/antiqueatlas/textures/gui/tiles/plateau_trees.png"
+hash = "5bb347ca0f36c80925fbfab26f9ee8a67b5e5803c19e765c74620d9ee4767d5c"
+
+[[files]]
+file = "openloader/resources/AntiqueAtlasEMS_1.16.5_1.3/assets/antiqueatlas/textures/gui/tiles/plateau_trees_low.png"
+hash = "5f83bb538694165d25e24362053cc1ae81d8952dbdaa57cd9adf51adf298c9e3"
+
+[[files]]
+file = "openloader/resources/AntiqueAtlasEMS_1.16.5_1.3/assets/antiqueatlas/textures/gui/tiles/ravine.png"
+hash = "025ebc637fbd746eb77592e59a83c7e1fde4cdcc5cb46d7f8c6014d0d81492b7"
+
+[[files]]
+file = "openloader/resources/AntiqueAtlasEMS_1.16.5_1.3/assets/antiqueatlas/textures/gui/tiles/ravine2.png"
+hash = "d963f746dff13d7ca43d890fbc3794da614724c41e83199d559dcc79c28813f8"
+
+[[files]]
+file = "openloader/resources/AntiqueAtlasEMS_1.16.5_1.3/assets/antiqueatlas/textures/gui/tiles/rock_shore.png"
+hash = "0944c39a7d2b984c07f22964a846ab99231f31e8fa4d1535e484839f0dabcb13"
+
+[[files]]
+file = "openloader/resources/AntiqueAtlasEMS_1.16.5_1.3/assets/antiqueatlas/textures/gui/tiles/ruined_portal.png"
+hash = "f24a3b83a345ab086489f9513b2b8a63352b0f380bdc5e10802916a9b5eba4fe"
+
+[[files]]
+file = "openloader/resources/AntiqueAtlasEMS_1.16.5_1.3/assets/antiqueatlas/textures/gui/tiles/sand.png"
+hash = "1d99ce4160cce4c6fd1782db35e4e9f60ab63cefea97fc0f7ecfdd9b974237c5"
+
+[[files]]
+file = "openloader/resources/AntiqueAtlasEMS_1.16.5_1.3/assets/antiqueatlas/textures/gui/tiles/sand2.png"
+hash = "4b297cb541c70bb4b1231486fc1fdf4c6f50311486deaf7092852015e09970d4"
+
+[[files]]
+file = "openloader/resources/AntiqueAtlasEMS_1.16.5_1.3/assets/antiqueatlas/textures/gui/tiles/sand3.png"
+hash = "e4914dbe62d2a0a57c851796119559caf4cf39ee646b8f0b6cbf49f48b1dc835"
+
+[[files]]
+file = "openloader/resources/AntiqueAtlasEMS_1.16.5_1.3/assets/antiqueatlas/textures/gui/tiles/sand_bushes.png"
+hash = "442d6b618ea8fe5fcee87324b418db0b1f968ecfe59a87c6056f5189b319371c"
+
+[[files]]
+file = "openloader/resources/AntiqueAtlasEMS_1.16.5_1.3/assets/antiqueatlas/textures/gui/tiles/savanna.png"
+hash = "b7ff2e21a2341892e19ccba50acbbbbd09ddbc7e6e988ec590958d3f086c7c41"
+
+[[files]]
+file = "openloader/resources/AntiqueAtlasEMS_1.16.5_1.3/assets/antiqueatlas/textures/gui/tiles/savanna2.png"
+hash = "875ee0feed8f29227853f4145dddd1c3e976d6fe3dbfb947147f63a454bffb9c"
+
+[[files]]
+file = "openloader/resources/AntiqueAtlasEMS_1.16.5_1.3/assets/antiqueatlas/textures/gui/tiles/savanna3.png"
+hash = "87137e6f8feac43e7218daa6a882ecc520f4cc5e4d86e3a24a9520707f66b90f"
+
+[[files]]
+file = "openloader/resources/AntiqueAtlasEMS_1.16.5_1.3/assets/antiqueatlas/textures/gui/tiles/savanna_cliffs.png"
+hash = "b8248a08495fa393d788d8e565a2cc4dccadd0c25426fe38f14e7f39d34f1ee1"
+
+[[files]]
+file = "openloader/resources/AntiqueAtlasEMS_1.16.5_1.3/assets/antiqueatlas/textures/gui/tiles/savanna_cliffs2.png"
+hash = "624f1f66093f3ccd4c3ae503b4fcc7a35586eaa954c0125aed69d46e042ed49c"
+
+[[files]]
+file = "openloader/resources/AntiqueAtlasEMS_1.16.5_1.3/assets/antiqueatlas/textures/gui/tiles/savanna_cliffs3.png"
+hash = "762ad3e65ddcde5c2af5a2302cdef3f8751f5d5669ab0898c16d25a335a97f51"
+
+[[files]]
+file = "openloader/resources/AntiqueAtlasEMS_1.16.5_1.3/assets/antiqueatlas/textures/gui/tiles/savanna_cliffs_clouds.png"
+hash = "8ecf1d69852d334a95712f9c13a47391601338cf37fd3f88afd042af631787ae"
+
+[[files]]
+file = "openloader/resources/AntiqueAtlasEMS_1.16.5_1.3/assets/antiqueatlas/textures/gui/tiles/savanna_cliffs_clouds2.png"
+hash = "3f560513f42944dcefd1cc7ec2b8a4b3f31fb05cbac87c5717aaf8f00e3a2782"
+
+[[files]]
+file = "openloader/resources/AntiqueAtlasEMS_1.16.5_1.3/assets/antiqueatlas/textures/gui/tiles/savanna_cliffs_clouds3.png"
+hash = "5cff9c69d98f8f4d47ef3d6d9d1ea4e5595afd133dd5b4632740c451a3e48c7f"
+
+[[files]]
+file = "openloader/resources/AntiqueAtlasEMS_1.16.5_1.3/assets/antiqueatlas/textures/gui/tiles/shore.png"
+hash = "4daedd8b5b068b93bf134a8d98a01899d3571b886371be2f6bac21bc1dd6af60"
+
+[[files]]
+file = "openloader/resources/AntiqueAtlasEMS_1.16.5_1.3/assets/antiqueatlas/textures/gui/tiles/shore2.png"
+hash = "780d637f23795d395b903f8d15276a0ee63658956d26df06f30a75d2f775c063"
+
+[[files]]
+file = "openloader/resources/AntiqueAtlasEMS_1.16.5_1.3/assets/antiqueatlas/textures/gui/tiles/shore3.png"
+hash = "3f0e457e7d0f7fb6eb6501b60c29ae30a9bc8fe045c294b047694ca842441ceb"
+
+[[files]]
+file = "openloader/resources/AntiqueAtlasEMS_1.16.5_1.3/assets/antiqueatlas/textures/gui/tiles/smithy.png"
+hash = "a9529e83912fa9b07524c1a6d9dff168e845d7b6fd0920233936d57624d3089d"
+
+[[files]]
+file = "openloader/resources/AntiqueAtlasEMS_1.16.5_1.3/assets/antiqueatlas/textures/gui/tiles/snow.png"
+hash = "e4b476d1946c506737e928846539b6b2c7ea07103b49c07f193f15b7f1de508a"
+
+[[files]]
+file = "openloader/resources/AntiqueAtlasEMS_1.16.5_1.3/assets/antiqueatlas/textures/gui/tiles/snow1.png"
+hash = "7c9f9bb8dacefb779f9cabe0cb7049fe56c2652a935015e8f2f6d64ed701e89c"
+
+[[files]]
+file = "openloader/resources/AntiqueAtlasEMS_1.16.5_1.3/assets/antiqueatlas/textures/gui/tiles/snow2.png"
+hash = "53513a916beae5141b208cc3265495c4dfaadc028fc6d475baf37ce8a68db7c5"
+
+[[files]]
+file = "openloader/resources/AntiqueAtlasEMS_1.16.5_1.3/assets/antiqueatlas/textures/gui/tiles/snow3.png"
+hash = "7ca39bfcfa827f92e2aff8d71db6e2421e97c399654e6664e537b5d94d99e3a1"
+
+[[files]]
+file = "openloader/resources/AntiqueAtlasEMS_1.16.5_1.3/assets/antiqueatlas/textures/gui/tiles/snow4.png"
+hash = "471d1173beecb5e236744e546ace987d9c7d8532fdca61d1a8a2400598a1bcfb"
+
+[[files]]
+file = "openloader/resources/AntiqueAtlasEMS_1.16.5_1.3/assets/antiqueatlas/textures/gui/tiles/snow5.png"
+hash = "b548632909a0fcbb61627302459466c151e552761abce1d164fa2c0225e12a27"
+
+[[files]]
+file = "openloader/resources/AntiqueAtlasEMS_1.16.5_1.3/assets/antiqueatlas/textures/gui/tiles/snow6.png"
+hash = "bb387ff075307f97a5552998628c11703da74cb5dbcf261006080e28eefa99c0"
+
+[[files]]
+file = "openloader/resources/AntiqueAtlasEMS_1.16.5_1.3/assets/antiqueatlas/textures/gui/tiles/snow_caps.png"
+hash = "29f799680dd00856c55c39008edc7a3cb2d3516b07f7e918e7c994137467f463"
+
+[[files]]
+file = "openloader/resources/AntiqueAtlasEMS_1.16.5_1.3/assets/antiqueatlas/textures/gui/tiles/snow_hills.png"
+hash = "054dc87362663ea623767a2a7cbdb21dbf8eb1f690e2de48c303d4425fe39ace"
+
+[[files]]
+file = "openloader/resources/AntiqueAtlasEMS_1.16.5_1.3/assets/antiqueatlas/textures/gui/tiles/snow_hills2.png"
+hash = "d471bd512c688870f9b22b306525fb14beda0561a48abeaf5f67c241723ac383"
+
+[[files]]
+file = "openloader/resources/AntiqueAtlasEMS_1.16.5_1.3/assets/antiqueatlas/textures/gui/tiles/snow_pines.png"
+hash = "dcd32fa065903785dcc91df3c21984e1319cca6d784f7550152ceea390f4ee54"
+
+[[files]]
+file = "openloader/resources/AntiqueAtlasEMS_1.16.5_1.3/assets/antiqueatlas/textures/gui/tiles/snow_pines2.png"
+hash = "53ff1bef4ae110a94c6f4869b7766de15a3af9e51d6a4d7728f40848dd1d1b6c"
+
+[[files]]
+file = "openloader/resources/AntiqueAtlasEMS_1.16.5_1.3/assets/antiqueatlas/textures/gui/tiles/snow_pines3.png"
+hash = "3d774b770cec41452d3de1ce4a5db04d9b809a9843bfcc38042cacfac3c3b7e9"
+
+[[files]]
+file = "openloader/resources/AntiqueAtlasEMS_1.16.5_1.3/assets/antiqueatlas/textures/gui/tiles/snow_pines_hills.png"
+hash = "b69e7a45bf8bea2d2aae528098f94be41d2b489fc6924f1d8f97319eb669e208"
+
+[[files]]
+file = "openloader/resources/AntiqueAtlasEMS_1.16.5_1.3/assets/antiqueatlas/textures/gui/tiles/snow_pines_hills2.png"
+hash = "f1ead912af8080099b2a5235b75765211f42d561e3b6c88249b69b8cd83d1893"
+
+[[files]]
+file = "openloader/resources/AntiqueAtlasEMS_1.16.5_1.3/assets/antiqueatlas/textures/gui/tiles/snow_pines_hills3.png"
+hash = "ff468fd8c26997600e5d5b8e65ed13cd474893cc6e474666526c7ed23395da0f"
+
+[[files]]
+file = "openloader/resources/AntiqueAtlasEMS_1.16.5_1.3/assets/antiqueatlas/textures/gui/tiles/snowy_taiga_hills.png"
+hash = "f15a5bb40f101d491c79aa514e30eac73523de039d4fcd11b209192265abb019"
+
+[[files]]
+file = "openloader/resources/AntiqueAtlasEMS_1.16.5_1.3/assets/antiqueatlas/textures/gui/tiles/snowy_taiga_hills2.png"
+hash = "a1c6f12fd96d471ff67076fa64c3d903528113ced006bb11f23cdcb5193b39f3"
+
+[[files]]
+file = "openloader/resources/AntiqueAtlasEMS_1.16.5_1.3/assets/antiqueatlas/textures/gui/tiles/snowy_taiga_hills3.png"
+hash = "0e9d7510773876c66d64e8f5bacbddd4bda242b9043b11d96f50d04dd72977e3"
+
+[[files]]
+file = "openloader/resources/AntiqueAtlasEMS_1.16.5_1.3/assets/antiqueatlas/textures/gui/tiles/soul_sand_valley.png"
+hash = "eda1ab9786aa8ef25ede4d77ad611c55fdfe780e392fce350da7a545d0bb8364"
+
+[[files]]
+file = "openloader/resources/AntiqueAtlasEMS_1.16.5_1.3/assets/antiqueatlas/textures/gui/tiles/soul_sand_valley2.png"
+hash = "f12dd778239749d71a86e00e5bab7896c353055427ac556bdcbfb7098262a587"
+
+[[files]]
+file = "openloader/resources/AntiqueAtlasEMS_1.16.5_1.3/assets/antiqueatlas/textures/gui/tiles/soul_sand_valley3.png"
+hash = "f0579f6595a773b90e421c679313f6934b16d0f5bb172990390295340ed2ac17"
+
+[[files]]
+file = "openloader/resources/AntiqueAtlasEMS_1.16.5_1.3/assets/antiqueatlas/textures/gui/tiles/sunflowers.png"
+hash = "debe2b60b585984f3ab76c23267c41507a0e7c237f84cc38d40d3c2b62ecc18b"
+
+[[files]]
+file = "openloader/resources/AntiqueAtlasEMS_1.16.5_1.3/assets/antiqueatlas/textures/gui/tiles/sunflowers2.png"
+hash = "c133a539526bafb45b9d710ec4b61f03a63e1a3b088f32e286343f89259bdfb5"
+
+[[files]]
+file = "openloader/resources/AntiqueAtlasEMS_1.16.5_1.3/assets/antiqueatlas/textures/gui/tiles/swamp.png"
+hash = "ffdc07a8738f1c385066b188e163b44ab2c972c5504410d13c7d9a42e3d5e985"
+
+[[files]]
+file = "openloader/resources/AntiqueAtlasEMS_1.16.5_1.3/assets/antiqueatlas/textures/gui/tiles/swamp2.png"
+hash = "6b0b7d792d3cf7f81d7dc53ea888a4a2cb81e061155ac28f0333fd4cb0e5c3af"
+
+[[files]]
+file = "openloader/resources/AntiqueAtlasEMS_1.16.5_1.3/assets/antiqueatlas/textures/gui/tiles/swamp3.png"
+hash = "14f0d380da5ccee354a519f817123b25a31f7c41ef76d0b35f297a63b4f5de72"
+
+[[files]]
+file = "openloader/resources/AntiqueAtlasEMS_1.16.5_1.3/assets/antiqueatlas/textures/gui/tiles/swamp4.png"
+hash = "53db806bdf3c089182a5455923645745f06019a360ba1645551cf508ac01e2e5"
+
+[[files]]
+file = "openloader/resources/AntiqueAtlasEMS_1.16.5_1.3/assets/antiqueatlas/textures/gui/tiles/swamp5.png"
+hash = "1de74e677922680ecdff21362ccea06e04a48c7d464c6cf3667f7d3c530f4459"
+
+[[files]]
+file = "openloader/resources/AntiqueAtlasEMS_1.16.5_1.3/assets/antiqueatlas/textures/gui/tiles/swamp6.png"
+hash = "7631681d16c5a652b00f4faed079dcc5e1aeceb97af37a3f1158bd584ec23904"
+
+[[files]]
+file = "openloader/resources/AntiqueAtlasEMS_1.16.5_1.3/assets/antiqueatlas/textures/gui/tiles/swamp_hills.png"
+hash = "43811134ebbc83f725944a6d17e274d2f262b558e671e65c9d8d397de0d2cc83"
+
+[[files]]
+file = "openloader/resources/AntiqueAtlasEMS_1.16.5_1.3/assets/antiqueatlas/textures/gui/tiles/swamp_hills2.png"
+hash = "821cdcc33aff9f3510e771405b0674ef3cbbcad1ecdb012dd281511f4839c36e"
+
+[[files]]
+file = "openloader/resources/AntiqueAtlasEMS_1.16.5_1.3/assets/antiqueatlas/textures/gui/tiles/swamp_hills3.png"
+hash = "da82641c8db8e186ecfbfe31dc205b098958a1d8691dbcc94764f4345744c2e4"
+
+[[files]]
+file = "openloader/resources/AntiqueAtlasEMS_1.16.5_1.3/assets/antiqueatlas/textures/gui/tiles/swamp_hills4.png"
+hash = "002b833c328f3768838a3b471fc358db46849095928f04105115a8c487f0d2cc"
+
+[[files]]
+file = "openloader/resources/AntiqueAtlasEMS_1.16.5_1.3/assets/antiqueatlas/textures/gui/tiles/swamp_hills5.png"
+hash = "007061f20c1c3f9440f56d26e597127388d960f565e184ae55b7fdead843310d"
+
+[[files]]
+file = "openloader/resources/AntiqueAtlasEMS_1.16.5_1.3/assets/antiqueatlas/textures/gui/tiles/taiga_mountains.png"
+hash = "e9a1870b893775270d15a212b0f20d198075bad0f3263002b5977dfe654f2d41"
+
+[[files]]
+file = "openloader/resources/AntiqueAtlasEMS_1.16.5_1.3/assets/antiqueatlas/textures/gui/tiles/taiga_mountains2.png"
+hash = "9b3ec103519e9375aa53c947e8345bbed80bd53e4424548ca58630f8f528b409"
+
+[[files]]
+file = "openloader/resources/AntiqueAtlasEMS_1.16.5_1.3/assets/antiqueatlas/textures/gui/tiles/taiga_mountains3.png"
+hash = "39cd153a276ac46625a4cc7db184407e7c424ef16ca51005cd4b4bf3c8ddf08c"
+
+[[files]]
+file = "openloader/resources/AntiqueAtlasEMS_1.16.5_1.3/assets/antiqueatlas/textures/gui/tiles/tall_birch.png"
+hash = "8746cb5b724109cc3fb0056744e494456c22895d742c5759cf094b3a50a827b3"
+
+[[files]]
+file = "openloader/resources/AntiqueAtlasEMS_1.16.5_1.3/assets/antiqueatlas/textures/gui/tiles/tall_birch2.png"
+hash = "939f8e13b8d33bf9269d0929b14f3cc56876726799a7c19f3404e01d02bea371"
+
+[[files]]
+file = "openloader/resources/AntiqueAtlasEMS_1.16.5_1.3/assets/antiqueatlas/textures/gui/tiles/tall_birch_hills.png"
+hash = "c6074f310b7ed7fd05d8829621ecae104fdd61f6fafc10caa6bc0956f0a96829"
+
+[[files]]
+file = "openloader/resources/AntiqueAtlasEMS_1.16.5_1.3/assets/antiqueatlas/textures/gui/tiles/tall_birch_hills2.png"
+hash = "09314eab78242157802376c552e0c2ec3d9cc16483dfa494b8aa5fdf9c4b54af"
+
+[[files]]
+file = "openloader/resources/AntiqueAtlasEMS_1.16.5_1.3/assets/antiqueatlas/textures/gui/tiles/test.png"
+hash = "690de99e19823357a00ced2e38e4168160a7bee33f47921324629ef754ae53b1"
+
+[[files]]
+file = "openloader/resources/AntiqueAtlasEMS_1.16.5_1.3/assets/antiqueatlas/textures/gui/tiles/village_path_x.png"
+hash = "dfa6f5050f1e78909f697d0c8a24aeb5516babb2d4e24d92abda920b48e078b9"
+
+[[files]]
+file = "openloader/resources/AntiqueAtlasEMS_1.16.5_1.3/assets/antiqueatlas/textures/gui/tiles/village_path_z.png"
+hash = "125a867db7fb09063937a72befe22e6d461d031e82a18de8dd23b817f7c3c202"
+
+[[files]]
+file = "openloader/resources/AntiqueAtlasEMS_1.16.5_1.3/assets/antiqueatlas/textures/gui/tiles/village_torch.png"
+hash = "360ec410dd135bc839d23e6a391e0dd907fd90e252caafb69db78380cf97320c"
+
+[[files]]
+file = "openloader/resources/AntiqueAtlasEMS_1.16.5_1.3/assets/antiqueatlas/textures/gui/tiles/warped_forest.png"
+hash = "84acb7a277272cd06791d73a255ecd4e4460c3c850d4d18ef307ec0361237f39"
+
+[[files]]
+file = "openloader/resources/AntiqueAtlasEMS_1.16.5_1.3/assets/antiqueatlas/textures/gui/tiles/warped_forest2.png"
+hash = "de3c93583774259428da2f704eb86f634f8b09da148ffcdb5371cc45b90c87e9"
+
+[[files]]
+file = "openloader/resources/AntiqueAtlasEMS_1.16.5_1.3/assets/antiqueatlas/textures/gui/tiles/warped_forest3.png"
+hash = "762ce27d604fb78fce54a1a581c95a53910d0ca99cb18856850a46df597b3f0e"
+
+[[files]]
+file = "openloader/resources/AntiqueAtlasEMS_1.16.5_1.3/assets/antiqueatlas/textures/gui/tiles/water.png"
+hash = "fd8dcf4b5592174348be19d46bbce541c672593e09069d81ba6ca0675d012c70"
+
+[[files]]
+file = "openloader/resources/AntiqueAtlasEMS_1.16.5_1.3/assets/antiqueatlas/textures/gui/tiles/water2.png"
+hash = "ec144341a80d7fb0cd28cc77fa292101e95a36a6860e18ceb5270b5096cb7ccf"
+
+[[files]]
+file = "openloader/resources/AntiqueAtlasEMS_1.16.5_1.3/assets/antiqueatlas/textures/gui/tiles/well.png"
+hash = "03f202facbd9382d103d6c26eb0c6ee982775a5343a7574d88b149d0a16d710d"
+
+[[files]]
+file = "openloader/resources/AntiqueAtlasEMS_1.16.5_1.3/assets/antiqueatlas/textures/gui/tiles/wooded_mountains.png"
+hash = "519c1cc5cb701add55d1985d7f896cb3f3b513c1d2d7b17d442cc2f498bbce45"
+
+[[files]]
+file = "openloader/resources/AntiqueAtlasEMS_1.16.5_1.3/assets/antiqueatlas/textures/gui/tiles/wooded_mountains2.png"
+hash = "57b54a9f620a52456367a75a5f15aa98c41d00ae6f37b7fb23fccaf098ad2688"
+
+[[files]]
+file = "openloader/resources/AntiqueAtlasEMS_1.16.5_1.3/assets/ars_nouveau/atlas/tiles/archwood_forest.json"
+hash = "c4d4fc6bfa9d2a2c6bd69d7ddf5c920c56b75842ba3c1462888c79d5c6154058"
+
+[[files]]
+file = "openloader/resources/AntiqueAtlasEMS_1.16.5_1.3/assets/atmospheric/atlas/tiles/dunes.json"
+hash = "c3569cdbb7659568264829bf80c8574fd86aae61c2c614f8aa5687055c1c7e67"
+
+[[files]]
+file = "openloader/resources/AntiqueAtlasEMS_1.16.5_1.3/assets/atmospheric/atlas/tiles/dunes_hills.json"
+hash = "ec691670f2e0d7464b13917d8101de830e52d64d6d1697f3e0af9e8492a149de"
+
+[[files]]
+file = "openloader/resources/AntiqueAtlasEMS_1.16.5_1.3/assets/atmospheric/atlas/tiles/flourishing_dunes.json"
+hash = "09e5ddcf1d8897192e458b59533559e0ff6c72147e0b509d205685e632fa5d54"
+
+[[files]]
+file = "openloader/resources/AntiqueAtlasEMS_1.16.5_1.3/assets/atmospheric/atlas/tiles/petrified_dunes.json"
+hash = "7a75aebe84bfba787c7c60833c06a97b9256d4c1bf5480c1bb0018fd9a15b20b"
+
+[[files]]
+file = "openloader/resources/AntiqueAtlasEMS_1.16.5_1.3/assets/atmospheric/atlas/tiles/rainforest.json"
+hash = "230ed5f65ad05003477575d103b2708acb50813aebd63481ac409419e380de8b"
+
+[[files]]
+file = "openloader/resources/AntiqueAtlasEMS_1.16.5_1.3/assets/atmospheric/atlas/tiles/rainforest_basin.json"
+hash = "cddb3db5e774eccd3601872e36e00d6ba87f6e86c07dc579d0500bb1eb25598c"
+
+[[files]]
+file = "openloader/resources/AntiqueAtlasEMS_1.16.5_1.3/assets/atmospheric/atlas/tiles/rainforest_mountains.json"
+hash = "900edbb1c7681aef0f0dc6daf7f0daf19e673ce98838321ee0186f8dab0a2e5c"
+
+[[files]]
+file = "openloader/resources/AntiqueAtlasEMS_1.16.5_1.3/assets/atmospheric/atlas/tiles/rainforest_plateau.json"
+hash = "0fd1aa8da03ccc984054564fdc1c11b9723455cff3284a200fb0efd5c36ac8c5"
+
+[[files]]
+file = "openloader/resources/AntiqueAtlasEMS_1.16.5_1.3/assets/atmospheric/atlas/tiles/rocky_dunes.json"
+hash = "e88c9dfe9efda62e76c89af7658da2d9426be01f4856c62a2122ef6af91c7ba4"
+
+[[files]]
+file = "openloader/resources/AntiqueAtlasEMS_1.16.5_1.3/assets/atmospheric/atlas/tiles/rocky_dunes_hills.json"
+hash = "e88c9dfe9efda62e76c89af7658da2d9426be01f4856c62a2122ef6af91c7ba4"
+
+[[files]]
+file = "openloader/resources/AntiqueAtlasEMS_1.16.5_1.3/assets/atmospheric/atlas/tiles/sparse_rainforest_basin.json"
+hash = "f23fb4e657ba1aad351a568ad6e6bd260fd62e997258d751fd501c18fff55b66"
+
+[[files]]
+file = "openloader/resources/AntiqueAtlasEMS_1.16.5_1.3/assets/atmospheric/atlas/tiles/sparse_rainforest_plateau.json"
+hash = "699629fe2ecef4cd433615e104129abd2d4c7c7e1492296c434314c0ff8f2493"
+
+[[files]]
+file = "openloader/resources/AntiqueAtlasEMS_1.16.5_1.3/assets/atum/atlas/tiles/dead_oasis.json"
+hash = "2163e712eedd8c34acc4a37fdd519ac36bce413e35be5afdcc37ce27f1664bfc"
+
+[[files]]
+file = "openloader/resources/AntiqueAtlasEMS_1.16.5_1.3/assets/atum/atlas/tiles/dense_woods.json"
+hash = "cef34b904f6254a6685d0a11f02035ba650bd1c8b530d3300d9e037754c04912"
+
+[[files]]
+file = "openloader/resources/AntiqueAtlasEMS_1.16.5_1.3/assets/atum/atlas/tiles/dried_river.json"
+hash = "111ce8675efed34677464b0de194d593030d598b389595b418853db559557721"
+
+[[files]]
+file = "openloader/resources/AntiqueAtlasEMS_1.16.5_1.3/assets/atum/atlas/tiles/limestone_crags.json"
+hash = "096fda985b9f98820e27b4043452baa4609e8f6db4d5a0176b0fec28f7132923"
+
+[[files]]
+file = "openloader/resources/AntiqueAtlasEMS_1.16.5_1.3/assets/atum/atlas/tiles/limestone_mountains.json"
+hash = "7ba9d71a54ef8b687fb7f49d1952cd69f921825b1da682a43fd44e0217234f3c"
+
+[[files]]
+file = "openloader/resources/AntiqueAtlasEMS_1.16.5_1.3/assets/atum/atlas/tiles/oasis.json"
+hash = "e2013a3195bf07530357080f29b2f5dc102ff56087995dd29bb5ebf161c538ac"
+
+[[files]]
+file = "openloader/resources/AntiqueAtlasEMS_1.16.5_1.3/assets/atum/atlas/tiles/sand_dunes.json"
+hash = "68e9f9c54d9d8b6d2cf8a6e06695ee9943f1635351af131a1f8fad270508004e"
+
+[[files]]
+file = "openloader/resources/AntiqueAtlasEMS_1.16.5_1.3/assets/atum/atlas/tiles/sand_hills.json"
+hash = "dcfaab800c32fa704c6d3d5d69c4763f7fb458f2375bfcccfb4bbfcbe9b5b640"
+
+[[files]]
+file = "openloader/resources/AntiqueAtlasEMS_1.16.5_1.3/assets/atum/atlas/tiles/sand_plains.json"
+hash = "35e659692ac99a35712e41117fd8a2b3fdeff22cfbfebd9e5b016899865529da"
+
+[[files]]
+file = "openloader/resources/AntiqueAtlasEMS_1.16.5_1.3/assets/atum/atlas/tiles/sparse_woods.json"
+hash = "431ebcaf7a72f5e1f7e6136045f588eb9a21ebca957bf701cda128599f627de7"
+
+[[files]]
+file = "openloader/resources/AntiqueAtlasEMS_1.16.5_1.3/assets/autumnity/atlas/tiles/maple_forest.json"
+hash = "6808cbf3c3fa71a10b6cea180f82abbc28393c40fc9377eef7ca0f957ad0ce2e"
+
+[[files]]
+file = "openloader/resources/AntiqueAtlasEMS_1.16.5_1.3/assets/autumnity/atlas/tiles/maple_forest_hills.json"
+hash = "cc42851d9dde5b50b4063e0b2b1e9bf0a49b655e854d8f54946af96f9bf5f116"
+
+[[files]]
+file = "openloader/resources/AntiqueAtlasEMS_1.16.5_1.3/assets/autumnity/atlas/tiles/orange_spotted_dark_forest.json"
+hash = "6f02359bb70f6a6cb8d870c676cae9dc229f4d5b1d2651685fde7157ad381489"
+
+[[files]]
+file = "openloader/resources/AntiqueAtlasEMS_1.16.5_1.3/assets/autumnity/atlas/tiles/pumpkin_fields.json"
+hash = "f468dca72c183a4f6506a8f8928b515d900925f1044218ef24dab92df958fb94"
+
+[[files]]
+file = "openloader/resources/AntiqueAtlasEMS_1.16.5_1.3/assets/autumnity/atlas/tiles/red_spotted_taiga.json"
+hash = "1c1556ddb852d80b145d519a8e4c3958b7a6693a45165413851ab6ed86e8c694"
+
+[[files]]
+file = "openloader/resources/AntiqueAtlasEMS_1.16.5_1.3/assets/autumnity/atlas/tiles/yellow_spotted_forest.json"
+hash = "9411cd046d8f10ead27d3c9d8889b94c02ce7d8190aed4dd38eb0740760bdfae"
+
+[[files]]
+file = "openloader/resources/AntiqueAtlasEMS_1.16.5_1.3/assets/bayou_blues/atlas/tiles/bayou.json"
+hash = "79956f75eba5668d1b760976f399474470c973c230ebc89c2cf3da5c6e64b4fc"
+
+[[files]]
+file = "openloader/resources/AntiqueAtlasEMS_1.16.5_1.3/assets/bayou_blues/atlas/tiles/bayou_hills.json"
+hash = "58997821660d65017a6bbfbeb9cf058575cc9ebf5ccc96995355f908dbc451f8"
+
+[[files]]
+file = "openloader/resources/AntiqueAtlasEMS_1.16.5_1.3/assets/endergetic/atlas/tiles/poise_forest.json"
+hash = "49ac7bf46009cd740f5c0375e3855317bc8a639d60c4323814a91cc302b246c9"
+
+[[files]]
+file = "openloader/resources/AntiqueAtlasEMS_1.16.5_1.3/assets/environmental/atlas/tiles/blossom_highlands.json"
+hash = "4a26e1788c91720afc264bafd646e4e944fd3fc827e8c6dd23c6bd149b02e78c"
+
+[[files]]
+file = "openloader/resources/AntiqueAtlasEMS_1.16.5_1.3/assets/environmental/atlas/tiles/blossom_hills.json"
+hash = "6cc60b0004d73279da9bfc40766c711fb515a60271d4b5c3196d5af6803e2497"
+
+[[files]]
+file = "openloader/resources/AntiqueAtlasEMS_1.16.5_1.3/assets/environmental/atlas/tiles/blossom_valleys.json"
+hash = "10a4ecccf845ccfb11d0690ef5f0260760e68e160bd7091fd7d1f3747e130057"
+
+[[files]]
+file = "openloader/resources/AntiqueAtlasEMS_1.16.5_1.3/assets/environmental/atlas/tiles/blossom_woods.json"
+hash = "7dcd399500017a50be2c09fbeb6fbcd479e0f492285fcbc4fffb86c7346d4132"
+
+[[files]]
+file = "openloader/resources/AntiqueAtlasEMS_1.16.5_1.3/assets/environmental/atlas/tiles/marsh.json"
+hash = "8b858206faa97e608a007724929f4883a64fb4295fbb38e3bda743ac6cd77740"
+
+[[files]]
+file = "openloader/resources/AntiqueAtlasEMS_1.16.5_1.3/assets/environmental/atlas/tiles/mushroom_marsh.json"
+hash = "94d87c62aacb3886c8730a47bab31e8c3f16b5e23081605ddad6324af6f8f9d2"
+
+[[files]]
+file = "openloader/resources/AntiqueAtlasEMS_1.16.5_1.3/assets/ianon/atlas/texture_sets/abu_lavender_fields.json"
+hash = "7c2545f81f068d1a983679ca4cfc2b0eae1aa48919d292f81d6e5ea7114c4050"
+
+[[files]]
+file = "openloader/resources/AntiqueAtlasEMS_1.16.5_1.3/assets/ianon/atlas/texture_sets/abu_lavender_forest.json"
+hash = "f90c027e34a63936fce1e3e146acc1f28ebbe0c7cbb6b25214a3e86330d3cc0f"
+
+[[files]]
+file = "openloader/resources/AntiqueAtlasEMS_1.16.5_1.3/assets/ianon/atlas/texture_sets/abu_nemophila_fields.json"
+hash = "e98e2f5490ea90cb5fb2758529fb84519170ec7205986525085a0401e59f113d"
+
+[[files]]
+file = "openloader/resources/AntiqueAtlasEMS_1.16.5_1.3/assets/ianon/atlas/texture_sets/ars_archwood_forest.json"
+hash = "3795e2f7e168bd6dc7eb040559a8298c94f44044ae8182c3ce03940a053f1ac6"
+
+[[files]]
+file = "openloader/resources/AntiqueAtlasEMS_1.16.5_1.3/assets/ianon/atlas/texture_sets/atm_desert.json"
+hash = "95062d11f5824c2f3556b13f6983adcefa970546f0cda2c21b22345593a6cd30"
+
+[[files]]
+file = "openloader/resources/AntiqueAtlasEMS_1.16.5_1.3/assets/ianon/atlas/texture_sets/atm_desert_hills.json"
+hash = "29c4145fd4900903fb818706f5a90f5776f70b6e2f7b730b026885721db30dbe"
+
+[[files]]
+file = "openloader/resources/AntiqueAtlasEMS_1.16.5_1.3/assets/ianon/atlas/texture_sets/atm_desert_rocky.json"
+hash = "6f2171a8f3ff9deb148654debefeaa58bc8fcceabcab558c2a6207b79de9fc0d"
+
+[[files]]
+file = "openloader/resources/AntiqueAtlasEMS_1.16.5_1.3/assets/ianon/atlas/texture_sets/atm_flourishing_desert.json"
+hash = "6946778de84c29615c6bb172ec3414d2602fd0b27698a8c13a9f235542f3d77a"
+
+[[files]]
+file = "openloader/resources/AntiqueAtlasEMS_1.16.5_1.3/assets/ianon/atlas/texture_sets/atm_petrified_dunes.json"
+hash = "0405f05724be5ddfa249694789a87c86152a91d0a45e97d5d940b9df69622487"
+
+[[files]]
+file = "openloader/resources/AntiqueAtlasEMS_1.16.5_1.3/assets/ianon/atlas/texture_sets/atm_rainforest.json"
+hash = "f17445d28fa66518971dabc3ac56c2e6f4ac242ba0e37fc341f0618f9d512018"
+
+[[files]]
+file = "openloader/resources/AntiqueAtlasEMS_1.16.5_1.3/assets/ianon/atlas/texture_sets/atm_rainforest_basin.json"
+hash = "ac9ef08ba0fe71ddb7730b8f5ecd1750e9127d4acde19a933605ac92e0fcb503"
+
+[[files]]
+file = "openloader/resources/AntiqueAtlasEMS_1.16.5_1.3/assets/ianon/atlas/texture_sets/atm_rainforest_mountains.json"
+hash = "c5d81f1cc3bb9bfc04973ae0e23c95eb408318bf0faf24fbe6893bf252bd0b1c"
+
+[[files]]
+file = "openloader/resources/AntiqueAtlasEMS_1.16.5_1.3/assets/ianon/atlas/texture_sets/atm_rainforest_plateau.json"
+hash = "2c0637309c37b7f974740fee5cbd32489573fa82577c834ed29001baed5f6306"
+
+[[files]]
+file = "openloader/resources/AntiqueAtlasEMS_1.16.5_1.3/assets/ianon/atlas/texture_sets/atm_sparse_rainforest_basin.json"
+hash = "7d7b4ea8c5198d46ee370d5f0e02605ed78a9aee462d1e7eec57aa41f4db533c"
+
+[[files]]
+file = "openloader/resources/AntiqueAtlasEMS_1.16.5_1.3/assets/ianon/atlas/texture_sets/atm_sparse_rainforest_plateau.json"
+hash = "481ecaf2f579a37f1d6368015da5809821d1ac3f40c654b0fbc9f5d560ebaac9"
+
+[[files]]
+file = "openloader/resources/AntiqueAtlasEMS_1.16.5_1.3/assets/ianon/atlas/texture_sets/atum_dead_oasis.json"
+hash = "8f4b3a07fcde5d745a2bd8ebb2a4cb41f5ecad8f7044b219a50982b1ce809888"
+
+[[files]]
+file = "openloader/resources/AntiqueAtlasEMS_1.16.5_1.3/assets/ianon/atlas/texture_sets/atum_dense_woods.json"
+hash = "c97e34878036efad406456b26a1f661c576adbcb98f81124bfde188a63a4943b"
+
+[[files]]
+file = "openloader/resources/AntiqueAtlasEMS_1.16.5_1.3/assets/ianon/atlas/texture_sets/atum_dried_river.json"
+hash = "7efbe7d90caeed6bce1591829cb2ae32d67651e3a213d6d391609877ae7be4cb"
+
+[[files]]
+file = "openloader/resources/AntiqueAtlasEMS_1.16.5_1.3/assets/ianon/atlas/texture_sets/atum_limestone_crags.json"
+hash = "6aa4fef922817b9e5caf055e7579c8516d8792696e03ed58d25090f137c1c009"
+
+[[files]]
+file = "openloader/resources/AntiqueAtlasEMS_1.16.5_1.3/assets/ianon/atlas/texture_sets/atum_limestone_mountains.json"
+hash = "efb04aa951ced28ce17a39c7f2989cccf81c9e5b6ec13a72517654be2dae3dc4"
+
+[[files]]
+file = "openloader/resources/AntiqueAtlasEMS_1.16.5_1.3/assets/ianon/atlas/texture_sets/atum_oasis.json"
+hash = "3b8fb7cb36fc9e24ed1dbd681aa819542ba5010752f12bff16461777bdf1fb81"
+
+[[files]]
+file = "openloader/resources/AntiqueAtlasEMS_1.16.5_1.3/assets/ianon/atlas/texture_sets/atum_sand_dunes.json"
+hash = "418c3672fd87a147a6ca7e4cf374f05ce9325f02879bd1250b3b17974b2cbc77"
+
+[[files]]
+file = "openloader/resources/AntiqueAtlasEMS_1.16.5_1.3/assets/ianon/atlas/texture_sets/atum_sand_hills.json"
+hash = "00aa1cbfabb5cd293a90a2be833c643970e8f1b96ec467c7b0e37612810a4765"
+
+[[files]]
+file = "openloader/resources/AntiqueAtlasEMS_1.16.5_1.3/assets/ianon/atlas/texture_sets/atum_sand_plains.json"
+hash = "3aae9171683698b9d5f73f8cafe3e336f9440e553fb454522a11d63db842e49b"
+
+[[files]]
+file = "openloader/resources/AntiqueAtlasEMS_1.16.5_1.3/assets/ianon/atlas/texture_sets/atum_sparse_woods.json"
+hash = "f951db9be084b2bff3c12cac2f1a6396664c7b08996a9560e9eb4e1df2133031"
+
+[[files]]
+file = "openloader/resources/AntiqueAtlasEMS_1.16.5_1.3/assets/ianon/atlas/texture_sets/autum_maple_forest.json"
+hash = "7b336aeb2bcb0e1a2123eb40bb8b909700e596ccefabc75496c50a3cb25facb1"
+
+[[files]]
+file = "openloader/resources/AntiqueAtlasEMS_1.16.5_1.3/assets/ianon/atlas/texture_sets/autum_maple_forest_hills.json"
+hash = "5e85a8c712824d234137259c3fd4edc170f6cd5a95bfff2dae977a96b50d1b98"
+
+[[files]]
+file = "openloader/resources/AntiqueAtlasEMS_1.16.5_1.3/assets/ianon/atlas/texture_sets/autum_orange_spotted_dark_forest.json"
+hash = "c554f37288875df9756934b6fab9243f546032fcc3d2d6b82b8236fff0bbfc3c"
+
+[[files]]
+file = "openloader/resources/AntiqueAtlasEMS_1.16.5_1.3/assets/ianon/atlas/texture_sets/autum_pumpkin_fields.json"
+hash = "efb4fc265385469b614ff0a424d4a598270113eb9669e683198d3731dfd516a8"
+
+[[files]]
+file = "openloader/resources/AntiqueAtlasEMS_1.16.5_1.3/assets/ianon/atlas/texture_sets/autum_red_spotted_taiga.json"
+hash = "271f39f6d71c2a942bf0feb77d7a2ff51bc921bac966f052375a5c926ffaafdd"
+
+[[files]]
+file = "openloader/resources/AntiqueAtlasEMS_1.16.5_1.3/assets/ianon/atlas/texture_sets/autum_yellow_spotted_forest.json"
+hash = "a755ca9a693564b362e20aece5cea2f385cca43b7b8ff0a97f3e2b86cbec78d4"
+
+[[files]]
+file = "openloader/resources/AntiqueAtlasEMS_1.16.5_1.3/assets/ianon/atlas/texture_sets/bayou_bayou.json"
+hash = "08f850f175455a4e7eec9b6d02839ca01e43065b1960d7215007d7c550267fa9"
+
+[[files]]
+file = "openloader/resources/AntiqueAtlasEMS_1.16.5_1.3/assets/ianon/atlas/texture_sets/bayou_hills.json"
+hash = "e49a89ac496de1f6bff30bd3b38f064c89cbbd69c0e96680442640bfd810dba9"
+
+[[files]]
+file = "openloader/resources/AntiqueAtlasEMS_1.16.5_1.3/assets/ianon/atlas/texture_sets/endergetic_poise_forest.json"
+hash = "ab481d47d28cf9e76e935646c69918de0503e8663f1e5359d797ad704b4dc75d"
+
+[[files]]
+file = "openloader/resources/AntiqueAtlasEMS_1.16.5_1.3/assets/ianon/atlas/texture_sets/envir_blossom_highlands.json"
+hash = "c39eb4aab95e6a0e6c22e1be7407e0d62c36972fe9f734942aff5673fcb84b9b"
+
+[[files]]
+file = "openloader/resources/AntiqueAtlasEMS_1.16.5_1.3/assets/ianon/atlas/texture_sets/envir_blossom_hills.json"
+hash = "5525f608625331c1a0659ef5a9f6365c296e050716e854536aaa8e3b1a5ba08c"
+
+[[files]]
+file = "openloader/resources/AntiqueAtlasEMS_1.16.5_1.3/assets/ianon/atlas/texture_sets/envir_blossom_valleys.json"
+hash = "7dec3fa2b10ce9fb81de86b2f97a040eb81dbdc05c19cd96614b59178dc430dc"
+
+[[files]]
+file = "openloader/resources/AntiqueAtlasEMS_1.16.5_1.3/assets/ianon/atlas/texture_sets/envir_blossom_woods.json"
+hash = "3784c37b94fc41d164a3c67cc2e1297d10c5a1c136c543bf73d2fd1937699b15"
+
+[[files]]
+file = "openloader/resources/AntiqueAtlasEMS_1.16.5_1.3/assets/ianon/atlas/texture_sets/envir_marsh.json"
+hash = "63c5725021d18afe8343c0e5bb0b286b944387ac03c525c42fc0c7a55becc434"
+
+[[files]]
+file = "openloader/resources/AntiqueAtlasEMS_1.16.5_1.3/assets/ianon/atlas/texture_sets/envir_mushroom_marsh.json"
+hash = "64931eee4d134ec525643dc8136750d4afad103c4587de0d1838edf77ded39b6"
+
+[[files]]
+file = "openloader/resources/AntiqueAtlasEMS_1.16.5_1.3/assets/ianon/atlas/texture_sets/infernal_glowstone_canyon.json"
+hash = "3fa1688aecbbf07dcf20028665873a7910f044cb390c25ecae11588a161c39ad"
+
+[[files]]
+file = "openloader/resources/AntiqueAtlasEMS_1.16.5_1.3/assets/ianon/atlas/texture_sets/trav_arid_highlands.json"
+hash = "7a8822afef0653de917eedf14e261f7467bc924879d1032c97dcd244dc2ba763"
+
+[[files]]
+file = "openloader/resources/AntiqueAtlasEMS_1.16.5_1.3/assets/ianon/atlas/texture_sets/trav_autumnal_wooded_hills.json"
+hash = "dbfc0529dbf8a965ca786adee55b78d8d2b6b63260780394fa528bcdd82deb51"
+
+[[files]]
+file = "openloader/resources/AntiqueAtlasEMS_1.16.5_1.3/assets/ianon/atlas/texture_sets/trav_autumnal_woods.json"
+hash = "100722c2a542d5818a4eff359e104282e8d1b89b3890c1a4895a04a8e990d903"
+
+[[files]]
+file = "openloader/resources/AntiqueAtlasEMS_1.16.5_1.3/assets/ianon/atlas/texture_sets/trav_cliffs.json"
+hash = "013d8f2156352eb3d351ddb3c2a6f223af82707518feab2c6285b9633b3a3cb8"
+
+[[files]]
+file = "openloader/resources/AntiqueAtlasEMS_1.16.5_1.3/assets/ianon/atlas/texture_sets/trav_coniferous_forest.json"
+hash = "0b01d2c503a40aa145314da5bc275c70784a89ef9dcd547367b6dc64755c3122"
+
+[[files]]
+file = "openloader/resources/AntiqueAtlasEMS_1.16.5_1.3/assets/ianon/atlas/texture_sets/trav_coniferous_wooded_hills.json"
+hash = "0a0046d3997fc3a5a881fd5015ccad884cbb5281b02017810fb1f39f902a5c97"
+
+[[files]]
+file = "openloader/resources/AntiqueAtlasEMS_1.16.5_1.3/assets/ianon/atlas/texture_sets/trav_desert_shrubland.json"
+hash = "6a6fb0425f12e6d22f405d9012e0f548ae24df678436393edbb2d386b398f290"
+
+[[files]]
+file = "openloader/resources/AntiqueAtlasEMS_1.16.5_1.3/assets/ianon/atlas/texture_sets/trav_high_coniferous_forest.json"
+hash = "d0442845ecabada90f4ea39642a537aac640adda7e8e38868cf32cd6b9dcb761"
+
+[[files]]
+file = "openloader/resources/AntiqueAtlasEMS_1.16.5_1.3/assets/ianon/atlas/texture_sets/trav_lush_swamp.json"
+hash = "c21b6068ee9f8e248eebc9d742d3c74fe2d11ece7be6996326ccccfc4c1942d5"
+
+[[files]]
+file = "openloader/resources/AntiqueAtlasEMS_1.16.5_1.3/assets/ianon/atlas/texture_sets/trav_meadow.json"
+hash = "a7f2a10bd710a315c1a27ef5f3857ad9337ef1d4acaf8bb1f16eda5bc8f408d7"
+
+[[files]]
+file = "openloader/resources/AntiqueAtlasEMS_1.16.5_1.3/assets/ianon/atlas/texture_sets/trav_mini_jungle.json"
+hash = "fc37f007f10cf08b2a65e378770d8dab7fb3f710f71b4bcda98476ed508f5d25"
+
+[[files]]
+file = "openloader/resources/AntiqueAtlasEMS_1.16.5_1.3/assets/ianon/atlas/texture_sets/trav_plains_plateau.json"
+hash = "8dedaccc292d365465941a52af2b7780f8e829186bd4a660af46ec6311984b34"
+
+[[files]]
+file = "openloader/resources/AntiqueAtlasEMS_1.16.5_1.3/assets/ianon/atlas/texture_sets/trav_rocky_edge.json"
+hash = "8871adc077d68ea15697e1d5cb09e1c46c681bef2f2a99f0949feffbca308009"
+
+[[files]]
+file = "openloader/resources/AntiqueAtlasEMS_1.16.5_1.3/assets/ianon/atlas/texture_sets/trav_rolling_hills.json"
+hash = "28bff234fbc5a7d62fb747916cacde40de665270ac281f72aeb75f1e3ab26f6c"
+
+[[files]]
+file = "openloader/resources/AntiqueAtlasEMS_1.16.5_1.3/assets/ianon/atlas/texture_sets/trav_snowy_cliffs.json"
+hash = "7d5f67cf2cbe42bcdaaa5082adedf7cb79ecd124c9bb0c190e2768266f25994a"
+
+[[files]]
+file = "openloader/resources/AntiqueAtlasEMS_1.16.5_1.3/assets/ianon/atlas/texture_sets/trav_snowy_coniferous_forest.json"
+hash = "ce5b882ce8232f9bd8a1ab8fbec8c6c4c94a14b3d2bf328359b5f08e373d679d"
+
+[[files]]
+file = "openloader/resources/AntiqueAtlasEMS_1.16.5_1.3/assets/ianon/atlas/texture_sets/trav_snowy_coniferous_wooded_hills.json"
+hash = "c67b59c20938aa56075af0c2a9c3757c2b1c6fd9b1e3b32c69fc7e5789f83931"
+
+[[files]]
+file = "openloader/resources/AntiqueAtlasEMS_1.16.5_1.3/assets/ianon/atlas/texture_sets/trav_snowy_high_coniferous_forest.json"
+hash = "0bb3fa4d8ca01d8b5b3479f83026db4bc3d9d43d614fea5f8af2544c97b425e7"
+
+[[files]]
+file = "openloader/resources/AntiqueAtlasEMS_1.16.5_1.3/assets/ianon/atlas/texture_sets/trav_wooded_plateau.json"
+hash = "ac24d7a30bcf082c52ae2596a9c20c3d71416df4e542b7fbb1a944cf39623d04"
+
+[[files]]
+file = "openloader/resources/AntiqueAtlasEMS_1.16.5_1.3/assets/ianon/atlas/texture_sets/trav_woodlands.json"
+hash = "b689f7b1d9ca28f240ed33b029816593ebfe4132f14d81f4f7ca5d1d1c96c3a2"
+
+[[files]]
+file = "openloader/resources/AntiqueAtlasEMS_1.16.5_1.3/assets/ianon/textures/gui/tiles/abu_forest_sparse.png"
+hash = "48974b2d57322719c3777f442ae9d9155d9d41ff2e07f8f82f272abff5025e98"
+
+[[files]]
+file = "openloader/resources/AntiqueAtlasEMS_1.16.5_1.3/assets/ianon/textures/gui/tiles/abu_forest_sparse2.png"
+hash = "b1fd5eff37a2c935b5b60128575a855a185e77a8c77ca20b779d29b7f4567edb"
+
+[[files]]
+file = "openloader/resources/AntiqueAtlasEMS_1.16.5_1.3/assets/ianon/textures/gui/tiles/abu_lavfields1.png"
+hash = "4041bbd5aa90352fa1f19812b65e0f2f418417b8cd628582e69f9d1f4442238d"
+
+[[files]]
+file = "openloader/resources/AntiqueAtlasEMS_1.16.5_1.3/assets/ianon/textures/gui/tiles/abu_lavfields2.png"
+hash = "3175651b834b7491c681de3302a44641ed96bb2b444856ac71e48d5c564a6418"
+
+[[files]]
+file = "openloader/resources/AntiqueAtlasEMS_1.16.5_1.3/assets/ianon/textures/gui/tiles/abu_lavfields3.png"
+hash = "7eb853b06277ed67919261bbc120f920550920f826685821b4892b77ffbe44d2"
+
+[[files]]
+file = "openloader/resources/AntiqueAtlasEMS_1.16.5_1.3/assets/ianon/textures/gui/tiles/abu_nemophila_fields.png"
+hash = "c1135c89cf1faaf288fa222630737670ccb46e48df53221473081b4127d8e931"
+
+[[files]]
+file = "openloader/resources/AntiqueAtlasEMS_1.16.5_1.3/assets/ianon/textures/gui/tiles/abu_nemophila_fields2.png"
+hash = "32bc6d91ea92d1392e162b3a09472c67181b7be6af111f45d3b5d36447596871"
+
+[[files]]
+file = "openloader/resources/AntiqueAtlasEMS_1.16.5_1.3/assets/ianon/textures/gui/tiles/ars_forest.png"
+hash = "89fdac269321da75b78306235d483005db8b1982bfc5aeb8e5d6abdd9937f792"
+
+[[files]]
+file = "openloader/resources/AntiqueAtlasEMS_1.16.5_1.3/assets/ianon/textures/gui/tiles/ars_forest2.png"
+hash = "fd8142f4a1ccfe5466426f004592f7c343fb290258e9c940a11846ccb8fe7e34"
+
+[[files]]
+file = "openloader/resources/AntiqueAtlasEMS_1.16.5_1.3/assets/ianon/textures/gui/tiles/ars_forest3.png"
+hash = "6a57091b5996cc843525e35bf5e97d813ddf2be92e5c7ace9f47a494a8c36ad1"
+
+[[files]]
+file = "openloader/resources/AntiqueAtlasEMS_1.16.5_1.3/assets/ianon/textures/gui/tiles/ars_forest4.png"
+hash = "a05006813b2651279e4bb6e9bc5074ac8a834977e9a0b3b2713c90a20c1f5ff0"
+
+[[files]]
+file = "openloader/resources/AntiqueAtlasEMS_1.16.5_1.3/assets/ianon/textures/gui/tiles/ars_forest5.png"
+hash = "a2e3893d7ecea570b6d5adb289c08cb624e561d8d39c68270d6478804d6b16c2"
+
+[[files]]
+file = "openloader/resources/AntiqueAtlasEMS_1.16.5_1.3/assets/ianon/textures/gui/tiles/atm_dunes.png"
+hash = "f9a29b361bbd044b7cfba1382d35f4187617007f280d52fa83dbd80190ea30a6"
+
+[[files]]
+file = "openloader/resources/AntiqueAtlasEMS_1.16.5_1.3/assets/ianon/textures/gui/tiles/atm_petrified.png"
+hash = "f3effedba5a14356aec4eec7c3c9cdb73b5d3bf4bc45b5c22fdfaf1e6a4f93c1"
+
+[[files]]
+file = "openloader/resources/AntiqueAtlasEMS_1.16.5_1.3/assets/ianon/textures/gui/tiles/atm_rainforest.png"
+hash = "60ff0a9922b6a6d31aa9c742b5c8a8f559e10ef7f6358ec0b774504c03280b84"
+
+[[files]]
+file = "openloader/resources/AntiqueAtlasEMS_1.16.5_1.3/assets/ianon/textures/gui/tiles/atm_rainforest_basin.png"
+hash = "9f0a4b04c00527e264767655f14f2ae4fc78b8abba9006724f0bfc2344d387a1"
+
+[[files]]
+file = "openloader/resources/AntiqueAtlasEMS_1.16.5_1.3/assets/ianon/textures/gui/tiles/atm_rainforest_mountains.png"
+hash = "1d10f1f983f9391f03c496cec694ae4ac2eb6695e763cef7884ae6df0e0ca594"
+
+[[files]]
+file = "openloader/resources/AntiqueAtlasEMS_1.16.5_1.3/assets/ianon/textures/gui/tiles/atm_rainforest_plateau.png"
+hash = "ec11da7bb81553c330e9521b835ddb40cde9b1705c0923c78ca1a1fa9acba872"
+
+[[files]]
+file = "openloader/resources/AntiqueAtlasEMS_1.16.5_1.3/assets/ianon/textures/gui/tiles/atm_sand.png"
+hash = "20aea6f98aa60191290a2026ad6428a7b90f97e2a0adb0715952e30cc99589ae"
+
+[[files]]
+file = "openloader/resources/AntiqueAtlasEMS_1.16.5_1.3/assets/ianon/textures/gui/tiles/atm_sand2.png"
+hash = "5c4d2cf969664bebc1b67ee7c6dad922c7c2dbf9f2344e3004e010ce4b11a766"
+
+[[files]]
+file = "openloader/resources/AntiqueAtlasEMS_1.16.5_1.3/assets/ianon/textures/gui/tiles/atm_sand3.png"
+hash = "14c573e767b293ba545854a4e94f1c4d9ba7018285a82385e89bce86281555fb"
+
+[[files]]
+file = "openloader/resources/AntiqueAtlasEMS_1.16.5_1.3/assets/ianon/textures/gui/tiles/atm_sand_bushes.png"
+hash = "0179bd7653a20cb6ee7e7b4b9d4700ca637c4fd1aeccdd70810492cf2460f6ea"
+
+[[files]]
+file = "openloader/resources/AntiqueAtlasEMS_1.16.5_1.3/assets/ianon/textures/gui/tiles/atm_sparse_rainforest_basin.png"
+hash = "8b8b8d775cff5ef1794e9ac8f463a6c09151a15f59711758e1ec102d73f196cf"
+
+[[files]]
+file = "openloader/resources/AntiqueAtlasEMS_1.16.5_1.3/assets/ianon/textures/gui/tiles/atm_sparse_rainforest_plateau.png"
+hash = "0d66328620edc9af3290997ee9e595d88257fb512b459a1a51f96469983b6691"
+
+[[files]]
+file = "openloader/resources/AntiqueAtlasEMS_1.16.5_1.3/assets/ianon/textures/gui/tiles/atum_dead_oasis.png"
+hash = "18a86ba346b2bfcdd2aae607a317b45479ab5af8b2f8abbcac56ef06bf4a781a"
+
+[[files]]
+file = "openloader/resources/AntiqueAtlasEMS_1.16.5_1.3/assets/ianon/textures/gui/tiles/atum_dense_woods.png"
+hash = "fa36a00bdf0988154ee8b6c01d49e636d855779764cdb087b9e3d5d789ac74e1"
+
+[[files]]
+file = "openloader/resources/AntiqueAtlasEMS_1.16.5_1.3/assets/ianon/textures/gui/tiles/atum_limestone_crags.png"
+hash = "2aba5a3286255cb1a715ef4e5541e5051b007333b7f6e77196caed4de3a8f39f"
+
+[[files]]
+file = "openloader/resources/AntiqueAtlasEMS_1.16.5_1.3/assets/ianon/textures/gui/tiles/atum_mountains.png"
+hash = "443ed76d0dec2feb31f961429c670efbdfd62a758ed1709157771de53508ada4"
+
+[[files]]
+file = "openloader/resources/AntiqueAtlasEMS_1.16.5_1.3/assets/ianon/textures/gui/tiles/atum_mountains2.png"
+hash = "8327b1cacca5d3df3198a184bcf96d5976c702f798027f3e7e205218079de786"
+
+[[files]]
+file = "openloader/resources/AntiqueAtlasEMS_1.16.5_1.3/assets/ianon/textures/gui/tiles/atum_oasis.png"
+hash = "37fd9439dc2e0c83465f7b2abc9006a3c57ed9f5a98e3444fc0b9324b1db7bf0"
+
+[[files]]
+file = "openloader/resources/AntiqueAtlasEMS_1.16.5_1.3/assets/ianon/textures/gui/tiles/atum_river_noborder.png"
+hash = "41bf2824431dde859e7b9de0e1174fb0163c991d6e83bfe6f15cb9b80925caf7"
+
+[[files]]
+file = "openloader/resources/AntiqueAtlasEMS_1.16.5_1.3/assets/ianon/textures/gui/tiles/atum_sand_dunes.png"
+hash = "3957c31b614b4a0a8ad85908e2b2d620e4d4272ae07d3e416f0336d0c492e060"
+
+[[files]]
+file = "openloader/resources/AntiqueAtlasEMS_1.16.5_1.3/assets/ianon/textures/gui/tiles/atum_sand_plains.png"
+hash = "aa9f765cdc12a7d05d399c45a7b9d03c2ed6fa32e8743f99c9b549b090f1db5a"
+
+[[files]]
+file = "openloader/resources/AntiqueAtlasEMS_1.16.5_1.3/assets/ianon/textures/gui/tiles/autum_maple_forest.png"
+hash = "abf7833ae66ee8f609906384fe5c661539f3a36704c7063091ac1f8f5b6bfd37"
+
+[[files]]
+file = "openloader/resources/AntiqueAtlasEMS_1.16.5_1.3/assets/ianon/textures/gui/tiles/autum_maple_forest2.png"
+hash = "110c23afd06e7d19ed68875acc8bfcb0579f54f777f64bd511092c067f238fc5"
+
+[[files]]
+file = "openloader/resources/AntiqueAtlasEMS_1.16.5_1.3/assets/ianon/textures/gui/tiles/autum_maple_forest3.png"
+hash = "5806f9b43400e4d8357ffb79076fccdf585562b893438b84457a212d49d275f6"
+
+[[files]]
+file = "openloader/resources/AntiqueAtlasEMS_1.16.5_1.3/assets/ianon/textures/gui/tiles/autum_maple_forest4.png"
+hash = "5300e668482ab9932ad2f67720e8976f185aa2e1f177917875782d5036af9493"
+
+[[files]]
+file = "openloader/resources/AntiqueAtlasEMS_1.16.5_1.3/assets/ianon/textures/gui/tiles/autum_maple_forest_hills.png"
+hash = "a601c86c150d19e93a6b24a73c889f328d01d3306242990b7bb952009116f063"
+
+[[files]]
+file = "openloader/resources/AntiqueAtlasEMS_1.16.5_1.3/assets/ianon/textures/gui/tiles/autum_maple_forest_hills2.png"
+hash = "9e9539ca9e74ec05dea058d059910662965a3172da29170ad20e1cfabeb03a1d"
+
+[[files]]
+file = "openloader/resources/AntiqueAtlasEMS_1.16.5_1.3/assets/ianon/textures/gui/tiles/autum_maple_forest_hills3.png"
+hash = "7484cf5d9f4fb67542ea66bec0db4ea46d45f926f83aadd5c29ed45d83297da8"
+
+[[files]]
+file = "openloader/resources/AntiqueAtlasEMS_1.16.5_1.3/assets/ianon/textures/gui/tiles/autum_maple_forest_hills4.png"
+hash = "80e23f6bcd3ae414b5978e87368f3cbb8783ad70bbc661cace4eed23ff696a74"
+
+[[files]]
+file = "openloader/resources/AntiqueAtlasEMS_1.16.5_1.3/assets/ianon/textures/gui/tiles/autum_orange_spotted_dark_forest.png"
+hash = "bee7ac2f2fd35f92b37dd1870d408275b620e9349995e0defdbc3bbde2c1264c"
+
+[[files]]
+file = "openloader/resources/AntiqueAtlasEMS_1.16.5_1.3/assets/ianon/textures/gui/tiles/autum_pumpkin_fields.png"
+hash = "20d89be043be1838c5d8af26276679a9a6566caa473bd412f2da5bfbace0ff83"
+
+[[files]]
+file = "openloader/resources/AntiqueAtlasEMS_1.16.5_1.3/assets/ianon/textures/gui/tiles/autum_pumpkin_fields2.png"
+hash = "428374c3d65d5fa1fca3a8a17d2a3248bb62980cce510c73ee35748d12b0ad4b"
+
+[[files]]
+file = "openloader/resources/AntiqueAtlasEMS_1.16.5_1.3/assets/ianon/textures/gui/tiles/autum_pumpkin_fields3.png"
+hash = "6a49ccd8a43a677de5ce8c7647ba4472000210340c6e0ea94729bce3575cba10"
+
+[[files]]
+file = "openloader/resources/AntiqueAtlasEMS_1.16.5_1.3/assets/ianon/textures/gui/tiles/autum_pumpkin_fields4.png"
+hash = "3568b5bebd97c1d8d53067a7099c5c2d89e13c3a6aa29a6f029330853ad8352c"
+
+[[files]]
+file = "openloader/resources/AntiqueAtlasEMS_1.16.5_1.3/assets/ianon/textures/gui/tiles/autum_pumpkin_fields5.png"
+hash = "2ac0facf92a71ff31752f9dcb887b7b78c8d09da300b7bddc0f86e0abe0979cc"
+
+[[files]]
+file = "openloader/resources/AntiqueAtlasEMS_1.16.5_1.3/assets/ianon/textures/gui/tiles/autum_red_spotted_taiga.png"
+hash = "81214920e0836b645ff6f9eaaa4b99c20d23fcbd0c0831c63561d5cf7d9bf5b7"
+
+[[files]]
+file = "openloader/resources/AntiqueAtlasEMS_1.16.5_1.3/assets/ianon/textures/gui/tiles/autum_red_spotted_taiga2.png"
+hash = "b9843eb006adb9d735860e99a823a9b40393a87ba57a228cf527af7ec4dcdfab"
+
+[[files]]
+file = "openloader/resources/AntiqueAtlasEMS_1.16.5_1.3/assets/ianon/textures/gui/tiles/autum_red_spotted_taiga3.png"
+hash = "07ffd0e50f934a09d3f304964e238e97211a5f896b9d0eb067716b77f164b952"
+
+[[files]]
+file = "openloader/resources/AntiqueAtlasEMS_1.16.5_1.3/assets/ianon/textures/gui/tiles/autum_yellow_spotted_forest.png"
+hash = "4c5d738d7ff3ef9a2156f4c07965db70f37b1b7d55fd7bbac0e0e6ec11ec0a97"
+
+[[files]]
+file = "openloader/resources/AntiqueAtlasEMS_1.16.5_1.3/assets/ianon/textures/gui/tiles/autum_yellow_spotted_forest2.png"
+hash = "4f44658f7c3e4d27a6b596bc80eca3bf753df7cbf708306d7dc219dbaebc5cf7"
+
+[[files]]
+file = "openloader/resources/AntiqueAtlasEMS_1.16.5_1.3/assets/ianon/textures/gui/tiles/autum_yellow_spotted_forest3.png"
+hash = "54b18872554c32637c0a61defe9bb60ad37b4753ec246fdcb4610f09cd76480e"
+
+[[files]]
+file = "openloader/resources/AntiqueAtlasEMS_1.16.5_1.3/assets/ianon/textures/gui/tiles/bayou_bayou.png"
+hash = "9b135545dcbc1caa3bd16f01d1d0d72e01dc822e760659c878f68a07ead3dd03"
+
+[[files]]
+file = "openloader/resources/AntiqueAtlasEMS_1.16.5_1.3/assets/ianon/textures/gui/tiles/bayou_bayou2.png"
+hash = "08810ad3250c1a2fd07d8332714ad02c4399201be697be7387043555fe791fdc"
+
+[[files]]
+file = "openloader/resources/AntiqueAtlasEMS_1.16.5_1.3/assets/ianon/textures/gui/tiles/bayou_bayou3.png"
+hash = "084a5c15e33b74c471cfa9c3c49f9346b8283c5ea4260e286fcdca39cb37bbba"
+
+[[files]]
+file = "openloader/resources/AntiqueAtlasEMS_1.16.5_1.3/assets/ianon/textures/gui/tiles/bayou_hills.png"
+hash = "9e860d329889c58d49921cb38c338fe0b133a0a74b2607c49aff561cedbbd6ce"
+
+[[files]]
+file = "openloader/resources/AntiqueAtlasEMS_1.16.5_1.3/assets/ianon/textures/gui/tiles/bayou_hills2.png"
+hash = "cff04407c53f5d32e9d89e4725c04d4d3f281389384cab1f3cdab66d853d566a"
+
+[[files]]
+file = "openloader/resources/AntiqueAtlasEMS_1.16.5_1.3/assets/ianon/textures/gui/tiles/bayou_hills3.png"
+hash = "0cbfb865077efbd4c08c18408f509d28f36efef4258285106afd779dcafead3a"
+
+[[files]]
+file = "openloader/resources/AntiqueAtlasEMS_1.16.5_1.3/assets/ianon/textures/gui/tiles/endergetic_poise_forest.png"
+hash = "627dad853dc50080ea17f96fb15a780a75c6aec7ddc297ef946113127744e173"
+
+[[files]]
+file = "openloader/resources/AntiqueAtlasEMS_1.16.5_1.3/assets/ianon/textures/gui/tiles/endergetic_poise_forest2.png"
+hash = "458d511f94b2ccfa523836e31d86e598aba31b777ae303320c55da48eea7c0d8"
+
+[[files]]
+file = "openloader/resources/AntiqueAtlasEMS_1.16.5_1.3/assets/ianon/textures/gui/tiles/endergetic_poise_forest3.png"
+hash = "8fa377decd85e5a9baf9014329bdcae346ba4531f10d82e6b229bee79408eca3"
+
+[[files]]
+file = "openloader/resources/AntiqueAtlasEMS_1.16.5_1.3/assets/ianon/textures/gui/tiles/envir_blossom_highlands.png"
+hash = "d30f4869d721f0ea861631152a1585e562f7151c4db332aefff60f0992f562cd"
+
+[[files]]
+file = "openloader/resources/AntiqueAtlasEMS_1.16.5_1.3/assets/ianon/textures/gui/tiles/envir_blossom_hills.png"
+hash = "c421b2e2030633bd2d1cf1ed2bacfff1c5a677dcd91de486f9a7c632d3cd9978"
+
+[[files]]
+file = "openloader/resources/AntiqueAtlasEMS_1.16.5_1.3/assets/ianon/textures/gui/tiles/envir_blossom_valleys.png"
+hash = "bb05bb65947e4d609dc1e7a11c41aac44188b7279a6717296bf152d37da970e7"
+
+[[files]]
+file = "openloader/resources/AntiqueAtlasEMS_1.16.5_1.3/assets/ianon/textures/gui/tiles/envir_blossom_valleys2.png"
+hash = "256fa8f54c84c90f4b03116566166e1bbafcef3294961cafaae30156f30ecba6"
+
+[[files]]
+file = "openloader/resources/AntiqueAtlasEMS_1.16.5_1.3/assets/ianon/textures/gui/tiles/envir_blossom_valleys3.png"
+hash = "66f7cf7814b7a2f012338c7259c94b2787babec6f7563f3a2f396825254777b8"
+
+[[files]]
+file = "openloader/resources/AntiqueAtlasEMS_1.16.5_1.3/assets/ianon/textures/gui/tiles/envir_blossom_valleys4.png"
+hash = "3354a33c6e9b59b39f7be07e57aea91fae333aa958af8b1ec85b02c96a3078a5"
+
+[[files]]
+file = "openloader/resources/AntiqueAtlasEMS_1.16.5_1.3/assets/ianon/textures/gui/tiles/envir_blossom_woods.png"
+hash = "5b52c49e8d9bfbf42be7f5a6052679730182b9e28f1e28d78381f521157204b0"
+
+[[files]]
+file = "openloader/resources/AntiqueAtlasEMS_1.16.5_1.3/assets/ianon/textures/gui/tiles/envir_marsh.png"
+hash = "60ef115abd27021abcb2d6b6dac44cea31908741385210fa496aad1b72f449f5"
+
+[[files]]
+file = "openloader/resources/AntiqueAtlasEMS_1.16.5_1.3/assets/ianon/textures/gui/tiles/envir_marsh2.png"
+hash = "fb0e740b64952b7380a42ba6a8b19618a33349f377f2a9d261b5093c3ab7c5aa"
+
+[[files]]
+file = "openloader/resources/AntiqueAtlasEMS_1.16.5_1.3/assets/ianon/textures/gui/tiles/envir_marsh3.png"
+hash = "b107671b58db7a663c8db4274c0009e3320400b84e63b295fa4df00a50326b40"
+
+[[files]]
+file = "openloader/resources/AntiqueAtlasEMS_1.16.5_1.3/assets/ianon/textures/gui/tiles/envir_marsh4.png"
+hash = "1951be8eb0d813a3ee847814c84f44acee255859e8a9709bc1ed9e15c6361ffd"
+
+[[files]]
+file = "openloader/resources/AntiqueAtlasEMS_1.16.5_1.3/assets/ianon/textures/gui/tiles/envir_mushroom_marsh.png"
+hash = "a00801371089c1276206bd2a21c5d93245c01522f3d187bd262bcb951762b711"
+
+[[files]]
+file = "openloader/resources/AntiqueAtlasEMS_1.16.5_1.3/assets/ianon/textures/gui/tiles/envir_mushroom_marsh2.png"
+hash = "391961a4374f8c669cb49d71933d7563ab6623dc2f279f221629b1a77ec37b36"
+
+[[files]]
+file = "openloader/resources/AntiqueAtlasEMS_1.16.5_1.3/assets/ianon/textures/gui/tiles/infernal_glowstone_canyon.png"
+hash = "b5d3ba59d9addf577d8e9fe0d4be38f6281ae8e0ce74d473fedd0d42ed7de140"
+
+[[files]]
+file = "openloader/resources/AntiqueAtlasEMS_1.16.5_1.3/assets/ianon/textures/gui/tiles/infernal_glowstone_canyon2.png"
+hash = "57e06bd2f57ab6345ef29cc1c614195887911dd073f152c9ff18eccc3808a687"
+
+[[files]]
+file = "openloader/resources/AntiqueAtlasEMS_1.16.5_1.3/assets/ianon/textures/gui/tiles/trav_autumnal_wooded_hills.png"
+hash = "6b6e68cb84a2458c3568df8e7088d7e773a737b23e5f769c165ff411af0f4538"
+
+[[files]]
+file = "openloader/resources/AntiqueAtlasEMS_1.16.5_1.3/assets/ianon/textures/gui/tiles/trav_autumnal_wooded_hills2.png"
+hash = "d0717270b17c56a08ed059f7ce26fc1cd23f061684dfc47d2589f09d77cd866b"
+
+[[files]]
+file = "openloader/resources/AntiqueAtlasEMS_1.16.5_1.3/assets/ianon/textures/gui/tiles/trav_autumnal_wooded_hills3.png"
+hash = "11a67a5b81ef9e89de11b7487333a902c422c09ca6a000f1333526b7a9cf072b"
+
+[[files]]
+file = "openloader/resources/AntiqueAtlasEMS_1.16.5_1.3/assets/ianon/textures/gui/tiles/trav_autumnal_woods.png"
+hash = "ec3dbc1c0d5de565fdd4e6628501bf62d2c7167030e1214e401dff5da6e1ca88"
+
+[[files]]
+file = "openloader/resources/AntiqueAtlasEMS_1.16.5_1.3/assets/ianon/textures/gui/tiles/trav_autumnal_woods2.png"
+hash = "0a4a77e2f543ba618634a386b2cb0c575ec7abae8dc7b50420d4bee24f629711"
+
+[[files]]
+file = "openloader/resources/AntiqueAtlasEMS_1.16.5_1.3/assets/ianon/textures/gui/tiles/trav_autumnal_woods3.png"
+hash = "3c03ccaf8c54750d0900f3399cfbd8de2be8e5aa4b36623c8beb6e282727df50"
+
+[[files]]
+file = "openloader/resources/AntiqueAtlasEMS_1.16.5_1.3/assets/ianon/textures/gui/tiles/trav_cliffs.png"
+hash = "8c63f522ef4475eb85a5b6f0abd112640f71a31033e153c526a9d8543c50260c"
+
+[[files]]
+file = "openloader/resources/AntiqueAtlasEMS_1.16.5_1.3/assets/ianon/textures/gui/tiles/trav_coniferous_forest.png"
+hash = "4c1843f06034e7d083c3f9dddfb4d9aa60a04b33f5c80321c8e52593a5945fa0"
+
+[[files]]
+file = "openloader/resources/AntiqueAtlasEMS_1.16.5_1.3/assets/ianon/textures/gui/tiles/trav_coniferous_wooded_hills.png"
+hash = "3c204e15e1f34a31df9d1cec6cc51a9da15ed3627a965a7ea9509a4e4e20e465"
+
+[[files]]
+file = "openloader/resources/AntiqueAtlasEMS_1.16.5_1.3/assets/ianon/textures/gui/tiles/trav_desert_shrubland.png"
+hash = "cf3b10a9e2a9eeed1e6002346a371a6796e724879a1d82cd285868359a4db674"
+
+[[files]]
+file = "openloader/resources/AntiqueAtlasEMS_1.16.5_1.3/assets/ianon/textures/gui/tiles/trav_high_coniferous_forest.png"
+hash = "8a26b1a0b0adefa4dca240ad3bb48810e9391122de56d066e49ea28d17067fdd"
+
+[[files]]
+file = "openloader/resources/AntiqueAtlasEMS_1.16.5_1.3/assets/ianon/textures/gui/tiles/trav_lush_swamp.png"
+hash = "7cd3069b3826eed2bccb912260d1b69f21aecddc862bcc517960ac0949521574"
+
+[[files]]
+file = "openloader/resources/AntiqueAtlasEMS_1.16.5_1.3/assets/ianon/textures/gui/tiles/trav_lush_swamp2.png"
+hash = "5a9f052161e853d3bacd81d8f198a3e246a213656aeb38fd9713e72b583cc6dc"
+
+[[files]]
+file = "openloader/resources/AntiqueAtlasEMS_1.16.5_1.3/assets/ianon/textures/gui/tiles/trav_lush_swamp3.png"
+hash = "ee2f927d80e46600c69be9a1e2225f3f1da3dfb7c516be8c890d5b7f7094de43"
+
+[[files]]
+file = "openloader/resources/AntiqueAtlasEMS_1.16.5_1.3/assets/ianon/textures/gui/tiles/trav_lush_swamp4.png"
+hash = "f2b5ec3c5be7171827d4265517d549e60e6999c92988eabdf68e181ce64b1174"
+
+[[files]]
+file = "openloader/resources/AntiqueAtlasEMS_1.16.5_1.3/assets/ianon/textures/gui/tiles/trav_lush_swamp5.png"
+hash = "1465f3dd08dc72efa2e0ad46b7d46bc9b872dcde1aaeeacf70a5d4a8762c5f32"
+
+[[files]]
+file = "openloader/resources/AntiqueAtlasEMS_1.16.5_1.3/assets/ianon/textures/gui/tiles/trav_meadow.png"
+hash = "46848d1678e99a51cd150ee3810cfa9e8ac30c6071c20156d6950d6f3e05404c"
+
+[[files]]
+file = "openloader/resources/AntiqueAtlasEMS_1.16.5_1.3/assets/ianon/textures/gui/tiles/trav_meadow2.png"
+hash = "fbcd3bf3e2959c2f82caa16ea96f4995fbccde3443b9c7618d7cefba7664bd2d"
+
+[[files]]
+file = "openloader/resources/AntiqueAtlasEMS_1.16.5_1.3/assets/ianon/textures/gui/tiles/trav_meadow3.png"
+hash = "895e6b95aa308ea6e8f3cbe584a2865513f668f4b1ae1acdc168be61a358cebb"
+
+[[files]]
+file = "openloader/resources/AntiqueAtlasEMS_1.16.5_1.3/assets/ianon/textures/gui/tiles/trav_meadow4.png"
+hash = "cde16a8a50ec1cdfcee3b3b40910f77d55438e6e79a5d3b0965eaf378b5dfba0"
+
+[[files]]
+file = "openloader/resources/AntiqueAtlasEMS_1.16.5_1.3/assets/ianon/textures/gui/tiles/trav_mini_jungle.png"
+hash = "aad781792dad03bf2f6300273b92270ccda3ad4243fcbe115273f781ca46a537"
+
+[[files]]
+file = "openloader/resources/AntiqueAtlasEMS_1.16.5_1.3/assets/ianon/textures/gui/tiles/trav_mini_jungle2.png"
+hash = "397290010796e5cf8588cf422487cd0d4d1b404b8f77c942dbdacf0a237580b9"
+
+[[files]]
+file = "openloader/resources/AntiqueAtlasEMS_1.16.5_1.3/assets/ianon/textures/gui/tiles/trav_mini_jungle3.png"
+hash = "f5c72f2088733970090231a657ed661f5bb17536523cc2017499da2f703e207e"
+
+[[files]]
+file = "openloader/resources/AntiqueAtlasEMS_1.16.5_1.3/assets/ianon/textures/gui/tiles/trav_rocky_edge.png"
+hash = "7d4cc1e39949f2140e62e0d999e55b2f7dd165d057a4863b85c13d9e13009f04"
+
+[[files]]
+file = "openloader/resources/AntiqueAtlasEMS_1.16.5_1.3/assets/ianon/textures/gui/tiles/trav_rolling_hills.png"
+hash = "974c733cd1786ceea7de41fa98f2db0e416f2876dea3d3e874883aaa3a9b7f6f"
+
+[[files]]
+file = "openloader/resources/AntiqueAtlasEMS_1.16.5_1.3/assets/ianon/textures/gui/tiles/trav_rolling_hills2.png"
+hash = "4b590a9e40dfd379258453ccc74e881f1bfdbf3402041007f39998e60f826d88"
+
+[[files]]
+file = "openloader/resources/AntiqueAtlasEMS_1.16.5_1.3/assets/ianon/textures/gui/tiles/trav_rolling_hills3.png"
+hash = "91f4d62f0c77738161804e52f855275062e95665ae7b540b200fa9218a09a803"
+
+[[files]]
+file = "openloader/resources/AntiqueAtlasEMS_1.16.5_1.3/assets/ianon/textures/gui/tiles/trav_snowy_cliffs.png"
+hash = "2805bd3f9fbafbadc0e49dc33283bc9ef1df9eaa658745d785b9d02eab71511f"
+
+[[files]]
+file = "openloader/resources/AntiqueAtlasEMS_1.16.5_1.3/assets/ianon/textures/gui/tiles/trav_snowy_coniferous_forest.png"
+hash = "fce2aa03cb00cf4f900b22dbcc304226585f217af034ef3150e7aaa38fe5cd24"
+
+[[files]]
+file = "openloader/resources/AntiqueAtlasEMS_1.16.5_1.3/assets/ianon/textures/gui/tiles/trav_snowy_coniferous_wooded_hills.png"
+hash = "3f0302c2a8971b34665623b0fa6f4def7e33c71ce7c2608e20367dc66943f33e"
+
+[[files]]
+file = "openloader/resources/AntiqueAtlasEMS_1.16.5_1.3/assets/ianon/textures/gui/tiles/trav_snowy_high_coniferous_forest.png"
+hash = "f03b89e3e7fe45f13741f20f3ef2c4046f0cf06b5dd850440e7d0dfb0b9121ec"
+
+[[files]]
+file = "openloader/resources/AntiqueAtlasEMS_1.16.5_1.3/assets/ianon/textures/gui/tiles/trav_wooded_plateau.png"
+hash = "91d50fdf87e5fb66cae5ba163e2b099649f11b37ca610a9c59f3d6e3a795ea3a"
+
+[[files]]
+file = "openloader/resources/AntiqueAtlasEMS_1.16.5_1.3/assets/ianon/textures/gui/tiles/trav_wooded_plateau2.png"
+hash = "08db78a203e088a4f9e27a6a76c5bade9a11bf249f3f18a38a48d20fa892866d"
+
+[[files]]
+file = "openloader/resources/AntiqueAtlasEMS_1.16.5_1.3/assets/ianon/textures/gui/tiles/trav_wooded_plateau3.png"
+hash = "eccd04698cbcdaa68223dcaa2ae90565b417613b7378d0c6f339b06811352908"
+
+[[files]]
+file = "openloader/resources/AntiqueAtlasEMS_1.16.5_1.3/assets/ianon/textures/gui/tiles/trav_woodlands.png"
+hash = "f8e0ebc949dd47a784f18b02cfc823f0fef31933b1f098947d599dc2c8de857f"
+
+[[files]]
+file = "openloader/resources/AntiqueAtlasEMS_1.16.5_1.3/assets/ianon/textures/gui/tiles/trav_woodlands2.png"
+hash = "ad09fc7450c2ad3e7f8e9d5249f93853e503c90d46fdae468c3c9cbc8ab98b5c"
+
+[[files]]
+file = "openloader/resources/AntiqueAtlasEMS_1.16.5_1.3/assets/ianon/textures/gui/tiles/trav_woodlands3.png"
+hash = "74182341dafecf16a9ca4fbe37df5a1983ee23ef415bf6b8c7a611ab716d7ea7"
+
+[[files]]
+file = "openloader/resources/AntiqueAtlasEMS_1.16.5_1.3/assets/infernalexp/atlas/tiles/glowstone_canyon.json"
+hash = "7a07d568e076eeb01dd3b988a849d9655371842bb9264c7176b1fd11555583a3"
+
+[[files]]
+file = "openloader/resources/AntiqueAtlasEMS_1.16.5_1.3/assets/minecraft/atlas/tiles/bamboo_jungle.json"
+hash = "bd47e2284883982e0871a9da4a33746c3c9ac893c0347d2ccd68ae727343d115"
+
+[[files]]
+file = "openloader/resources/AntiqueAtlasEMS_1.16.5_1.3/assets/minecraft/atlas/tiles/bamboo_jungle_hills.json"
+hash = "7aea95b63499f6bf9692ea099c46e79d218f23e43d8e31866e66b11a495e1b27"
+
+[[files]]
+file = "openloader/resources/AntiqueAtlasEMS_1.16.5_1.3/assets/minecraft/atlas/tiles/crimson_forest.json"
+hash = "e8d8a6bd53824b74421a2cadd1a6a6c6723cfd987e4127b5e5be0a008cad6523"
+
+[[files]]
+file = "openloader/resources/AntiqueAtlasEMS_1.16.5_1.3/assets/minecraft/atlas/tiles/dark_forest.json"
+hash = "f9fb337454b9cf50056c026e29a1f7da6cdf212accd2df63a20d726ea18ecd12"
+
+[[files]]
+file = "openloader/resources/AntiqueAtlasEMS_1.16.5_1.3/assets/minecraft/atlas/tiles/dark_forest_hills.json"
+hash = "962562ffdf91129f969069526e0b6999a8689580df5a22a56bc9732818d8cd45"
+
+[[files]]
+file = "openloader/resources/AntiqueAtlasEMS_1.16.5_1.3/assets/minecraft/atlas/tiles/deep_frozen_ocean.json"
+hash = "d3268ac381dfd54625d92368482258a8c0adbd1cad58374b118ff1c84f2ee791"
+
+[[files]]
+file = "openloader/resources/AntiqueAtlasEMS_1.16.5_1.3/assets/minecraft/atlas/tiles/desert_hills.json"
+hash = "bd073806b0044306767d90a92a12eaa1e57870f561d2e5e1c7a981f55dd3e473"
+
+[[files]]
+file = "openloader/resources/AntiqueAtlasEMS_1.16.5_1.3/assets/minecraft/atlas/tiles/eroded_badlands.json"
+hash = "26807e8f653a3c08caabd55b0882403064d80395c0e8b394899284e4d5e31b99"
+
+[[files]]
+file = "openloader/resources/AntiqueAtlasEMS_1.16.5_1.3/assets/minecraft/atlas/tiles/frozen_ocean.json"
+hash = "6411c021f97ceb936e18870fb8d98586d908921fd515545b75b729f12dc40b6e"
+
+[[files]]
+file = "openloader/resources/AntiqueAtlasEMS_1.16.5_1.3/assets/minecraft/atlas/tiles/giant_tree_taiga_hills.json"
+hash = "ff3eb8d3dfcff35bcd6cf5e6311c2d6f48d3f41e3ffad39deec0b8073a8e9ae8"
+
+[[files]]
+file = "openloader/resources/AntiqueAtlasEMS_1.16.5_1.3/assets/minecraft/atlas/tiles/gravelly_mountains.json"
+hash = "3ea4e1e09e7533e2d3a2e3f34e4fbe28623aa9963f57c8c6152e5b7d2c4e8e83"
+
+[[files]]
+file = "openloader/resources/AntiqueAtlasEMS_1.16.5_1.3/assets/minecraft/atlas/tiles/modified_gravelly_mountains.json"
+hash = "3ea4e1e09e7533e2d3a2e3f34e4fbe28623aa9963f57c8c6152e5b7d2c4e8e83"
+
+[[files]]
+file = "openloader/resources/AntiqueAtlasEMS_1.16.5_1.3/assets/minecraft/atlas/tiles/modified_jungle_edge.json"
+hash = "ae2b21efd8978be8b7d921b1d0c655f90ce044abea9f96264228aa02ca535aba"
+
+[[files]]
+file = "openloader/resources/AntiqueAtlasEMS_1.16.5_1.3/assets/minecraft/atlas/tiles/modified_wooded_badlands_plateau.json"
+hash = "1107e65ee6c2a46bebd1b8da04513519cec397b68d7c0c16483f34a8c61decde"
+
+[[files]]
+file = "openloader/resources/AntiqueAtlasEMS_1.16.5_1.3/assets/minecraft/atlas/tiles/savanna_plateau.json"
+hash = "cf919127c8ab248bae0340030defdb5fd78dbd2b4a51511bb653bc8cc425664f"
+
+[[files]]
+file = "openloader/resources/AntiqueAtlasEMS_1.16.5_1.3/assets/minecraft/atlas/tiles/snowy_taiga_hills.json"
+hash = "ce9e15512e0e4037618ece8d1c4054facc2ffc1fcab414e7296257bdfbb5974f"
+
+[[files]]
+file = "openloader/resources/AntiqueAtlasEMS_1.16.5_1.3/assets/minecraft/atlas/tiles/snowy_tundra.json"
+hash = "456e1e500c8aedddd1b6070d08ffa69b24218f6373e24a2f2967b0d153c7ed4c"
+
+[[files]]
+file = "openloader/resources/AntiqueAtlasEMS_1.16.5_1.3/assets/minecraft/atlas/tiles/taiga_mountains.json"
+hash = "8e135b601268e60e4c8aa092f6009f02f592e0d133d3f687bc253144041ba7c1"
+
+[[files]]
+file = "openloader/resources/AntiqueAtlasEMS_1.16.5_1.3/assets/minecraft/atlas/tiles/warped_forest.json"
+hash = "e04bb6fbc0abaa374f012d4e1e7e6baf1430185a8e2795c4849a658213e4a142"
+
+[[files]]
+file = "openloader/resources/AntiqueAtlasEMS_1.16.5_1.3/assets/minecraft/atlas/tiles/wooded_mountains.json"
+hash = "5ee4db0dff0428b9449acd4bc66219cda3374b1e8a7a07cb7aa2eb502dd6320e"
+
+[[files]]
+file = "openloader/resources/AntiqueAtlasEMS_1.16.5_1.3/assets/traverse/atlas/tiles/arid_highlands.json"
+hash = "75651f89f0a306cfb7140ab06925fc8bed0fd06b7ef0cf3b1068ac6ae8512e01"
+
+[[files]]
+file = "openloader/resources/AntiqueAtlasEMS_1.16.5_1.3/assets/traverse/atlas/tiles/autumnal_wooded_hills.json"
+hash = "727491f2cdaec6f8e815c6eaf261a30a559a47f299b9c376fc4b052aa90815d7"
+
+[[files]]
+file = "openloader/resources/AntiqueAtlasEMS_1.16.5_1.3/assets/traverse/atlas/tiles/autumnal_woods.json"
+hash = "41ed51c4999f95aa5d6b8079417cf6e22afd25609275b560f97ce520e26f3adf"
+
+[[files]]
+file = "openloader/resources/AntiqueAtlasEMS_1.16.5_1.3/assets/traverse/atlas/tiles/cliffs.json"
+hash = "4c2e790f5f0d4fcd7f5160276ee3b8cc095246692cc91a78f957d66075ef871c"
+
+[[files]]
+file = "openloader/resources/AntiqueAtlasEMS_1.16.5_1.3/assets/traverse/atlas/tiles/coniferous_forest.json"
+hash = "9e5c7e2f3f319ed7e89cb6cce5aa6ad540e92e4167b75145bbc391d43401a131"
+
+[[files]]
+file = "openloader/resources/AntiqueAtlasEMS_1.16.5_1.3/assets/traverse/atlas/tiles/coniferous_wooded_hills.json"
+hash = "04995835ecfb87bbf306f452f324fba0885819f22f621214f8ef7a06a7b5b154"
+
+[[files]]
+file = "openloader/resources/AntiqueAtlasEMS_1.16.5_1.3/assets/traverse/atlas/tiles/desert_shrubland.json"
+hash = "284a211a0de0d498c7c11301e739dca79b4af4fd52b41762222298b2bc05774c"
+
+[[files]]
+file = "openloader/resources/AntiqueAtlasEMS_1.16.5_1.3/assets/traverse/atlas/tiles/high_coniferous_forest.json"
+hash = "e52240404837b26c6f1fa9ea83e5fc3104302a42fd28df056d49bf149401fd0f"
+
+[[files]]
+file = "openloader/resources/AntiqueAtlasEMS_1.16.5_1.3/assets/traverse/atlas/tiles/lush_swamp.json"
+hash = "df037995d74c25bd56ab436e0dadefd2622d6c832d42aabc04115940649be674"
+
+[[files]]
+file = "openloader/resources/AntiqueAtlasEMS_1.16.5_1.3/assets/traverse/atlas/tiles/meadow.json"
+hash = "56c2050d8ed6e7d7f3a13c8d31ea51ea31981d0aaf2324d760658088d64feb82"
+
+[[files]]
+file = "openloader/resources/AntiqueAtlasEMS_1.16.5_1.3/assets/traverse/atlas/tiles/mini_jungle.json"
+hash = "90c510e18fe489e230e990e8816d9d86463a1ea7e6ac82c79e324f556de43392"
+
+[[files]]
+file = "openloader/resources/AntiqueAtlasEMS_1.16.5_1.3/assets/traverse/atlas/tiles/plains_plateau.json"
+hash = "f38ddfe2b5b138707b439e19f97e2ad766f533827f830584adc5b6aba1e7099e"
+
+[[files]]
+file = "openloader/resources/AntiqueAtlasEMS_1.16.5_1.3/assets/traverse/atlas/tiles/rocky_edge.json"
+hash = "e17d8ac75e8815a1db432250f88b7f1c106413738929fc8552e272b8f8b796cd"
+
+[[files]]
+file = "openloader/resources/AntiqueAtlasEMS_1.16.5_1.3/assets/traverse/atlas/tiles/rolling_hills.json"
+hash = "480a73e1c510e01d9fa8cd7b3f5cd0ade06184808fa03bf591b73b2fa64c0c8f"
+
+[[files]]
+file = "openloader/resources/AntiqueAtlasEMS_1.16.5_1.3/assets/traverse/atlas/tiles/snowy_cliffs.json"
+hash = "8d1ba492c49c845c1e32d261cf2ba47f6febf744728cc5f09a7381bfa86ab9d3"
+
+[[files]]
+file = "openloader/resources/AntiqueAtlasEMS_1.16.5_1.3/assets/traverse/atlas/tiles/snowy_coniferous_forest.json"
+hash = "d8b83727377e244c4b56d57a07cc7ef70c4324ffa658811e6345c15d4c32921e"
+
+[[files]]
+file = "openloader/resources/AntiqueAtlasEMS_1.16.5_1.3/assets/traverse/atlas/tiles/snowy_coniferous_wooded_hills.json"
+hash = "4616a8b38eb6419d15b3dc5ce4c06cf0a58b018b7f29bf80d9db386ebffa8a1c"
+
+[[files]]
+file = "openloader/resources/AntiqueAtlasEMS_1.16.5_1.3/assets/traverse/atlas/tiles/snowy_high_coniferous_forest.json"
+hash = "a2f6926c3cf618f36be8fdf3e5319c19d70c1db713e69e1c8cfe4ea8ae96a1e0"
+
+[[files]]
+file = "openloader/resources/AntiqueAtlasEMS_1.16.5_1.3/assets/traverse/atlas/tiles/wooded_island.json"
+hash = "4f911ffaa9ff839cf3e53eff6db5f0efe090b130dff5d568ae76d6b7e3a1a135"
+
+[[files]]
+file = "openloader/resources/AntiqueAtlasEMS_1.16.5_1.3/assets/traverse/atlas/tiles/wooded_plateau.json"
+hash = "737dac0bfc293aa5c1f2e8e48cb8e6cc8e058a34fe8323967d80bf8780f5168a"
+
+[[files]]
+file = "openloader/resources/AntiqueAtlasEMS_1.16.5_1.3/assets/traverse/atlas/tiles/woodlands.json"
+hash = "0d76eee9ee6e96f1d952e92b4a057c9888e81942cb7da7c487b931cce2994ecd"
+
+[[files]]
+file = "openloader/resources/AntiqueAtlasEMS_1.16.5_1.3/pack.mcmeta"
+hash = "71b7b4b63df832a4951620ad7bbd501a740db5a2e26daee35f85711a3ddf297b"
+
+[[files]]
+file = "openloader/resources/AntiqueAtlasEMS_1.16.5_1.3/pack.png"
+hash = "79c32f0dbeaddd7f0eb5bbf63bd9ff258a0891212f734c3ebb19e99948b71dcb"

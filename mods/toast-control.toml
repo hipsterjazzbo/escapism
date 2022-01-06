@@ -1,0 +1,13 @@
+name = "Toast Control"
+filename = "ToastControl-1.18.1-6.0.0.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3566/996/ToastControl-1.18.1-6.0.0.jar"
+hash-format = "murmur2"
+hash = "2009271695"
+
+[update]
+[update.curseforge]
+file-id = 3566996
+project-id = 271740

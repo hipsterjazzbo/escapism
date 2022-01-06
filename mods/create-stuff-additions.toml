@@ -1,0 +1,13 @@
+name = "Create Stuff Additions"
+filename = "create-stuff-additions1.16.5_v1.1.5.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3494/705/create-stuff-additions1.16.5_v1.1.5.jar"
+hash-format = "murmur2"
+hash = "3697016459"
+
+[update]
+[update.curseforge]
+file-id = 3494705
+project-id = 466792

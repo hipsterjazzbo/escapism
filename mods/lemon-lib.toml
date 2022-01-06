@@ -1,0 +1,13 @@
+name = "Lemon Lib"
+filename = "lemonlib-1.3.6.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3335/288/lemonlib-1.3.6.jar"
+hash-format = "murmur2"
+hash = "2608372144"
+
+[update]
+[update.curseforge]
+file-id = 3335288
+project-id = 471136

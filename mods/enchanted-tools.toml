@@ -1,0 +1,13 @@
+name = "Enchanted Tools"
+filename = "Enchanted Tools v2.6.zip"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3555/121/Enchanted Tools v2.6.zip"
+hash-format = "murmur2"
+hash = "3813088230"
+
+[update]
+[update.curseforge]
+file-id = 3555121
+project-id = 413810

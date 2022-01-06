@@ -1,0 +1,13 @@
+name = "Quark"
+filename = "Quark-3.0-334.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3578/106/Quark-3.0-334.jar"
+hash-format = "murmur2"
+hash = "2727673768"
+
+[update]
+[update.curseforge]
+file-id = 3578106
+project-id = 243121

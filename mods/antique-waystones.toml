@@ -1,0 +1,13 @@
+name = "Antique Waystones"
+filename = "antiquewaystones-1.3.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3398/198/antiquewaystones-1.3.jar"
+hash-format = "murmur2"
+hash = "4007521887"
+
+[update]
+[update.curseforge]
+file-id = 3398198
+project-id = 438668

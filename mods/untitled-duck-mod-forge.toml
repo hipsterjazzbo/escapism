@@ -1,0 +1,13 @@
+name = "Untitled Duck Mod (Forge)"
+filename = "untitledduckmod-0.3.0-forge.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3377/370/untitledduckmod-0.3.0-forge.jar"
+hash-format = "murmur2"
+hash = "3679000985"
+
+[update]
+[update.curseforge]
+file-id = 3377370
+project-id = 451789

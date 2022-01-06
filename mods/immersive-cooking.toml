@@ -1,0 +1,13 @@
+name = "Immersive Cooking"
+filename = "immersivecooking-1.0.1.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3395/248/immersivecooking-1.0.1.jar"
+hash-format = "murmur2"
+hash = "1859273341"
+
+[update]
+[update.curseforge]
+file-id = 3395248
+project-id = 504395

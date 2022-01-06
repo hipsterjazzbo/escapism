@@ -1,0 +1,13 @@
+name = "Created Simple Storage Network"
+filename = "Created Storage Network 1.2.zip"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3582/548/Created Storage Network 1.2.zip"
+hash-format = "murmur2"
+hash = "2705595728"
+
+[update]
+[update.curseforge]
+file-id = 3582548
+project-id = 468836

@@ -1,0 +1,13 @@
+name = "The Irregular Chef! (A Farmer's Delight Add-on)"
+filename = "irregularchef-1.16.5-1.0.1.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3411/810/irregularchef-1.16.5-1.0.1.jar"
+hash-format = "murmur2"
+hash = "2145566430"
+
+[update]
+[update.curseforge]
+file-id = 3411810
+project-id = 498222

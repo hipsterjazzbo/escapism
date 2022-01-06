@@ -1,0 +1,13 @@
+name = "Bountiful (Forge)"
+filename = "Bountiful-1.16.4-3.3.1.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3239/647/Bountiful-1.16.4-3.3.1.jar"
+hash-format = "murmur2"
+hash = "4051624247"
+
+[update]
+[update.curseforge]
+file-id = 3239647
+project-id = 309516

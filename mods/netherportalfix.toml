@@ -1,0 +1,13 @@
+name = "NetherPortalFix"
+filename = "netherportalfix-forge-1.18-9.0.0.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3549/513/netherportalfix-forge-1.18-9.0.0.jar"
+hash-format = "murmur2"
+hash = "2695793082"
+
+[update]
+[update.curseforge]
+file-id = 3549513
+project-id = 241160

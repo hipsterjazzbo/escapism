@@ -1,0 +1,13 @@
+name = "Enchantment Descriptions"
+filename = "EnchantmentDescriptions-Forge-1.18.1-9.0.8.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3595/254/EnchantmentDescriptions-Forge-1.18.1-9.0.8.jar"
+hash-format = "murmur2"
+hash = "667428596"
+
+[update]
+[update.curseforge]
+file-id = 3595254
+project-id = 250419

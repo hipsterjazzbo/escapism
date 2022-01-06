@@ -1,0 +1,13 @@
+name = "Advanced Hook Launchers"
+filename = "AdHooks-1.18.1-7.0.0.0-build.0041.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3577/72/AdHooks-1.18.1-7.0.0.0-build.0041.jar"
+hash-format = "murmur2"
+hash = "4209042601"
+
+[update]
+[update.curseforge]
+file-id = 3577072
+project-id = 244849

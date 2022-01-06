@@ -1,0 +1,13 @@
+name = "Just Enough Resources (JER)"
+filename = "JustEnoughResources-1.18.1-0.13.1.141.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3580/623/JustEnoughResources-1.18.1-0.13.1.141.jar"
+hash-format = "murmur2"
+hash = "3115444706"
+
+[update]
+[update.curseforge]
+file-id = 3580623
+project-id = 240630

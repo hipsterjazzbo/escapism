@@ -1,0 +1,13 @@
+name = "Potion Descriptions (Forge)"
+filename = "potiondescriptions-1.16.5-1.5.3.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3302/804/potiondescriptions-1.16.5-1.5.3.jar"
+hash-format = "murmur2"
+hash = "2694011788"
+
+[update]
+[update.curseforge]
+file-id = 3302804
+project-id = 403303

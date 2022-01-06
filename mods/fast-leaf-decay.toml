@@ -1,0 +1,13 @@
+name = "Fast Leaf Decay"
+filename = "FastLeafDecay-27.2.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3590/415/FastLeafDecay-27.2.jar"
+hash-format = "murmur2"
+hash = "1474099634"
+
+[update]
+[update.curseforge]
+file-id = 3590415
+project-id = 230976

@@ -1,0 +1,13 @@
+name = "Enchanted Weapons"
+filename = "Enchanted Weapons v2.3.zip"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3555/268/Enchanted Weapons v2.3.zip"
+hash-format = "murmur2"
+hash = "34422698"
+
+[update]
+[update.curseforge]
+file-id = 3555268
+project-id = 387040

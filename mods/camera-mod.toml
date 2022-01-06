@@ -1,0 +1,13 @@
+name = "Camera Mod"
+filename = "camera-1.18.1-1.0.0.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3558/814/camera-1.18.1-1.0.0.jar"
+hash-format = "murmur2"
+hash = "253279711"
+
+[update]
+[update.curseforge]
+file-id = 3558814
+project-id = 289310

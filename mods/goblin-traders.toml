@@ -1,0 +1,13 @@
+name = "Goblin Traders"
+filename = "goblintraders-1.7.0-1.18.1.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3559/400/goblintraders-1.7.0-1.18.1.jar"
+hash-format = "murmur2"
+hash = "22949373"
+
+[update]
+[update.curseforge]
+file-id = 3559400
+project-id = 363703

@@ -1,0 +1,13 @@
+name = "Lootr"
+filename = "lootr-1.18-0.0.12.38.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3590/423/lootr-1.18-0.0.12.38.jar"
+hash-format = "murmur2"
+hash = "770456809"
+
+[update]
+[update.curseforge]
+file-id = 3590423
+project-id = 361276

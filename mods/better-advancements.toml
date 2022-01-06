@@ -1,0 +1,13 @@
+name = "Better Advancements"
+filename = "BetterAdvancements-1.18.1-0.1.2.122.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3575/636/BetterAdvancements-1.18.1-0.1.2.122.jar"
+hash-format = "murmur2"
+hash = "516858442"
+
+[update]
+[update.curseforge]
+file-id = 3575636
+project-id = 272515

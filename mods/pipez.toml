@@ -1,0 +1,13 @@
+name = "Pipez"
+filename = "pipez-1.18.1-1.0.1.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3569/514/pipez-1.18.1-1.0.1.jar"
+hash-format = "murmur2"
+hash = "4274027422"
+
+[update]
+[update.curseforge]
+file-id = 3569514
+project-id = 443900

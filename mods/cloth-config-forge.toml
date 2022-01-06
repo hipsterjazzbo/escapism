@@ -1,0 +1,13 @@
+name = "Cloth Config API (Forge)"
+filename = "cloth-config-6.1.48-forge.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3559/639/cloth-config-6.1.48-forge.jar"
+hash-format = "murmur2"
+hash = "979513056"
+
+[update]
+[update.curseforge]
+file-id = 3559639
+project-id = 348521

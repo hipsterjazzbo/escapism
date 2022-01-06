@@ -1,0 +1,13 @@
+name = "Aquaculture 2"
+filename = "Aquaculture-1.18.1-2.3.2.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3583/38/Aquaculture-1.18.1-2.3.2.jar"
+hash-format = "murmur2"
+hash = "4176090246"
+
+[update]
+[update.curseforge]
+file-id = 3583038
+project-id = 60028

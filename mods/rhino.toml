@@ -1,0 +1,13 @@
+name = "Rhino"
+filename = "rhino-forge-1800.1.7-build.92.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3584/288/rhino-forge-1800.1.7-build.92.jar"
+hash-format = "murmur2"
+hash = "3814506450"
+
+[update]
+[update.curseforge]
+file-id = 3584288
+project-id = 416294

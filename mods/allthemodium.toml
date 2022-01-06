@@ -1,0 +1,13 @@
+name = "Allthemodium"
+filename = "allthemodium-1.7.0-pre12-1.18.1-39.0.10.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3595/512/allthemodium-1.7.0-pre12-1.18.1-39.0.10.jar"
+hash-format = "murmur2"
+hash = "700947663"
+
+[update]
+[update.curseforge]
+file-id = 3595512
+project-id = 364466

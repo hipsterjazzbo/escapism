@@ -1,0 +1,13 @@
+name = "Create Confectionery"
+filename = "create-confectionery1.16.5_v1.0.2.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3487/757/create-confectionery1.16.5_v1.0.2.jar"
+hash-format = "murmur2"
+hash = "3462539684"
+
+[update]
+[update.curseforge]
+file-id = 3487757
+project-id = 531834

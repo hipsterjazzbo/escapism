@@ -6,5 +6,5 @@ libcrypto*.dll
 cacert.pem
 
 ### Modpack ###
-.out/
 .nova/
+.idea/

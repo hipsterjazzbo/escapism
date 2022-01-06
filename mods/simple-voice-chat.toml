@@ -1,0 +1,13 @@
+name = "Simple Voice Chat"
+filename = "voicechat-forge-1.18.1-2.2.3.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3596/235/voicechat-forge-1.18.1-2.2.3.jar"
+hash-format = "murmur2"
+hash = "1354199311"
+
+[update]
+[update.curseforge]
+file-id = 3596235
+project-id = 416089

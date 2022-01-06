@@ -1,0 +1,13 @@
+name = "Client Tweaks"
+filename = "clienttweaks-forge-1.18-7.0.0.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3549/494/clienttweaks-forge-1.18-7.0.0.jar"
+hash-format = "murmur2"
+hash = "3060958293"
+
+[update]
+[update.curseforge]
+file-id = 3549494
+project-id = 251407

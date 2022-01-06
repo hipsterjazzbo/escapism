@@ -1,0 +1,13 @@
+name = "Open Loader"
+filename = "OpenLoader-Forge-1.18.1-11.0.3.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3586/548/OpenLoader-Forge-1.18.1-11.0.3.jar"
+hash-format = "murmur2"
+hash = "494178427"
+
+[update]
+[update.curseforge]
+file-id = 3586548
+project-id = 354339

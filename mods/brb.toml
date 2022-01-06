@@ -1,0 +1,13 @@
+name = "Better Recipe Book"
+filename = "brb-Forge-1.5.6.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/vWIaVOTE/versions/1.5.6/brb-Forge-1.5.6.jar"
+hash-format = "sha512"
+hash = "7ff9b30abfcd75e3d58ba5363b1ca4fac92d4b9536031e195a53d685044f566cfd3cd4a200009f24ca9a59d6db394fb7aa947076e9b55a9025ac18a9a7347e4b"
+
+[update]
+[update.modrinth]
+mod-id = "vWIaVOTE"
+version = "sBHMavsZ"

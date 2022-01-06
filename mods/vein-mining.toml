@@ -1,0 +1,13 @@
+name = "Vein Mining (Forge)"
+filename = "veinmining-forge-1.18.1-0.16.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3578/712/veinmining-forge-1.18.1-0.16.jar"
+hash-format = "murmur2"
+hash = "3703471250"
+
+[update]
+[update.curseforge]
+file-id = 3578712
+project-id = 431611
