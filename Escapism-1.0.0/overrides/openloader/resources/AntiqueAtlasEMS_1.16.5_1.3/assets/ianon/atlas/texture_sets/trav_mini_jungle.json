@@ -1,0 +1,10 @@
+{
+  "version": 1,
+  "data": {
+    "textures": {
+      "ianon:trav_mini_jungle": 1,
+	  "ianon:trav_mini_jungle2": 1,
+	  "ianon:trav_mini_jungle3": 1
+    }
+  }
+}

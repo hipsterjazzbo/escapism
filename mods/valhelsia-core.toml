@@ -1,13 +1,13 @@
 name = "Valhelsia Core"
-filename = "valhelsia_core-16.0.15.jar"
+filename = "valhelsia_core-1.18.1-0.3.0.jar"
 side = "both"
 
 [download]
-url = "https://edge.forgecdn.net/files/3592/369/valhelsia_core-16.0.15.jar"
+url = "https://edge.forgecdn.net/files/3591/180/valhelsia_core-1.18.1-0.3.0.jar"
 hash-format = "murmur2"
-hash = "2416721586"
+hash = "134434129"
 
 [update]
 [update.curseforge]
-file-id = 3592369
+file-id = 3591180
 project-id = 416935

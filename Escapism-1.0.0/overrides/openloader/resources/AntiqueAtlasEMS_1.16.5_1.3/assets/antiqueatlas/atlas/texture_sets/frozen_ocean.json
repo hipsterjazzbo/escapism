@@ -1,0 +1,9 @@
+{
+  "version": 1,
+  "data": {
+    "textures": {
+      "antiqueatlas:ice_noborder": 2,
+	  "antiqueatlas:ice_noborder2": 1
+    }
+  }
+}

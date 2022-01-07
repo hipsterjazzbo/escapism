@@ -1,0 +1,10 @@
+{
+  "version": 1,
+  "data": {
+    "textures": {
+      "antiqueatlas:jungle_bamboo_hills": 1,
+	  "antiqueatlas:jungle_bamboo_hills2": 2,
+	  "antiqueatlas:jungle_bamboo_hills3": 3
+    }
+  }
+}

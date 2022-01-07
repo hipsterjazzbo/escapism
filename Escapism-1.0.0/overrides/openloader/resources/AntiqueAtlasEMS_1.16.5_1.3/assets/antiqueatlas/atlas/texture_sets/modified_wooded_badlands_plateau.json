@@ -1,0 +1,10 @@
+{
+  "version": 1,
+  "data": {
+    "textures": {
+      "antiqueatlas:plateau_trees": 1,
+      "antiqueatlas:plateau_mesa": 8,
+      "antiqueatlas:plateau_mesa2": 8
+    }
+  }
+}

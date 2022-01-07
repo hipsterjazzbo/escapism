@@ -1,13 +1,13 @@
 name = "Macaw's Bridges"
-filename = "mcw-bridges-2.0.1-mc1.16.5.jar"
+filename = "mcw-bridges-2.0.1-mc1.18.1.jar"
 side = "both"
 
 [download]
-url = "https://edge.forgecdn.net/files/3565/142/mcw-bridges-2.0.1-mc1.16.5.jar"
+url = "https://edge.forgecdn.net/files/3561/175/mcw-bridges-2.0.1-mc1.18.1.jar"
 hash-format = "murmur2"
-hash = "4186978030"
+hash = "1767596406"
 
 [update]
 [update.curseforge]
-file-id = 3565142
+file-id = 3561175
 project-id = 351725

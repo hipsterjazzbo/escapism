@@ -1,0 +1,10 @@
+{
+  "version": 1,
+  "data": {
+    "textures": {
+      "antiqueatlas:crimson_forest": 1,
+      "antiqueatlas:crimson_forest2": 1,
+      "antiqueatlas:crimson_forest3": 1
+    }
+  }
+}

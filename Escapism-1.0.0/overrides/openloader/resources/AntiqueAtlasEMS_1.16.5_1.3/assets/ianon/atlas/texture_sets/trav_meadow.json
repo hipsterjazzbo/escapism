@@ -1,0 +1,11 @@
+{
+  "version": 1,
+  "data": {
+    "textures": {
+      "ianon:trav_meadow": 1,
+	  "ianon:trav_meadow2": 1,
+	  "ianon:trav_meadow3": 1,
+	  "ianon:trav_meadow4": 1
+    }
+  }
+}

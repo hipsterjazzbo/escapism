@@ -1,0 +1,13 @@
+name = "mutil"
+filename = "mutil-1.18.1-4.1.0.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3591/744/mutil-1.18.1-4.1.0.jar"
+hash-format = "murmur2"
+hash = "1827537093"
+
+[update]
+[update.curseforge]
+file-id = 3591744
+project-id = 351914

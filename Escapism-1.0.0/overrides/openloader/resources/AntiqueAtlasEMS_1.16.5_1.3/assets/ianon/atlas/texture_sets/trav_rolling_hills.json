@@ -1,0 +1,10 @@
+{
+  "version": 1,
+  "data": {
+    "textures": {
+      "ianon:trav_rolling_hills": 1,
+	  "ianon:trav_rolling_hills2": 1,
+	  "ianon:trav_rolling_hills3": 1
+    }
+  }
+}
