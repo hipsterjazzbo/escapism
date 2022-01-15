@@ -1,0 +1,13 @@
+name = "Advancement Frames"
+filename = "advancementframes-1.18-1.0.5.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3573/422/advancementframes-1.18-1.0.5.jar"
+hash-format = "murmur2"
+hash = "806497584"
+
+[update]
+[update.curseforge]
+file-id = 3573422
+project-id = 556795

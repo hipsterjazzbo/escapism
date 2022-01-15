@@ -32,15 +32,6 @@
 		#Display 24h time format. False for 12h format
 		24h_format = true
 
-	[blocks.firefly_jar]
-		#Particle in firefly jars spawn as explained below:
-		#Every <spawn_period> ticks a particle has a chance to spawn determined by <spawn_chance>x100 %.
-		#Range: 1 ~ 20
-		spawn_period = 8
-		#Spawn chance every period
-		#Range: 0.0 ~ 1.0
-		spawn_chance = 0.3
-
 	[blocks.pedestal]
 		#Enable displayed item spin
 		spin = true
@@ -49,6 +40,14 @@
 		speed = 2.0
 		#Enable special display types for items like swords, tridents or end crystals
 		fancy_renderers = true
+
+	[blocks.bubble_block]
+		#Wobbling intensity. set to 0 to disable
+		#Range: 0.0 ~ 1.0
+		wobble = 0.2
+		#How fast it grows when created. 1 to be instant
+		#Range: 0.0 ~ 1.0
+		grow_speed = 0.4
 
 	[blocks.item_shelf]
 		#Translate down displayed 3d blocks so that they are touching the shelf.
@@ -85,7 +84,7 @@
 		slowness = 100
 		#How wavy the animation will be in pixels. (Wavelength)
 		#Range: 0.001 ~ 100.0
-		wavyness = 6.0
+		wavyness = 4.0
 		#How tall the wave lobes will be. (Wave amplitude)
 		#Range: 0.0 ~ 100.0
 		intensity = 1.0
@@ -97,6 +96,8 @@
 		fanciness = "FABULOUS"
 
 	[blocks.captured_mobs]
+		#A list of mobs that can be ticked on client side when inside jars. Mainly used for stuff that has particles. Can cause issues and side effects so use with care
+		tickable_inside_jars = ["iceandfire:pixie", "druidcraft:dreadfish", "druidcraft:lunar_moth", "alexsmobs:hummingbird"]
 		#Here you can customize how mobs are displayed in jars and cages.
 		#Following will have to be a list with the format below:
 		#[[<id>,<height>,<width>,<light_level>,<animation_type>],[<id>,...],...]
@@ -114,9 +115,7 @@
 		# - any number > 0 to make it render as a 2d fish whose index matches the 'fishies' texture sheet
 		# - 0 or any other values will be ignored and treated as default
 		#Note that only the first 3 parameters are needed, the others are optional
-		rendering_parameters = [["minecraft:bee", "0.3125", "0.0"], ["minecraft:vex", "0.0", "0.125", "0", "FLOATING"], ["minecraft:silverfish", "0.0", "0.25"], ["minecraft:chicken", "0.25", "0.3125"], ["minecraft:endermite", "0.0", "0.0", "5"], ["minecraft:fox", "0.0", "0.2"], ["supplementaries:firefly", "0.0", "0.0", "9", "FLOATING"], ["druidcraft:lunar_moth", "0.375", "0.1375", "10", "FLOATING"], ["iceandfire:pixie", "0.0", "0.0", "10"], ["minecraft:fish", "0.0", "0.125", "0", "1"], ["minecraft:tropical_fish", "0.0", "0.125", "0", "2"], ["minecraft:salmon", "0.0", "0.125", "0", "3"], ["minecraft:cod", "0.0", "0.125", "0", "4"], ["minecraft:pufferfish", "0.0", "0.125", "0", "5"], ["minecraft:axolotl", "0.0", "0.125", "0", "6"], ["fins:pea_wee", "0.0", "0.125", "0", "7"], ["fins:wee_wee", "0.0", "0.125", "0", "8"], ["fins:vibra_wee", "0.0", "0.125", "0", "9"], ["fins:blu_wee", "0.0", "0.125", "0", "10"], ["fins:ornate_bugfish", "0.0", "0.125", "0", "11"], ["fins:spindly_gem_crab", "0.0", "0.125", "0", "12"], ["fins:phantom_nudibranch", "0.0", "0.125", "0", "13"], ["fins:high_finned_blue", "0.0", "0.125", "0", "14"], ["fins:teal_arrowfish", "0.0", "0.125", "0", "15"], ["fins:midnight_squid", "0.0", "0.125", "0", "16"], ["fins:banded_redback_shrimp", "0.0", "0.125", "0", "17"], ["fins:flatback_sucker", "0.0", "0.125", "0", "18"], ["fins:swamp_mucker", "0.0", "0.125", "0", "19"], ["upgrade_aquatic:lionfish", "0.0", "0.125", "0", "20"], ["upgrade_aquatic:nautilus", "0.0", "0.125", "0", "21"], ["upgrade_aquatic:pike", "0.0", "0.125", "0", "22"], ["alexsmobs:stradpole", "0.0", "0.125", "0", "23"], ["alexsmobs:blobfish", "0.0", "0.125", "0", "24"], ["unnamedanimalmod:flashlight_fish", "0.0", "0.125", "0", "25"], ["unnamedanimalmod:elephantnose_fish", "0.0", "0.125", "0", "26"], ["unnamedanimalmod:black_diamond_stingray", "0.0", "0.125", "0", "27"], ["unnamedanimalmod:humphead_parrotfish", "0.0", "0.125", "0", "28"], ["unnamedanimalmod:tomato_frog", "0.0", "0.125", "0", "29"], ["unnamedanimalmod:pacman_frog", "0.0", "0.125", "0", "30"], ["bettas:betta_fish", "0.0", "0.125", "0", "31"], ["pogfish:pogfish", "0.0", "0.125", "0", "32"], ["undergarden:gwibling", "0.0", "0.125", "0", "33"], ["environmental:koi", "0.0", "0.125", "0", "34"], ["betterendforge:end_fish", "0.0", "0.125", "0", "35"], ["betteranimalsplus:flying_fish", "0.0", "0.125", "0", "36"], ["betteranimalsplus:nautilus", "0.0", "0.125", "0", "37"], ["betteranimalsplus:eel_freshwater", "0.0", "0.125", "0", "38"], ["betteranimalsplus:eel_saltwater", "0.0", "0.125", "0", "39"], ["betteranimalsplus:lamprey", "0.0", "0.125", "0", "40"], ["betteranimalsplus:piranha", "0.0", "0.125", "0", "41"], ["betteranimalsplus:barracuda", "0.0", "0.125", "0", "42"], ["rediscovered:fish", "0.0", "0.125", "0", "1"]]
-		#A list of mobs that can be ticked on client side when inside jars. Mainly used for stuff that has particles. Can cause issues and side effects so use with care
-		tickable_inside_jars = ["iceandfire:pixie", "druidcraft:dreadfish", "druidcraft:lunar_moth", "alexsmobs:hummingbird"]
+		rendering_parameters = [["minecraft:bee", "0.3125", "0.0"], ["minecraft:vex", "0.0", "0.125", "0", "FLOATING"], ["minecraft:silverfish", "0.0", "0.25"], ["minecraft:chicken", "0.25", "0.3125"], ["minecraft:endermite", "0.0", "0.0", "5"], ["minecraft:fox", "0.0", "0.2"], ["minecraft:squid", "0.25", "0.25", "0", "FLOATING"], ["minecraft:glow_squid", "0.25", "0.25", "3", "FLOATING"], ["supplementaries:firefly", "0.0", "0.0", "9", "FLOATING"], ["druidcraft:lunar_moth", "0.375", "0.1375", "10", "FLOATING"], ["iceandfire:pixie", "0.0", "0.0", "10"], ["feywild:winter_pixie", "0.125", "0.0", "8", "FLOATING"], ["feywild:summer_pixie", "0.125", "0.0", "8", "FLOATING"], ["feywild:spring_pixie", "0.125", "0.0", "8", "FLOATING"], ["feywild:autumn_pixie", "0.25", "0.0", "8", "FLOATING"], ["minecraft:fish", "0.0", "0.125", "0", "1"], ["minecraft:tropical_fish", "0.0", "0.125", "0", "2"], ["minecraft:salmon", "0.0", "0.125", "0", "3"], ["minecraft:cod", "0.0", "0.125", "0", "4"], ["minecraft:pufferfish", "0.0", "0.125", "0", "5"], ["minecraft:axolotl", "0.0", "0.125", "0", "6"], ["fins:pea_wee", "0.0", "0.125", "0", "7"], ["fins:wee_wee", "0.0", "0.125", "0", "8"], ["fins:vibra_wee", "0.0", "0.125", "0", "9"], ["fins:blu_wee", "0.0", "0.125", "0", "10"], ["fins:ornate_bugfish", "0.0", "0.125", "0", "11"], ["fins:spindly_gem_crab", "0.0", "0.125", "0", "12"], ["fins:phantom_nudibranch", "0.0", "0.125", "0", "13"], ["fins:high_finned_blue", "0.0", "0.125", "0", "14"], ["fins:teal_arrowfish", "0.0", "0.125", "0", "15"], ["fins:midnight_squid", "0.0", "0.125", "0", "16"], ["fins:banded_redback_shrimp", "0.0", "0.125", "0", "17"], ["fins:flatback_sucker", "0.0", "0.125", "0", "18"], ["fins:swamp_mucker", "0.0", "0.125", "0", "19"], ["upgrade_aquatic:lionfish", "0.0", "0.125", "0", "20"], ["upgrade_aquatic:nautilus", "0.0", "0.125", "0", "21"], ["upgrade_aquatic:pike", "0.0", "0.125", "0", "22"], ["alexsmobs:stradpole", "0.0", "0.125", "0", "23"], ["alexsmobs:blobfish", "0.0", "0.125", "0", "24"], ["unnamedanimalmod:flashlight_fish", "0.0", "0.125", "0", "25"], ["unnamedanimalmod:elephantnose_fish", "0.0", "0.125", "0", "26"], ["unnamedanimalmod:black_diamond_stingray", "0.0", "0.125", "0", "27"], ["unnamedanimalmod:humphead_parrotfish", "0.0", "0.125", "0", "28"], ["unnamedanimalmod:tomato_frog", "0.0", "0.125", "0", "29"], ["unnamedanimalmod:pacman_frog", "0.0", "0.125", "0", "30"], ["bettas:betta_fish", "0.0", "0.125", "0", "31"], ["pogfish:pogfish", "0.0", "0.125", "0", "32"], ["undergarden:gwibling", "0.0", "0.125", "0", "33"], ["environmental:koi", "0.0", "0.125", "0", "34"], ["betterendforge:end_fish", "0.0", "0.125", "0", "35"], ["betteranimalsplus:flying_fish", "0.0", "0.125", "0", "36"], ["betteranimalsplus:nautilus", "0.0", "0.125", "0", "37"], ["betteranimalsplus:eel_freshwater", "0.0", "0.125", "0", "38"], ["betteranimalsplus:eel_saltwater", "0.0", "0.125", "0", "39"], ["betteranimalsplus:lamprey", "0.0", "0.125", "0", "40"], ["betteranimalsplus:piranha", "0.0", "0.125", "0", "41"], ["betteranimalsplus:barracuda", "0.0", "0.125", "0", "42"], ["rediscovered:fish", "0.0", "0.125", "0", "1"]]
 
 	[blocks.wall_lantern]
 		#Makes wall lantern use a simple block model instead of the animated tile entity renderer. This will make them render much faster but will also remove the animation. Needs texture pack reload
@@ -130,6 +129,10 @@
 		#Display visual particles when a block is rotated
 		turn_particles = true
 
+	[blocks.speaker_block]
+		#Mute speaker block incoming narrator messages and displays them in chat instead
+		mute_narrator = false
+
 #Particle parameters
 [particles]
 
@@ -141,6 +144,13 @@
 		#Maximum age in ticks. Note that actual max age with be this + a random number between 0 and 10
 		#Range: 1 ~ 256
 		max_age = 40
+
+	#Rotation particle
+	[particles.turn_particle]
+		#An RGBA color
+		initial_color = "2a77ea"
+		#An RGBA color
+		fade_color = "32befa"
 
 #Entities parameters
 [entities]
@@ -162,7 +172,7 @@
 #General settings
 [general]
 	#Enable Quark style config button on main menu. Needs Configured installed to work
-	config_button = false
+	config_button = true
 	#Show some tooltip hints to guide players through the mod
 	tooltip_hints = true
 	#Tries to detect when the mod hasn't been downloaded from Curseforge.Set to false if you have manually changed the mod jar name
@@ -202,4 +212,12 @@
 		#How big should a slingshot projectile look
 		#Range: 0.0 ~ 1.0
 		projectile_scale = 0.5
+
+	[items.wrench]
+		#Display visual particles when a block is rotated
+		turn_particles = true
+
+	[items.flute]
+		#Display visual particles when a playing a flute
+		note_particles = true
 

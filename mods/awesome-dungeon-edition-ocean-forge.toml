@@ -1,0 +1,13 @@
+name = "Awesome Dungeon Edition Ocean - Forge"
+filename = "AwesomeDungeonOcean-Forge-1.18-2.0.3.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3605/280/AwesomeDungeonOcean-Forge-1.18-2.0.3.jar"
+hash-format = "murmur2"
+hash = "4151189750"
+
+[update]
+[update.curseforge]
+file-id = 3605280
+project-id = 556490

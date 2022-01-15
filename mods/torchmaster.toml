@@ -1,13 +1,13 @@
 name = "Torchmaster"
-filename = "torchmaster-18.0.2-beta.jar"
+filename = "torchmaster-18.0.3-beta.jar"
 side = "both"
 
 [download]
-url = "https://edge.forgecdn.net/files/3566/423/torchmaster-18.0.2-beta.jar"
+url = "https://edge.forgecdn.net/files/3601/659/torchmaster-18.0.3-beta.jar"
 hash-format = "murmur2"
-hash = "2435859900"
+hash = "3001307950"
 
 [update]
 [update.curseforge]
-file-id = 3566423
+file-id = 3601659
 project-id = 254268

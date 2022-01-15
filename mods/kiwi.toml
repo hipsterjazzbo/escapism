@@ -1,0 +1,13 @@
+name = "Kiwi 🥝 (Forge)"
+filename = "Kiwi-1.18-forge-5.2.3.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3577/626/Kiwi-1.18-forge-5.2.3.jar"
+hash-format = "murmur2"
+hash = "3578763972"
+
+[update]
+[update.curseforge]
+file-id = 3577626
+project-id = 303657

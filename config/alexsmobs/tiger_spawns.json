@@ -14,18 +14,6 @@
     ],
     [
       {
-        "type": "BIOME_DICT",
-        "negate": false,
-        "value": "overworld"
-      },
-      {
-        "type": "REGISTRY_NAME",
-        "negate": false,
-        "value": "minecraft:bamboo_jungle_hills"
-      }
-    ],
-    [
-      {
         "type": "REGISTRY_NAME",
         "negate": false,
         "value": "biomesoplenty:bamboo_blossom_grove"

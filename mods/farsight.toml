@@ -1,13 +1,13 @@
 name = "Farsight[Forge/Fabric]"
-filename = "farsight-1.18-1.5.jar"
+filename = "farsight-1.18-1.6.jar"
 side = "both"
 
 [download]
-url = "https://edge.forgecdn.net/files/3548/746/farsight-1.18-1.5.jar"
+url = "https://edge.forgecdn.net/files/3604/395/farsight-1.18-1.6.jar"
 hash-format = "murmur2"
-hash = "3472087955"
+hash = "879254218"
 
 [update]
 [update.curseforge]
-file-id = 3548746
+file-id = 3604395
 project-id = 495693

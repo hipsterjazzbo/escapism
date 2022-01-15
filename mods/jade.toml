@@ -1,13 +1,13 @@
 name = "Jade 🔍"
-filename = "Jade-1.18-4.1.0.jar"
+filename = "Jade-1.18-4.1.1.jar"
 side = "both"
 
 [download]
-url = "https://edge.forgecdn.net/files/3564/963/Jade-1.18-4.1.0.jar"
+url = "https://edge.forgecdn.net/files/3597/113/Jade-1.18-4.1.1.jar"
 hash-format = "murmur2"
-hash = "2639870210"
+hash = "1159267320"
 
 [update]
 [update.curseforge]
-file-id = 3564963
+file-id = 3597113
 project-id = 324717

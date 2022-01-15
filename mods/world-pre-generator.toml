@@ -1,0 +1,13 @@
+name = "World Pre Generator"
+filename = "WorldPreGenerator-1.18.1-2.0.1.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3606/339/WorldPreGenerator-1.18.1-2.0.1.jar"
+hash-format = "murmur2"
+hash = "2226315866"
+
+[update]
+[update.curseforge]
+file-id = 3606339
+project-id = 388157

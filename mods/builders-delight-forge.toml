@@ -1,0 +1,13 @@
+name = "Builder's Delight (Forge)"
+filename = "BuildersDelight-Forge.1.18.1.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3591/365/BuildersDelight-Forge.1.18.1.jar"
+hash-format = "murmur2"
+hash = "3815160127"
+
+[update]
+[update.curseforge]
+file-id = 3591365
+project-id = 563734

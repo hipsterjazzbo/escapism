@@ -1,13 +1,13 @@
 name = "Supplementaries"
-filename = "supplementaries-1.18.1-1.1.5.jar"
+filename = "supplementaries-1.18.1-1.1.8.jar"
 side = "both"
 
 [download]
-url = "https://edge.forgecdn.net/files/3593/38/supplementaries-1.18.1-1.1.5.jar"
+url = "https://edge.forgecdn.net/files/3603/148/supplementaries-1.18.1-1.1.8.jar"
 hash-format = "murmur2"
-hash = "2033020078"
+hash = "2397069532"
 
 [update]
 [update.curseforge]
-file-id = 3593038
+file-id = 3603148
 project-id = 412082

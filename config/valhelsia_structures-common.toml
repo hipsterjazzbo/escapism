@@ -8,7 +8,7 @@
 		#Dimensions in which Structures can NOT generate in
 		blacklisted_dimensions = []
 		#Biomes in which Structures can NOT generate in
-		blacklisted_biomes = ["minecraft:ocean", "minecraft:river", "minecraft:frozen_ocean", "minecraft:frozen_river", "minecraft:beach", "minecraft:deep_ocean", "minecraft:snowy_beach", "minecraft:warm_ocean", "minecraft:lukewarm_ocean", "minecraft:cold_ocean", "minecraft:deep_warm_ocean", "minecraft:deep_lukewarm_ocean", "minecraft:deep_cold_ocean", "minecraft:deep_frozen_ocean"]
+		blacklisted_biomes = ["minecraft:river", "minecraft:frozen_river", "minecraft:beach", "minecraft:snowy_beach", "minecraft:stony_shore", "minecraft:warm_ocean", "minecraft:lukewarm_ocean", "minecraft:deep_lukewarm_ocean", "minecraft:ocean", "minecraft:deep_ocean", "minecraft:cold_ocean", "minecraft:deep_cold_ocean", "minecraft:frozen_ocean", "minecraft:deep_frozen_ocean"]
 
 	[structures.castle]
 		#Generate? [default: true]
@@ -23,7 +23,7 @@
 		#Range: 0 ~ 200
 		separation = 8
 		#Biome Categories the structure can generate in 
-		#Allowed Values: [none, taiga, extreme_hills, jungle, mesa, plains, savanna, icy, theend, beach, forest, ocean, desert, river, swamp, mushroom, nether]
+		#Allowed Values: [none, taiga, extreme_hills, jungle, mesa, plains, savanna, icy, theend, beach, forest, ocean, desert, river, swamp, mushroom, nether, underground, mountain]
 		biome_categories = ["plains", "forest", "taiga"]
 		#Dimensions the structure can NOT generate in
 		blacklisted_dimensions = []
@@ -43,7 +43,7 @@
 		#Range: 0 ~ 200
 		separation = 8
 		#Biome Categories the structure can generate in 
-		#Allowed Values: [none, taiga, extreme_hills, jungle, mesa, plains, savanna, icy, theend, beach, forest, ocean, desert, river, swamp, mushroom, nether]
+		#Allowed Values: [none, taiga, extreme_hills, jungle, mesa, plains, savanna, icy, theend, beach, forest, ocean, desert, river, swamp, mushroom, nether, underground, mountain]
 		biome_categories = ["plains", "forest", "taiga"]
 		#Dimensions the structure can NOT generate in
 		blacklisted_dimensions = []
@@ -63,7 +63,7 @@
 		#Range: 0 ~ 200
 		separation = 8
 		#Biome Categories the structure can generate in 
-		#Allowed Values: [none, taiga, extreme_hills, jungle, mesa, plains, savanna, icy, theend, beach, forest, ocean, desert, river, swamp, mushroom, nether]
+		#Allowed Values: [none, taiga, extreme_hills, jungle, mesa, plains, savanna, icy, theend, beach, forest, ocean, desert, river, swamp, mushroom, nether, underground, mountain]
 		biome_categories = ["desert"]
 		#Dimensions the structure can NOT generate in
 		blacklisted_dimensions = []
@@ -83,7 +83,7 @@
 		#Range: 0 ~ 200
 		separation = 8
 		#Biome Categories the structure can generate in 
-		#Allowed Values: [none, taiga, extreme_hills, jungle, mesa, plains, savanna, icy, theend, beach, forest, ocean, desert, river, swamp, mushroom, nether]
+		#Allowed Values: [none, taiga, extreme_hills, jungle, mesa, plains, savanna, icy, theend, beach, forest, ocean, desert, river, swamp, mushroom, nether, underground, mountain]
 		biome_categories = ["plains", "forest", "extreme_hills", "taiga"]
 		#Dimensions the structure can NOT generate in
 		blacklisted_dimensions = []
@@ -103,7 +103,7 @@
 		#Range: 0 ~ 200
 		separation = 8
 		#Biome Categories the structure can generate in 
-		#Allowed Values: [none, taiga, extreme_hills, jungle, mesa, plains, savanna, icy, theend, beach, forest, ocean, desert, river, swamp, mushroom, nether]
+		#Allowed Values: [none, taiga, extreme_hills, jungle, mesa, plains, savanna, icy, theend, beach, forest, ocean, desert, river, swamp, mushroom, nether, underground, mountain]
 		biome_categories = ["plains", "forest", "extreme_hills", "taiga"]
 		#Dimensions the structure can NOT generate in
 		blacklisted_dimensions = []
@@ -123,7 +123,7 @@
 		#Range: 0 ~ 200
 		separation = 8
 		#Biome Categories the structure can generate in 
-		#Allowed Values: [none, taiga, extreme_hills, jungle, mesa, plains, savanna, icy, theend, beach, forest, ocean, desert, river, swamp, mushroom, nether]
+		#Allowed Values: [none, taiga, extreme_hills, jungle, mesa, plains, savanna, icy, theend, beach, forest, ocean, desert, river, swamp, mushroom, nether, underground, mountain]
 		biome_categories = ["plains", "forest", "extreme_hills", "taiga", "desert", "mesa", "savanna", "jungle", "icy", "swamp", "mushroom"]
 		#Dimensions the structure can NOT generate in
 		blacklisted_dimensions = []
@@ -143,7 +143,7 @@
 		#Range: 0 ~ 200
 		separation = 8
 		#Biome Categories the structure can generate in 
-		#Allowed Values: [none, taiga, extreme_hills, jungle, mesa, plains, savanna, icy, theend, beach, forest, ocean, desert, river, swamp, mushroom, nether]
+		#Allowed Values: [none, taiga, extreme_hills, jungle, mesa, plains, savanna, icy, theend, beach, forest, ocean, desert, river, swamp, mushroom, nether, underground, mountain]
 		biome_categories = ["plains", "forest", "extreme_hills", "taiga"]
 		#Dimensions the structure can NOT generate in
 		blacklisted_dimensions = []
@@ -163,7 +163,7 @@
 		#Range: 0 ~ 200
 		separation = 7
 		#Biome Categories the structure can generate in 
-		#Allowed Values: [none, taiga, extreme_hills, jungle, mesa, plains, savanna, icy, theend, beach, forest, ocean, desert, river, swamp, mushroom, nether]
+		#Allowed Values: [none, taiga, extreme_hills, jungle, mesa, plains, savanna, icy, theend, beach, forest, ocean, desert, river, swamp, mushroom, nether, underground, mountain]
 		biome_categories = ["swamp"]
 		#Dimensions the structure can NOT generate in
 		blacklisted_dimensions = []
@@ -183,7 +183,7 @@
 		#Range: 0 ~ 200
 		separation = 8
 		#Biome Categories the structure can generate in 
-		#Allowed Values: [none, taiga, extreme_hills, jungle, mesa, plains, savanna, icy, theend, beach, forest, ocean, desert, river, swamp, mushroom, nether]
+		#Allowed Values: [none, taiga, extreme_hills, jungle, mesa, plains, savanna, icy, theend, beach, forest, ocean, desert, river, swamp, mushroom, nether, underground, mountain]
 		biome_categories = ["plains", "forest"]
 		#Dimensions the structure can NOT generate in
 		blacklisted_dimensions = []

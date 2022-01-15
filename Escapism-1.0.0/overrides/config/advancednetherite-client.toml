@@ -1,5 +1,0 @@
-
-[client]
-	#If true, displays tooltips, added by Advanced Netherite, with perks client-side. True by default.
-	showTooltips = true
-

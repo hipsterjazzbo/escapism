@@ -1,13 +1,13 @@
 name = "Lootr"
-filename = "lootr-1.18-0.0.12.38.jar"
+filename = "lootr-1.18-0.1.13.40.jar"
 side = "both"
 
 [download]
-url = "https://edge.forgecdn.net/files/3590/423/lootr-1.18-0.0.12.38.jar"
+url = "https://edge.forgecdn.net/files/3597/849/lootr-1.18-0.1.13.40.jar"
 hash-format = "murmur2"
-hash = "770456809"
+hash = "1615513881"
 
 [update]
 [update.curseforge]
-file-id = 3590423
+file-id = 3597849
 project-id = 361276
