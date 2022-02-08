@@ -1,13 +1,13 @@
 name = "Advanced Hook Launchers"
-filename = "AdHooks-1.18.1-7.0.0.0-build.0041.jar"
+filename = "AdHooks-1.18.1-7.0.0.1-build.0050.jar"
 side = "both"
 
 [download]
-url = "https://edge.forgecdn.net/files/3577/72/AdHooks-1.18.1-7.0.0.0-build.0041.jar"
+url = "https://edge.forgecdn.net/files/3617/141/AdHooks-1.18.1-7.0.0.1-build.0050.jar"
 hash-format = "murmur2"
-hash = "4209042601"
+hash = "3127095178"
 
 [update]
 [update.curseforge]
-file-id = 3577072
+file-id = 3617141
 project-id = 244849

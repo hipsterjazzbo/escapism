@@ -1,13 +1,13 @@
 name = "Valhelsia Structures"
-filename = "valhelsia_structures-1.18.1-0.1.0.jar"
+filename = "valhelsia_structures-1.18.1-0.1.1.jar"
 side = "both"
 
 [download]
-url = "https://edge.forgecdn.net/files/3575/873/valhelsia_structures-1.18.1-0.1.0.jar"
+url = "https://edge.forgecdn.net/files/3625/421/valhelsia_structures-1.18.1-0.1.1.jar"
 hash-format = "murmur2"
-hash = "2307989658"
+hash = "1391925645"
 
 [update]
 [update.curseforge]
-file-id = 3575873
+file-id = 3625421
 project-id = 347488

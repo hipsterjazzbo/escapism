@@ -1,0 +1,13 @@
+name = "Create Deco"
+filename = "createdeco-1.2.5-1.18.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3634/963/createdeco-1.2.5-1.18.jar"
+hash-format = "murmur2"
+hash = "113371609"
+
+[update]
+[update.curseforge]
+file-id = 3634963
+project-id = 509285

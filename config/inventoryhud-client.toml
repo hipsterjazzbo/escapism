@@ -9,7 +9,7 @@
 	#Range: 0 ~ 100
 	invAlpha = 0
 	#Toggle on by default
-	byDefault = true
+	byDefault = false
 	#Animate recently picked up items
 	animatedInv = false
 	#Hide background if inventory is empty
@@ -29,20 +29,20 @@
 	#Show/Hide armor
 	showOff = true
 	#Show/Hide armor
-	showArrows = true
+	showArrows = false
 	#Show/Hide armor
-	showInv = true
+	showInv = false
 	#Armor HUD durability view (PERCENTAGE, DAMAGE, DAMAGE LEFT)
 	#Allowed Values: PERCENTAGE, DAMAGE, DAMAGE_LEFT, OFF
 	armView = "PERCENTAGE"
 	#Show item durability bar
 	armBars = false
 	#Move all items at once or each one
-	moveAll = true
+	moveAll = false
 	#Show/Hide empty slot icon
 	showEmpty = true
 	#Show overall count of items in main/off hand
-	showCount = false
+	showCount = true
 	#ArmorHUD scale in persentage from 50 to 150
 	#Range: 50 ~ 150
 	armScale = 100
@@ -69,7 +69,7 @@
 [positions]
 	#Inventory HUD vertical align
 	#Allowed Values: TOP, CENTER, BOTTOM
-	invValign = "BOTTOM"
+	invValign = "CENTER"
 	#Inventory HUD horizontal align
 	#Allowed Values: LEFT, MIDDLE, RIGHT
 	invHalign = "MIDDLE"
@@ -78,7 +78,7 @@
 	xPos = 0
 	#Inventory HUD position (Y)
 	#Range: -9999 ~ 9999
-	yPos = 150
+	yPos = 0
 	#Armor HUD vertical align
 	#Allowed Values: TOP, CENTER, BOTTOM
 	armValign = "BOTTOM"
@@ -108,46 +108,46 @@
 	helmPosX = 103
 	#Helmet position (Y)
 	#Range: -9999 ~ 9999
-	helmPosY = 54
+	helmPosY = 37
 	#Chestplate position (X)
 	#Range: -9999 ~ 9999
 	chestPosX = 103
 	#Chestplate position (Y)
 	#Range: -9999 ~ 9999
-	chestPosY = 37
+	chestPosY = 20
 	#Leggings position (X)
 	#Range: -9999 ~ 9999
 	legPosX = -103
 	#Leggings position (Y)
 	#Range: -9999 ~ 9999
-	legPosY = 54
+	legPosY = 37
 	#Boots position (X)
 	#Range: -9999 ~ 9999
 	bootPosX = -103
 	#Boots position (Y)
 	#Range: -9999 ~ 9999
-	bootPosY = 37
+	bootPosY = 20
 	#MainHand position (X)
 	#Range: -9999 ~ 9999
 	mainPosX = 103
 	#MainHand position (Y)
 	#Range: -9999 ~ 9999
-	mainPosY = 71
+	mainPosY = 54
 	#OffHand position (X)
 	#Range: -9999 ~ 9999
 	offPosX = -103
 	#OffHand position (Y)
 	#Range: -9999 ~ 9999
-	offPosY = 71
+	offPosY = 54
 	#Arrows position (X)
 	#Range: -9999 ~ 9999
-	arrPosX = 103
+	arrPosX = 119
 	#Arrows position (Y)
 	#Range: -9999 ~ 9999
 	arrPosY = 20
 	#InvIcon position (X)
 	#Range: -9999 ~ 9999
-	invPosX = -103
+	invPosX = -120
 	#InvIcon position (Y)
 	#Range: -9999 ~ 9999
 	invPosY = 20

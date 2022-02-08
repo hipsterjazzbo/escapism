@@ -1,13 +1,13 @@
 name = "Corpse"
-filename = "corpse-1.18.1-1.0.2.jar"
+filename = "corpse-1.18.1-1.0.4.jar"
 side = "both"
 
 [download]
-url = "https://edge.forgecdn.net/files/3602/236/corpse-1.18.1-1.0.2.jar"
+url = "https://edge.forgecdn.net/files/3625/679/corpse-1.18.1-1.0.4.jar"
 hash-format = "murmur2"
-hash = "3801135408"
+hash = "2316133882"
 
 [update]
 [update.curseforge]
-file-id = 3602236
+file-id = 3625679
 project-id = 316582

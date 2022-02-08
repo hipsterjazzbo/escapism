@@ -1,0 +1,13 @@
+name = "Ars Creo"
+filename = "ars_creo-1.18.1-1.0.0-BETA1.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3634/391/ars_creo-1.18.1-1.0.0-BETA1.jar"
+hash-format = "murmur2"
+hash = "3887183761"
+
+[update]
+[update.curseforge]
+file-id = 3634391
+project-id = 575698

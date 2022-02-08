@@ -1,0 +1,13 @@
+name = "Visuality"
+filename = "visuality-0.4.0-1.18-forge.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/rI0hvYcd/versions/0.4.0-1.18-forge/visuality-0.4.0-1.18-forge.jar"
+hash-format = "sha512"
+hash = "b6183a6961777b781de36a8a2300cf0323c7b94f90a1004b245d5972db81a7f7b94008ad79e9f7fac7ad28011cb071e6ed8dfe6749f1d449a8a6efda19d50464"
+
+[update]
+[update.modrinth]
+mod-id = "rI0hvYcd"
+version = "brba0Ce5"

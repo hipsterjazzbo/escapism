@@ -1,13 +1,13 @@
 name = "Collective (Forge)"
-filename = "collective-1.18.1-3.8.jar"
+filename = "collective-1.18.1-4.0.jar"
 side = "both"
 
 [download]
-url = "https://edge.forgecdn.net/files/3559/339/collective-1.18.1-3.8.jar"
+url = "https://edge.forgecdn.net/files/3636/568/collective-1.18.1-4.0.jar"
 hash-format = "murmur2"
-hash = "489800676"
+hash = "345120665"
 
 [update]
 [update.curseforge]
-file-id = 3559339
+file-id = 3636568
 project-id = 342584

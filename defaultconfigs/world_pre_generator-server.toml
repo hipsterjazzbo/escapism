@@ -13,7 +13,7 @@ send_feedback = true
 #Parameters for the parallel generation of several chunks
 [parallel]
 	#Should the chunks be generated in parallel?
-	enabled = false
+	enabled = true
 	#How many chunk generation shall run in parallel? If the value is "0", the number of processor cores is used.
 	#Range: > 0
 	count = 0

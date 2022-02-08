@@ -1,13 +1,13 @@
 name = "Save Your Pets"
-filename = "SaveYourPets-1.18-1.0.0.6.jar"
+filename = "SaveYourPets-1.18-1.0.0.7.jar"
 side = "both"
 
 [download]
-url = "https://edge.forgecdn.net/files/3543/192/SaveYourPets-1.18-1.0.0.6.jar"
+url = "https://edge.forgecdn.net/files/3626/457/SaveYourPets-1.18-1.0.0.7.jar"
 hash-format = "murmur2"
-hash = "1029397687"
+hash = "1661295507"
 
 [update]
 [update.curseforge]
-file-id = 3543192
+file-id = 3626457
 project-id = 396019

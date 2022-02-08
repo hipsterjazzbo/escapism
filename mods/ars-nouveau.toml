@@ -1,0 +1,13 @@
+name = "Ars Nouveau"
+filename = "ars_nouveau-1.18.1-2.2.2.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3635/656/ars_nouveau-1.18.1-2.2.2.jar"
+hash-format = "murmur2"
+hash = "3521365008"
+
+[update]
+[update.curseforge]
+file-id = 3635656
+project-id = 401955

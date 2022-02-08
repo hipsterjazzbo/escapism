@@ -10,7 +10,7 @@
 	minimumBaseXpCost = 0.0
 	#The maximum base xp cost (may be exceeded by multipliers defined below), set to 0 to disable all distance-based XP costs
 	#Range: -1.7976931348623157E308 ~ 1.7976931348623157E308
-	maximumBaseXpCost = 3.0
+	maximumBaseXpCost = 0.0
 	#How much xp is needed per leashed animal to travel with you
 	#Range: > -2147483648
 	xpCostPerLeashed = 1
@@ -62,7 +62,7 @@
 	#Set to true if players should be able to teleport between waystones by simply right-clicking a waystone.
 	allowWaystoneToWaystoneTeleport = true
 	#Set to false to allow non-creative players to make waystones globally activated for all players.
-	globalWaystoneSetupRequiresCreativeMode = true
+	globalWaystoneSetupRequiresCreativeMode = false
 
 [cooldowns]
 	#The multiplier applied to the cooldown when teleporting to a global waystone via inventory button or warp stone.

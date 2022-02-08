@@ -1,0 +1,13 @@
+name = "CaveTweaks"
+filename = "Cave_Tweaks_v1.2_Forge.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3615/9/Cave_Tweaks_v1.2_Forge.jar"
+hash-format = "murmur2"
+hash = "1783552573"
+
+[update]
+[update.curseforge]
+file-id = 3615009
+project-id = 567086

@@ -1,0 +1,13 @@
+name = "Architect's Palette"
+filename = "Architects-Palette-1.18.1-1.1.1.1.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3636/989/Architects-Palette-1.18.1-1.1.1.1.jar"
+hash-format = "murmur2"
+hash = "441836813"
+
+[update]
+[update.curseforge]
+file-id = 3636989
+project-id = 433862

@@ -1,0 +1,13 @@
+name = "Better Azalea"
+filename = "azalea-FORGE-3.1.1.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3621/119/azalea-FORGE-3.1.1.jar"
+hash-format = "murmur2"
+hash = "8697273"
+
+[update]
+[update.curseforge]
+file-id = 3621119
+project-id = 517564
