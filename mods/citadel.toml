@@ -1,13 +1,13 @@
 name = "Citadel"
-filename = "citadel-1.10.8-1.18.jar"
+filename = "citadel-1.10.9-1.18.jar"
 side = "both"
 
 [download]
-url = "https://edge.forgecdn.net/files/3584/733/citadel-1.10.8-1.18.jar"
+url = "https://edge.forgecdn.net/files/3642/356/citadel-1.10.9-1.18.jar"
 hash-format = "murmur2"
-hash = "2120254246"
+hash = "1528371995"
 
 [update]
 [update.curseforge]
-file-id = 3584733
+file-id = 3642356
 project-id = 331936

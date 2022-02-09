@@ -1,0 +1,13 @@
+name = "Map Atlases [Forge]"
+filename = "Map Atlases-forge-1.18.1-2.0.0.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3641/38/Map Atlases-forge-1.18.1-2.0.0.jar"
+hash-format = "murmur2"
+hash = "2844416007"
+
+[update]
+[update.curseforge]
+file-id = 3641038
+project-id = 519759

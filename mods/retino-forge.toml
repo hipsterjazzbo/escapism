@@ -1,0 +1,13 @@
+name = "Mac Half Retina Display (RetiNO Forge)"
+filename = "retinoforge-1.0.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3594/615/retinoforge-1.0.jar"
+hash-format = "murmur2"
+hash = "606546745"
+
+[update]
+[update.curseforge]
+file-id = 3594615
+project-id = 564598

@@ -165,6 +165,10 @@ file = "config/advancednetherite-common.toml"
 hash = "1c0598310aedffbbc2f00c60d5a0b829cd8c176a09df2381371053e47972ec05"
 
 [[files]]
+file = "config/akashictome-common.toml"
+hash = "a197cd2e67a3fc76c2b17264290ec22d9dcac4d7932ebb4e60722d9ba2ecfd55"
+
+[[files]]
 file = "config/alexsmobs.toml"
 hash = "dcaf7d0b11244d9c0288612ed214e6c42830870d7220de87fb8b03b60bd01e58"
 
@@ -1141,6 +1145,10 @@ file = "config/solcarrot-client.toml"
 hash = "90b11bf7fe7bbf30c05728f2d4bdc51d49138c30359feb6261c6e7f5f04245ee"
 
 [[files]]
+file = "config/starterkit/starterkit.txt"
+hash = "b163851ca87353d1a57938688d8ae9dd039c7ebe525918fc90861a4f4b648a85"
+
+[[files]]
 file = "config/storagedrawers-client.toml"
 hash = "408d6e9ab08e514d6d1e72aaf818afe26a62cf379057c203db0176c96af4d9ad"
 
@@ -1280,6 +1288,11 @@ hash = "782a372701161044f4c21f681cf54fd98cc7d1bfc112deac7922310a3c7414b1"
 metafile = true
 
 [[files]]
+file = "mods/akashic-tome.toml"
+hash = "7d61f5067cc7d7beae20c5d71be97f496149015ba67586dc6389e8bfa2369860"
+metafile = true
+
+[[files]]
 file = "mods/alexs-mobs.toml"
 hash = "ce81f9ad3151b24650660b733926c43c73e092862af4455425aac10ac0013c13"
 metafile = true
@@ -1306,7 +1319,7 @@ metafile = true
 
 [[files]]
 file = "mods/architects-palette.toml"
-hash = "e794a755b01e678a9181291c858da8b7e72f204629b27b73b126796fb8a5c89e"
+hash = "ec6e34ba8ed25eb8449bc209925248cacc4591b29e9e1fee7e438dbf0c8852ba"
 metafile = true
 
 [[files]]
@@ -1331,7 +1344,7 @@ metafile = true
 
 [[files]]
 file = "mods/autoreglib.toml"
-hash = "8004ed31e93fb94875533da2f8e6d546907bcbe78e179b0f9542508f70f8f333"
+hash = "aacd31ac9e9e1b48b684ec97e21901c85799cec3e132803f16d0ae5ced247125"
 metafile = true
 
 [[files]]
@@ -1371,12 +1384,12 @@ metafile = true
 
 [[files]]
 file = "mods/blueprint.toml"
-hash = "c084200c134c68b104bad42f95d968bf7e0fcb8ddaa988b19019de563846ffe6"
+hash = "32bd982e9bf9b4af7ebbf49a8a66c0bc12414e89a36c402230193752dfea1472"
 metafile = true
 
 [[files]]
 file = "mods/brb.toml"
-hash = "f563c4b5dc9d5d8d8d62c1e7d08c6d6e2da0ac522b7a2b4a193e5c919b1412aa"
+hash = "6a6a1363a6aade690f209f0d4eb3b917e7a95e080755b3ac272bf10a6aacb65c"
 metafile = true
 
 [[files]]
@@ -1426,17 +1439,17 @@ metafile = true
 
 [[files]]
 file = "mods/citadel.toml"
-hash = "e7a53757a7c960cd9558c32c863b94f264c5c7e1038c63a4f0090bc0a62483a2"
+hash = "0096c1d58336425ebd1c2d1343e098db33a5df6152b2e480035b32dab6564608"
 metafile = true
 
 [[files]]
 file = "mods/clickable-advancements.toml"
-hash = "df911b98d5890cda443d2b3de2ba758c24ce28ee84b2d0f46b85aabad5c16475"
+hash = "a0fb9300e488c5b93f02cdd05abe2e62f0dc243ba36fb4be18cc4a05ccd1cbab"
 metafile = true
 
 [[files]]
 file = "mods/cloth-config-forge.toml"
-hash = "1a2e27e1a8cbee1a4190f10c655496c8f98e7de8156c98269bdff3e4773dca04"
+hash = "226a1edff5965630009cd111fcf326f7bc6889fe1d2c8db8e9280bc69fe10ef9"
 metafile = true
 
 [[files]]
@@ -1461,7 +1474,7 @@ metafile = true
 
 [[files]]
 file = "mods/configured.toml"
-hash = "4f51533164820143a716426e392addf319b3deed63a794bf102b8a43caa7b624"
+hash = "2ce35628fcba7b740cd991c80a678610a5d31fd269c9bd78658f634077c0b2c9"
 metafile = true
 
 [[files]]
@@ -1631,7 +1644,7 @@ metafile = true
 
 [[files]]
 file = "mods/jei.toml"
-hash = "3811539823f3dee9aa65ee30c3f2c1c30b88ac394c70cb25486435c13145e981"
+hash = "df788b6d2faf95694bfbcc89938bc63e98ea192d13994d0e833b6799c1366333"
 metafile = true
 
 [[files]]
@@ -1695,6 +1708,11 @@ hash = "fd936ed0fb6054be671ed2e6ae8c56884871ed4469e241a0089b1923ec82986c"
 metafile = true
 
 [[files]]
+file = "mods/map-atlases-forge.toml"
+hash = "8191df6d2048ef2c58eb99c2435e6185135e23319c926259d6fff7bb0a8c189e"
+metafile = true
+
+[[files]]
 file = "mods/mouse-tweaks.toml"
 hash = "5a3d708bcbc76a60f79548a795b73d73c698c39249eba521aacebc9b3b49dcd2"
 metafile = true
@@ -1731,12 +1749,12 @@ metafile = true
 
 [[files]]
 file = "mods/placebo.toml"
-hash = "aa09eb1618788c06c0a83d6020e3f7712b9de5d0ce5dd10939cf08b9d59d09d7"
+hash = "1abacd6a1330542fa0122ba2eb22383b6974d260b1d205c2e2b449ea9cf192a6"
 metafile = true
 
 [[files]]
 file = "mods/polymorph.toml"
-hash = "05c1d81f833fec02b2cfaba730291aeaa563d082e7c77b33c7096a8adb4c7c98"
+hash = "82fa7aa82442c50bacc3e3935375fd147152af62061d4ba565b04605d8b3874d"
 metafile = true
 
 [[files]]
@@ -1762,6 +1780,11 @@ metafile = true
 [[files]]
 file = "mods/repurposed-structures.toml"
 hash = "4b648def455d8c6309c41e636a0062cab88c893d06315cc411ac74905cffe391"
+metafile = true
+
+[[files]]
+file = "mods/retino-forge.toml"
+hash = "6d867ed691c3f308a69d1037c02a8a78cb9cf778aa68e92fbfc031f1fc76f110"
 metafile = true
 
 [[files]]
@@ -1791,12 +1814,17 @@ metafile = true
 
 [[files]]
 file = "mods/snow-under-trees.toml"
-hash = "2427925315bd16705276a1f0540820973da80c48c02f2820f8b47fe922d6f0d6"
+hash = "34dd274fa235f86b280d4a0d5a9583176f2b571b8ac85ed4e69d87e6e03e80fa"
 metafile = true
 
 [[files]]
 file = "mods/spice-of-life-carrot-edition.toml"
 hash = "8f527dab862efac0668f46877feceec0badb2257e93a65c63458d533e0844bad"
+metafile = true
+
+[[files]]
+file = "mods/starter-kit.toml"
+hash = "8d4cb6a2436d9c8014ca963dcec440c19fd0a3247e9d4e7211d6a776e24e9e3b"
 metafile = true
 
 [[files]]
@@ -1831,7 +1859,7 @@ metafile = true
 
 [[files]]
 file = "mods/toast-control.toml"
-hash = "46279aff2fa2e58356e1ef2e908ab43f2ded8326702637a5a71bf343657f6320"
+hash = "faef453d5125cae96a3f7190b21c0ea67073b83387aa52c56eb51e15c4329a2f"
 metafile = true
 
 [[files]]
@@ -1860,8 +1888,8 @@ hash = "177d71c33eb8598899423a8a1b1ec4314db92a47cde5e82961605087d40e3681"
 metafile = true
 
 [[files]]
-file = "mods/visuality.toml"
-hash = "9cbbecca4337409deef2633acbfb5074a707a0e5d5c4acd3b78f1a44a32acb9f"
+file = "mods/visuality-forge.toml"
+hash = "64805522b21526f429eb128569898a8a056a975369f3d560e956846a47d6573c"
 metafile = true
 
 [[files]]
