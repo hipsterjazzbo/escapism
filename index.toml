@@ -1,14 +1,6 @@
 hash-format = "sha256"
 
 [[files]]
-file = "ServerStart.bat"
-hash = "68cf4dddf234b23906251c2c26e991e25f47fa9885f6467eb38eb2fbd2f00e38"
-
-[[files]]
-file = "ServerStart.sh"
-hash = "9740d675d0e87ea0fc3a3ba543b36f03121b8409449ef25bc8706033a220331f"
-
-[[files]]
 file = "config/InventoryHUD/curios.json"
 hash = "d70c10327431d16cf102ca10495b151dd5545efc2fdf77b0804fe36abe891ac5"
 
@@ -1801,7 +1793,3 @@ metafile = true
 file = "mods/world-pre-generator.toml"
 hash = "c6d8675475cbda4acdcf28f17c6b8f8e018e5ffd1e33d371998d1550bfdb6027"
 metafile = true
-
-[[files]]
-file = "settings.cfg"
-hash = "25c263e66741f1f54e1384c91950691304ed7973bcb5dc49efa6c94b7ae7728c"
