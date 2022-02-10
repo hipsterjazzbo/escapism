@@ -857,6 +857,10 @@ file = "config/healingcampfire-common.toml"
 hash = "e15bf1087f90a368393a1915c62a809e657cd4d2cff33619ffc451a2d37895c2"
 
 [[files]]
+file = "config/hourglass-client.toml"
+hash = "1d00dc6e695663622b7b669f5d86322d57f8e66b8821b47ecb0156c0118faab1"
+
+[[files]]
 file = "config/inventoryhud-client.toml"
 hash = "01a13960ffc32c01ace56b1772a61af9bbb7faec041c207085462bce1c3ba587"
 
@@ -1147,6 +1151,10 @@ hash = "99c98c95f32a6e9e57ca70b103681d6252888339ac0fe9957c628deb16aaffb1"
 [[files]]
 file = "defaultconfigs/forge-server.toml"
 hash = "af19109932cf7774ea706e5a20ace018573d794729a639655abca862df398d23"
+
+[[files]]
+file = "defaultconfigs/hourglass-server.toml"
+hash = "8b16a1303d82965792d331cb9a7d06deff3943e73b61c1b2b5e6e5ded949dbe1"
 
 [[files]]
 file = "defaultconfigs/pipez-server.toml"
@@ -1522,6 +1530,11 @@ metafile = true
 [[files]]
 file = "mods/healing-campfire.toml"
 hash = "5bf4bf85e0d4e21df02febebf8899aba683f2768a1c02f0073c13d0b17181d56"
+metafile = true
+
+[[files]]
+file = "mods/hourglass.toml"
+hash = "d5a6e59e071b4ce69f0329a5dfdb6e4fe35890b0420edbaf5f8c3b79b0ca6ff3"
 metafile = true
 
 [[files]]
