@@ -1,112 +1,12 @@
 hash-format = "sha256"
 
 [[files]]
-file = "__kubejs/README.txt"
-hash = "35e3c6ff70236e1bb6bf1f12fdbabc9a3e9941cb4e3c3567b5c697d34b210b36"
+file = "ServerStart.bat"
+hash = "68cf4dddf234b23906251c2c26e991e25f47fa9885f6467eb38eb2fbd2f00e38"
 
 [[files]]
-file = "__kubejs/assets/kubejs/textures/block/example_block.png"
-hash = "783d78bd1ee61d3b32273670dff9d82c34cd74c5ae899a10f104f473828d5bbc"
-
-[[files]]
-file = "__kubejs/assets/kubejs/textures/item/example_item.png"
-hash = "45a5f56eba6066ad05c70988a32b72c50cfeb6e35857739bd582007011ea002b"
-
-[[files]]
-file = "__kubejs/client_scripts/jei_additions.js"
-hash = "6c9c06ed65b1a222d4e3d135b8ea1d7c805255adac7a2bfb4269d1df75a99bf1"
-
-[[files]]
-file = "__kubejs/client_scripts/jei_removals.js"
-hash = "bf38c7acbd5d410f984f39903ef8bb97430602eccb98d3e90a73eec940068b5b"
-
-[[files]]
-file = "__kubejs/config/client.properties"
-hash = "6fb9fb555cc40b6b896bcd0004598482284389b16f3cad1e0b7cff0f512ad1bb"
-
-[[files]]
-file = "__kubejs/config/common.properties"
-hash = "5e0ea18abea9a1501d2508e9b487bc364205684cd5a584cf9259edb167815862"
-
-[[files]]
-file = "__kubejs/data/tconstruct/materials/definition/copper.json"
-hash = "6aff4900a6633ed4fcb2be4d2fc5e8c029b2eaa85ecf7365e9e34c38ec6f31df"
-
-[[files]]
-file = "__kubejs/data/tconstruct/materials/definition/lead.json"
-hash = "f1396ebc561b095d6135d3d586ba42b1f77ef1d18e3e08843848573ec33958d1"
-
-[[files]]
-file = "__kubejs/data/tconstruct/materials/definition/silver.json"
-hash = "65013fe289705308cbbdded15c6c3d77cf4c6f7aefffa2d0a8430792779914ff"
-
-[[files]]
-file = "__kubejs/exported/tags/blocks.txt"
-hash = "de34565e9d432e0082d8c0a0c7aa5823de52c2ccfb530dda86e50703558e1db3"
-
-[[files]]
-file = "__kubejs/exported/tags/enchantments.txt"
-hash = "f5c3d9f5d7e929a0cdf8f63c5577bef94d9d4397200ed844692271831aa11aa9"
-
-[[files]]
-file = "__kubejs/exported/tags/entity_types.txt"
-hash = "f6f3ba378252aed762260a56d84218c22aeb90fff40dfa60308ce13af36ed61a"
-
-[[files]]
-file = "__kubejs/exported/tags/fluids.txt"
-hash = "11e31a251663a50942214c65f9e2a781abc5ca02a5967d0856ed7463770e01c1"
-
-[[files]]
-file = "__kubejs/exported/tags/functions.txt"
-hash = "b3a6983dda21f212542445c6556f5679a767f9b50fc4ebf083161cccae70dbcf"
-
-[[files]]
-file = "__kubejs/exported/tags/items.txt"
-hash = "be3b562440cb28114d0c12718c53ea7bbe3536d0490ac4da2781414b8bbebcd7"
-
-[[files]]
-file = "__kubejs/exported/tags/potions.txt"
-hash = "f5c3d9f5d7e929a0cdf8f63c5577bef94d9d4397200ed844692271831aa11aa9"
-
-[[files]]
-file = "__kubejs/exported/tags/tile_entity_types.txt"
-hash = "7c5bca7d0fdcb6609f794f6ca8b2e8f4f2dd4de2ce21daf9d8c1f45bdc27465e"
-
-[[files]]
-file = "__kubejs/server_scripts/constants.js"
-hash = "b3a0aa8c0ea312a5ea5139f90e7da40e4f1ef6b8ae64b48ca2776e71090f6b89"
-
-[[files]]
-file = "__kubejs/server_scripts/mod_specific/_minecraft/minecraft.js"
-hash = "ad55aa028491d8bd0e5880061df114d1391241afbac4602d3f8ea7f983b29ca0"
-
-[[files]]
-file = "__kubejs/server_scripts/mod_specific/create/create.js"
-hash = "5b05310ea6566c617cddafa79133be1f9803afca50be3eb59dbad432e76c8dd4"
-
-[[files]]
-file = "__kubejs/server_scripts/mod_specific/eidolon/eidolon.js"
-hash = "7e169fef301033a4fb3e89fc3975762aef550cf10368ca281f430ae084e258ed"
-
-[[files]]
-file = "__kubejs/server_scripts/mod_specific/quark/quark.js"
-hash = "2998601db90f71d786ac16cdbb2f9b5dc68d0a9ed9b5ea85e08e640ad7d631ea"
-
-[[files]]
-file = "__kubejs/server_scripts/mod_specific/storage_drawers/storage_drawers.js"
-hash = "d6d1596918f4e6b50a5b756ba1918099804502a83e4c29dace2f209de7f39c9c"
-
-[[files]]
-file = "__kubejs/server_scripts/tags.js"
-hash = "e07513c5514cea05b2459be60ed862085fff73e095115ede1cf8ce9665e0526a"
-
-[[files]]
-file = "__kubejs/startup_scripts/modification.js"
-hash = "19eebd894e5e3a585d84ca3a67690e22ef34b0a5061c4b92e17531129fb3e95a"
-
-[[files]]
-file = "__options.txt"
-hash = "cb39bd8d50dec2ed9afd56cb3e9b642ced56977811520640d5deea8c2c61f436"
+file = "ServerStart.sh"
+hash = "9740d675d0e87ea0fc3a3ba543b36f03121b8409449ef25bc8706033a220331f"
 
 [[files]]
 file = "config/InventoryHUD/curios.json"
@@ -1901,3 +1801,7 @@ metafile = true
 file = "mods/world-pre-generator.toml"
 hash = "c6d8675475cbda4acdcf28f17c6b8f8e018e5ffd1e33d371998d1550bfdb6027"
 metafile = true
+
+[[files]]
+file = "settings.cfg"
+hash = "25c263e66741f1f54e1384c91950691304ed7973bcb5dc49efa6c94b7ae7728c"
