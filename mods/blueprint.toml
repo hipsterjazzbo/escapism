@@ -1,13 +1,13 @@
 name = "Blueprint"
-filename = "blueprint-1.18.1-5.1.0.jar"
+filename = "blueprint-1.18.1-5.1.1.jar"
 side = "both"
 
 [download]
-url = "https://edge.forgecdn.net/files/3642/475/blueprint-1.18.1-5.1.0.jar"
+url = "https://edge.forgecdn.net/files/3645/224/blueprint-1.18.1-5.1.1.jar"
 hash-format = "murmur2"
-hash = "3832769788"
+hash = "37191013"
 
 [update]
 [update.curseforge]
-file-id = 3642475
+file-id = 3645224
 project-id = 382216

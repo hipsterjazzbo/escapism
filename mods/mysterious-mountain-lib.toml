@@ -1,0 +1,13 @@
+name = "Mysterious Mountain Lib"
+filename = "mmlib-1.0.0-1.18.1.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3642/415/mmlib-1.0.0-1.18.1.jar"
+hash-format = "murmur2"
+hash = "709412396"
+
+[update]
+[update.curseforge]
+file-id = 3642415
+project-id = 368098

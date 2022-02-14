@@ -1,13 +1,13 @@
 name = "Extreme sound muffler (Forge)"
-filename = "extremesoundmuffler-3.23_forge-1.18.1.jar"
+filename = "extremeSoundMuffler-3.24_Forge-1.18.1.jar"
 side = "both"
 
 [download]
-url = "https://edge.forgecdn.net/files/3621/904/extremesoundmuffler-3.23_forge-1.18.1.jar"
+url = "https://edge.forgecdn.net/files/3648/159/extremeSoundMuffler-3.24_Forge-1.18.1.jar"
 hash-format = "murmur2"
-hash = "710451926"
+hash = "4004496472"
 
 [update]
 [update.curseforge]
-file-id = 3621904
+file-id = 3648159
 project-id = 363363

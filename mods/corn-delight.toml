@@ -1,0 +1,13 @@
+name = "Corn Delight"
+filename = "corn_delight-1.0.0-1.18.1.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3642/447/corn_delight-1.0.0-1.18.1.jar"
+hash-format = "murmur2"
+hash = "1609466910"
+
+[update]
+[update.curseforge]
+file-id = 3642447
+project-id = 577805

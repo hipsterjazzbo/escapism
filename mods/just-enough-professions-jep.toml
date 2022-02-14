@@ -1,0 +1,13 @@
+name = "Just Enough Professions (JEP)"
+filename = "JustEnoughProfessions-1.18-1.2.2.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3550/303/JustEnoughProfessions-1.18-1.2.2.jar"
+hash-format = "murmur2"
+hash = "1787035675"
+
+[update]
+[update.curseforge]
+file-id = 3550303
+project-id = 417645

@@ -1,13 +1,13 @@
 name = "Aquaculture 2"
-filename = "Aquaculture-1.18.1-2.3.2.jar"
+filename = "Aquaculture-1.18.1-2.3.3.jar"
 side = "both"
 
 [download]
-url = "https://edge.forgecdn.net/files/3583/38/Aquaculture-1.18.1-2.3.2.jar"
+url = "https://edge.forgecdn.net/files/3646/619/Aquaculture-1.18.1-2.3.3.jar"
 hash-format = "murmur2"
-hash = "4176090246"
+hash = "1667336534"
 
 [update]
 [update.curseforge]
-file-id = 3583038
+file-id = 3646619
 project-id = 60028

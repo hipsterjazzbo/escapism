@@ -1,13 +1,13 @@
 name = "Placebo"
-filename = "Placebo-1.18.1-6.1.0.jar"
+filename = "Placebo-1.18.1-6.1.1.jar"
 side = "both"
 
 [download]
-url = "https://edge.forgecdn.net/files/3639/763/Placebo-1.18.1-6.1.0.jar"
+url = "https://edge.forgecdn.net/files/3647/860/Placebo-1.18.1-6.1.1.jar"
 hash-format = "murmur2"
-hash = "170733059"
+hash = "2823042683"
 
 [update]
 [update.curseforge]
-file-id = 3639763
+file-id = 3647860
 project-id = 283644
