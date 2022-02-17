@@ -1,13 +1,13 @@
 name = "TerraBlender (Forge)"
-filename = "TerraBlender-forge-1.18.1-1.1.0.75.jar"
+filename = "TerraBlender-forge-1.18.1-1.1.0.76.jar"
 side = "both"
 
 [download]
-url = "https://edge.forgecdn.net/files/3648/537/TerraBlender-forge-1.18.1-1.1.0.75.jar"
+url = "https://edge.forgecdn.net/files/3649/400/TerraBlender-forge-1.18.1-1.1.0.76.jar"
 hash-format = "murmur2"
-hash = "3693475794"
+hash = "2798015236"
 
 [update]
 [update.curseforge]
-file-id = 3648537
+file-id = 3649400
 project-id = 563928

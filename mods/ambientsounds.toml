@@ -1,13 +1,13 @@
 name = "AmbientSounds 5"
-filename = "AmbientSounds_v5.0.8_mc1.18.1.jar"
+filename = "AmbientSounds_v5.0.9_mc1.18.1.jar"
 side = "both"
 
 [download]
-url = "https://edge.forgecdn.net/files/3631/640/AmbientSounds_v5.0.8_mc1.18.1.jar"
+url = "https://edge.forgecdn.net/files/3650/214/AmbientSounds_v5.0.9_mc1.18.1.jar"
 hash-format = "murmur2"
-hash = "2935227465"
+hash = "325052566"
 
 [update]
 [update.curseforge]
-file-id = 3631640
+file-id = 3650214
 project-id = 254284

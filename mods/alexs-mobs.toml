@@ -1,13 +1,13 @@
 name = "Alex's Mobs"
-filename = "alexsmobs-1.17.0.jar"
+filename = "alexsmobs-1.17.1.jar"
 side = "both"
 
 [download]
-url = "https://edge.forgecdn.net/files/3642/864/alexsmobs-1.17.0.jar"
+url = "https://edge.forgecdn.net/files/3650/308/alexsmobs-1.17.1.jar"
 hash-format = "murmur2"
-hash = "1156513646"
+hash = "2285468017"
 
 [update]
 [update.curseforge]
-file-id = 3642864
+file-id = 3650308
 project-id = 426558

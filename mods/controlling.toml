@@ -1,13 +1,13 @@
 name = "Controlling"
-filename = "Controlling-forge-1.18.1-9.0+14.jar"
+filename = "Controlling-forge-1.18.1-9.0+15.jar"
 side = "both"
 
 [download]
-url = "https://edge.forgecdn.net/files/3627/70/Controlling-forge-1.18.1-9.0+14.jar"
+url = "https://edge.forgecdn.net/files/3648/602/Controlling-forge-1.18.1-9.0+15.jar"
 hash-format = "murmur2"
-hash = "2433282391"
+hash = "4288011263"
 
 [update]
 [update.curseforge]
-file-id = 3627070
+file-id = 3648602
 project-id = 250398

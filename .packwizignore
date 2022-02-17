@@ -20,3 +20,5 @@
 .github/**
 .nova/**
 .DS_Store
+
+config/byg/overworld-biomes.json

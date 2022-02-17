@@ -1,13 +1,13 @@
 name = "Buddycards"
-filename = "Buddycards-1.18.1-3.0.4.jar"
+filename = "Buddycards-1.18.1-3.0.5.jar"
 side = "both"
 
 [download]
-url = "https://edge.forgecdn.net/files/3611/453/Buddycards-1.18.1-3.0.4.jar"
+url = "https://edge.forgecdn.net/files/3650/74/Buddycards-1.18.1-3.0.5.jar"
 hash-format = "murmur2"
-hash = "201795817"
+hash = "1428123464"
 
 [update]
 [update.curseforge]
-file-id = 3611453
+file-id = 3650074
 project-id = 425991

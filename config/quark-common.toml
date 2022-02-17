@@ -463,11 +463,11 @@
 	Permafrost = true
 	"New Stone Types" = true
 	"Nether Obsidian Spikes" = true
-	"Monster Box" = true
+	"Monster Box" = false
 	"Fairy Rings" = true
 	Corundum = true
 	"Chorus Vegetation" = true
-	"Blossom Trees" = true
+	"Blossom Trees" = false
 	"Big Stone Clusters" = true
 	"Big Dungeon" = true
 
