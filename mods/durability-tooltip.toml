@@ -1,13 +1,13 @@
 name = "Durability Tooltip"
-filename = "durabilitytooltip-1.0.1-mc1.18.jar"
+filename = "durabilitytooltip-1.1.0-mc1.18.jar"
 side = "both"
 
 [download]
-url = "https://edge.forgecdn.net/files/3544/321/durabilitytooltip-1.0.1-mc1.18.jar"
+url = "https://edge.forgecdn.net/files/3666/816/durabilitytooltip-1.1.0-mc1.18.jar"
 hash-format = "murmur2"
-hash = "2560972579"
+hash = "3512417108"
 
 [update]
 [update.curseforge]
-file-id = 3544321
+file-id = 3666816
 project-id = 511040

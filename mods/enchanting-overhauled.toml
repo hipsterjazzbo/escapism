@@ -1,0 +1,13 @@
+name = "Enchanting Overhauled"
+filename = "enchanting_overhauled-1.0.4.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3656/839/enchanting_overhauled-1.0.4.jar"
+hash-format = "murmur2"
+hash = "1618214299"
+
+[update]
+[update.curseforge]
+file-id = 3656839
+project-id = 565463

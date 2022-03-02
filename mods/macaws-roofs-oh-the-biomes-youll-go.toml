@@ -1,13 +1,13 @@
 name = "Macaw's Roofs - Oh The Biomes You'll Go"
-filename = "macawsroofsbyg-1.18.1-1.0.jar"
+filename = "macawsroofsbyg-1.18.1-1.1.jar"
 side = "both"
 
 [download]
-url = "https://edge.forgecdn.net/files/3640/497/macawsroofsbyg-1.18.1-1.0.jar"
+url = "https://edge.forgecdn.net/files/3652/103/macawsroofsbyg-1.18.1-1.1.jar"
 hash-format = "murmur2"
-hash = "2231837046"
+hash = "1405187234"
 
 [update]
 [update.curseforge]
-file-id = 3640497
+file-id = 3652103
 project-id = 577356

@@ -1,13 +1,13 @@
 name = "YUNG's API (Forge)"
-filename = "YungsApi-1.18.1-Forge-23.jar"
+filename = "YungsApi-1.18.1-Forge-24.jar"
 side = "both"
 
 [download]
-url = "https://edge.forgecdn.net/files/3631/253/YungsApi-1.18.1-Forge-23.jar"
+url = "https://edge.forgecdn.net/files/3652/542/YungsApi-1.18.1-Forge-24.jar"
 hash-format = "murmur2"
-hash = "3847742889"
+hash = "1478805139"
 
 [update]
 [update.curseforge]
-file-id = 3631253
+file-id = 3652542
 project-id = 421850

@@ -3,11 +3,11 @@ filename = "BuildersDelight-Forge.1.18.1.jar"
 side = "both"
 
 [download]
-url = "https://edge.forgecdn.net/files/3591/365/BuildersDelight-Forge.1.18.1.jar"
+url = "https://edge.forgecdn.net/files/3667/868/BuildersDelight-Forge.1.18.1.jar"
 hash-format = "murmur2"
-hash = "3815160127"
+hash = "1637268632"
 
 [update]
 [update.curseforge]
-file-id = 3591365
+file-id = 3667868
 project-id = 563734

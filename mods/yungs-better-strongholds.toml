@@ -1,13 +1,13 @@
 name = "YUNG's Better Strongholds (Forge)"
-filename = "BetterStrongholds-Forge-1.18.1-1.0.1.jar"
+filename = "BetterStrongholds-Forge-1.18.1-1.0.2.jar"
 side = "both"
 
 [download]
-url = "https://edge.forgecdn.net/files/3650/506/BetterStrongholds-Forge-1.18.1-1.0.1.jar"
+url = "https://edge.forgecdn.net/files/3652/543/BetterStrongholds-Forge-1.18.1-1.0.2.jar"
 hash-format = "murmur2"
-hash = "1305369897"
+hash = "4240680302"
 
 [update]
 [update.curseforge]
-file-id = 3650506
+file-id = 3652543
 project-id = 465575

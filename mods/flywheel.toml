@@ -1,6 +1,6 @@
 name = "Flywheel"
 filename = "flywheel-forge-1.18-0.6.0.jar"
-side = "both"
+side = "client"
 
 [download]
 url = "https://edge.forgecdn.net/files/3623/314/flywheel-forge-1.18-0.6.0.jar"

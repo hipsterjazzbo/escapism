@@ -1,0 +1,13 @@
+name = "Jade Addons"
+filename = "JadeAddons-1.18.1-1.0.0.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3662/880/JadeAddons-1.18.1-1.0.0.jar"
+hash-format = "murmur2"
+hash = "4203214270"
+
+[update]
+[update.curseforge]
+file-id = 3662880
+project-id = 583345
