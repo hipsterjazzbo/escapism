@@ -1563,7 +1563,7 @@ metafile = true
 
 [[files]]
 file = "mods/advanced-netherite.toml"
-hash = "0757b75ff39b59daa50f53bcc546973d49bb12a2cc5db3c9b92535ff3b8467d6"
+hash = "23c0c82b0b9086db7e0f29e34dc81d56646ab25e2a86a64237cb2e947d2963a8"
 metafile = true
 
 [[files]]
@@ -1664,6 +1664,11 @@ metafile = true
 [[files]]
 file = "mods/betterf3.toml"
 hash = "090528d86170e8c64bd5a2aacf2ff0de35739014c5e0f85eed545d0ef57ecfe5"
+metafile = true
+
+[[files]]
+file = "mods/bookshelf.toml"
+hash = "8d8142ef1fbe5a0ad90d5ed5978fe5e722d44a70e0883c75a13cdab71129cc6e"
 metafile = true
 
 [[files]]
@@ -1872,6 +1877,11 @@ hash = "398a2dc17de5bf8eab7c85a71cea5319e80153de5e0ba02981c693d14170bbe9"
 metafile = true
 
 [[files]]
+file = "mods/fast-leaf-decay.toml"
+hash = "354299063fb05d2211d081d274442a9d471587ee5187804efbe42f4089cbdd11"
+metafile = true
+
+[[files]]
 file = "mods/feature-nbt-deadlock-be-gone.toml"
 hash = "3c4ac3340cc8bc70ff11fac0389e93c80a7ae6a578c06ec5bbdafb26e207c612"
 metafile = true
@@ -2054,11 +2064,6 @@ metafile = true
 [[files]]
 file = "mods/no-null-processors.toml"
 hash = "38d32947228527f358888a0c027522f0e4354d067c766efb74e3226cb0e614e4"
-metafile = true
-
-[[files]]
-file = "mods/oculus.toml"
-hash = "90db629a36198186aec546f9ea4ba0f332eb75486951706f6a35276835aed1bd"
 metafile = true
 
 [[files]]
