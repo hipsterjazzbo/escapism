@@ -3,7 +3,7 @@
 #Witches Attack Villagers?
 "Witches attack villagers?" = true
 #This will make Illusioners get involved in raids
-"Have illusioners in raids?" = false
+"Have illusioners in raids?" = true
 #Guards will attack all hostiles with this option
 "Guards attack all mobs?" = false
 #Guards won't attack mobs in this list if AttackAllMobs is enabled, for example, putting minecraft:creeper in this list will make guards ignore creepers.
@@ -21,7 +21,7 @@
 #This makes guards form a phalanx
 "Have guards form a phalanx?" = true
 #This will make guards attempt to avoid friendly fire.
-"Have guards attempt to avoid firing into other friendlies? (Experimental)" = true
+"Have guards attempt to avoid firing into other friendlies? (Experimental)" = false
 #This will make it so villagers will only be converted into guards if the player has hero of the village
 "Make it so players have to have hero of the village to convert villagers into guards?" = false
 "Have it so blacksmiths heal golems under 60 health?" = true

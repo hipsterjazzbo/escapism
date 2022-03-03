@@ -223,8 +223,6 @@
 			minimum_distance = 10
 			#With this option road signs will display the distance to the structure that they are pointing to
 			show_distance_text = true
-			#list of structure that a sign can point to. Note that they will only spawn in dimensions where vanilla villages can
-			villages = ["minecraft:village", "repurposed_structures:village_badlands", "repurposed_structures:village_dark_oak", "repurposed_structures:village_birch", "repurposed_structures:village_giant_taiga", "repurposed_structures:village_jungle", "repurposed_structures:village_mountains", "repurposed_structures:village_oak", "repurposed_structures:village_swamp", "pokecube:village", "pokecube_legends:village", "pokecube_legends:village/ocean", "valhelsia_structures:castle", "valhelsia_structures:castle_ruin", "valhelsia_structures:small_castle", "valhelsia_structures:tower_ruin", "stoneholm:underground_village", "blue_skies:gatekeeper_house", "feywild:library", "feywild:blacksmith"]
 
 		[spawns.structures.wild_flax]
 			enabled = true
@@ -242,7 +240,7 @@
 			attempts_per_patch = 4
 			#Spawn attempts per chunk. Increases spawn frequency
 			#Range: 0 ~ 100
-			spawn_attempts = 8
+			spawn_attempts = 7
 			#Biomes in which urns won't spawn
 			biome_blacklist = ["minecraft:lush_caves", "minecraft:dripstone_caves"]
 
@@ -266,7 +264,7 @@
 [tweaks]
 
 	[tweaks.axe_dispenser_behaviors]
-		#Allows dispensers to use axes on blocks to strip logs and scrape off copper oxidation adn wax
+		#Allows dispensers to use axes on blocks to strip logs and scrape off copper oxidation and wax
 		enabled = true
 
 	[tweaks.cake_tweaks]
@@ -297,7 +295,7 @@
 		#Gives high priority to wall lantern placement. Enable to override other wall lanterns placements, disable if it causes issues with other mods that use lower priority block click events
 		high_priority = true
 		#Mod ids of mods that have lantern block that extend the base lantern class but don't look like one
-		mod_blacklist = ["extlights", "betterendforge", "tconstruct"]
+		mod_blacklist = ["extlights", "betterendforge", "tconstruct", "enigmaticlegacy"]
 
 	[tweaks.bells_tweaks]
 		#Ring a bell by clicking on a chain that's connected to it

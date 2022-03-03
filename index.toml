@@ -58,11 +58,11 @@ hash = "1c0598310aedffbbc2f00c60d5a0b829cd8c176a09df2381371053e47972ec05"
 
 [[files]]
 file = "config/akashictome-common.toml"
-hash = "a197cd2e67a3fc76c2b17264290ec22d9dcac4d7932ebb4e60722d9ba2ecfd55"
+hash = "761310fdcef1a0cb54ccb2ebe13e66f3fea86af7e3ed88a1e56c4665e11717cd"
 
 [[files]]
 file = "config/alexsmobs.toml"
-hash = "c5bf3582ed0e6e1bb12530fe3ea106a927d3a247bcfdc28ba1316288ecd48b83"
+hash = "257e62cc54e2c94724b18447d65dcaa9123c1e9deac6e10561627e58d5a48c1f"
 
 [[files]]
 file = "config/alexsmobs/alligator_snapping_turtle_spawns.json"
@@ -81,12 +81,20 @@ file = "config/alexsmobs/bald_eagle_spawns.json"
 hash = "a2c61c3d4477f9d4f5562774453578eb2be1be0140de0e49bb119122c2ab8baf"
 
 [[files]]
+file = "config/alexsmobs/bison_spawns.json"
+hash = "51dbf7aa74f8eb3988e98456b836423a4cb1cadcaf63df30629d8639b1b63ed6"
+
+[[files]]
 file = "config/alexsmobs/blobfish_spawns.json"
 hash = "b63970709447d3d3362768ef29998b418e07ec0f4c9d3ad22acd080c882abe49"
 
 [[files]]
 file = "config/alexsmobs/bone_serpent_spawns.json"
 hash = "6fad999625fa90795bb634427ca57c9ee30a8a728afb06aa0bca13d450cad0b7"
+
+[[files]]
+file = "config/alexsmobs/bunfungus_spawns.json"
+hash = "d40eec08e2419c044ec67c1a456b92f65bd5430124bb14c4f4dabebbc6862ee0"
 
 [[files]]
 file = "config/alexsmobs/cachalot_whale_beached_spawns.json"
@@ -175,6 +183,10 @@ hash = "a432826878ff8b234b7c2cec283f719fb68e66e1d46ace0acd0b3d445608ac65"
 [[files]]
 file = "config/alexsmobs/gelada_monkey_spawns.json"
 hash = "91eef89a93febce591c4420cc1d3f3632da1d243c94ecd41b418a31db2c9b643"
+
+[[files]]
+file = "config/alexsmobs/giant_squid_spawns.json"
+hash = "6ef9c08e437f647c633cbf41568c5528288f61ccff6d36f43e938afd3245d878"
 
 [[files]]
 file = "config/alexsmobs/gorilla_spawns.json"
@@ -353,8 +365,12 @@ file = "config/aquaculture-common.toml"
 hash = "5117e87a5d1984b0cf4ddc2efbcf139579b2fd26874ba11c6d3fb186cc19467e"
 
 [[files]]
+file = "config/architects_palette-common.toml"
+hash = "3db3d5c0ae1111ca7021f9023572d0202a5d8155c08376d92c3b4e857ab547b6"
+
+[[files]]
 file = "config/ars_nouveau-common.toml"
-hash = "1d672907b92f85eff7b0fdc3304a96308685fa403d6fc8846600ab91c3e9f135"
+hash = "a18d22a754627843b94c007b97085ecfbb20f3a751a9fd6a052fd66d6e07b807"
 
 [[files]]
 file = "config/ars_nouveau/accelerate.toml"
@@ -377,8 +393,20 @@ file = "config/ars_nouveau/blink.toml"
 hash = "bf29b48d2eb43a3ef2106c3325b26cc66702a69f3b5fc1b769618f85fda68341"
 
 [[files]]
+file = "config/ars_nouveau/bounce-1.toml.bak"
+hash = "f3d0f9c67eed9294c9593b29a5e035e978097f5698e5458a8656fbc21906e0a7"
+
+[[files]]
 file = "config/ars_nouveau/bounce.toml"
 hash = "f3d0f9c67eed9294c9593b29a5e035e978097f5698e5458a8656fbc21906e0a7"
+
+[[files]]
+file = "config/ars_nouveau/break-1.toml.bak"
+hash = "2fe50ebd25c9c8f6489c9bbe444a70def0a762aeda93a74f592ae7d13c3a3ecc"
+
+[[files]]
+file = "config/ars_nouveau/break-2.toml.bak"
+hash = "2fe50ebd25c9c8f6489c9bbe444a70def0a762aeda93a74f592ae7d13c3a3ecc"
 
 [[files]]
 file = "config/ars_nouveau/break.toml"
@@ -391,6 +419,10 @@ hash = "e6f4d329a41df8456b4659868dbd9d55b2dbc335a75b8ca1a88342a07c08bfe4"
 [[files]]
 file = "config/ars_nouveau/conjure_water.toml"
 hash = "626a31d5560771abb3b6edfffc8f3f80e55d133a9fbdc6303b42f115464c0e8b"
+
+[[files]]
+file = "config/ars_nouveau/craft-1.toml.bak"
+hash = "579fe413ce327781b733d34fa830de3e504c542eff09d497e0d6d4509cb1fb02"
 
 [[files]]
 file = "config/ars_nouveau/craft.toml"
@@ -425,6 +457,10 @@ file = "config/ars_nouveau/ender_inventory.toml"
 hash = "579fe413ce327781b733d34fa830de3e504c542eff09d497e0d6d4509cb1fb02"
 
 [[files]]
+file = "config/ars_nouveau/evaporate-1.toml.bak"
+hash = "579fe413ce327781b733d34fa830de3e504c542eff09d497e0d6d4509cb1fb02"
+
+[[files]]
 file = "config/ars_nouveau/evaporate.toml"
 hash = "579fe413ce327781b733d34fa830de3e504c542eff09d497e0d6d4509cb1fb02"
 
@@ -435,6 +471,10 @@ hash = "579fe413ce327781b733d34fa830de3e504c542eff09d497e0d6d4509cb1fb02"
 [[files]]
 file = "config/ars_nouveau/explosion.toml"
 hash = "8f763cd71336098d8722103e45880ac5fc629be2a28f912547d2692b14001e8d"
+
+[[files]]
+file = "config/ars_nouveau/extend_time-1.toml.bak"
+hash = "8ade34bc23f9ec0b3daeab847c327c2360ceabac99c0cec8bdfdbbd8d6164bc5"
 
 [[files]]
 file = "config/ars_nouveau/extend_time.toml"
@@ -449,6 +489,10 @@ file = "config/ars_nouveau/fangs.toml"
 hash = "0a900cb2629edc33e7830eafbd253b1a95646da7a2d8693cda70ec8246c98e1e"
 
 [[files]]
+file = "config/ars_nouveau/fell-1.toml.bak"
+hash = "dba83b442bc87a37e7a7fe62f65bb128e741a8e9b622583a40d35db840f10688"
+
+[[files]]
 file = "config/ars_nouveau/fell.toml"
 hash = "dba83b442bc87a37e7a7fe62f65bb128e741a8e9b622583a40d35db840f10688"
 
@@ -457,12 +501,36 @@ file = "config/ars_nouveau/firework.toml"
 hash = "579fe413ce327781b733d34fa830de3e504c542eff09d497e0d6d4509cb1fb02"
 
 [[files]]
+file = "config/ars_nouveau/flare-1.toml.bak"
+hash = "0b5fa2165c9d46bca62d3e45c96451c4a77ea041a47907e45e804ff5c08c0aa6"
+
+[[files]]
 file = "config/ars_nouveau/flare.toml"
 hash = "0b5fa2165c9d46bca62d3e45c96451c4a77ea041a47907e45e804ff5c08c0aa6"
 
 [[files]]
 file = "config/ars_nouveau/fortune.toml"
 hash = "ac558d58fd9f12f3b3878c9e107b9080b92d51836f570832a2e93d7943ad2c3a"
+
+[[files]]
+file = "config/ars_nouveau/freeze-1.toml.bak"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
+file = "config/ars_nouveau/freeze-2.toml.bak"
+hash = "5fc130168465e6ce44e9e176b1724ea863c87f3366cc4c3055da2b847b8d1086"
+
+[[files]]
+file = "config/ars_nouveau/freeze-3.toml.bak"
+hash = "5fc130168465e6ce44e9e176b1724ea863c87f3366cc4c3055da2b847b8d1086"
+
+[[files]]
+file = "config/ars_nouveau/freeze-4.toml.bak"
+hash = "5fc130168465e6ce44e9e176b1724ea863c87f3366cc4c3055da2b847b8d1086"
+
+[[files]]
+file = "config/ars_nouveau/freeze-5.toml.bak"
+hash = "5fc130168465e6ce44e9e176b1724ea863c87f3366cc4c3055da2b847b8d1086"
 
 [[files]]
 file = "config/ars_nouveau/freeze.toml"
@@ -477,6 +545,10 @@ file = "config/ars_nouveau/gravity.toml"
 hash = "3bac10121195c0b37dbc0330c9399b0da5aa26cff9825fff753c3e91d35d7aa7"
 
 [[files]]
+file = "config/ars_nouveau/grow-1.toml.bak"
+hash = "17eed54ed44ccf2f03c76942d906272fbb0590f4adfb795e05030904dc8c40ee"
+
+[[files]]
 file = "config/ars_nouveau/grow.toml"
 hash = "17eed54ed44ccf2f03c76942d906272fbb0590f4adfb795e05030904dc8c40ee"
 
@@ -487,6 +559,14 @@ hash = "3862d09c633b0ec7c3d761e0d180b2fa4c808de844d711f6dbfba44a20f5c209"
 [[files]]
 file = "config/ars_nouveau/harm.toml"
 hash = "0b521c2b28df142867c8c65c7769586c4992f638ce3f7f4a667e742e049edd2b"
+
+[[files]]
+file = "config/ars_nouveau/harvest-1.toml.bak"
+hash = "6828b37ee6f2e243d9cf314f28bc7b6e4fbae3e148d770b284bdb0b440c98264"
+
+[[files]]
+file = "config/ars_nouveau/harvest-2.toml.bak"
+hash = "6828b37ee6f2e243d9cf314f28bc7b6e4fbae3e148d770b284bdb0b440c98264"
 
 [[files]]
 file = "config/ars_nouveau/harvest.toml"
@@ -501,6 +581,10 @@ file = "config/ars_nouveau/hex.toml"
 hash = "7b177a95a4b916d86aafcb812a9b3c4d95eacc92a77ffef666801bcb7eeb1d6c"
 
 [[files]]
+file = "config/ars_nouveau/ignite-1.toml.bak"
+hash = "f402350fdeaed22eca5e88febfca9c1265599c70d5d9cf65aeab0a9f62c67828"
+
+[[files]]
 file = "config/ars_nouveau/ignite.toml"
 hash = "f402350fdeaed22eca5e88febfca9c1265599c70d5d9cf65aeab0a9f62c67828"
 
@@ -509,8 +593,40 @@ file = "config/ars_nouveau/intangible.toml"
 hash = "78baf2e670525fed29ee68fd0e523c39a2d0618395ea466b5e13610b1d66fe8f"
 
 [[files]]
+file = "config/ars_nouveau/interact-1.toml.bak"
+hash = "6828b37ee6f2e243d9cf314f28bc7b6e4fbae3e148d770b284bdb0b440c98264"
+
+[[files]]
+file = "config/ars_nouveau/interact-2.toml.bak"
+hash = "6828b37ee6f2e243d9cf314f28bc7b6e4fbae3e148d770b284bdb0b440c98264"
+
+[[files]]
+file = "config/ars_nouveau/interact-3.toml.bak"
+hash = "6828b37ee6f2e243d9cf314f28bc7b6e4fbae3e148d770b284bdb0b440c98264"
+
+[[files]]
+file = "config/ars_nouveau/interact-4.toml.bak"
+hash = "6828b37ee6f2e243d9cf314f28bc7b6e4fbae3e148d770b284bdb0b440c98264"
+
+[[files]]
 file = "config/ars_nouveau/interact.toml"
 hash = "6828b37ee6f2e243d9cf314f28bc7b6e4fbae3e148d770b284bdb0b440c98264"
+
+[[files]]
+file = "config/ars_nouveau/invisibility-1.toml.bak"
+hash = "a29196369168d5078a24f0dd957591eecaba725f45b8b4053aa082e32e3b2df8"
+
+[[files]]
+file = "config/ars_nouveau/invisibility-2.toml.bak"
+hash = "a29196369168d5078a24f0dd957591eecaba725f45b8b4053aa082e32e3b2df8"
+
+[[files]]
+file = "config/ars_nouveau/invisibility-3.toml.bak"
+hash = "a29196369168d5078a24f0dd957591eecaba725f45b8b4053aa082e32e3b2df8"
+
+[[files]]
+file = "config/ars_nouveau/invisibility-4.toml.bak"
+hash = "a29196369168d5078a24f0dd957591eecaba725f45b8b4053aa082e32e3b2df8"
 
 [[files]]
 file = "config/ars_nouveau/invisibility.toml"
@@ -525,8 +641,24 @@ file = "config/ars_nouveau/leap.toml"
 hash = "6ea2645bee711db67e3ef0677a3e7e9994765178fa8e5b82b277ac93758e645e"
 
 [[files]]
+file = "config/ars_nouveau/light-1.toml.bak"
+hash = "7609f22c4619e60c2d48ebf37d1abefbdceb5b79428f7d00d21a31ab583e78e5"
+
+[[files]]
+file = "config/ars_nouveau/light-2.toml.bak"
+hash = "7609f22c4619e60c2d48ebf37d1abefbdceb5b79428f7d00d21a31ab583e78e5"
+
+[[files]]
+file = "config/ars_nouveau/light-3.toml.bak"
+hash = "7609f22c4619e60c2d48ebf37d1abefbdceb5b79428f7d00d21a31ab583e78e5"
+
+[[files]]
 file = "config/ars_nouveau/light.toml"
 hash = "7609f22c4619e60c2d48ebf37d1abefbdceb5b79428f7d00d21a31ab583e78e5"
+
+[[files]]
+file = "config/ars_nouveau/lightning-1.toml.bak"
+hash = "10955dc052ad9e280b6138dd584c8deee9347ba1fb4c113106c93d4101117846"
 
 [[files]]
 file = "config/ars_nouveau/lightning.toml"
@@ -557,6 +689,22 @@ file = "config/ars_nouveau/place_block.toml"
 hash = "6828b37ee6f2e243d9cf314f28bc7b6e4fbae3e148d770b284bdb0b440c98264"
 
 [[files]]
+file = "config/ars_nouveau/projectile-1.toml.bak"
+hash = "ca73f41cff3e869b0cd1775106fc5b44e7a4f588dc0b72848e83574da11f762c"
+
+[[files]]
+file = "config/ars_nouveau/projectile-2.toml.bak"
+hash = "ca73f41cff3e869b0cd1775106fc5b44e7a4f588dc0b72848e83574da11f762c"
+
+[[files]]
+file = "config/ars_nouveau/projectile-3.toml.bak"
+hash = "ca73f41cff3e869b0cd1775106fc5b44e7a4f588dc0b72848e83574da11f762c"
+
+[[files]]
+file = "config/ars_nouveau/projectile-4.toml.bak"
+hash = "ca73f41cff3e869b0cd1775106fc5b44e7a4f588dc0b72848e83574da11f762c"
+
+[[files]]
 file = "config/ars_nouveau/projectile.toml"
 hash = "ca73f41cff3e869b0cd1775106fc5b44e7a4f588dc0b72848e83574da11f762c"
 
@@ -567,6 +715,22 @@ hash = "15dd90727ca7ee7fa87f318713294246342eb8c7d0c0dc3bbd886e14f760bded"
 [[files]]
 file = "config/ars_nouveau/redstone_signal.toml"
 hash = "5fd570eee0e2950d177bf454e2e9f15b74a7d66bf1889639c212d5a131e136e7"
+
+[[files]]
+file = "config/ars_nouveau/rune-1.toml.bak"
+hash = "0fb43658fe2eef04bb865b2c9dbcff3596b7c90256020abaa2a326ad2a2847b7"
+
+[[files]]
+file = "config/ars_nouveau/rune-2.toml.bak"
+hash = "0fb43658fe2eef04bb865b2c9dbcff3596b7c90256020abaa2a326ad2a2847b7"
+
+[[files]]
+file = "config/ars_nouveau/rune-3.toml.bak"
+hash = "0fb43658fe2eef04bb865b2c9dbcff3596b7c90256020abaa2a326ad2a2847b7"
+
+[[files]]
+file = "config/ars_nouveau/rune-4.toml.bak"
+hash = "0fb43658fe2eef04bb865b2c9dbcff3596b7c90256020abaa2a326ad2a2847b7"
 
 [[files]]
 file = "config/ars_nouveau/rune.toml"
@@ -589,6 +753,10 @@ file = "config/ars_nouveau/smelt.toml"
 hash = "29de88d347982ef357077126f3408553b2db3b0fa1a0e142fa35dc289f22eba6"
 
 [[files]]
+file = "config/ars_nouveau/snare-1.toml.bak"
+hash = "2346317d95f36a01f5d508767ea8f7cfaffca18815951a3e753157ae1a73e036"
+
+[[files]]
 file = "config/ars_nouveau/snare.toml"
 hash = "2346317d95f36a01f5d508767ea8f7cfaffca18815951a3e753157ae1a73e036"
 
@@ -609,6 +777,18 @@ file = "config/ars_nouveau/summon_vex.toml"
 hash = "5c8f930d8ff62adb46036931ceb0b45b4f154f478141f0cee3d052fc501a415f"
 
 [[files]]
+file = "config/ars_nouveau/summon_wolves-1.toml.bak"
+hash = "fc9770b8e4b3b9daa486f5684f34883c1a1010bc54d0998262b646071f781b85"
+
+[[files]]
+file = "config/ars_nouveau/summon_wolves-2.toml.bak"
+hash = "fc9770b8e4b3b9daa486f5684f34883c1a1010bc54d0998262b646071f781b85"
+
+[[files]]
+file = "config/ars_nouveau/summon_wolves-3.toml.bak"
+hash = "fc9770b8e4b3b9daa486f5684f34883c1a1010bc54d0998262b646071f781b85"
+
+[[files]]
 file = "config/ars_nouveau/summon_wolves.toml"
 hash = "fc9770b8e4b3b9daa486f5684f34883c1a1010bc54d0998262b646071f781b85"
 
@@ -619,6 +799,14 @@ hash = "6828b37ee6f2e243d9cf314f28bc7b6e4fbae3e148d770b284bdb0b440c98264"
 [[files]]
 file = "config/ars_nouveau/touch.toml"
 hash = "1c1e1f6f73ac3f2e7dfe5ea90dd73c52ce95f13c975eff9a4d14c08bd9225121"
+
+[[files]]
+file = "config/ars_nouveau/underfoot-1.toml.bak"
+hash = "fa478cd4b959c0d009d7cb639fbb49383b9da912e098b1b36b9df334d4e96523"
+
+[[files]]
+file = "config/ars_nouveau/underfoot-2.toml.bak"
+hash = "fa478cd4b959c0d009d7cb639fbb49383b9da912e098b1b36b9df334d4e96523"
 
 [[files]]
 file = "config/ars_nouveau/underfoot.toml"
@@ -642,11 +830,11 @@ hash = "67bcecf73b2cde8c79c5a8d3e40c0b21e062deb364e275782641fcceb58df281"
 
 [[files]]
 file = "config/awesomedungeon_general_.properties"
-hash = "70820d7622a5635c5ad31f8c77b81ca99020eaf7263256d99c6007a1cdc73379"
+hash = "1def0c8c6c7a925f2a2dae0342b90b691fc722d7aba5d9a799109fd81ff2bc55"
 
 [[files]]
 file = "config/awesomedungeonocean_general_.properties"
-hash = "89086eaedcfd6e89452b5d6af82665eba6313aef19d4dc7a2c732690b3b3d02a"
+hash = "0f4167b550a057c214ef904c9305d69240f2d9c4661b5d7d08af2f7a53b50ed3"
 
 [[files]]
 file = "config/bcc-common.toml"
@@ -657,12 +845,40 @@ file = "config/betteradvancements-client.toml"
 hash = "e4ef31b41c4bda81ff1a072d9ba3ac9e0c674063d91b72e5779f5369a6d58a4c"
 
 [[files]]
+file = "config/betterdungeons-forge-1_18.toml"
+hash = "fed6f0e81a0e414cfad6bdd077f1749db6f34ae7abc3dd8e8b4040e92847f38e"
+
+[[files]]
 file = "config/betterf3.toml"
 hash = "2f946529dd0e2cea4e99edffc4b7c6f600837f21f6d3a611949d8769773b7dff"
 
 [[files]]
-file = "config/blueprint-client.toml"
-hash = "fba6f0ff8c3518b89bd3baeb70cb50127ebc1d74ffb3bbc9cdd2361551ba8919"
+file = "config/betterstrongholds-forge-1_18.toml"
+hash = "ccdfeda66342c37bd85dba6acbfb13008c0ccbc819c6a5327dea5deb876b6bb7"
+
+[[files]]
+file = "config/betterstrongholds/README.txt"
+hash = "13c5f6bd52bf778533a100453d8b295802f923109e0a2951446a00674113700b"
+
+[[files]]
+file = "config/betterstrongholds/forge-1_18/README.txt"
+hash = "5aad271e60a03218eb5207dd78df8d1d36c676f212bf823701e33646010d2f19"
+
+[[files]]
+file = "config/betterstrongholds/forge-1_18/armorstands.json"
+hash = "a32edb9eaf7372954ddd1f71a4b534ea2ff7dda46a09f048e5be73d40b8209de"
+
+[[files]]
+file = "config/betterstrongholds/forge-1_18/itemframes.json"
+hash = "d98382ddda5336d81fc406c973aca6eb16eab43a3474a232e16784afd57e99d1"
+
+[[files]]
+file = "config/betterstrongholds/forge-1_18/ores.json"
+hash = "ce3b02dfdf80cb1fd2c51302b996f06c033fbcd30891f00bd0eb4a08c9abd740"
+
+[[files]]
+file = "config/betterstrongholds/forge-1_18/rareblocks.json"
+hash = "5ad74727bfbd607151d1d930d6fb4e9b260b2e606c9d483403123ade0e82137a"
 
 [[files]]
 file = "config/brb.toml"
@@ -670,7 +886,7 @@ hash = "154ce0f19b8f637eaab082b6153b5cb70003719d4241385f83f38838188376cf"
 
 [[files]]
 file = "config/buddycards-common.toml"
-hash = "5fc6761318459be6bc4a2515e8bb372947ab11ef9d6afbc2b3559d37fa70abe7"
+hash = "b3fa8b9b909edf8b6ed14c2d6b8fa6a7fc70fc2dbb70df6ce0b82880b8767b24"
 
 [[files]]
 file = "config/byg/EXPERIMENTAL_WARNING_MARKER_2.txt"
@@ -679,14 +895,6 @@ hash = "c369fb48a9b5cecd8901eeecd2dd19a414d2ea89794b0f9ce4550dd0346253cc"
 [[files]]
 file = "config/byg/README.txt"
 hash = "716925cf1fd06d3d981aac5adbdc7a84dae30dbb64b17b0c25a8f739be01883d"
-
-[[files]]
-file = "config/byg/byg-biome-dictionary.json"
-hash = "ec0de215d2fdf6a1937acdd412d921aa8d558706b3def2e2f6e5d26da6b4ab7a"
-
-[[files]]
-file = "config/byg/byg-sapling-patterns.json"
-hash = "e969cc0c4f48d0b9dd77c2908ef4435eb98a73341df0fde03ddb14335dbbbe1f"
 
 [[files]]
 file = "config/camera-client.toml"
@@ -723,6 +931,10 @@ hash = "cebe1abd1e7c05a145795facc09048c709f0196221f2476938b30a055ffc8f2d"
 [[files]]
 file = "config/configured-client.toml"
 hash = "3b89f753be2eda7042d785471bcd3959e4a3cd053a50538d17ce98a2f274d2c2"
+
+[[files]]
+file = "config/corn_delight-common.toml"
+hash = "577a11fb99fec4cd4e0f0751e18c5bfd9d8e7e97be9396dc89e07d5cd4a434e0"
 
 [[files]]
 file = "config/cosmeticarmorreworked-client.toml"
@@ -765,8 +977,20 @@ file = "config/decorative_blocks-common.toml"
 hash = "e305565e0795f8450f4fd69afd93ef7d8b6ad1f83b96b970c858c0a0ecb1a5eb"
 
 [[files]]
+file = "config/durabilitytooltip-client.toml"
+hash = "100fc661a2562a169e012e575dff511e1830e3e5eaac73db2db40443b6c127eb"
+
+[[files]]
 file = "config/dynview-common.toml"
-hash = "9ca0ed8dbbe1bd35ba1266d5aa9ace746f839c7514084f15961ae526701e50e5"
+hash = "d66131ba244046e8dcc8c024ad3fbaf3204d5fd15d279f44dfe69143e65caaf7"
+
+[[files]]
+file = "config/easymagic-client.toml"
+hash = "5a873df9d573fb5fc4f873d5ff44d4200e7660b7c3158e2f4f0ca71ecf48de38"
+
+[[files]]
+file = "config/enchanting_overhauled.toml"
+hash = "b80d4d029f2fe39cedbb0ee45d4b758a327265f3ad21a63acc27963226882161"
 
 [[files]]
 file = "config/enchdesc.json"
@@ -821,12 +1045,20 @@ file = "config/forgeendertech-common.toml"
 hash = "c64659c0d13cabf25bf16c30a1e91e5c9a0d25189d14bf96c52430efe2abe647"
 
 [[files]]
+file = "config/forgeendertech/Biomes/blueprint$original_source_marker.cfg"
+hash = "9a7484ff5033b92c346ebcf3436eda2302f792bf38943151ae72e8282f95a5aa"
+
+[[files]]
+file = "config/forgeendertech/Biomes/byg$allium_fields.cfg"
+hash = "147ecd5750eb7565bcd7f04b5e2eaea8d44a4525e940b0248a5826e15af04cb4"
+
+[[files]]
 file = "config/forgeendertech/Biomes/minecraft$the_void.cfg"
 hash = "190d8f123170f81ace0f9b535523ba31657b5d9a16aeb7fa5be63a35853772e7"
 
 [[files]]
 file = "config/forgeendertech/Wind.cfg"
-hash = "489f928538aedfe92ebac0966d12bd0b0806ec4d3ee00e8da2d205b5ba53024d"
+hash = "48b5c2c535d092ac54ca22af1979e4604b1635acc1d392abb3a44847bdeb05e9"
 
 [[files]]
 file = "config/goblintraders-common.toml"
@@ -838,7 +1070,7 @@ hash = "3c371923f2b6a24791995797d390904ef8975b9caf2c981339b8971361d07b0d"
 
 [[files]]
 file = "config/guardvillagers-common.toml"
-hash = "f5fada6796dcf87d83dc74fbe5ad8e64c3b8184f55f66029ae621e1564adc532"
+hash = "48cf7ae259e4f24fd82f5341b4f906ffe5b0f1d4eed3d61dced2aa53017504fd"
 
 [[files]]
 file = "config/healingcampfire-common.toml"
@@ -889,16 +1121,36 @@ file = "config/jei/world/local/New_World__1/worldSettings.cfg"
 hash = "20f1c718c522fb9eb97ffceec4c49976ebb6d7e04edb98dd09680f5d39971469"
 
 [[files]]
+file = "config/jeresources-common.toml"
+hash = "13a4d5e1d1ac4207cbebef810696525975ec4f0c2470f6b858cbd9f62a6cd3ec"
+
+[[files]]
+file = "config/jeresources.toml"
+hash = "dba9b465be70853db2eaa9ab61747b244c2dd1127668dd72121251150a4833a1"
+
+[[files]]
 file = "config/kiwi-client.toml"
 hash = "2b516c8b998b2be4ee496d2e2928c9a1a3e91f0db84be72a0b8ccc6fcbbb697b"
 
 [[files]]
 file = "config/lootr-common.toml"
-hash = "40aa4004bd82f17dbb32dd0449b36f6b3178e551ecc04959a340660eb821bba6"
+hash = "6ed4537e1a095dbb2a8c7fc55e811311436bce9c6ab559c011c0d8ef2d5d4015"
 
 [[files]]
 file = "config/mantle-client.toml"
 hash = "bcdc80d141bdc59a355106e0c5d474019742d2bf8c853c87aa9c7d7b31172cb4"
+
+[[files]]
+file = "config/map_atlases-common.toml"
+hash = "2b22e4ee0ba8011a65a82714d883f4a927a1cd4fa38ba92f1a01afc082e14eb4"
+
+[[files]]
+file = "config/mmlib-common.toml"
+hash = "01ed255911a9b2f7297301591e0b9fefb2c2b857b7127df90e98f0888f05b631"
+
+[[files]]
+file = "config/morevillagers-common.toml"
+hash = "8f71e1883d7ee987a1f057080606a59ca42567533a1b33e86f3ff788105f0471"
 
 [[files]]
 file = "config/naturescompass-client.toml"
@@ -922,11 +1174,11 @@ hash = "01ba4719c80b6fe911b091a7c05124b64eeece964e09c058ef8f9805daca546b"
 
 [[files]]
 file = "config/polymorph-integrations.toml"
-hash = "565c0e604709870ac9b2b81424cce4cae8fe59c008e883b82ad95816d599b565"
+hash = "03b37ca563865677e6fc6abbae96ac0e969caa242616549546e36b0bd76e9365"
 
 [[files]]
 file = "config/quark-common.toml"
-hash = "bf1be9b47ec72cb26c0175b9588020cbb43b72a8d80ab14b2dfa33dbe5512a42"
+hash = "7450649ffb6561c0acf2aef3a8c161106140234b60e19c942a3fe501f73bf6a4"
 
 [[files]]
 file = "config/regrowth-common.toml"
@@ -945,6 +1197,26 @@ file = "config/repurposed_structures-forge/cities.toml"
 hash = "6ea11fb7fff0da6488ad8fef87796f6b9e40b822c0b23e38f15bf3cfddc7bdb6"
 
 [[files]]
+file = "config/repurposed_structures-forge/dungeons-1.toml.bak"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
+file = "config/repurposed_structures-forge/dungeons-2.toml.bak"
+hash = "204397f9711194f30c0103fae7cd400b2cc291ebd0040ace13afdff6245e1620"
+
+[[files]]
+file = "config/repurposed_structures-forge/dungeons-3.toml.bak"
+hash = "204397f9711194f30c0103fae7cd400b2cc291ebd0040ace13afdff6245e1620"
+
+[[files]]
+file = "config/repurposed_structures-forge/dungeons-4.toml.bak"
+hash = "9d307a652232d964625c0df2d871410d1bb156e80ace982dbd340f3d95288fcc"
+
+[[files]]
+file = "config/repurposed_structures-forge/dungeons-5.toml.bak"
+hash = "9d307a652232d964625c0df2d871410d1bb156e80ace982dbd340f3d95288fcc"
+
+[[files]]
 file = "config/repurposed_structures-forge/dungeons.toml"
 hash = "204397f9711194f30c0103fae7cd400b2cc291ebd0040ace13afdff6245e1620"
 
@@ -953,16 +1225,72 @@ file = "config/repurposed_structures-forge/fortresses.toml"
 hash = "a54554386d139afaa85678944a11d6daf00d946d3544f66d996dc92a36a8ce95"
 
 [[files]]
+file = "config/repurposed_structures-forge/igloos-1.toml.bak"
+hash = "7574df954c7d188b51c5e37b79b0872264f18123c5df1ca42e91d15add5c56ac"
+
+[[files]]
+file = "config/repurposed_structures-forge/igloos-2.toml.bak"
+hash = "7574df954c7d188b51c5e37b79b0872264f18123c5df1ca42e91d15add5c56ac"
+
+[[files]]
 file = "config/repurposed_structures-forge/igloos.toml"
 hash = "7574df954c7d188b51c5e37b79b0872264f18123c5df1ca42e91d15add5c56ac"
+
+[[files]]
+file = "config/repurposed_structures-forge/mansions-1.toml.bak"
+hash = "943260c160832133681128d43e3c137da9db5d68e1bfbdd68835c48a41ff89c4"
+
+[[files]]
+file = "config/repurposed_structures-forge/mansions-2.toml.bak"
+hash = "fa8688d22cfe1eca0284c19f0d985e645e64c39d63b2cea19dd7ef19088db729"
+
+[[files]]
+file = "config/repurposed_structures-forge/mansions-3.toml.bak"
+hash = "fa8688d22cfe1eca0284c19f0d985e645e64c39d63b2cea19dd7ef19088db729"
+
+[[files]]
+file = "config/repurposed_structures-forge/mansions-4.toml.bak"
+hash = "fa8688d22cfe1eca0284c19f0d985e645e64c39d63b2cea19dd7ef19088db729"
+
+[[files]]
+file = "config/repurposed_structures-forge/mansions-5.toml.bak"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
 
 [[files]]
 file = "config/repurposed_structures-forge/mansions.toml"
 hash = "fa8688d22cfe1eca0284c19f0d985e645e64c39d63b2cea19dd7ef19088db729"
 
 [[files]]
-file = "config/repurposed_structures-forge/mineshafts.toml"
+file = "config/repurposed_structures-forge/map_trade_configs.json5"
+hash = "691acc02c68862f9a21d1ceb0f22c8026ea7d4c318113ba691bb02459ba30c9f"
+
+[[files]]
+file = "config/repurposed_structures-forge/mineshafts-1.toml.bak"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
+file = "config/repurposed_structures-forge/mineshafts-2.toml.bak"
+hash = "0aecdc8f35d27b46eb755695201e787199029dcaf2b33297932584117e5b9ac9"
+
+[[files]]
+file = "config/repurposed_structures-forge/mineshafts-3.toml.bak"
+hash = "bc4abb2fdfbd5d020a30067eb2be05090e66e73861bcd6cc380fff91134c0840"
+
+[[files]]
+file = "config/repurposed_structures-forge/mineshafts-4.toml.bak"
 hash = "fa41b0a9b4691897f85da838e2ae3d7fb68e8976d4fe86acc9ddaa51cf33bc0a"
+
+[[files]]
+file = "config/repurposed_structures-forge/mineshafts.toml"
+hash = "bc4abb2fdfbd5d020a30067eb2be05090e66e73861bcd6cc380fff91134c0840"
+
+[[files]]
+file = "config/repurposed_structures-forge/misc-1.toml.bak"
+hash = "3e71484e8735dbfc1d1f2032874a2dbbf68b2063ff97d1df1f14158d9c7d245d"
+
+[[files]]
+file = "config/repurposed_structures-forge/misc-2.toml.bak"
+hash = "3e71484e8735dbfc1d1f2032874a2dbbf68b2063ff97d1df1f14158d9c7d245d"
 
 [[files]]
 file = "config/repurposed_structures-forge/misc.toml"
@@ -977,6 +1305,10 @@ file = "config/repurposed_structures-forge/natural_mob_spawning_configs.json5"
 hash = "dd0f17af5435bae22dac85043fa4c1d4406507c038a072043a9ff6641a977c04"
 
 [[files]]
+file = "config/repurposed_structures-forge/outposts-1.toml.bak"
+hash = "287810f8b84ef0ec2b0bcd0d4da2c352826377f8c5084ef4f8380eade3945248"
+
+[[files]]
 file = "config/repurposed_structures-forge/outposts.toml"
 hash = "287810f8b84ef0ec2b0bcd0d4da2c352826377f8c5084ef4f8380eade3945248"
 
@@ -985,16 +1317,40 @@ file = "config/repurposed_structures-forge/pyramids.toml"
 hash = "41f7dd40b84b4cd6abab5d159e6c7e2496a85976c62938aa77e55a9565b6cd9c"
 
 [[files]]
+file = "config/repurposed_structures-forge/ruined_portals-1.toml.bak"
+hash = "d1c7a9c842f78537cd8e804817892cbd23109d0d8bead74fb1543323525d7661"
+
+[[files]]
 file = "config/repurposed_structures-forge/ruined_portals.toml"
 hash = "d1c7a9c842f78537cd8e804817892cbd23109d0d8bead74fb1543323525d7661"
 
 [[files]]
-file = "config/repurposed_structures-forge/ruins.toml"
+file = "config/repurposed_structures-forge/ruins-1.toml.bak"
+hash = "ed229cef38ffcf23c243d8a346e98d173552ceba8394bb35ea49996962615317"
+
+[[files]]
+file = "config/repurposed_structures-forge/ruins-2.toml.bak"
 hash = "6ec0dab45f95c847b3e61fccc9bf448434eda4e56b0b55c9d50e55a6a04ef322"
+
+[[files]]
+file = "config/repurposed_structures-forge/ruins.toml"
+hash = "ed229cef38ffcf23c243d8a346e98d173552ceba8394bb35ea49996962615317"
 
 [[files]]
 file = "config/repurposed_structures-forge/shipwrecks.toml"
 hash = "04d3359673838d5dec0d8fd35235670fa956e1e3e0349516e0a955fb417b7461"
+
+[[files]]
+file = "config/repurposed_structures-forge/strongholds-1.toml.bak"
+hash = "04e234ec713750771cc16077d67eed73ee989ceedc89802c8dba495c14530705"
+
+[[files]]
+file = "config/repurposed_structures-forge/strongholds-2.toml.bak"
+hash = "04e234ec713750771cc16077d67eed73ee989ceedc89802c8dba495c14530705"
+
+[[files]]
+file = "config/repurposed_structures-forge/strongholds-3.toml.bak"
+hash = "04e234ec713750771cc16077d67eed73ee989ceedc89802c8dba495c14530705"
 
 [[files]]
 file = "config/repurposed_structures-forge/strongholds.toml"
@@ -1005,12 +1361,52 @@ file = "config/repurposed_structures-forge/temples.toml"
 hash = "924ae17de872b624aedf5e5ded6fb521ba60c3380637970c8c8e8019e92c8678"
 
 [[files]]
+file = "config/repurposed_structures-forge/villages-1.toml.bak"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
+file = "config/repurposed_structures-forge/villages-2.toml.bak"
+hash = "ee51b7d12fe4eddf1843190d7b60d82410fdb6872e23e8238d25ed17c2f5dad2"
+
+[[files]]
+file = "config/repurposed_structures-forge/villages-3.toml.bak"
+hash = "ee51b7d12fe4eddf1843190d7b60d82410fdb6872e23e8238d25ed17c2f5dad2"
+
+[[files]]
+file = "config/repurposed_structures-forge/villages-4.toml.bak"
+hash = "ee51b7d12fe4eddf1843190d7b60d82410fdb6872e23e8238d25ed17c2f5dad2"
+
+[[files]]
+file = "config/repurposed_structures-forge/villages-5.toml.bak"
+hash = "ee51b7d12fe4eddf1843190d7b60d82410fdb6872e23e8238d25ed17c2f5dad2"
+
+[[files]]
 file = "config/repurposed_structures-forge/villages.toml"
 hash = "ee51b7d12fe4eddf1843190d7b60d82410fdb6872e23e8238d25ed17c2f5dad2"
 
 [[files]]
+file = "config/repurposed_structures-forge/wells-1.toml.bak"
+hash = "00308628e4545a6ead916a0719023cb39794c2030653c38aa893e1d7cf35f2d2"
+
+[[files]]
 file = "config/repurposed_structures-forge/wells.toml"
 hash = "00308628e4545a6ead916a0719023cb39794c2030653c38aa893e1d7cf35f2d2"
+
+[[files]]
+file = "config/repurposed_structures-forge/witch_huts-1.toml.bak"
+hash = "d4c0dec562a5cd737e9829d73a8c53c1c07c835652e1c442827a7c97e667903e"
+
+[[files]]
+file = "config/repurposed_structures-forge/witch_huts-2.toml.bak"
+hash = "d4c0dec562a5cd737e9829d73a8c53c1c07c835652e1c442827a7c97e667903e"
+
+[[files]]
+file = "config/repurposed_structures-forge/witch_huts-3.toml.bak"
+hash = "d4c0dec562a5cd737e9829d73a8c53c1c07c835652e1c442827a7c97e667903e"
+
+[[files]]
+file = "config/repurposed_structures-forge/witch_huts-4.toml.bak"
+hash = "d4c0dec562a5cd737e9829d73a8c53c1c07c835652e1c442827a7c97e667903e"
 
 [[files]]
 file = "config/repurposed_structures-forge/witch_huts.toml"
@@ -1027,6 +1423,10 @@ hash = "5d836255680be269f480f476524902f9b1eea972eb27514d26b501dca2a8ad33"
 [[files]]
 file = "config/solcarrot-client.toml"
 hash = "90b11bf7fe7bbf30c05728f2d4bdc51d49138c30359feb6261c6e7f5f04245ee"
+
+[[files]]
+file = "config/starterkit-common.toml"
+hash = "bbb8cad34a93cc1519a11e531cdcafede8cacc4db28a00f77896d794232414a0"
 
 [[files]]
 file = "config/starterkit/starterkit.txt"
@@ -1050,11 +1450,11 @@ hash = "69dceb9a1885a85f3fa87f50ef38c3166da8deb46c6b3697e06e3c1c8d4fd294"
 
 [[files]]
 file = "config/supplementaries-common.toml"
-hash = "db534c650e56e0126d026e75c7d7f76e3aa2f9d376a3625312dee0dfd5a3899b"
+hash = "1349b7c36ee21bd81d798715d49f7d249e2bd92edc21c016aeb8a54f42da4180"
 
 [[files]]
 file = "config/supplementaries-registry.toml"
-hash = "4752042bd640bf1ae559ef179186e49f069ffd33932ecc94e3e97731f8f1fa97"
+hash = "f891104d12f13ed8957ce884aaafb96b99cd0da9c6b9c55fae0c6af8a70f3728"
 
 [[files]]
 file = "config/syp-common.toml"
@@ -1066,7 +1466,7 @@ hash = "45a7e0ef5bcf9c22a6daebdea2c21e8687a0121abd909fd6898da1ae00e10f18"
 
 [[files]]
 file = "config/tconstruct-common.toml"
-hash = "135645cc44285bdb58427bce559ba09f92ae81f22ffd96ac9b8fc2eebf4a93a2"
+hash = "11b569d22f235d2df08a2f6054f84434f028a6ff90157da33a0d503da71d4997"
 
 [[files]]
 file = "config/terrablender.toml"
@@ -1082,7 +1482,7 @@ hash = "16fc089a922d3cb3836746a0b58210b9991caba2adfe15306f2098bb995d44a7"
 
 [[files]]
 file = "config/torchmaster.toml"
-hash = "5791cef615f147d6bee6e26ca0bf85c897d47a306126bcaf374c46dee87d0f34"
+hash = "ef2b046cca7e31b4d7fb6a4f3ca5e3a418d52896d96a319645371fdcc5a6bbe6"
 
 [[files]]
 file = "config/valhelsia_core-client.toml"
@@ -1102,11 +1502,7 @@ hash = "302acac902d537c5ac4ad706235c13411da14f38ed08fa84fd34d94e3b66cb26"
 
 [[files]]
 file = "config/waystones-common.toml"
-hash = "8b8f72929d07be244d29e838efa6bd7f4bd619704fad46888ff84cd409721df0"
-
-[[files]]
-file = "defaultconfigs/backpacked-server.toml"
-hash = "01e96f42d714d903870f6d2caa9d240b4887fa1e49192133d13531da3b5b34ad"
+hash = "abdeb42c160579fe2f7e3ba503e3db02381df4b7d22d98935287b9380e795c35"
 
 [[files]]
 file = "defaultconfigs/camera-server.toml"
@@ -1142,7 +1538,7 @@ hash = "af19109932cf7774ea706e5a20ace018573d794729a639655abca862df398d23"
 
 [[files]]
 file = "defaultconfigs/hourglass-server.toml"
-hash = "8b16a1303d82965792d331cb9a7d06deff3943e73b61c1b2b5e6e5ded949dbe1"
+hash = "ab2d7a455753ab0b1376685ab16864d05c3735c41d0d0fb1600d25df312c0a5c"
 
 [[files]]
 file = "defaultconfigs/pipez-server.toml"
@@ -1568,6 +1964,11 @@ metafile = true
 [[files]]
 file = "mods/lootr.toml"
 hash = "42400f0a629461f60d1a62c7fb7c4c3039a5d1632ee7bd9ed672d435ba82deb2"
+metafile = true
+
+[[files]]
+file = "mods/macaws-bridges-azalea.toml"
+hash = "a0ca2581adf0b23201d9adbe548f6d83446f1ca85cbc8064e71ae35f3215078c"
 metafile = true
 
 [[files]]

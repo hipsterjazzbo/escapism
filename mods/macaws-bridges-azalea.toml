@@ -1,0 +1,13 @@
+name = "Macaw's Bridges Azalea"
+filename = "MacawsBridgesAzalea-1.18.1-1.0.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3658/342/MacawsBridgesAzalea-1.18.1-1.0.jar"
+hash-format = "murmur2"
+hash = "1781573896"
+
+[update]
+[update.curseforge]
+file-id = 3658342
+project-id = 582467

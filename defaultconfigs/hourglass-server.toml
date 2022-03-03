@@ -48,7 +48,7 @@
 		#This effect does not apply if time speed is 1.0 or less.
 		#When set to SLEEPING, this effect only applies when at least one player is sleeping in a dimension.
 		#Allowed Values: NEVER, ALWAYS, SLEEPING
-		blockEntityEffect = "NEVER"
+		blockEntityEffect = "SLEEPING"
 
 [sleep]
 	#Enables or disables the sleep feature of this mod. Enabling this setting will modify the vanilla sleep functionality

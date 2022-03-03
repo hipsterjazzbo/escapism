@@ -4,12 +4,12 @@
 	#Dimensions where hostile mobs will not spawn. Ex: ["minecraft:overworld", "undergarden:undergarden"]. . Run /forge dimensions for a list.
 	dimensionBlacklist = []
 	#Rate of tree spawn per chunk
-	#Range: 0.0 ~ 1.0
-	genTrees = 0.002
+	#Range: > 0
+	treeWeight = 100
 	#Spawn Mana Berry Bushes in the world
 	genBerries = true
 	#Spawn a book in the players inventory on login
-	spawnBook = false
+	spawnBook = true
 	#How often Carbuncles spawn
 	#Range: 0 ~ 100
 	carbuncleWeight = 5

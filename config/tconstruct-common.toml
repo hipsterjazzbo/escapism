@@ -1,19 +1,4 @@
 
-#Everything to do with gameplay
-[gameplay]
-	#Set this to false to disable new players spawning with the Tinkers' Book.
-	shouldSpawnWithTinkersBook = false
-	#If non-empty, only this material will be shown on tools in creative and JEI (or the first valid material if this is invalid for the tool).
-	#If empty, all materials will show
-	showOnlyToolMaterial = "minecraft:iron"
-	#If non-empty, only material will be shown on parts in creative and JEI (or the first valid material if this is invalid for the part).
-	#If empty, all materials will show
-	showOnlyPartMaterial = "minecraft:iron"
-	#If true, tables such as the part builder and tinker station will show all variants. If false shows only a variant with a default texture.
-	showAllTableVariants = false
-	#If true, anvils will show all metal variants. If false, shows only a variant with the default texture
-	showAllAnvilVariants = false
-
 #Options related to recipes, limited options as a datapack allows most recipes to be modified
 [recipes]
 	#Add a recipe that allows you to craft a piece of flint using 3 gravel
@@ -80,6 +65,21 @@
 		piglin_brute = true
 		zombified_piglin = true
 
+#Everything to do with gameplay
+[gameplay]
+	#Set this to false to disable new players spawning with the Tinkers' Book.
+	shouldSpawnWithTinkersBook = true
+	#If non-empty, only this material will be shown on tools in creative and JEI (or the first valid material if this is invalid for the tool).
+	#If empty, all materials will show
+	showOnlyToolMaterial = ""
+	#If non-empty, only material will be shown on parts in creative and JEI (or the first valid material if this is invalid for the part).
+	#If empty, all materials will show
+	showOnlyPartMaterial = ""
+	#If true, tables such as the part builder and tinker station will show all variants. If false shows only a variant with a default texture.
+	showAllTableVariants = true
+	#If true, anvils will show all metal variants. If false, shows only a variant with the default texture
+	showAllAnvilVariants = true
+
 #Options related to loot table injections. Note some of the changes are done via global loot managers, these only control injecting loot into loot pools
 #If your modpack makes extensive loot table changes, many of these may be automatically disabled. You can also manually set up tables for more control.
 [loot]
@@ -92,6 +92,8 @@
 	#For comparison, vanilla wooden axes and pickaxes have a weight of 3, and stone axes/pickaxes have a weight of 1
 	#Range: 0 ~ 25
 	tinker_tool_bonus_chest = 2
+	#If true, ender dragons will drop scales when damaged by explosions
+	drop_dragon_Scales = true
 
 #Everything to do with world generation
 [worldgen]
@@ -106,7 +108,7 @@
 		#Options related to earth slime islands spawning in the oceans
 		[worldgen.slime_islands.earth]
 			#If true, this island generates
-			generate = false
+			generate = true
 			#How many chunks on average between islands
 			#Range: 10 ~ 500
 			spacing = 35
@@ -160,8 +162,14 @@
 
 	#Options related to slime geodes
 	[worldgen.geodes]
-		#If true, enderslime geodes generate as additional islands in the end
+		#If true, earthslime geodes generate deep in the world as another way to get slime
 		earth = true
+		#If true, skyslime geodes generate above amethyst as another way to get skyslime
+		sky = true
+		#If true, ichor geodes generate high in the nether. Strongly encouraged to keep enabled even if you disable the other geodes, as ichor crystals have some unique recipes and the fallbacks kinda suck for gameplay.
+		ichor = true
+		#If true, enderslime geodes generate as additional islands in the end
+		ender = true
 
 #Features to use in debugging gameplay and mechanics, generally should not be enabled in packs
 [debug]
