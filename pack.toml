@@ -1,12 +1,12 @@
 name = "Escapism"
 author = "hipsterjazzbo"
-version = "1.0.9"
+version = "1.0.10"
 pack-format = "packwiz:1.0.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "5efc4607363e6cea342a3f6d8d568174adf61259dda55482e800d83560251bc6"
+hash = "a7d4bea6b6e65ef4287229f3629d9a2f6d598a01d7ad58fed89a299defb88e2e"
 
 [versions]
 forge = "39.1.0"

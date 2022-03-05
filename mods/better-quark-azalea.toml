@@ -1,0 +1,13 @@
+name = "Better Quark Azalea"
+filename = "QuarkAzalea-1.18.1-1.1.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3668/450/QuarkAzalea-1.18.1-1.1.jar"
+hash-format = "murmur2"
+hash = "1558387293"
+
+[update]
+[update.curseforge]
+file-id = 3668450
+project-id = 584953

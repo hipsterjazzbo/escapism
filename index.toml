@@ -1563,12 +1563,12 @@ metafile = true
 
 [[files]]
 file = "mods/advanced-netherite.toml"
-hash = "23c0c82b0b9086db7e0f29e34dc81d56646ab25e2a86a64237cb2e947d2963a8"
+hash = "a73b8949d6d6410018a67889f72329d8828ddccac49bd5dc21ed99e41a5c2e5c"
 metafile = true
 
 [[files]]
 file = "mods/advancement-frames.toml"
-hash = "782a372701161044f4c21f681cf54fd98cc7d1bfc112deac7922310a3c7414b1"
+hash = "5b0fa2f3e997c2e742bc403469775d29986769d268cbc6e1a87c3a9342215dd5"
 metafile = true
 
 [[files]]
@@ -1608,7 +1608,7 @@ metafile = true
 
 [[files]]
 file = "mods/architectury-forge.toml"
-hash = "a907e18d3c2763b529ab23eaa5dac4e6532c0d6b08654d9b3334ae642e8dbe97"
+hash = "ad5d1d28139240e8a79b65c87376b4b902b4d9e595a6e2b75c244b80cbf283e0"
 metafile = true
 
 [[files]]
@@ -1662,8 +1662,18 @@ hash = "2585b0ee4c557c496448cb24981a9c830a863ed2204036252549dd799c78cf62"
 metafile = true
 
 [[files]]
+file = "mods/better-quark-azalea.toml"
+hash = "27158dae921b1ec7691f7158cc3bf9f6a72971d2c096881918a747a7e89cb116"
+metafile = true
+
+[[files]]
 file = "mods/betterf3.toml"
 hash = "090528d86170e8c64bd5a2aacf2ff0de35739014c5e0f85eed545d0ef57ecfe5"
+metafile = true
+
+[[files]]
+file = "mods/blueprint.toml"
+hash = "d6a205dcd504b06d1c425a9bd2759fa0faae45f303e0c43ef10cd7d1c25ea588"
 metafile = true
 
 [[files]]
@@ -1679,6 +1689,11 @@ metafile = true
 [[files]]
 file = "mods/brb.toml"
 hash = "6a6a1363a6aade690f209f0d4eb3b917e7a95e080755b3ac272bf10a6aacb65c"
+metafile = true
+
+[[files]]
+file = "mods/buddycards-expansions.toml"
+hash = "b14ed1e4e9e5517298ab39ecd1c6f4ad7a178793de65dac47491d45f8c1e0edd"
 metafile = true
 
 [[files]]
@@ -1807,6 +1822,11 @@ hash = "5d55f22f703b5b40f57cfd4e023fd9de02838290b1c38af03d3ed71f1fa3bfc1"
 metafile = true
 
 [[files]]
+file = "mods/createfoodadditions.toml"
+hash = "d2f0942146391b10efbdd4e40677ef85de81aa8f7fe6c7d086f4df164ed85605"
+metafile = true
+
+[[files]]
 file = "mods/creativecore.toml"
 hash = "661155638366b1a1b49f0b9cd3861538c65a5ccf35ccafe3dad92738aba6983d"
 metafile = true
@@ -1843,7 +1863,7 @@ metafile = true
 
 [[files]]
 file = "mods/enchanting-overhauled.toml"
-hash = "4d79762a097cb08a8915e238fe6a56fe1b62d8597cc7b1bd2c4bc6d3d3bfaca3"
+hash = "9ab8081020cd2e269db8c93c08ce370f7216d583bd18c4de4d94a998f0e65167"
 metafile = true
 
 [[files]]
@@ -1889,6 +1909,11 @@ metafile = true
 [[files]]
 file = "mods/feature-nbt-deadlock-be-gone.toml"
 hash = "3c4ac3340cc8bc70ff11fac0389e93c80a7ae6a578c06ec5bbdafb26e207c612"
+metafile = true
+
+[[files]]
+file = "mods/floral-flair.toml"
+hash = "a4d25a12e0548d502d39c84cdb8c96fcf65bb4c599fc8e7975eb461ccdfc6de8"
 metafile = true
 
 [[files]]
@@ -1968,7 +1993,7 @@ metafile = true
 
 [[files]]
 file = "mods/kubejs-forge.toml"
-hash = "b6c81c9a6dcee3db11098e5b24ccc78e76939104296082c0f63f0afa4456f737"
+hash = "b0e8f855a2af7fdaff23c8bb915ef4058b0b043ddfccfaa3e7cb8cb323b072ea"
 metafile = true
 
 [[files]]
@@ -1983,7 +2008,7 @@ metafile = true
 
 [[files]]
 file = "mods/lootr.toml"
-hash = "42400f0a629461f60d1a62c7fb7c4c3039a5d1632ee7bd9ed672d435ba82deb2"
+hash = "8415c1caa6d2adf2a3c06ca39c24af9722d023691c341934685681709cfc7a18"
 metafile = true
 
 [[files]]
@@ -2169,6 +2194,11 @@ metafile = true
 [[files]]
 file = "mods/snow-under-trees.toml"
 hash = "34dd274fa235f86b280d4a0d5a9583176f2b571b8ac85ed4e69d87e6e03e80fa"
+metafile = true
+
+[[files]]
+file = "mods/some-assembly-required.toml"
+hash = "68a42d9b3c058b64d7cc359759627cda7583a0a12588253e36bd3f85b30b7cf2"
 metafile = true
 
 [[files]]

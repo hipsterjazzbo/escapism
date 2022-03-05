@@ -1,13 +1,13 @@
 name = "Advanced Netherite"
-filename = "advancednetherite-1.10.0-1.18.1.jar"
+filename = "advancednetherite-1.10.2-1.18.1.jar"
 side = "both"
 
 [download]
-url = "https://edge.forgecdn.net/files/3598/308/advancednetherite-1.10.0-1.18.1.jar"
+url = "https://edge.forgecdn.net/files/3670/770/advancednetherite-1.10.2-1.18.1.jar"
 hash-format = "murmur2"
-hash = "4092442045"
+hash = "3650277266"
 
 [update]
 [update.curseforge]
-file-id = 3598308
+file-id = 3670770
 project-id = 495336
