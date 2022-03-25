@@ -1,13 +1,13 @@
 name = "🌹 Floral Flair 🌹"
-filename = "Floral-Flair-1.18.1-1.3.2.jar"
+filename = "Floral-Flair-1.18.1-1.4.2.jar"
 side = "both"
 
 [download]
-url = "https://edge.forgecdn.net/files/3620/506/Floral-Flair-1.18.1-1.3.2.jar"
+url = "https://edge.forgecdn.net/files/3682/533/Floral-Flair-1.18.1-1.4.2.jar"
 hash-format = "murmur2"
-hash = "2983299214"
+hash = "3689963251"
 
 [update]
 [update.curseforge]
-file-id = 3620506
+file-id = 3682533
 project-id = 544107

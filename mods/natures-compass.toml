@@ -1,13 +1,13 @@
 name = "Nature's Compass"
-filename = "NaturesCompass-1.18.1-1.9.4-forge.jar"
+filename = "NaturesCompass-1.18.1-1.9.5-forge.jar"
 side = "both"
 
 [download]
-url = "https://edge.forgecdn.net/files/3577/265/NaturesCompass-1.18.1-1.9.4-forge.jar"
+url = "https://edge.forgecdn.net/files/3684/914/NaturesCompass-1.18.1-1.9.5-forge.jar"
 hash-format = "murmur2"
-hash = "3978591178"
+hash = "1869964452"
 
 [update]
 [update.curseforge]
-file-id = 3577265
+file-id = 3684914
 project-id = 252848

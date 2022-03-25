@@ -1,13 +1,13 @@
 name = "Enchanting Overhauled"
-filename = "enchanting_overhauled-1.0.5.jar"
+filename = "enchanting_overhauled-1.0.6.jar"
 side = "both"
 
 [download]
-url = "https://edge.forgecdn.net/files/3670/864/enchanting_overhauled-1.0.5.jar"
+url = "https://edge.forgecdn.net/files/3709/977/enchanting_overhauled-1.0.6.jar"
 hash-format = "murmur2"
-hash = "1992735263"
+hash = "3009466178"
 
 [update]
 [update.curseforge]
-file-id = 3670864
+file-id = 3709977
 project-id = 565463

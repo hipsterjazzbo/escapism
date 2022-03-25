@@ -1,13 +1,13 @@
 name = "Akashic Tome"
-filename = "AkashicTome-1.5-17.jar"
+filename = "AkashicTome-1.5-19.jar"
 side = "both"
 
 [download]
-url = "https://edge.forgecdn.net/files/3642/281/AkashicTome-1.5-17.jar"
+url = "https://edge.forgecdn.net/files/3711/140/AkashicTome-1.5-19.jar"
 hash-format = "murmur2"
-hash = "3857577730"
+hash = "1166957662"
 
 [update]
 [update.curseforge]
-file-id = 3642281
+file-id = 3711140
 project-id = 250577
