@@ -1,13 +1,13 @@
 name = "Rhino"
-filename = "rhino-forge-1801.1.8-build.108.jar"
+filename = "rhino-forge-1801.1.9-build.131.jar"
 side = "both"
 
 [download]
-url = "https://edge.forgecdn.net/files/3711/803/rhino-forge-1801.1.8-build.108.jar"
+url = "https://edge.forgecdn.net/files/3722/921/rhino-forge-1801.1.9-build.131.jar"
 hash-format = "murmur2"
-hash = "2633999084"
+hash = "3546774704"
 
 [update]
 [update.curseforge]
-file-id = 3711803
+file-id = 3722921
 project-id = 416294

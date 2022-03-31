@@ -1,0 +1,13 @@
+name = "Heartstone"
+filename = "heartstone-1.18-1.0.0.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3624/965/heartstone-1.18-1.0.0.jar"
+hash-format = "murmur2"
+hash = "1550409564"
+
+[update]
+[update.curseforge]
+file-id = 3624965
+project-id = 573152

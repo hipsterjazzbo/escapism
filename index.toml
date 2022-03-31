@@ -1608,7 +1608,7 @@ metafile = true
 
 [[files]]
 file = "mods/architectury-forge.toml"
-hash = "47620ad5821619be92532668a327f8aa9d49b8c35ac7e4710bc21dca178368b1"
+hash = "ed8866e988703824759d3078e9ea75ba2c677f0716a6317540af44750f47a854"
 metafile = true
 
 [[files]]
@@ -1778,7 +1778,7 @@ metafile = true
 
 [[files]]
 file = "mods/construction-wand.toml"
-hash = "76760971c7762276d01667212513892167463d919481edb8badcdb85ce178675"
+hash = "75d02d62e771ffce417dad61932a8fc3b0f16dda426422cad50ed80d77b08ff6"
 metafile = true
 
 [[files]]
@@ -1818,7 +1818,7 @@ metafile = true
 
 [[files]]
 file = "mods/createaddition.toml"
-hash = "5d55f22f703b5b40f57cfd4e023fd9de02838290b1c38af03d3ed71f1fa3bfc1"
+hash = "c246d215ddcdbc9e59b379ffa1e790f2bbf9f599ad19ec16b890aac1842ee74f"
 metafile = true
 
 [[files]]
@@ -1854,6 +1854,11 @@ metafile = true
 [[files]]
 file = "mods/dynamic-view.toml"
 hash = "4b8cba243378a88bb50792719b31354223156fdb5f444f33b178a18c50f84077"
+metafile = true
+
+[[files]]
+file = "mods/easy-shulker-boxes-forge.toml"
+hash = "c6dd1172b43fa3528925fa62d9d9c663405f38a6fee49282389828b4ed295fd6"
 metafile = true
 
 [[files]]
@@ -1942,6 +1947,11 @@ hash = "5bf4bf85e0d4e21df02febebf8899aba683f2768a1c02f0073c13d0b17181d56"
 metafile = true
 
 [[files]]
+file = "mods/heartstone.toml"
+hash = "037c93843d5e2b8b01a403c7be77f888334eb618d6b4a652d7c981ef5437abdd"
+metafile = true
+
+[[files]]
 file = "mods/hourglass.toml"
 hash = "d5a6e59e071b4ce69f0329a5dfdb6e4fe35890b0420edbaf5f8c3b79b0ca6ff3"
 metafile = true
@@ -1963,7 +1973,7 @@ metafile = true
 
 [[files]]
 file = "mods/jei.toml"
-hash = "e46534426fd90410813f7133680cd07009216c92ec521c7df4daf8dd1eeb233f"
+hash = "def78c206013e59837e2ff00276a0afd43f8e00cc93a7a81f4dbcb9601656571"
 metafile = true
 
 [[files]]
@@ -2163,7 +2173,7 @@ metafile = true
 
 [[files]]
 file = "mods/rhino.toml"
-hash = "531b967b274a9cd4a1ea6a96d1f1c8085bdad5e863fe65b0bb9b49350fc8233e"
+hash = "18e9fb973304f40cee6fdceb5b6f9e4779a68552fac06af2579204278e36a217"
 metafile = true
 
 [[files]]
@@ -2223,7 +2233,7 @@ metafile = true
 
 [[files]]
 file = "mods/supplementaries.toml"
-hash = "d2b1d671c3f485f7e3f2975452eaa8f897a0063628a9da77647f6aa95204d770"
+hash = "7c421233adf80963a669b337ccff7c1826d52c6e0193a4807c11e8625f47c8b7"
 metafile = true
 
 [[files]]
@@ -2253,7 +2263,12 @@ metafile = true
 
 [[files]]
 file = "mods/torchmaster.toml"
-hash = "ed326d0369abd32e915233ebc7e1f356548125808ba74373fc3e4574ebd69274"
+hash = "d619a4d838e692377be94c76249337f35158d41ede9ed7f5d2211b2d24dd8eaf"
+metafile = true
+
+[[files]]
+file = "mods/travelers-titles.toml"
+hash = "9557df13e8004052597b58b8645f5a38299c6e9788ced4a8dab8c0bb1197102a"
 metafile = true
 
 [[files]]

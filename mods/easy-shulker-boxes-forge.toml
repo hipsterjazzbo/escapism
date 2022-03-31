@@ -1,0 +1,13 @@
+name = "Easy Shulker Boxes [Forge]"
+filename = "EasyShulkerBoxes-v3.0.0-1.18.1-Forge.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3693/851/EasyShulkerBoxes-v3.0.0-1.18.1-Forge.jar"
+hash-format = "murmur2"
+hash = "2135578668"
+
+[update]
+[update.curseforge]
+file-id = 3693851
+project-id = 594006
