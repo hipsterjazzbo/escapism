@@ -1,0 +1,36 @@
+#
+# Whether End Dungeons spawns Shulker Boxes. if false, spawns regular Chests instead.
+#(Configuredfeatures are unable to be overridden by datapack due to bad Forge hook placement. Hence this config option)
+shulkerBoxInEndDungeons = true
+"Min Height" = {}
+
+#-----------------------------------------------------------------------------------------
+# How many positions Repurposed Structures Dungeons will pick per chunk to check if it can spawn at those positions.
+# Does NOT replace vanilla Dungeons at all. Except for Deep Dungeon which replaces Vanilla Dungeons below y = 0
+# 0 for no Dungeons at all and 1000 for max Dungeon spawnrate.
+[AttemptsPerChunk]
+	#Range: 0 ~ 1000
+	badlandsDungeonAttemptsPerChunk = 8
+	#Range: 0 ~ 1000
+	darkForestDungeonAttemptsPerChunk = 8
+	#Range: 0 ~ 1000
+	desertDungeonAttemptsPerChunk = 8
+	#Range: 0 ~ 1000
+	deepDungeonAttemptsPerChunk = 4
+	#Range: 0 ~ 1000
+	jungleDungeonAttemptsPerChunk = 8
+	#Range: 0 ~ 1000
+	mushroomDungeonAttemptsPerChunk = 8
+	#Range: 0 ~ 1000
+	snowDungeonAttemptsPerChunk = 8
+	#Range: 0 ~ 1000
+	icyDungeonAttemptsPerChunk = 8
+	#Range: 0 ~ 1000
+	swampDungeonAttemptsPerChunk = 8
+	#Range: 0 ~ 1000
+	endDungeonAttemptsPerChunk = 12
+	#Range: 0 ~ 1000
+	netherDungeonAttemptsPerChunk = 12
+	#Range: 0 ~ 1000
+	oceanDungeonAttemptsPerChunk = 3
+
