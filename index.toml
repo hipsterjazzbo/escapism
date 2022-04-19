@@ -1909,6 +1909,11 @@ hash = "6e6eee1f4585aecc40b77e86f08a5eb1ab82b666178c57f3659aeeee5f0811ce"
 metafile = true
 
 [[files]]
+file = "mods/goblin-traders.toml"
+hash = "052ba25e5ea57b31f13742968d69cc56f2ae2f1d9941c13ed25fb34d70ebba83"
+metafile = true
+
+[[files]]
 file = "mods/guard-villagers.toml"
 hash = "6a213a327c2d658e988e41ef3f3edebe2ab8b7840c83d2bdc55870e182bdf28c"
 metafile = true
