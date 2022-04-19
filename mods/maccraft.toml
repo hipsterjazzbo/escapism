@@ -1,0 +1,13 @@
+name = "MacCraft"
+filename = "maccraft-1.0.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3755/90/maccraft-1.0.jar"
+hash-format = "murmur2"
+hash = "1030700994"
+
+[update]
+[update.curseforge]
+file-id = 3755090
+project-id = 613117
