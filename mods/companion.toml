@@ -1,13 +1,13 @@
 name = "Companion 🐕 (Forge)"
-filename = "Companion-1.18-forge-1.2.0.jar"
+filename = "Companion-1.18.2-forge-2.0.1.jar"
 side = "both"
 
 [download]
-url = "https://edge.forgecdn.net/files/3652/357/Companion-1.18-forge-1.2.0.jar"
+url = "https://edge.forgecdn.net/files/3717/839/Companion-1.18.2-forge-2.0.1.jar"
 hash-format = "murmur2"
-hash = "657371351"
+hash = "2741516220"
 
 [update]
 [update.curseforge]
-file-id = 3652357
+file-id = 3717839
 project-id = 559989

@@ -1,13 +1,13 @@
 name = "Flywheel"
-filename = "flywheel-forge-1.18-0.6.1.jar"
+filename = "flywheel-forge-1.18-0.6.2.jar"
 side = "client"
 
 [download]
-url = "https://edge.forgecdn.net/files/3687/357/flywheel-forge-1.18-0.6.1.jar"
+url = "https://edge.forgecdn.net/files/3737/402/flywheel-forge-1.18-0.6.2.jar"
 hash-format = "murmur2"
-hash = "653178819"
+hash = "40869246"
 
 [update]
 [update.curseforge]
-file-id = 3687357
+file-id = 3737402
 project-id = 486392

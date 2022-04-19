@@ -1,13 +1,13 @@
 name = "Feature NBT Deadlock Be Gone"
-filename = "feature_nbt_deadlock_be_gone_forge-1.0.0+1.18.1.jar"
+filename = "feature_nbt_deadlock_be_gone_forge-2.0.0+1.18.2.jar"
 side = "both"
 
 [download]
-url = "https://edge.forgecdn.net/files/3580/119/feature_nbt_deadlock_be_gone_forge-1.0.0+1.18.1.jar"
+url = "https://edge.forgecdn.net/files/3669/114/feature_nbt_deadlock_be_gone_forge-2.0.0+1.18.2.jar"
 hash-format = "murmur2"
-hash = "2406911689"
+hash = "744999769"
 
 [update]
 [update.curseforge]
-file-id = 3580119
+file-id = 3669114
 project-id = 560323

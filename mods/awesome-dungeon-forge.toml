@@ -1,13 +1,13 @@
 name = "Awesome Dungeon - Forge"
-filename = "awesomedungeon-2.0.5.jar"
+filename = "awesomedungeon-2.0.8.jar"
 side = "both"
 
 [download]
-url = "https://edge.forgecdn.net/files/3631/196/awesomedungeon-2.0.5.jar"
+url = "https://edge.forgecdn.net/files/3745/938/awesomedungeon-2.0.8.jar"
 hash-format = "murmur2"
-hash = "3562398448"
+hash = "376783814"
 
 [update]
 [update.curseforge]
-file-id = 3631196
+file-id = 3745938
 project-id = 531320

@@ -1,13 +1,13 @@
 name = "Toast Control"
-filename = "ToastControl-1.18.1-6.0.1.jar"
+filename = "ToastControl-1.18.2-6.0.2.jar"
 side = "both"
 
 [download]
-url = "https://edge.forgecdn.net/files/3639/782/ToastControl-1.18.1-6.0.1.jar"
+url = "https://edge.forgecdn.net/files/3717/855/ToastControl-1.18.2-6.0.2.jar"
 hash-format = "murmur2"
-hash = "2070544598"
+hash = "2657461747"
 
 [update]
 [update.curseforge]
-file-id = 3639782
+file-id = 3717855
 project-id = 271740

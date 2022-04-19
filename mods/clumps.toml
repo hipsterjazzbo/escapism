@@ -1,13 +1,13 @@
 name = "Clumps"
-filename = "Clumps-forge-1.18.1-8.0.0+5.jar"
+filename = "Clumps-forge-1.18.2-8.0.0+8.jar"
 side = "both"
 
 [download]
-url = "https://edge.forgecdn.net/files/3616/324/Clumps-forge-1.18.1-8.0.0+5.jar"
+url = "https://edge.forgecdn.net/files/3757/581/Clumps-forge-1.18.2-8.0.0+8.jar"
 hash-format = "murmur2"
-hash = "2777602693"
+hash = "3353913679"
 
 [update]
 [update.curseforge]
-file-id = 3616324
+file-id = 3757581
 project-id = 256717

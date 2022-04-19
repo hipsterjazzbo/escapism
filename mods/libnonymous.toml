@@ -1,13 +1,13 @@
 name = "Libnonymous"
-filename = "libnonymous-2.0.5.jar"
+filename = "libnonymous-2.1.0.jar"
 side = "both"
 
 [download]
-url = "https://edge.forgecdn.net/files/3662/909/libnonymous-2.0.5.jar"
+url = "https://edge.forgecdn.net/files/3677/573/libnonymous-2.1.0.jar"
 hash-format = "murmur2"
-hash = "873976355"
+hash = "2849204682"
 
 [update]
 [update.curseforge]
-file-id = 3662909
+file-id = 3677573
 project-id = 357557

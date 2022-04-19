@@ -1,13 +1,13 @@
 name = "Fast Leaf Decay"
-filename = "FastLeafDecay-27.2.jar"
+filename = "FastLeafDecay-28.jar"
 side = "both"
 
 [download]
-url = "https://edge.forgecdn.net/files/3590/415/FastLeafDecay-27.2.jar"
+url = "https://edge.forgecdn.net/files/3693/140/FastLeafDecay-28.jar"
 hash-format = "murmur2"
-hash = "1474099634"
+hash = "3767974465"
 
 [update]
 [update.curseforge]
-file-id = 3590415
+file-id = 3693140
 project-id = 230976

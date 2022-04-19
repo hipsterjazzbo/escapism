@@ -1,13 +1,13 @@
 name = "ExpandAbility"
-filename = "expandability-5.0.0-forge.jar"
+filename = "expandability-6.0.0.jar"
 side = "both"
 
 [download]
-url = "https://edge.forgecdn.net/files/3580/591/expandability-5.0.0-forge.jar"
+url = "https://edge.forgecdn.net/files/3678/612/expandability-6.0.0.jar"
 hash-format = "murmur2"
-hash = "837674316"
+hash = "3729288043"
 
 [update]
 [update.curseforge]
-file-id = 3580591
+file-id = 3678612
 project-id = 465066

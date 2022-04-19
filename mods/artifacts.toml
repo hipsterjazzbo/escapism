@@ -1,13 +1,13 @@
 name = "Artifacts"
-filename = "artifacts-1.18.1-4.0.3.jar"
+filename = "artifacts-1.18.2-4.0.7.jar"
 side = "both"
 
 [download]
-url = "https://edge.forgecdn.net/files/3665/638/artifacts-1.18.1-4.0.3.jar"
+url = "https://edge.forgecdn.net/files/3736/897/artifacts-1.18.2-4.0.7.jar"
 hash-format = "murmur2"
-hash = "251840355"
+hash = "1502135789"
 
 [update]
 [update.curseforge]
-file-id = 3665638
+file-id = 3736897
 project-id = 312353

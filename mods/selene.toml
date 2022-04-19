@@ -1,13 +1,13 @@
 name = "Selene Lib"
-filename = "selene-1.18-1.13.2.jar"
+filename = "selene-1.18.2-1.15.1.jar"
 side = "both"
 
 [download]
-url = "https://edge.forgecdn.net/files/3668/969/selene-1.18-1.13.2.jar"
+url = "https://edge.forgecdn.net/files/3742/343/selene-1.18.2-1.15.1.jar"
 hash-format = "murmur2"
-hash = "1445957934"
+hash = "4154687152"
 
 [update]
 [update.curseforge]
-file-id = 3668969
+file-id = 3742343
 project-id = 499980

@@ -1,13 +1,13 @@
 name = "Waystones"
-filename = "waystones-forge-1.18.1-9.0.4.jar"
+filename = "waystones-forge-1.18.2-10.0.0.jar"
 side = "both"
 
 [download]
-url = "https://edge.forgecdn.net/files/3658/46/waystones-forge-1.18.1-9.0.4.jar"
+url = "https://edge.forgecdn.net/files/3684/732/waystones-forge-1.18.2-10.0.0.jar"
 hash-format = "murmur2"
-hash = "273402507"
+hash = "1572198366"
 
 [update]
 [update.curseforge]
-file-id = 3658046
+file-id = 3684732
 project-id = 245755

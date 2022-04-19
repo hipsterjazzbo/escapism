@@ -1,13 +1,13 @@
 name = "Catalogue"
-filename = "catalogue-1.6.0-1.18.1.jar"
+filename = "catalogue-1.6.1-1.18.2.jar"
 side = "both"
 
 [download]
-url = "https://edge.forgecdn.net/files/3559/402/catalogue-1.6.0-1.18.1.jar"
+url = "https://edge.forgecdn.net/files/3721/991/catalogue-1.6.1-1.18.2.jar"
 hash-format = "murmur2"
-hash = "1361074215"
+hash = "460704055"
 
 [update]
 [update.curseforge]
-file-id = 3559402
+file-id = 3721991
 project-id = 459701

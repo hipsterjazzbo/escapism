@@ -1,13 +1,13 @@
 name = "JER Integration"
-filename = "JER-Integration-2.2.0-experimental.jar"
+filename = "JER-Integration-3.2.1.jar"
 side = "both"
 
 [download]
-url = "https://edge.forgecdn.net/files/3626/593/JER-Integration-2.2.0-experimental.jar"
+url = "https://edge.forgecdn.net/files/3738/123/JER-Integration-3.2.1.jar"
 hash-format = "murmur2"
-hash = "493114109"
+hash = "3419239512"
 
 [update]
 [update.curseforge]
-file-id = 3626593
+file-id = 3738123
 project-id = 506948

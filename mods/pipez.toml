@@ -1,13 +1,13 @@
 name = "Pipez"
-filename = "pipez-1.18.1-1.0.1.jar"
+filename = "pipez-1.18.2-1.0.3.jar"
 side = "both"
 
 [download]
-url = "https://edge.forgecdn.net/files/3569/514/pipez-1.18.1-1.0.1.jar"
+url = "https://edge.forgecdn.net/files/3745/667/pipez-1.18.2-1.0.3.jar"
 hash-format = "murmur2"
-hash = "4274027422"
+hash = "4046076477"
 
 [update]
 [update.curseforge]
-file-id = 3569514
+file-id = 3745667
 project-id = 443900

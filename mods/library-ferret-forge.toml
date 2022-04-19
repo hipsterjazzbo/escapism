@@ -1,13 +1,13 @@
 name = "Library Ferret - Forge"
-filename = "LibraryFerret-Forge-1.18.1-1.0.3.jar"
+filename = "LibraryFerret-Forge-1.18.2-1.0.3.jar"
 side = "both"
 
 [download]
-url = "https://edge.forgecdn.net/files/3597/907/LibraryFerret-Forge-1.18.1-1.0.3.jar"
+url = "https://edge.forgecdn.net/files/3673/59/LibraryFerret-Forge-1.18.2-1.0.3.jar"
 hash-format = "murmur2"
-hash = "366868537"
+hash = "397627769"
 
 [update]
 [update.curseforge]
-file-id = 3597907
+file-id = 3673059
 project-id = 532727

@@ -1,13 +1,13 @@
 name = "Rubidium"
-filename = "rubidium-0.5.0.jar"
+filename = "rubidium-0.5.2a.jar"
 side = "both"
 
 [download]
-url = "https://edge.forgecdn.net/files/3654/785/rubidium-0.5.0.jar"
+url = "https://edge.forgecdn.net/files/3749/94/rubidium-0.5.2a.jar"
 hash-format = "murmur2"
-hash = "1825604056"
+hash = "1212921633"
 
 [update]
 [update.curseforge]
-file-id = 3654785
+file-id = 3749094
 project-id = 574856

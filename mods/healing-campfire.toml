@@ -1,13 +1,13 @@
 name = "Healing Campfire (Forge)"
-filename = "healingcampfire_1.18.1-3.4.jar"
+filename = "healingcampfire_1.18.2-3.4.jar"
 side = "both"
 
 [download]
-url = "https://edge.forgecdn.net/files/3561/516/healingcampfire_1.18.1-3.4.jar"
+url = "https://edge.forgecdn.net/files/3669/228/healingcampfire_1.18.2-3.4.jar"
 hash-format = "murmur2"
-hash = "1635886290"
+hash = "1295832416"
 
 [update]
 [update.curseforge]
-file-id = 3561516
+file-id = 3669228
 project-id = 342623

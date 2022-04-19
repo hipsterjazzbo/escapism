@@ -1,13 +1,13 @@
 name = "Better Compatibility Checker"
-filename = "BetterCompatibilityChecker-1.1.12-build.24+mc1.18.1.jar"
+filename = "BetterCompatibilityChecker-1.1.13-build.25+mc1.18.2.jar"
 side = "both"
 
 [download]
-url = "https://edge.forgecdn.net/files/3655/489/BetterCompatibilityChecker-1.1.12-build.24+mc1.18.1.jar"
+url = "https://edge.forgecdn.net/files/3679/781/BetterCompatibilityChecker-1.1.13-build.25+mc1.18.2.jar"
 hash-format = "murmur2"
-hash = "1259944380"
+hash = "2272398722"
 
 [update]
 [update.curseforge]
-file-id = 3655489
+file-id = 3679781
 project-id = 551894

@@ -1,13 +1,13 @@
 name = "Kiwi 🥝 (Forge)"
-filename = "Kiwi-1.18-forge-5.2.5.jar"
+filename = "Kiwi-1.18.2-forge-6.1.0.jar"
 side = "both"
 
 [download]
-url = "https://edge.forgecdn.net/files/3623/424/Kiwi-1.18-forge-5.2.5.jar"
+url = "https://edge.forgecdn.net/files/3755/791/Kiwi-1.18.2-forge-6.1.0.jar"
 hash-format = "murmur2"
-hash = "1167837685"
+hash = "301798511"
 
 [update]
 [update.curseforge]
-file-id = 3623424
+file-id = 3755791
 project-id = 303657

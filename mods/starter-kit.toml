@@ -1,13 +1,13 @@
 name = "Starter Kit (Forge)"
-filename = "starterkit_1.18.1-3.2.jar"
+filename = "starterkit_1.18.2-3.2.jar"
 side = "both"
 
 [download]
-url = "https://edge.forgecdn.net/files/3561/437/starterkit_1.18.1-3.2.jar"
+url = "https://edge.forgecdn.net/files/3669/154/starterkit_1.18.2-3.2.jar"
 hash-format = "murmur2"
-hash = "1947783374"
+hash = "3732626043"
 
 [update]
 [update.curseforge]
-file-id = 3561437
+file-id = 3669154
 project-id = 390717

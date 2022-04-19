@@ -1,0 +1,13 @@
+name = "Magnum Torch [Forge]"
+filename = "MagnumTorch-v3.1.3-1.18.2-Forge.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3699/110/MagnumTorch-v3.1.3-1.18.2-Forge.jar"
+hash-format = "murmur2"
+hash = "3038274900"
+
+[update]
+[update.curseforge]
+file-id = 3699110
+project-id = 593981

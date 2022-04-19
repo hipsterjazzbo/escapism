@@ -1,0 +1,13 @@
+name = "Amethyst Tools Mod"
+filename = "Amethyst-Tools-Mod-1.18.x-1.4.2.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3756/829/Amethyst-Tools-Mod-1.18.x-1.4.2.jar"
+hash-format = "murmur2"
+hash = "1452219505"
+
+[update]
+[update.curseforge]
+file-id = 3756829
+project-id = 571422
