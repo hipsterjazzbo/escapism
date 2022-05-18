@@ -2,9 +2,6 @@
 
 - Effective Forge
 - Visuality
-- Yungs
-- Retino Forge
 - Relics
 - Curious Elytra
-- Travellers Titles
 - Tinkers

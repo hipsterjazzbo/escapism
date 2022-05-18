@@ -1,13 +1,13 @@
 name = "Corn Delight"
-filename = "corn_delight-1.0.1-1.18.2.jar"
+filename = "corn_delight-1.0.3-1.18.2.jar"
 side = "both"
 
 [download]
-url = "https://edge.forgecdn.net/files/3752/15/corn_delight-1.0.1-1.18.2.jar"
+url = "https://edge.forgecdn.net/files/3778/309/corn_delight-1.0.3-1.18.2.jar"
 hash-format = "murmur2"
-hash = "3694566873"
+hash = "110502155"
 
 [update]
 [update.curseforge]
-file-id = 3752015
+file-id = 3778309
 project-id = 577805

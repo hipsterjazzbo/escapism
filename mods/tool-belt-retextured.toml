@@ -1,0 +1,13 @@
+name = "Tool Belt Retextured"
+filename = "Tool Belt Retextured 1.18.x.zip"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3749/681/Tool Belt Retextured 1.18.x.zip"
+hash-format = "murmur2"
+hash = "3535366315"
+
+[update]
+[update.curseforge]
+file-id = 3749681
+project-id = 504062

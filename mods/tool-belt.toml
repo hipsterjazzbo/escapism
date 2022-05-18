@@ -1,0 +1,13 @@
+name = "Tool Belt"
+filename = "ToolBelt-1.18.2-1.18.8.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3745/784/ToolBelt-1.18.2-1.18.8.jar"
+hash-format = "murmur2"
+hash = "265936635"
+
+[update]
+[update.curseforge]
+file-id = 3745784
+project-id = 260262

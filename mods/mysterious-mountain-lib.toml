@@ -1,13 +1,13 @@
 name = "Mysterious Mountain Lib"
-filename = "mmlib-1.0.0-1.18.2.jar"
+filename = "mmlib-1.0.2-1.18.2.jar"
 side = "both"
 
 [download]
-url = "https://edge.forgecdn.net/files/3741/169/mmlib-1.0.0-1.18.2.jar"
+url = "https://edge.forgecdn.net/files/3788/751/mmlib-1.0.2-1.18.2.jar"
 hash-format = "murmur2"
-hash = "1583191089"
+hash = "559622601"
 
 [update]
 [update.curseforge]
-file-id = 3741169
+file-id = 3788751
 project-id = 368098
