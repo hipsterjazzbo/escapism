@@ -1,13 +1,13 @@
 name = "Lexicon"
-filename = "Lexicon-1.18-(v.0.3.0).jar"
+filename = "Lexicon-1.18-(v.0.5.0).jar"
 side = "both"
 
 [download]
-url = "https://edge.forgecdn.net/files/3785/475/Lexicon-1.18-(v.0.3.0).jar"
-hash-format = "murmur2"
-hash = "2996613239"
+hash-format = "sha1"
+hash = "a468aadb5da182dfba2752f2bcfbc16e7bd63f20"
+mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 3785475
+file-id = 3802553
 project-id = 615275

@@ -1,13 +1,13 @@
 name = "Colds: Easy Paxel (Lite) (FORGE)"
-filename = "EasyPaxelLite1.18.2(FORGE)vs1.0.11.jar"
+filename = "EasyPaxelLite1.18.2(FORGE)vs1.0.12.jar"
 side = "both"
 
 [download]
-url = "https://edge.forgecdn.net/files/3787/652/EasyPaxelLite1.18.2(FORGE)vs1.0.11.jar"
-hash-format = "murmur2"
-hash = "4152938848"
+hash-format = "sha1"
+hash = "5485e8cc6940d5bfe723043382bbadc4e1493950"
+mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 3787652
+file-id = 3795292
 project-id = 476520
