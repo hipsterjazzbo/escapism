@@ -1,5 +1,4 @@
 ### PAX ###
-pax
 pax.exe
 libssl*.dll
 libcrypto*.dll
