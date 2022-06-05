@@ -49,7 +49,7 @@
     },
     {
       "projectID": 228525,
-      "fileID": 3807718,
+      "fileID": 3815576,
       "required": true,
       "__meta": {
         "name": "Bookshelf"
@@ -73,7 +73,7 @@
     },
     {
       "projectID": 238086,
-      "fileID": 3813362,
+      "fileID": 3817694,
       "required": true,
       "__meta": {
         "name": "KubeJS",
@@ -343,7 +343,7 @@
     },
     {
       "projectID": 303657,
-      "fileID": 3755791,
+      "fileID": 3817086,
       "required": true,
       "__meta": {
         "name": "Kiwi 🥝 (Forge)"
@@ -577,7 +577,7 @@
     },
     {
       "projectID": 368293,
-      "fileID": 3815328,
+      "fileID": 3816393,
       "required": true,
       "__meta": {
         "name": "Repurposed Structures (Forge)",
@@ -754,7 +754,7 @@
     },
     {
       "projectID": 412082,
-      "fileID": 3800501,
+      "fileID": 3816794,
       "required": true,
       "__meta": {
         "name": "Supplementaries",
@@ -882,7 +882,7 @@
     },
     {
       "projectID": 453925,
-      "fileID": 3755729,
+      "fileID": 3817472,
       "required": true,
       "__meta": {
         "name": "Macaw's Fences and Walls"
@@ -1006,7 +1006,7 @@
     },
     {
       "projectID": 495336,
-      "fileID": 3780624,
+      "fileID": 3817067,
       "required": true,
       "__meta": {
         "name": "Advanced Netherite"
@@ -1049,7 +1049,7 @@
     },
     {
       "projectID": 499980,
-      "fileID": 3811698,
+      "fileID": 3816884,
       "required": true,
       "__meta": {
         "name": "Selene Lib"
@@ -1354,7 +1354,7 @@
     },
     {
       "projectID": 563928,
-      "fileID": 3801033,
+      "fileID": 3816497,
       "required": true,
       "__meta": {
         "name": "TerraBlender (Forge)",
@@ -1604,7 +1604,7 @@
     },
     {
       "projectID": 628539,
-      "fileID": 3811744,
+      "fileID": 3816926,
       "required": true,
       "__meta": {
         "name": "Every Compat",
