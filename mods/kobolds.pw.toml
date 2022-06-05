@@ -1,0 +1,13 @@
+name = "Kobolds!"
+filename = "Kobolds-2.0.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "4a6f0868a9d1b1612a5114ae93c3c19fcce92f49"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3808548
+project-id = 484967

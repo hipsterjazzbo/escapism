@@ -1,0 +1,13 @@
+name = "World Pre Generator"
+filename = "WorldPreGenerator-1.18.2-2.0.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "039b2304705d846cdda3b7655546ee403296e2de"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3683911
+project-id = 388157

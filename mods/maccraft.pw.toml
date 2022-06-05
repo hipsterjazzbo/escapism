@@ -1,0 +1,13 @@
+name = "MacCraft"
+filename = "maccraft-1.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "7e3ad13c34cc331374f62aa328591a19cd58e4b4"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3755090
+project-id = 613117

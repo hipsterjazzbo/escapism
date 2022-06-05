@@ -1,0 +1,13 @@
+name = "Actually Useful Smithing Table"
+filename = "ActuallyUsefulSmithingTable-3.0.0 mc 1.18.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "4696008c9a210ab6accddab2cec8dc06326c70ba"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3779163
+project-id = 398252

@@ -1,0 +1,13 @@
+name = "Companion 🐕 (Forge)"
+filename = "Companion-1.18.2-forge-2.1.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "49d93b912a800d6bf59f8c2cad454fb64342a347"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3771497
+project-id = 559989

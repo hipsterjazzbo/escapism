@@ -11,6 +11,7 @@
 
 # Exclude exported CurseForge zip files
 /Escapism*
+.out/**
 
 # Exclude exported Modrinth modpacks
 *.mrpack
@@ -22,3 +23,4 @@
 .DS_Store
 
 config/byg/overworld-biomes.json
+/modpack/**

@@ -1,0 +1,13 @@
+name = "Starter Kit (Forge)"
+filename = "starterkit_1.18.2-3.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "5df976d206c63473c467d4c413c70465a2950a96"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3669154
+project-id = 390717

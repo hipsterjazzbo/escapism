@@ -1307,6 +1307,14 @@
       }
     },
     {
+      "projectID": 557796,
+      "fileID": 3817648,
+      "required": true,
+      "__meta": {
+        "name": "Effective (Forge)"
+      }
+    },
+    {
       "projectID": 558126,
       "fileID": 3735147,
       "required": true,

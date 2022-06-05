@@ -1,0 +1,13 @@
+name = "Better Azalea"
+filename = "azalea-FORGE-3.2.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "d2b93ea1d30d041ee0b3aa88f40d0c1ebf3d7a6d"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3696048
+project-id = 517564

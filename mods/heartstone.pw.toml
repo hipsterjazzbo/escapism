@@ -1,0 +1,13 @@
+name = "Heartstone"
+filename = "heartstone-1.18-1.0.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "2aaf2b4dd1ac966b83d9a999e841dc90bec63b7a"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3624965
+project-id = 573152
