@@ -10,7 +10,7 @@
 /README.md
 
 # Exclude exported CurseForge zip files
-/Escapism*
+/*.zip
 .out/**
 
 # Exclude exported Modrinth modpacks
