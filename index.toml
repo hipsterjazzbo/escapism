@@ -1,20 +1,456 @@
 hash-format = "sha256"
 
 [[files]]
-file = "config/InventoryHUD/curios.json"
+file = "Escapism-2.0.3/manifest.json"
+hash = "3151a3eac111aae17302d4cb38f4e64b6b1e5ab197e50733e3042ae40fcc0226"
+
+[[files]]
+file = "Escapism-2.0.3/modlist.html"
+hash = "9540609c853fe79c868011500db9cb320224c9d4132b99e8c899e1c7890841f5"
+
+[[files]]
+file = "Escapism-2.0.3/overrides/config/InventoryHUD/curios.json"
+hash = "a50b2bb441550f38d3f9ae264825f9a2aea59ffd1d029b35781c96bcadc56d53"
+
+[[files]]
+file = "Escapism-2.0.3/overrides/config/advancednetherite-common.toml"
+hash = "aa6f188035d0b7e766c1e2805341f3b54029ec45870b89140a3e8c42c11d7717"
+
+[[files]]
+file = "Escapism-2.0.3/overrides/config/akashictome-common.toml"
+hash = "cfb22b1e19dd42e5688f0e6d8c466ceda5c12e953212d13009b990fa61c8ce2d"
+
+[[files]]
+file = "Escapism-2.0.3/overrides/config/alexsmobs.toml"
+hash = "e1ef21d14996665207735184b6d1b30f108fde7167f3a61d524dc263dd9fd660"
+
+[[files]]
+file = "Escapism-2.0.3/overrides/config/ars_nouveau-common.toml"
+hash = "dd2b0ac0ec897166e68f17b64d1f64991406606f2bbfd83a1d75d1ca660a280b"
+
+[[files]]
+file = "Escapism-2.0.3/overrides/config/backpacked-client.toml"
+hash = "ed92b63532b00e37645b45baf0d86edc7d67b6d24eea09f6a26f04b5bf7a3a55"
+
+[[files]]
+file = "Escapism-2.0.3/overrides/config/backpacked-common.toml"
+hash = "90e5b2b421cc5418c4bdd2dd262670f78b565f637770feb8cb8c9715b6c99029"
+
+[[files]]
+file = "Escapism-2.0.3/overrides/config/byg/biomepedia.json5"
+hash = "d9b7c4d1b5445c9b34618918f94f190e2f9dd5312ae1e241e11ac796edf7e31c"
+
+[[files]]
+file = "Escapism-2.0.3/overrides/config/byg/client/biomepedia_inventory.json5"
+hash = "a5e9cbd9ce3331dfad0c79129d7a38fbc724806549da3087b866f784966f4c33"
+
+[[files]]
+file = "Escapism-2.0.3/overrides/config/inventoryhud-client.toml"
+hash = "f68c28c880b3d35a8db284d1088576ee5e0fbe330f07655cf272d1c26bc4e608"
+
+[[files]]
+file = "Escapism-2.0.3/overrides/config/jei-client.toml"
+hash = "15f80e938805aff4fdda5307cb3b1f93002acd1330cbf6e93fff52a30d37780e"
+
+[[files]]
+file = "Escapism-2.0.3/overrides/config/paxi/resourcepacks/CopperColorFix-1.18.zip"
 hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
+file = "Escapism-2.0.3/overrides/config/paxi/resourcepacks/Create+Style+Modded+Compats+v13.zip"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
+file = "Escapism-2.0.3/overrides/config/paxi/resourcepacks/Created+Storage+Network+1.2.zip"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
+file = "Escapism-2.0.3/overrides/config/paxi/resourcepacks/Detail-Brush-1.4-1.18.zip"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
+file = "Escapism-2.0.3/overrides/config/paxi/resourcepacks/Tool+Belt+Retextured+1.18.x.zip"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
+file = "Escapism-2.0.3/overrides/config/paxi/resourcepacks/chipped_create_compat_1_18.zip"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
+file = "Escapism-2.0.3/overrides/config/quark-common.toml"
+hash = "1b9575b757256c817482e3ceffc09d3f3ceb834775b45423a72e4941ee784776"
+
+[[files]]
+file = "Escapism-2.0.3/overrides/config/starterkit/starterkit.txt"
+hash = "67b3b54505a6ad2e71361bdb4e77f9ab8d67c6c5f273a81c0d0e5613e2202f94"
+
+[[files]]
+file = "Escapism-2.0.3/overrides/config/veinmining-client.toml"
+hash = "37bdd8c3d780fd8ec8e4214dc46d441ae35304b28dff3322be0ae248799ece0b"
+
+[[files]]
+file = "Escapism-2.0.3/overrides/config/waystones-common.toml"
+hash = "315f1bf43bfdf2d34e47e693612c9245544902c1f3f0999a64e8cb11a423f9dc"
+
+[[files]]
+file = "Escapism-2.0.3/overrides/defaultconfigs/backpacked-server.toml"
+hash = "62d6c81298f1b781bc5953f940519e5c4b6e7cdbb99e1e866daca351c0a68a3a"
+
+[[files]]
+file = "Escapism-2.0.3/overrides/defaultconfigs/hourglass-server.toml"
+hash = "6dc074bf9694c2249e808e12741a84603cc3dcb8459442aed6fe78f63f4c223f"
+
+[[files]]
+file = "Escapism-2.0.3/overrides/kubejs/README.txt"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
+file = "Escapism-2.0.3/overrides/kubejs/assets/kubejs/textures/block/example_block.png"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
+file = "Escapism-2.0.3/overrides/kubejs/assets/kubejs/textures/item/example_item.png"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
+file = "Escapism-2.0.3/overrides/kubejs/client_scripts/script.js"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
+file = "Escapism-2.0.3/overrides/kubejs/config/client.properties"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
+file = "Escapism-2.0.3/overrides/kubejs/config/common.properties"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
+file = "Escapism-2.0.3/overrides/kubejs/exported/tags/activity.txt"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
+file = "Escapism-2.0.3/overrides/kubejs/exported/tags/attribute.txt"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
+file = "Escapism-2.0.3/overrides/kubejs/exported/tags/block_entity_type.txt"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
+file = "Escapism-2.0.3/overrides/kubejs/exported/tags/block_predicate_type.txt"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
+file = "Escapism-2.0.3/overrides/kubejs/exported/tags/blocks.txt"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
+file = "Escapism-2.0.3/overrides/kubejs/exported/tags/byg/blending_function.txt"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
+file = "Escapism-2.0.3/overrides/kubejs/exported/tags/byg/villager_trades_item_listing.txt"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
+file = "Escapism-2.0.3/overrides/kubejs/exported/tags/chunk_status.txt"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
+file = "Escapism-2.0.3/overrides/kubejs/exported/tags/custom_stat.txt"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
+file = "Escapism-2.0.3/overrides/kubejs/exported/tags/data_serializers.txt"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
+file = "Escapism-2.0.3/overrides/kubejs/exported/tags/dimension_type.txt"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
+file = "Escapism-2.0.3/overrides/kubejs/exported/tags/enchantment.txt"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
+file = "Escapism-2.0.3/overrides/kubejs/exported/tags/entity_types.txt"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
+file = "Escapism-2.0.3/overrides/kubejs/exported/tags/float_provider_type.txt"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
+file = "Escapism-2.0.3/overrides/kubejs/exported/tags/fluids.txt"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
+file = "Escapism-2.0.3/overrides/kubejs/exported/tags/forge/loot_modifier_serializers.txt"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
+file = "Escapism-2.0.3/overrides/kubejs/exported/tags/forge/world_types.txt"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
+file = "Escapism-2.0.3/overrides/kubejs/exported/tags/game_events.txt"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
+file = "Escapism-2.0.3/overrides/kubejs/exported/tags/height_provider_type.txt"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
+file = "Escapism-2.0.3/overrides/kubejs/exported/tags/int_provider_type.txt"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
+file = "Escapism-2.0.3/overrides/kubejs/exported/tags/items.txt"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
+file = "Escapism-2.0.3/overrides/kubejs/exported/tags/loot_condition_type.txt"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
+file = "Escapism-2.0.3/overrides/kubejs/exported/tags/loot_function_type.txt"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
+file = "Escapism-2.0.3/overrides/kubejs/exported/tags/loot_nbt_provider_type.txt"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
+file = "Escapism-2.0.3/overrides/kubejs/exported/tags/loot_number_provider_type.txt"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
+file = "Escapism-2.0.3/overrides/kubejs/exported/tags/loot_pool_entry_type.txt"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
+file = "Escapism-2.0.3/overrides/kubejs/exported/tags/loot_score_provider_type.txt"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
+file = "Escapism-2.0.3/overrides/kubejs/exported/tags/memory_module_type.txt"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
+file = "Escapism-2.0.3/overrides/kubejs/exported/tags/menu.txt"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
+file = "Escapism-2.0.3/overrides/kubejs/exported/tags/mob_effect.txt"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
+file = "Escapism-2.0.3/overrides/kubejs/exported/tags/motive.txt"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
+file = "Escapism-2.0.3/overrides/kubejs/exported/tags/particle_type.txt"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
+file = "Escapism-2.0.3/overrides/kubejs/exported/tags/point_of_interest_type.txt"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
+file = "Escapism-2.0.3/overrides/kubejs/exported/tags/pos_rule_test.txt"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
+file = "Escapism-2.0.3/overrides/kubejs/exported/tags/position_source_type.txt"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
+file = "Escapism-2.0.3/overrides/kubejs/exported/tags/potion.txt"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
+file = "Escapism-2.0.3/overrides/kubejs/exported/tags/recipe_serializer.txt"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
+file = "Escapism-2.0.3/overrides/kubejs/exported/tags/recipe_type.txt"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
+file = "Escapism-2.0.3/overrides/kubejs/exported/tags/repurposed_structures/json_conditions.txt"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
+file = "Escapism-2.0.3/overrides/kubejs/exported/tags/rule_test.txt"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
+file = "Escapism-2.0.3/overrides/kubejs/exported/tags/schedule.txt"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
+file = "Escapism-2.0.3/overrides/kubejs/exported/tags/sensor_type.txt"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
+file = "Escapism-2.0.3/overrides/kubejs/exported/tags/sound_event.txt"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
+file = "Escapism-2.0.3/overrides/kubejs/exported/tags/stat_type.txt"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
+file = "Escapism-2.0.3/overrides/kubejs/exported/tags/villager_profession.txt"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
+file = "Escapism-2.0.3/overrides/kubejs/exported/tags/villager_type.txt"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
+file = "Escapism-2.0.3/overrides/kubejs/exported/tags/worldgen/biome.txt"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
+file = "Escapism-2.0.3/overrides/kubejs/exported/tags/worldgen/biome_source.txt"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
+file = "Escapism-2.0.3/overrides/kubejs/exported/tags/worldgen/block_state_provider_type.txt"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
+file = "Escapism-2.0.3/overrides/kubejs/exported/tags/worldgen/carver.txt"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
+file = "Escapism-2.0.3/overrides/kubejs/exported/tags/worldgen/chunk_generator.txt"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
+file = "Escapism-2.0.3/overrides/kubejs/exported/tags/worldgen/configured_carver.txt"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
+file = "Escapism-2.0.3/overrides/kubejs/exported/tags/worldgen/configured_feature.txt"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
+file = "Escapism-2.0.3/overrides/kubejs/exported/tags/worldgen/configured_structure_feature.txt"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
+file = "Escapism-2.0.3/overrides/kubejs/exported/tags/worldgen/density_function.txt"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
+file = "Escapism-2.0.3/overrides/kubejs/exported/tags/worldgen/density_function_type.txt"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
+file = "Escapism-2.0.3/overrides/kubejs/exported/tags/worldgen/feature.txt"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
+file = "Escapism-2.0.3/overrides/kubejs/exported/tags/worldgen/feature_size_type.txt"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
+file = "Escapism-2.0.3/overrides/kubejs/exported/tags/worldgen/foliage_placer_type.txt"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
+file = "Escapism-2.0.3/overrides/kubejs/exported/tags/worldgen/material_condition.txt"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
+file = "Escapism-2.0.3/overrides/kubejs/exported/tags/worldgen/material_rule.txt"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
+file = "Escapism-2.0.3/overrides/kubejs/exported/tags/worldgen/noise.txt"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
+file = "Escapism-2.0.3/overrides/kubejs/exported/tags/worldgen/noise_settings.txt"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
+file = "Escapism-2.0.3/overrides/kubejs/exported/tags/worldgen/placed_feature.txt"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
+file = "Escapism-2.0.3/overrides/kubejs/exported/tags/worldgen/placement_modifier_type.txt"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
+file = "Escapism-2.0.3/overrides/kubejs/exported/tags/worldgen/processor_list.txt"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
+file = "Escapism-2.0.3/overrides/kubejs/exported/tags/worldgen/structure_feature.txt"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
+file = "Escapism-2.0.3/overrides/kubejs/exported/tags/worldgen/structure_piece.txt"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
+file = "Escapism-2.0.3/overrides/kubejs/exported/tags/worldgen/structure_placement.txt"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
+file = "Escapism-2.0.3/overrides/kubejs/exported/tags/worldgen/structure_pool_element.txt"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
+file = "Escapism-2.0.3/overrides/kubejs/exported/tags/worldgen/structure_processor.txt"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
+file = "Escapism-2.0.3/overrides/kubejs/exported/tags/worldgen/structure_set.txt"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
+file = "Escapism-2.0.3/overrides/kubejs/exported/tags/worldgen/template_pool.txt"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
+file = "Escapism-2.0.3/overrides/kubejs/exported/tags/worldgen/tree_decorator_type.txt"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
+file = "Escapism-2.0.3/overrides/kubejs/exported/tags/worldgen/trunk_placer_type.txt"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
+file = "Escapism-2.0.3/overrides/kubejs/server_scripts/script.js"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
+file = "Escapism-2.0.3/overrides/kubejs/startup_scripts/script.js"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
+file = "Escapism-2.0.3/overrides/pax"
+hash = "c79d493f42eae6a91f87432686881c4881cd6239caeed2ee5eb995a60308c328"
+
+[[files]]
+file = "config/InventoryHUD/curios.json"
+hash = "a50b2bb441550f38d3f9ae264825f9a2aea59ffd1d029b35781c96bcadc56d53"
 
 [[files]]
 file = "config/advancednetherite-common.toml"
-hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+hash = "aa6f188035d0b7e766c1e2805341f3b54029ec45870b89140a3e8c42c11d7717"
 
 [[files]]
 file = "config/akashictome-common.toml"
-hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+hash = "cfb22b1e19dd42e5688f0e6d8c466ceda5c12e953212d13009b990fa61c8ce2d"
 
 [[files]]
 file = "config/alexsmobs.toml"
-hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+hash = "e1ef21d14996665207735184b6d1b30f108fde7167f3a61d524dc263dd9fd660"
 
 [[files]]
 file = "config/ars_nouveau-common.toml"
@@ -22,11 +458,11 @@ hash = "dd2b0ac0ec897166e68f17b64d1f64991406606f2bbfd83a1d75d1ca660a280b"
 
 [[files]]
 file = "config/backpacked-client.toml"
-hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+hash = "ed92b63532b00e37645b45baf0d86edc7d67b6d24eea09f6a26f04b5bf7a3a55"
 
 [[files]]
 file = "config/backpacked-common.toml"
-hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+hash = "90e5b2b421cc5418c4bdd2dd262670f78b565f637770feb8cb8c9715b6c99029"
 
 [[files]]
 file = "config/byg/biomepedia.json5"
@@ -38,31 +474,11 @@ hash = "a5e9cbd9ce3331dfad0c79129d7a38fbc724806549da3087b866f784966f4c33"
 
 [[files]]
 file = "config/inventoryhud-client.toml"
-hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+hash = "f68c28c880b3d35a8db284d1088576ee5e0fbe330f07655cf272d1c26bc4e608"
 
 [[files]]
 file = "config/jei-client.toml"
-hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
-
-[[files]]
-file = "config/paxi/datapacks/tweaks/pack.mcmeta"
-hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
-
-[[files]]
-file = "config/paxi/datapacks/tweaks/tconstruct/worldgen/structure_set/end_sky_island.json"
-hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
-
-[[files]]
-file = "config/paxi/datapacks/tweaks/tconstruct/worldgen/structure_set/nether_ocean_island.json"
-hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
-
-[[files]]
-file = "config/paxi/datapacks/tweaks/tconstruct/worldgen/structure_set/overworld_ocean_island.json"
-hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
-
-[[files]]
-file = "config/paxi/datapacks/tweaks/tconstruct/worldgen/structure_set/overworld_sky_island.json"
-hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+hash = "15f80e938805aff4fdda5307cb3b1f93002acd1330cbf6e93fff52a30d37780e"
 
 [[files]]
 file = "config/paxi/resourcepacks/CopperColorFix-1.18.zip"
@@ -90,27 +506,19 @@ hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
 
 [[files]]
 file = "config/quark-common.toml"
-hash = "11e6c77ff9a6b52763d84491157fe1dabf8df8110ea99c614bd2af372f39d85f"
-
-[[files]]
-file = "config/sodium-options.json"
-hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+hash = "1b9575b757256c817482e3ceffc09d3f3ceb834775b45423a72e4941ee784776"
 
 [[files]]
 file = "config/starterkit/starterkit.txt"
 hash = "67b3b54505a6ad2e71361bdb4e77f9ab8d67c6c5f273a81c0d0e5613e2202f94"
 
 [[files]]
-file = "config/tconstruct-common.toml"
-hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
-
-[[files]]
 file = "config/veinmining-client.toml"
-hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+hash = "37bdd8c3d780fd8ec8e4214dc46d441ae35304b28dff3322be0ae248799ece0b"
 
 [[files]]
 file = "config/waystones-common.toml"
-hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+hash = "315f1bf43bfdf2d34e47e693612c9245544902c1f3f0999a64e8cb11a423f9dc"
 
 [[files]]
 file = "defaultconfigs/backpacked-server.toml"
@@ -118,7 +526,7 @@ hash = "62d6c81298f1b781bc5953f940519e5c4b6e7cdbb99e1e866daca351c0a68a3a"
 
 [[files]]
 file = "defaultconfigs/hourglass-server.toml"
-hash = "4ac7d476f221fdc518be90f01ebc9906bc2f2b3cab02dab6e6b814ac57547952"
+hash = "6dc074bf9694c2249e808e12741a84603cc3dcb8459442aed6fe78f63f4c223f"
 
 [[files]]
 file = "kubejs/README.txt"
@@ -514,7 +922,7 @@ metafile = true
 
 [[files]]
 file = "mods/ars-creo.pw.toml"
-hash = "0cd4386805e64bdb9fb4d662efe1fe794ffbe0d3a3aa283ebc3b0b8ccd49dd92"
+hash = "cf6ffc87b51f51c1bf503ab9b576f26990e5dbc6c880fbb90e31fab640ca419b"
 metafile = true
 
 [[files]]
@@ -594,7 +1002,7 @@ metafile = true
 
 [[files]]
 file = "mods/bookshelf.pw.toml"
-hash = "9ac16b020a87d062bbeefa2e42067e60d8c071c7337bf717438a859b58d96e8f"
+hash = "0abda537ab2c3fb198eaa7eec03bba8ff1d3124a92be7fa682e7eb8967789f02"
 metafile = true
 
 [[files]]
@@ -748,6 +1156,11 @@ hash = "69b1d8662dcd3faffef4d75fadb0b6057018e591538fc6e4bbad22ac42808ac0"
 metafile = true
 
 [[files]]
+file = "mods/curios-quark-oddities-backpack.pw.toml"
+hash = "22ea914ee20a515c3436178fd281dddd9bee0cbd15cfc07877267e653cab1b00"
+metafile = true
+
+[[files]]
 file = "mods/curios.pw.toml"
 hash = "db853a16a69cfc9a2971912f4c853ec0ade4f44808d4e12990d560346bb3168c"
 metafile = true
@@ -804,7 +1217,7 @@ metafile = true
 
 [[files]]
 file = "mods/every-compat.pw.toml"
-hash = "22067023d8161ef7a320f147b41fc990b74bfcec8cc457574554b583f9af3a80"
+hash = "8685b939d4a757a4aa120f40fbf347662c5d9b24eaf3a72639fec2301d3ff1d4"
 metafile = true
 
 [[files]]
@@ -859,7 +1272,7 @@ metafile = true
 
 [[files]]
 file = "mods/geckolib.pw.toml"
-hash = "60f50a9dad223d2823067b366e1c072e61342dc82734885da5572d0b5785f4a5"
+hash = "004fcc9dda4d35d8adf7bdb1a2663fc0d6c23c65f00117a230387ed46b6833cd"
 metafile = true
 
 [[files]]
@@ -889,7 +1302,7 @@ metafile = true
 
 [[files]]
 file = "mods/idas.pw.toml"
-hash = "1b76584d0a1f30ac8f7b3978ccdce979ce5bc19f72305314f3458a78c960520d"
+hash = "e110bf6e27ba70d38c051d912c64ce67b31f303b739ba89f92d98fd913d46b92"
 metafile = true
 
 [[files]]
@@ -1039,7 +1452,7 @@ metafile = true
 
 [[files]]
 file = "mods/mouse-tweaks.pw.toml"
-hash = "93091b397f6ac25759b98be7034767689407bb344c464a9359642122a8b683db"
+hash = "286d62b4f15a54acaedfd98c90293d8db5e0ae28c95f78726274c85386f2b7c1"
 metafile = true
 
 [[files]]
@@ -1154,7 +1567,7 @@ metafile = true
 
 [[files]]
 file = "mods/selene.pw.toml"
-hash = "5af09315d15dc1a0d05db020b1cc63437d7593a3e7f6dbd5186598cdf4eee53d"
+hash = "54d8061ea83f20b32123c54385b7d1a401d4e50a63b465a74ee60eecd5272b0b"
 metafile = true
 
 [[files]]
@@ -1281,10 +1694,6 @@ metafile = true
 file = "mods/yungs-extras.pw.toml"
 hash = "25ca73ede906cc0162479b6fefaafa3d4c79f97ccd3580cbb3df2755322c7099"
 metafile = true
-
-[[files]]
-file = "pax"
-hash = "c79d493f42eae6a91f87432686881c4881cd6239caeed2ee5eb995a60308c328"
 
 [[files]]
 file = "resourcepacks/detail-brush.pw.toml"
