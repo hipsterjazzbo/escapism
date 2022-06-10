@@ -1,13 +1,13 @@
 name = "Ars Arsenal"
-filename = "arsarsenal-1.1-1.18.2.jar"
+filename = "arsarsenal-1.1.1-1.18.2.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "cb9249cd8177356e254e4f0953c5db3140757df1"
+hash = "147d6028005347531d795308cda3e649a43348e3"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 3769207
+file-id = 3824466
 project-id = 561848
