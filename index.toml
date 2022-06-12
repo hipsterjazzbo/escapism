@@ -50,27 +50,27 @@ hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
 
 [[files]]
 file = "config/paxi/resourcepacks/Cornier_Corn.zip"
-hash = "eefdf7dedb58acbd2aac60c9b55c4bbc86b610bf0db8c060fa91461f9ffb103c"
+hash = "1a42904f9e31373c4a9bfe26ee1d884d48affa133653fe289ed37c34085034a5"
 
 [[files]]
 file = "config/paxi/resourcepacks/Create+Style+Modded+Compats+v13.zip"
-hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+hash = "a81d2e175acf257b4b0804e4e1936936057d99ebb2c16a8d1c7bcec719fbf920"
 
 [[files]]
 file = "config/paxi/resourcepacks/Created+Storage+Network+1.2.zip"
-hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+hash = "75a99d7597716d8dfe26edb526bfeaeb8cad0ee8a6ebdb8a42bf6ccb147a2929"
 
 [[files]]
 file = "config/paxi/resourcepacks/Detail-Brush-1.4-1.18.zip"
-hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+hash = "5c6bde86aed8cc442523c20d95495d2711e32034725d4bcdc861ac337ad83950"
 
 [[files]]
 file = "config/paxi/resourcepacks/Tool+Belt+Retextured+1.18.x.zip"
-hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+hash = "563d08afea2523e0177edc7efeb26a4e15d9ea0b1f548463a9f1c31ce3b63fb7"
 
 [[files]]
 file = "config/paxi/resourcepacks/chipped_create_compat_1_18.zip"
-hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+hash = "a87c6ed57bdd3eafe3b33959e0b16a445b021868f86c2ea7ec28881ce3c91e38"
 
 [[files]]
 file = "config/quark-common.toml"
@@ -846,21 +846,6 @@ metafile = true
 [[files]]
 file = "mods/ftb-backups-2.pw.toml"
 hash = "1fb7ea466c8ebbe57615f5ea6fe2ce849721bd416359b19d14dee2018dc88a07"
-metafile = true
-
-[[files]]
-file = "mods/ftb-chunks-forge.pw.toml"
-hash = "3a9cb8eb948dcdf388afde4afe2c219b450151288c5c06acdc7ce053afdf2105"
-metafile = true
-
-[[files]]
-file = "mods/ftb-library-forge.pw.toml"
-hash = "5c3dc82db539bbf975cf94c3e8f39ebeec1be6417059edab00e377c29a904318"
-metafile = true
-
-[[files]]
-file = "mods/ftb-teams-forge.pw.toml"
-hash = "7e52a7a68d42f9dfb6c684a627dfd9d729c4761d81782c15f0f1ee4cdbaeaaa7"
 metafile = true
 
 [[files]]
