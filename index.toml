@@ -844,6 +844,21 @@ hash = "9d50b5508e733a06537cae560b63dff228757b89949daa00ef97485325e81b25"
 metafile = true
 
 [[files]]
+file = "mods/ftb-chunks-forge.pw.toml"
+hash = "3a9cb8eb948dcdf388afde4afe2c219b450151288c5c06acdc7ce053afdf2105"
+metafile = true
+
+[[files]]
+file = "mods/ftb-library-forge.pw.toml"
+hash = "5c3dc82db539bbf975cf94c3e8f39ebeec1be6417059edab00e377c29a904318"
+metafile = true
+
+[[files]]
+file = "mods/ftb-teams-forge.pw.toml"
+hash = "7e52a7a68d42f9dfb6c684a627dfd9d729c4761d81782c15f0f1ee4cdbaeaaa7"
+metafile = true
+
+[[files]]
 file = "mods/geckolib.pw.toml"
 hash = "335d51f82803c67fa8a88d6dd3aa403ea2ffdb4bc73b27ba27c928734f51f96d"
 metafile = true
