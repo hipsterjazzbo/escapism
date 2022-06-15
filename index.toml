@@ -575,7 +575,7 @@ metafile = true
 
 [[files]]
 file = "mods/bookshelf.pw.toml"
-hash = "be269c2560beefeaee25b9ac797cf58142baa56295f5635ba17642f4c12da701"
+hash = "ad3789d2715553129d7b06f31429181564ce1cc0e2c6013387f44ee7f8eb2d18"
 metafile = true
 
 [[files]]
@@ -764,11 +764,6 @@ hash = "4b9c5e688a6c0f570e7e3e19ff113ef375a677374a4c6b32b71663ef79556553"
 metafile = true
 
 [[files]]
-file = "mods/easy-magic.pw.toml"
-hash = "c3942ab7bcd5174712fe9f355285f7a351d4e50434acb753a14f588d50a51bde"
-metafile = true
-
-[[files]]
 file = "mods/easy-shulker-boxes-forge.pw.toml"
 hash = "6d6192f90e56de45fb1b9a71ad8e3d78c87170f9b4ac77c9e931d2a29ce7bed7"
 metafile = true
@@ -776,6 +771,11 @@ metafile = true
 [[files]]
 file = "mods/effective-forge.pw.toml"
 hash = "62a4bae1c7ef7c6be1a29ee478497fc036d2806da34b71c2a78e9063b06f42b7"
+metafile = true
+
+[[files]]
+file = "mods/enchanting-overhauled.pw.toml"
+hash = "77409cd7607475ab6326d908ec129dd29cca1fdc62ff83d1473035297db4785d"
 metafile = true
 
 [[files]]
@@ -790,7 +790,7 @@ metafile = true
 
 [[files]]
 file = "mods/every-compat.pw.toml"
-hash = "6cc17c7034e39677252a212c4f279fb8d6df769d3d0192b5373b76e9b440c5c8"
+hash = "bfd055bfff21fe03e0becf0f126249b41e4f17fd50953b79dcfdc809cf59aa61"
 metafile = true
 
 [[files]]
@@ -845,7 +845,7 @@ metafile = true
 
 [[files]]
 file = "mods/ftb-backups-2.pw.toml"
-hash = "1fb7ea466c8ebbe57615f5ea6fe2ce849721bd416359b19d14dee2018dc88a07"
+hash = "6f2867d9bae0ad1b6d65c8ebbbf1101b0a458d7d5ea31edc9c8119f3d04da079"
 metafile = true
 
 [[files]]
@@ -920,7 +920,7 @@ metafile = true
 
 [[files]]
 file = "mods/just-enough-resources-jer.pw.toml"
-hash = "39982366b604511392acbac11b875b0c247e8fc60257fc4aa2a07434a7520e0f"
+hash = "2f86406baf5c931fbb9b37c0ed93c8d041fe32eb6c9b20b915a351e0a1bfb0fc"
 metafile = true
 
 [[files]]
@@ -1025,7 +1025,7 @@ metafile = true
 
 [[files]]
 file = "mods/more-villagers.pw.toml"
-hash = "4f96fc428d285b35b4785217ba296ad9b3a9f0793fbd5ab8d24207ae12fdebb6"
+hash = "660a184273562f103da63f11b386f22f84436cbf8939d411aa93409e0bd88b4c"
 metafile = true
 
 [[files]]
@@ -1075,7 +1075,7 @@ metafile = true
 
 [[files]]
 file = "mods/patchouli.pw.toml"
-hash = "5ccff87787d6ed5673effe9b8d1cb25c2089d6455231724000f5901a8cacb69e"
+hash = "af80e9023850c864e6b7136396c69694b771596e86279619e981fa48465f24b4"
 metafile = true
 
 [[files]]
@@ -1200,7 +1200,7 @@ metafile = true
 
 [[files]]
 file = "mods/supplementaries.pw.toml"
-hash = "02720805a2e3cd946493c1c669fae22f6ec7fed5abe258f69b98e91659cd3e63"
+hash = "a1d0d9eb65ca99c298bb55306b0d18d301ccc22d262494e6d50db7e7882e937e"
 metafile = true
 
 [[files]]

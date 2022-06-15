@@ -1,0 +1,13 @@
+name = "Enchanting Overhauled"
+filename = "enchanting_overhauled-1.0.10.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "7ac739d1cde85370ccdbd6102cd2d67c59af24bd"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3820243
+project-id = 565463
