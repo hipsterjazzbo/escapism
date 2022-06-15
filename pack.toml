@@ -1,6 +1,6 @@
 name = "Escapism"
 author = "hipsterjazzbo"
-version = "2.0.5"
+version = "2.0.8"
 pack-format = "packwiz:1.1.0"
 
 [index]
