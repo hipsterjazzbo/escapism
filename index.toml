@@ -485,7 +485,7 @@ metafile = true
 
 [[files]]
 file = "mods/architectury-api.pw.toml"
-hash = "322edae5b93ee024db564525ab0cd7775cc8644933bff413ef240d34f6b08e3e"
+hash = "cd2d6ee57cfb73ed272b1a74a9073aad47d9670c4b7e4d9ac91419b4b458d8e7"
 metafile = true
 
 [[files]]
@@ -505,7 +505,7 @@ metafile = true
 
 [[files]]
 file = "mods/ars-nouveau.pw.toml"
-hash = "148b3e16b8ae6e2a0bbee04f9b090cdb89a6cda6218a5e64affb68fe730615ee"
+hash = "d9dc76ffe25b4f4f9c9d6c896181a3952a9f432d883098ab30537ad01b3410aa"
 metafile = true
 
 [[files]]
@@ -520,7 +520,7 @@ metafile = true
 
 [[files]]
 file = "mods/backpacked.pw.toml"
-hash = "6c20c29130d5c9027bbfefb9b3172636b01cfc0cd6f313e64f695b686a9a9cda"
+hash = "2dfe8765ca3fcad34ecf5c2978f97be68e322f8407cadbce30511cdc1926f431"
 metafile = true
 
 [[files]]
@@ -635,7 +635,7 @@ metafile = true
 
 [[files]]
 file = "mods/clumps.pw.toml"
-hash = "2402258fcde13c9ea736c153a6badf8e30a27be8019119bf467b7769ad3bc854"
+hash = "8b03d01d2176c4963917e01cbe71e3e68796237d8763ba3fbf12c1a73319ebe8"
 metafile = true
 
 [[files]]
@@ -720,7 +720,7 @@ metafile = true
 
 [[files]]
 file = "mods/creativecore.pw.toml"
-hash = "6ffdbad26b2920f20e934f60644ae168d3b04ece006fac4dde65c602409857d8"
+hash = "2d9ed6c8325ff9fbcec783c2f94eb22939fc36c1c4b4b11626ab29be3e1276d1"
 metafile = true
 
 [[files]]
@@ -730,7 +730,7 @@ metafile = true
 
 [[files]]
 file = "mods/curios-quark-oddities-backpack.pw.toml"
-hash = "279f3b67e9997405f52f1b24d4e7c0892aa3c66c61fca2a5495cc6f0cbe47390"
+hash = "eb18be8ea2b6816d5780b3b1443e1d807c5e2477d8d31444e96c3b8e066586c2"
 metafile = true
 
 [[files]]
@@ -769,11 +769,6 @@ hash = "6d6192f90e56de45fb1b9a71ad8e3d78c87170f9b4ac77c9e931d2a29ce7bed7"
 metafile = true
 
 [[files]]
-file = "mods/effective-forge.pw.toml"
-hash = "62a4bae1c7ef7c6be1a29ee478497fc036d2806da34b71c2a78e9063b06f42b7"
-metafile = true
-
-[[files]]
 file = "mods/enchanting-overhauled.pw.toml"
 hash = "77409cd7607475ab6326d908ec129dd29cca1fdc62ff83d1473035297db4785d"
 metafile = true
@@ -805,7 +800,7 @@ metafile = true
 
 [[files]]
 file = "mods/farmers-delight.pw.toml"
-hash = "a5dee5e3f7bf4f89f4d752a58a12a942aea3a89f3bc1a6cee7473389ed810c33"
+hash = "3226b84f654ab5db4e3b261d511c40719bf23481ddff853bfb6e33af11a5ab51"
 metafile = true
 
 [[files]]
@@ -880,17 +875,12 @@ metafile = true
 
 [[files]]
 file = "mods/idas.pw.toml"
-hash = "ea1dd5aede69e8638687c93a5fcab5bbdf73dcc5fa86cf95c11737f9e5f4829e"
+hash = "4babef3f95ff027f0604cb20862e956695d98454b88af000b43550fac7a57c1e"
 metafile = true
 
 [[files]]
 file = "mods/immersive-weathering-forge.pw.toml"
 hash = "083d76e454b804a014d85839ba2a014039ad8d442fafafc238f73795abf83fbd"
-metafile = true
-
-[[files]]
-file = "mods/inventory-hud-forge.pw.toml"
-hash = "69c04653d19afceef044ee04745197ff519b7ad3d4af04d4bbaa85097ad6ccb9"
 metafile = true
 
 [[files]]
@@ -905,7 +895,7 @@ metafile = true
 
 [[files]]
 file = "mods/jei.pw.toml"
-hash = "75976d5b9171e45912039c6b82ef4046335ccaf0e91be41a3551bf5dd4794199"
+hash = "50520a17fd8f43e1b6eb91664b8d0af59498cd2d0837db84d2ef4728e5ebe9d8"
 metafile = true
 
 [[files]]
@@ -940,7 +930,7 @@ metafile = true
 
 [[files]]
 file = "mods/lexicon.pw.toml"
-hash = "9f0616d8413fb3d720559fadae078744cd9eca5d6777af706ff38562d7583853"
+hash = "56781890396959039a1897ae801ff6e8303c7fb45fc19a346279f748253aa223"
 metafile = true
 
 [[files]]
@@ -1025,7 +1015,7 @@ metafile = true
 
 [[files]]
 file = "mods/more-villagers.pw.toml"
-hash = "660a184273562f103da63f11b386f22f84436cbf8939d411aa93409e0bd88b4c"
+hash = "2bbbc1dd9d7ec4cf8b43c7ddffd2e23bb60ce164bd47ed3f440d2997fae1945b"
 metafile = true
 
 [[files]]
@@ -1135,7 +1125,7 @@ metafile = true
 
 [[files]]
 file = "mods/rhino.pw.toml"
-hash = "3703c014ec6754bedf94d694b336603589ca876fbf59cd78f3e9be414ba01059"
+hash = "e38378bd55252463198adde29a011ee1f8dcdcaa264c7e6513d1e6a402debc58"
 metafile = true
 
 [[files]]
@@ -1256,6 +1246,11 @@ metafile = true
 [[files]]
 file = "mods/world-pre-generator.pw.toml"
 hash = "e966f98f9b6aa419c2fa8d8624e320bc45b25351f4c55d324bc57babcdab6ba5"
+metafile = true
+
+[[files]]
+file = "mods/xaeros-world-map.pw.toml"
+hash = "190fecdf68f0b26083782f2175a71133e01659a1268390f72749d9d28953569b"
 metafile = true
 
 [[files]]
